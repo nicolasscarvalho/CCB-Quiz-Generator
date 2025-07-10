@@ -1,0 +1,321 @@
+import streamlit as st
+import os
+import random
+import json
+from docx import Document
+from docx.shared import Pt
+import io
+import time
+import re
+
+# --- Configuração da Página ---
+st.set_page_config(
+    page_title="Gerador de Provas de Inglês",
+    page_icon="📄",
+    layout="wide"
+)
+
+# --- Constantes e Funções de Lógica ---
+BOOKS_DIR = "BOOKS"
+SECTIONS = ["GRAMMAR", "VOCABULARY", "PRONUNCIATION"]
+DEFAULT_QUESTIONS = {"grammar": 3, "vocabulary": 3, "pronunciation": 2}
+
+
+def setup_test_environment():
+    """
+    Cria uma estrutura de diretórios e arquivos de teste com o formato JSON.
+    """
+    if not os.path.exists(BOOKS_DIR):
+        st.info("Criando ambiente de teste com arquivos .json... Por favor, recarregue a página em alguns segundos.")
+        
+        sample_question_data = {
+            "questions": [
+                {
+                    "type": "order_the_words",
+                    "instructions": "Order the words to make questions.",
+                    "example": "Example: work / do / you / where\nWhere do you work?",
+                    "qa_pairs": [{"item": "1 do / what / you / do", "answer": "What do you do?"}]
+                }
+            ]
+        }
+
+        structure = {
+            "Elementary": {"GRAMMAR": ["1A", "1B", "2A", "3A"], "VOCABULARY": ["1A", "2B", "3A"]},
+        }
+
+        for book, sections in structure.items():
+            for section, units in sections.items():
+                for unit in units:
+                    folder_name = f"{book}_{section}_Unit_{unit}"
+                    path = os.path.join(BOOKS_DIR, book, section, folder_name)
+                    os.makedirs(path, exist_ok=True)
+                    
+                    for i in range(1, 3):
+                        file_name = f"{folder_name}_Questão_{i}.json"
+                        file_path = os.path.join(path, file_name)
+                        with open(file_path, 'w', encoding='utf-8') as f:
+                            json.dump(sample_question_data, f, indent=2, ensure_ascii=False)
+        st.rerun()
+
+@st.cache_data
+def get_available_books(directory: str) -> list:
+    if not os.path.exists(directory): return []
+    return [d for d in os.listdir(directory) if os.path.isdir(os.path.join(directory, d))]
+
+@st.cache_data
+def parse_available_units(book_name: str) -> dict:
+    """
+    Analisa as pastas de unidades e as separa em partes numéricas e alfabéticas.
+    """
+    if not book_name: return {}
+    
+    parsed_units = {}
+    book_path = os.path.join(BOOKS_DIR, book_name)
+    
+    for section in SECTIONS:
+        section_path = os.path.join(book_path, section)
+        if os.path.exists(section_path):
+            for folder in os.listdir(section_path):
+                try:
+                    unit_part_str = folder.split("_Unit_")[-1]
+                    match = re.match(r"(\d+)([A-Za-z]*)", unit_part_str)
+                    if match:
+                        num_part, alpha_part = match.groups()
+                        if num_part not in parsed_units:
+                            parsed_units[num_part] = set()
+                        if alpha_part:
+                            parsed_units[num_part].add(alpha_part.upper())
+                except Exception:
+                    continue
+                    
+    for num_part in parsed_units:
+        parsed_units[num_part] = sorted(list(parsed_units[num_part]))
+
+    return parsed_units
+
+
+def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.BytesIO:
+    """
+    Gera um documento .docx com questões numeradas e um gabarito no final.
+    """
+    final_doc = Document()
+    style = final_doc.styles['Normal']
+    font = style.font
+    font.name = 'Calibri'
+    font.size = Pt(11)
+
+    units_str = ", ".join(units)
+    final_doc.add_heading(f"Prova de Inglês - Livro: {book} | Unidades: {units_str}", level=0)
+    final_doc.add_paragraph(f"Nome: __________________________________________________ Data: ___/___/______")
+    final_doc.add_paragraph()
+
+    final_question_list = []
+    for section, num_requested in questions_config.items():
+        if num_requested <= 0:
+            continue
+
+        pool_for_this_section = []
+        for unit in units:
+            section_path = os.path.join(BOOKS_DIR, book, section.upper())
+            if not os.path.exists(section_path):
+                continue
+
+            target_folder_name = None
+            for folder in os.listdir(section_path):
+                if folder.endswith(f"_Unit_{unit}"):
+                    target_folder_name = folder
+                    break
+            
+            if target_folder_name:
+                unit_path = os.path.join(section_path, target_folder_name)
+                for filename in [f for f in os.listdir(unit_path) if f.endswith('.json')]:
+                    file_path = os.path.join(unit_path, filename)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            for q in data.get("questions", []):
+                                q['section'] = section
+                                pool_for_this_section.append(q)
+                    except Exception as e:
+                        st.warning(f"Não foi possível ler o arquivo JSON {filename}: {e}")
+
+        num_to_pick = min(num_requested, len(pool_for_this_section))
+        if num_to_pick > 0:
+            chosen_questions = random.sample(pool_for_this_section, num_to_pick)
+            final_question_list.extend(chosen_questions)
+
+    if not final_question_list:
+        final_doc.add_paragraph("Nenhuma questão foi encontrada com os critérios selecionados.")
+    else:
+        question_counter = 1
+        answer_key = []
+        current_section = None
+
+        for q_data in final_question_list:
+            if q_data['section'] != current_section:
+                current_section = q_data['section']
+                final_doc.add_heading(f"Seção: {current_section.capitalize()}", level=1)
+            
+            p_question_num = final_doc.add_paragraph()
+            p_question_num.add_run(f"{question_counter}. ").bold = True
+            p_question_num.add_run(q_data.get("instructions", "")).bold = True
+            
+            if q_data.get("example"):
+                final_doc.add_paragraph(q_data.get("example", ""))
+            
+            final_doc.add_paragraph()
+
+            answers_for_this_question = []
+            for pair in q_data.get("qa_pairs", []):
+                final_doc.add_paragraph(pair.get("item", ""))
+                if q_data.get("type") == "order_the_words":
+                    final_doc.add_paragraph("____________________________________")
+                answers_for_this_question.append(pair.get("answer", ""))
+            
+            answer_key.append({"number": question_counter, "answers": answers_for_this_question})
+            question_counter += 1
+            final_doc.add_paragraph()
+
+        final_doc.add_page_break()
+        final_doc.add_heading("Gabarito de Respostas (Para o Professor)", level=1)
+        
+        for item in answer_key:
+            p_answer_header = final_doc.add_paragraph()
+            p_answer_header.add_run(f"Questão {item['number']}:").bold = True
+            for i, answer in enumerate(item['answers']):
+                final_doc.add_paragraph(f"{i+1}. {answer}", style='List Bullet')
+            final_doc.add_paragraph()
+
+    doc_io = io.BytesIO()
+    final_doc.save(doc_io)
+    doc_io.seek(0)
+    return doc_io
+
+# --- Interface do Streamlit ---
+st.title("Gerador de Provas de Inglês")
+st.markdown("Preciso, rápido e simples. Assim como seu estudo da língua inglesa deve ser.")
+
+if not os.path.exists(BOOKS_DIR):
+    st.warning(f"O diretório `{BOOKS_DIR}` não foi encontrado.")
+    if st.button("Clique aqui para criar uma estrutura de pastas e arquivos .json de exemplo"):
+        setup_test_environment()
+
+with st.sidebar:
+    st.header("📖 Configurações da Prova")
+    books = get_available_books(BOOKS_DIR)
+    if not books:
+        st.error(f"Nenhum livro encontrado no diretório '{BOOKS_DIR}'.")
+        st.stop()
+    selected_book = st.selectbox("Escolha o Livro", options=books, index=0)
+
+    parsed_units = parse_available_units(selected_book)
+    if not parsed_units:
+        st.error(f"Nenhuma unidade encontrada para o livro '{selected_book}'. Verifique a estrutura de pastas.")
+        st.stop()
+
+    numeric_options = sorted(parsed_units.keys(), key=int)
+    selected_numerics = st.multiselect(
+        "Unidade(s) Numérica(s)",
+        options=numeric_options,
+        default=[numeric_options[0]] if numeric_options else [],
+        help="Selecione os números das unidades desejadas."
+    )
+
+    alpha_options = set()
+    if selected_numerics:
+        for num in selected_numerics:
+            alpha_options.update(parsed_units.get(num, []))
+    
+    sorted_alpha_options = sorted(list(alpha_options))
+    
+    selected_alphas = st.multiselect(
+        "Sub-unidade(s) (A, B ou C)",
+        options=sorted_alpha_options,
+        default=sorted_alpha_options,
+        help="Selecione as partes alfabéticas das unidades."
+    )
+    
+    final_selected_units = []
+    if selected_numerics and selected_alphas:
+        for num in selected_numerics:
+            for alpha in selected_alphas:
+                if alpha in parsed_units.get(num, []):
+                    final_selected_units.append(f"{num}{alpha}")
+
+    st.markdown("---")
+    st.subheader("⚙️ Configurações avançadas")
+    
+    questions_config = {
+        "grammar": st.number_input("Grammar", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["grammar"], step=1),
+        "vocabulary": st.number_input("Vocabulary", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["vocabulary"], step=1),
+        "pronunciation": st.number_input("Pronunciation", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["pronunciation"], step=1)
+    }
+    total_questions = sum(questions_config.values())
+    st.info(f"**Total de questões na prova: {total_questions}**")
+
+if not final_selected_units:
+    st.warning("Por favor, selecione uma combinação válida de unidade numérica e sub-unidade para continuar.")
+    st.stop()
+
+# --- MUDANÇA: Seção de Resumo com estilo de código ---
+st.title("Resumo da sua configuração")
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.markdown("**📖 Livro**")
+    st.markdown(f"`{selected_book}`")
+
+with col2:
+    units_display = ", ".join(final_selected_units)
+    st.markdown("**📚 Unidades Selecionadas**")
+    st.markdown(f"`{units_display}`")
+
+with col3:
+    st.markdown("**⚙️ Questões por Seção**")
+    questions_summary = f"G: {questions_config['grammar']} | V: {questions_config['vocabulary']} | P: {questions_config['pronunciation']}"
+    st.markdown(f"`{questions_summary}`")
+
+
+st.markdown("---") # Linha divisória
+
+is_default_config = (
+    questions_config["grammar"] == DEFAULT_QUESTIONS["grammar"] and
+    questions_config["vocabulary"] == DEFAULT_QUESTIONS["vocabulary"] and
+    questions_config["pronunciation"] == DEFAULT_QUESTIONS["pronunciation"]
+)
+
+if is_default_config:
+    button_text = "🚀 Gerar prova padrão"
+else:
+    button_text = "🚀 Gerar prova customizada"
+
+if 'exam_data' not in st.session_state:
+    st.session_state.exam_data = None
+
+if st.button(button_text, type="primary", use_container_width=True, disabled=(total_questions == 0)):
+    if total_questions > 0:
+        with st.spinner("Lendo arquivos JSON e montando sua prova..."):
+            try:
+                exam_bytes = generate_exam_docx(selected_book, final_selected_units, questions_config)
+                st.session_state.exam_data = exam_bytes
+                units_filename = "_".join(final_selected_units)
+                st.session_state.exam_filename = f"Prova_{selected_book}_Unidades_{units_filename}.docx"
+                time.sleep(1)
+                st.success("Prova gerada com sucesso! Clique no botão para baixar.")
+            except Exception as e:
+                st.error(f"Ocorreu um erro ao gerar a prova: {e}")
+                st.session_state.exam_data = None
+    else:
+        st.warning("Por favor, selecione pelo menos uma questão para gerar a prova.")
+
+if st.session_state.get('exam_data'):
+    st.download_button(
+        label="📥 Baixar Prova (.docx)",
+        data=st.session_state.exam_data,
+        file_name=st.session_state.get('exam_filename', 'prova.docx'),
+        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        use_container_width=True
+    )
+
+st.markdown("---")
+st.markdown("Desenvolvido com ❤️ por alunos da CCB")
