@@ -8,14 +8,14 @@ import io
 import time
 import re
 
-# --- Configuração da Página ---
+# --- Page Setup ---
 st.set_page_config(
-    page_title="Gerador de Provas de Inglês",
+    page_title="English Test Generator",
     page_icon="📄",
     layout="wide"
 )
 
-# --- Constantes e Funções de Lógica ---
+# --- Logic Constants and Functions ---
 BOOKS_DIR = "BOOKS"
 SECTIONS = ["GRAMMAR", "VOCABULARY", "PRONUNCIATION"]
 DEFAULT_QUESTIONS = {"grammar": 3, "vocabulary": 3, "pronunciation": 2}
@@ -23,10 +23,10 @@ DEFAULT_QUESTIONS = {"grammar": 3, "vocabulary": 3, "pronunciation": 2}
 
 def setup_test_environment():
     """
-    Cria uma estrutura de diretórios e arquivos de teste com o formato JSON.
+    Creates a test directory and file structure in JSON format.
     """
     if not os.path.exists(BOOKS_DIR):
-        st.info("Criando ambiente de teste com arquivos .json... Por favor, recarregue a página em alguns segundos.")
+        st.info("Creating test environment with .json files... Please reload the page in a few seconds.")
         
         sample_question_data = {
             "questions": [
@@ -65,7 +65,7 @@ def get_available_books(directory: str) -> list:
 @st.cache_data
 def parse_available_units(book_name: str) -> dict:
     """
-    Analisa as pastas de unidades e as separa em partes numéricas e alfabéticas.
+    Analyzes unit folders and separates them into numeric and alphabetical parts.
     """
     if not book_name: return {}
     
@@ -96,7 +96,7 @@ def parse_available_units(book_name: str) -> dict:
 
 def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.BytesIO:
     """
-    Gera um documento .docx com questões numeradas e um gabarito no final.
+    Generates a .docx document with numbered questions and an answer key at the end.
     """
     final_doc = Document()
     style = final_doc.styles['Normal']
@@ -105,8 +105,8 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
     font.size = Pt(11)
 
     units_str = ", ".join(units)
-    final_doc.add_heading(f"Prova de Inglês - Livro: {book} | Unidades: {units_str}", level=0)
-    final_doc.add_paragraph(f"Nome: __________________________________________________ Data: ___/___/______")
+    final_doc.add_heading(f"English test - Book: {book} | Unit(s): {units_str}", level=0)
+    final_doc.add_paragraph(f"Name: __________________________________________________ Date: ___/___/______")
     final_doc.add_paragraph()
 
     final_question_list = []
@@ -137,7 +137,7 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
                                 q['section'] = section
                                 pool_for_this_section.append(q)
                     except Exception as e:
-                        st.warning(f"Não foi possível ler o arquivo JSON {filename}: {e}")
+                        st.warning(f"Unable to read JSON file {filename}: {e}")
 
         num_to_pick = min(num_requested, len(pool_for_this_section))
         if num_to_pick > 0:
@@ -145,7 +145,7 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
             final_question_list.extend(chosen_questions)
 
     if not final_question_list:
-        final_doc.add_paragraph("Nenhuma questão foi encontrada com os critérios selecionados.")
+        final_doc.add_paragraph("No questions were found with the selected filter.")
     else:
         question_counter = 1
         answer_key = []
@@ -154,7 +154,7 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
         for q_data in final_question_list:
             if q_data['section'] != current_section:
                 current_section = q_data['section']
-                final_doc.add_heading(f"Seção: {current_section.capitalize()}", level=1)
+                final_doc.add_heading(f"Section: {current_section.capitalize()}", level=1)
             
             p_question_num = final_doc.add_paragraph()
             p_question_num.add_run(f"{question_counter}. ").bold = True
@@ -177,11 +177,11 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
             final_doc.add_paragraph()
 
         final_doc.add_page_break()
-        final_doc.add_heading("Gabarito de Respostas (Para o Professor)", level=1)
+        final_doc.add_heading("Answer Key", level=1)
         
         for item in answer_key:
             p_answer_header = final_doc.add_paragraph()
-            p_answer_header.add_run(f"Questão {item['number']}:").bold = True
+            p_answer_header.add_run(f"Question {item['number']}:").bold = True
             for i, answer in enumerate(item['answers']):
                 final_doc.add_paragraph(f"{i+1}. {answer}", style='List Bullet')
             final_doc.add_paragraph()
@@ -191,34 +191,34 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
     doc_io.seek(0)
     return doc_io
 
-# --- Interface do Streamlit ---
-st.title("Gerador de Provas de Inglês")
-st.markdown("Preciso, rápido e simples. Assim como seu estudo da língua inglesa deve ser.")
+# --- Streamlit interface ---
+st.title("English Test Generator")
+st.markdown("Accurate, fast, and simple. Just how your English language learning should be.")
 
 if not os.path.exists(BOOKS_DIR):
-    st.warning(f"O diretório `{BOOKS_DIR}` não foi encontrado.")
-    if st.button("Clique aqui para criar uma estrutura de pastas e arquivos .json de exemplo"):
+    st.warning(f"The `{BOOKS_DIR}` directory was not found.")
+    if st.button("Click here to create a sample folder structure and .json files"):
         setup_test_environment()
 
 with st.sidebar:
-    st.header("📖 Configurações da Prova")
+    st.header("📖 Test configuration")
     books = get_available_books(BOOKS_DIR)
     if not books:
-        st.error(f"Nenhum livro encontrado no diretório '{BOOKS_DIR}'.")
+        st.error(f"No books found in '{BOOKS_DIR}' directory.")
         st.stop()
-    selected_book = st.selectbox("Escolha o Livro", options=books, index=0)
+    selected_book = st.selectbox("Choose the book", options=books, index=0)
 
     parsed_units = parse_available_units(selected_book)
     if not parsed_units:
-        st.error(f"Nenhuma unidade encontrada para o livro '{selected_book}'. Verifique a estrutura de pastas.")
+        st.error(f"No drives found for book '{selected_book}'. Check the folder structure.")
         st.stop()
 
     numeric_options = sorted(parsed_units.keys(), key=int)
     selected_numerics = st.multiselect(
-        "Unidade(s) Numérica(s)",
+        "Numerical Unit(s)",
         options=numeric_options,
         default=[numeric_options[0]] if numeric_options else [],
-        help="Selecione os números das unidades desejadas."
+        help="Select the desired unit numbers."
     )
 
     alpha_options = set()
@@ -229,10 +229,10 @@ with st.sidebar:
     sorted_alpha_options = sorted(list(alpha_options))
     
     selected_alphas = st.multiselect(
-        "Sub-unidade(s) (A, B ou C)",
+        "Sub-unit(s) (A, B or C)",
         options=sorted_alpha_options,
         default=sorted_alpha_options,
-        help="Selecione as partes alfabéticas das unidades."
+        help="Select the alphabetical parts of the units."
     )
     
     final_selected_units = []
@@ -243,7 +243,7 @@ with st.sidebar:
                     final_selected_units.append(f"{num}{alpha}")
 
     st.markdown("---")
-    st.subheader("⚙️ Configurações avançadas")
+    st.subheader("⚙️ Advanced settings")
     
     questions_config = {
         "grammar": st.number_input("Grammar", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["grammar"], step=1),
@@ -251,32 +251,31 @@ with st.sidebar:
         "pronunciation": st.number_input("Pronunciation", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["pronunciation"], step=1)
     }
     total_questions = sum(questions_config.values())
-    st.info(f"**Total de questões na prova: {total_questions}**")
+    st.info(f"**Total number of questions in the test: {total_questions}**")
 
 if not final_selected_units:
-    st.warning("Por favor, selecione uma combinação válida de unidade numérica e sub-unidade para continuar.")
+    st.warning("Please select a valid combination of numeric unit and sub-unit to continue.")
     st.stop()
 
-# --- MUDANÇA: Seção de Resumo com estilo de código ---
-st.title("Resumo da sua configuração")
+st.title("Summary of your configuration")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.markdown("**📖 Livro**")
+    st.markdown("**📖 Book**")
     st.markdown(f"`{selected_book}`")
 
 with col2:
     units_display = ", ".join(final_selected_units)
-    st.markdown("**📚 Unidades Selecionadas**")
+    st.markdown("**📚 Selected Units**")
     st.markdown(f"`{units_display}`")
 
 with col3:
-    st.markdown("**⚙️ Questões por Seção**")
+    st.markdown("**⚙️ Questions by Section**")
     questions_summary = f"G: {questions_config['grammar']} | V: {questions_config['vocabulary']} | P: {questions_config['pronunciation']}"
     st.markdown(f"`{questions_summary}`")
 
 
-st.markdown("---") # Linha divisória
+st.markdown("---")
 
 is_default_config = (
     questions_config["grammar"] == DEFAULT_QUESTIONS["grammar"] and
@@ -285,32 +284,32 @@ is_default_config = (
 )
 
 if is_default_config:
-    button_text = "🚀 Gerar prova padrão"
+    button_text = "🚀 Generate standard test"
 else:
-    button_text = "🚀 Gerar prova customizada"
+    button_text = "🚀 Generate custom test"
 
 if 'exam_data' not in st.session_state:
     st.session_state.exam_data = None
 
 if st.button(button_text, type="primary", use_container_width=True, disabled=(total_questions == 0)):
     if total_questions > 0:
-        with st.spinner("Lendo arquivos JSON e montando sua prova..."):
+        with st.spinner("Reading JSON files and building your test..."):
             try:
                 exam_bytes = generate_exam_docx(selected_book, final_selected_units, questions_config)
                 st.session_state.exam_data = exam_bytes
                 units_filename = "_".join(final_selected_units)
                 st.session_state.exam_filename = f"Prova_{selected_book}_Unidades_{units_filename}.docx"
                 time.sleep(1)
-                st.success("Prova gerada com sucesso! Clique no botão para baixar.")
+                st.success("Test generated successfully! Click the button to download.")
             except Exception as e:
-                st.error(f"Ocorreu um erro ao gerar a prova: {e}")
+                st.error(f"An error occurred while generating the test: {e}")
                 st.session_state.exam_data = None
     else:
-        st.warning("Por favor, selecione pelo menos uma questão para gerar a prova.")
+        st.warning("Please select at least one question to generate the test.")
 
 if st.session_state.get('exam_data'):
     st.download_button(
-        label="📥 Baixar Prova (.docx)",
+        label="📥 Download Test (.docx)",
         data=st.session_state.exam_data,
         file_name=st.session_state.get('exam_filename', 'prova.docx'),
         mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -318,4 +317,4 @@ if st.session_state.get('exam_data'):
     )
 
 st.markdown("---")
-st.markdown("Desenvolvido com ❤️ por alunos da CCB")
+st.markdown("Developed with ❤️ by CCB students")
