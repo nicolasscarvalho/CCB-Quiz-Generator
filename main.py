@@ -351,4 +351,4 @@ if st.session_state.get('exam_data'):
     )
 
 st.markdown("---")
-st.markdown("Developed with ❤️ by CCB students")
+st.markdown("Developed with ❤️ by UFC students")
