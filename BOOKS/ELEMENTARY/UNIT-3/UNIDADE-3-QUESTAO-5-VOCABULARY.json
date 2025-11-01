@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I play the guitar. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I work in a school. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I work for a magazine. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I make food in a restaurant. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I work in a hospital. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I work in a hotel. I’m a r__________.",
+          "answer": "receptionist"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I design buildings. I’m an a__________.",
+          "answer": "architect"
+        },
+        {
+          "item": "I work in a bank. I’m a b__________.",
+          "answer": "banker"
+        },
+        {
+          "item": "I cut people's hair. I’m a h__________.",
+          "answer": "hairdresser"
+        },
+        {
+          "item": "I work outside and grow food. I’m a f__________.",
+          "answer": "farmer"
+        },
+        {
+          "item": "I work with criminals. I’m a p__________.",
+          "answer": "policeman"
+        },
+        {
+          "item": "I teach a class. I’m a t__________.",
+          "answer": "teacher"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I play sports professionally. I’m an a__________.",
+          "answer": "athlete"
+        },
+        {
+          "item": "I drive people in a city. I’m a t__________.",
+          "answer": "taxi driver"
+        },
+        {
+          "item": "I serve food and drinks. I’m a w__________.",
+          "answer": "waiter"
+        },
+        {
+          "item": "I write for a newspaper. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I help people register at a company. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I work with money and budgets. I’m an a__________.",
+          "answer": "accountant"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I look after sick animals. I’m a v__________.",
+          "answer": "vet"
+        },
+        {
+          "item": "I sing in a band. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I answer the phone and emails. I’m a s__________.",
+          "answer": "secretary"
+        },
+        {
+          "item": "I fix problems with water pipes. I’m a p__________.",
+          "answer": "plumber"
+        },
+        {
+          "item": "I serve people in a store. I’m a s__________.",
+          "answer": "salesperson"
+        },
+        {
+          "item": "I work in a hospital and treat patients. I’m a d__________.",
+          "answer": "doctor"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I fly planes for a living. I’m a p__________.",
+          "answer": "pilot"
+        },
+        {
+          "item": "I work with children in a class. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I bring food to your table. I’m a w__________.",
+          "answer": "waiter"
+        },
+        {
+          "item": "I work in the kitchen preparing meals. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I write stories and articles. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I help people with their taxes. I’m an a__________.",
+          "answer": "accountant"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I manage an office or business. I’m a m__________.",
+          "answer": "manager"
+        },
+        {
+          "item": "I fix cars and motors. I’m a m__________.",
+          "answer": "mechanic"
+        },
+        {
+          "item": "I look after sick people. I’m a n__________.",
+          "answer": "nurse"
+        },
+        {
+          "item": "I work on construction sites. I’m a b__________.",
+          "answer": "builder"
+        },
+        {
+          "item": "I welcome guests at the front desk. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I write code for computers. I’m a p__________.",
+          "answer": "programmer"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I work in a court and defend people. I’m a l__________.",
+          "answer": "lawyer"
+        },
+        {
+          "item": "I teach music. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I work with numbers and records. I’m an a__________.",
+          "answer": "administrator"
+        },
+        {
+          "item": "I cook for high-end restaurants. I’m a c__________.",
+          "answer": "chef"
+        },
+        {
+          "item": "I help sick children. I’m a p__________.",
+          "answer": "paediatrician"
+        },
+        {
+          "item": "I write for media outlets. I’m a j__________.",
+          "answer": "journalist"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I work at a university giving lectures. I’m a p__________.",
+          "answer": "professor"
+        },
+        {
+          "item": "I draw pictures for books and magazines. I’m an i__________.",
+          "answer": "illustrator"
+        },
+        {
+          "item": "I serve drinks behind a counter. I’m a b__________.",
+          "answer": "barista"
+        },
+        {
+          "item": "I design clothes and fashion. I’m a d__________.",
+          "answer": "designer"
+        },
+        {
+          "item": "I look after the house and children. I’m a h__________.",
+          "answer": "housewife"
+        },
+        {
+          "item": "I drive trucks over long distances. I’m a d__________.",
+          "answer": "driver"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I work in an office and help my boss. I’m a s__________.",
+          "answer": "secretary"
+        },
+        {
+          "item": "I paint walls and houses. I’m a p__________.",
+          "answer": "painter"
+        },
+        {
+          "item": "I perform in films. I’m an a__________.",
+          "answer": "actor"
+        },
+        {
+          "item": "I catch fish in the sea. I’m a f__________.",
+          "answer": "fisherman"
+        },
+        {
+          "item": "I heal people. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I give information to tourists. I’m a g__________.",
+          "answer": "guide"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I organize events and travel. I’m an a__________.",
+          "answer": "administrator"
+        },
+        {
+          "item": "I work in a theatre. I’m an a__________.",
+          "answer": "actress"
+        },
+        {
+          "item": "I cut meat in a shop. I’m a b__________.",
+          "answer": "butcher"
+        },
+        {
+          "item": "I work for the government. I’m a p__________.",
+          "answer": "politician"
+        },
+        {
+          "item": "I play instruments. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I repair water systems. I’m a p__________.",
+          "answer": "plumber"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I teach English. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I interview people for articles. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I cook for a family. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I work in the emergency room. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I welcome people to the building. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I design houses. I’m an a__________.",
+          "answer": "architect"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I write books and poems. I’m a w__________.",
+          "answer": "writer"
+        },
+        {
+          "item": "I work on ships and planes. I’m a c__________.",
+          "answer": "captain"
+        },
+        {
+          "item": "I repair computers. I’m an e__________.",
+          "answer": "engineer"
+        },
+        {
+          "item": "I work with sick animals. I’m a v__________.",
+          "answer": "vet"
+        },
+        {
+          "item": "I work in a large store selling things. I’m a s__________.",
+          "answer": "salesperson"
+        },
+        {
+          "item": "I mix drinks in a bar. I’m a b__________.",
+          "answer": "bartender"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I sell houses and land. I’m an e__________.",
+          "answer": "estate agent"
+        },
+        {
+          "item": "I look after patients in hospital. I’m a n__________.",
+          "answer": "nurse"
+        },
+        {
+          "item": "I work in a kindergarten. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I play rock music. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I write columns about the city. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I answer business calls. I’m an a__________.",
+          "answer": "administrator"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I drive a bus full of passengers. I’m a d__________.",
+          "answer": "driver"
+        },
+        {
+          "item": "I prepare food for a special event. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I design websites and applications. I’m a d__________.",
+          "answer": "developer"
+        },
+        {
+          "item": "I check guests in and out of a hotel. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I fix problems with electricity. I’m an e__________.",
+          "answer": "electrician"
+        },
+        {
+          "item": "I work with money and transactions. I’m a c__________.",
+          "answer": "cashier"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I help manage the business finances. I’m an a__________.",
+          "answer": "accountant"
+        },
+        {
+          "item": "I write novels and short stories. I’m a w__________.",
+          "answer": "writer"
+        },
+        {
+          "item": "I teach at the primary school level. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I play the drums in a band. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I work for a newspaper and report news. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I prescribe medicine for people. I’m a d__________.",
+          "answer": "doctor"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I cut and style hair. I’m a h__________.",
+          "answer": "hairdresser"
+        },
+        {
+          "item": "I fly planes. I’m a p__________.",
+          "answer": "pilot"
+        },
+        {
+          "item": "I design bridges and roads. I’m an e__________.",
+          "answer": "engineer"
+        },
+        {
+          "item": "I serve food in a café. I’m a w__________.",
+          "answer": "waiter"
+        },
+        {
+          "item": "I manage employees. I’m a m__________.",
+          "answer": "manager"
+        },
+        {
+          "item": "I fix teeth. I’m a d__________.",
+          "answer": "dentist"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I work in the kitchen preparing meals. I’m a c__________.",
+          "answer": "chef"
+        },
+        {
+          "item": "I work in a clinic. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I teach languages. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I write news articles. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I play the piano professionally. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I greet people at the company entrance. I’m a r__________.",
+          "answer": "receptionist"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I draw plans for buildings. I’m an a__________.",
+          "answer": "architect"
+        },
+        {
+          "item": "I fix machines and engines. I’m a m__________.",
+          "answer": "mechanic"
+        },
+        {
+          "item": "I work with money for a business. I’m an a__________.",
+          "answer": "accountant"
+        },
+        {
+          "item": "I drive a race car. I’m a d__________.",
+          "answer": "driver"
+        },
+        {
+          "item": "I work in a law firm. I’m a l__________.",
+          "answer": "lawyer"
+        },
+        {
+          "item": "I sell food and groceries. I’m a s__________.",
+          "answer": "salesperson"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I help the sick in hospital. I’m a n__________.",
+          "answer": "nurse"
+        },
+        {
+          "item": "I teach small children. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I play the drums. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I write for a popular magazine. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I work at a five-star hotel. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I prepare meals at home. I’m a c__________.",
+          "answer": "cook"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I manage projects and teams. I’m a m__________.",
+          "answer": "manager"
+        },
+        {
+          "item": "I fly passengers to other countries. I’m a p__________.",
+          "answer": "pilot"
+        },
+        {
+          "item": "I work in a bakery making bread. I’m a b__________.",
+          "answer": "baker"
+        },
+        {
+          "item": "I give legal advice. I’m a l__________.",
+          "answer": "lawyer"
+        },
+        {
+          "item": "I serve customers coffee. I’m a b__________.",
+          "answer": "barista"
+        },
+        {
+          "item": "I perform on stage. I’m an a__________.",
+          "answer": "actor"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I teach university students. I’m a p__________.",
+          "answer": "professor"
+        },
+        {
+          "item": "I work with numbers and taxes. I’m an a__________.",
+          "answer": "accountant"
+        },
+        {
+          "item": "I prepare food in the cafeteria. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I write for a sports website. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I greet visitors at the front desk. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I play in a symphony orchestra. I’m a m__________.",
+          "answer": "musician"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I fix problems in the plumbing system. I’m a p__________.",
+          "answer": "plumber"
+        },
+        {
+          "item": "I cut and style hair. I’m a h__________.",
+          "answer": "hairdresser"
+        },
+        {
+          "item": "I design new cars. I’m an e__________.",
+          "answer": "engineer"
+        },
+        {
+          "item": "I help people when they are ill. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I teach maths to high schoolers. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I look after the house and kids. I’m a h__________.",
+          "answer": "housewife"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I perform in front of a camera. I’m an a__________.",
+          "answer": "actor"
+        },
+        {
+          "item": "I serve customers in a restaurant. I’m a w__________.",
+          "answer": "waiter"
+        },
+        {
+          "item": "I manage the sales team. I’m a m__________.",
+          "answer": "manager"
+        },
+        {
+          "item": "I write articles for a food blog. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I cook complicated dishes. I’m a c__________.",
+          "answer": "chef"
+        },
+        {
+          "item": "I manage office documents and records. I’m an a__________.",
+          "answer": "administrator"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I work in a bank giving advice on loans. I’m a b__________.",
+          "answer": "banker"
+        },
+        {
+          "item": "I repair motors and cars. I’m a m__________.",
+          "answer": "mechanic"
+        },
+        {
+          "item": "I look after injured people. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I design clothes. I’m a d__________.",
+          "answer": "designer"
+        },
+        {
+          "item": "I play the flute in a group. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I work for a travel agency, booking holidays. I’m an a__________.",
+          "answer": "agent"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I fix problems with computers. I’m a p__________.",
+          "answer": "programmer"
+        },
+        {
+          "item": "I teach history at school. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I publish news in the local paper. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I prepare simple food. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I help people at the hotel desk. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I work in the operating theatre. I’m a s__________.",
+          "answer": "surgeon"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I paint beautiful pictures. I’m an a__________.",
+          "answer": "artist"
+        },
+        {
+          "item": "I manage the company’s budget. I’m an a__________.",
+          "answer": "accountant"
+        },
+        {
+          "item": "I work on a farm growing vegetables. I’m a f__________.",
+          "answer": "farmer"
+        },
+        {
+          "item": "I play the violin. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I help people in court. I’m a l__________.",
+          "answer": "lawyer"
+        },
+        {
+          "item": "I work in a clothing store. I’m a s__________.",
+          "answer": "salesperson"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I teach students to drive. I’m a i__________.",
+          "answer": "instructor"
+        },
+        {
+          "item": "I work at night in the hospital. I’m a n__________.",
+          "answer": "nurse"
+        },
+        {
+          "item": "I write for TV news. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I prepare food for parties. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I answer the phone and manage appointments. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I work for the police department. I’m a p__________.",
+          "answer": "policeman"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I manage the entire company. I’m a m__________.",
+          "answer": "manager"
+        },
+        {
+          "item": "I cut people's hair in a salon. I’m a h__________.",
+          "answer": "hairdresser"
+        },
+        {
+          "item": "I fly commercial jets. I’m a p__________.",
+          "answer": "pilot"
+        },
+        {
+          "item": "I give classes to adults. I’m a t__________.",
+          "answer": "teacher"
+        },
+        {
+          "item": "I treat sick people in an office. I’m a d__________.",
+          "answer": "doctor"
+        },
+        {
+          "item": "I write code and programs. I’m a p__________.",
+          "answer": "programmer"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I play classical music for an audience. I’m a m__________.",
+          "answer": "musician"
+        },
+        {
+          "item": "I write detailed reports for magazines. I’m a j__________.",
+          "answer": "journalist"
+        },
+        {
+          "item": "I greet visitors and handle inquiries. I’m a r__________.",
+          "answer": "receptionist"
+        },
+        {
+          "item": "I am responsible for the house and family. I’m a h__________.",
+          "answer": "housewife"
+        },
+        {
+          "item": "I prepare food in the oven. I’m a c__________.",
+          "answer": "cook"
+        },
+        {
+          "item": "I instruct students at a college. I’m a t__________.",
+          "answer": "teacher"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "3B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the jobs.",
+      "example": {
+        "item": "I work in a shop. I’m a shop assistant.",
+        "answer": "shop assistant"
+      },
+      "qa_pairs": [
+        {
+          "item": "I check numbers and pay bills. I’m an a__________.",
+          "answer": "accountant"
+        },
+        {
+          "item": "I design new systems and products. I’m an e__________.",
+          "answer": "engineer"
+        },
+        {
+          "item": "I defend or prosecute people in court. I’m a l__________.",
+          "answer": "lawyer"
+        },
+        {
+          "item": "I perform tricks and comedy. I’m an a__________.",
+          "answer": "artist"
+        },
+        {
+          "item": "I work in a large supermarket. I’m a s__________.",
+          "answer": "salesperson"
+        },
+        {
+          "item": "I manage office workers and tasks. I’m an a__________.",
+          "answer": "administrator"
+        }
+      ]
+    }
+  ]
+}
+

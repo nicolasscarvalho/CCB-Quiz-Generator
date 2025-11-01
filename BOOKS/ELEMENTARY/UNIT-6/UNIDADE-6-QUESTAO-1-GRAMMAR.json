@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "That isn't / doesn't a fast car.",
+          "answer": "isn't"
+        },
+        {
+          "item": "What do / are you doing right now?",
+          "answer": "are"
+        },
+        {
+          "item": "I don't / am not understand the question.",
+          "answer": "don't"
+        },
+        {
+          "item": "Does / Is she happy with the results?",
+          "answer": "Is"
+        },
+        {
+          "item": "We don't / aren't live near the coast.",
+          "answer": "don't"
+        },
+        {
+          "item": "Where does / is your brother working this week?",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don’t / aren't enjoying the concert.",
+          "answer": "aren't"
+        },
+        {
+          "item": "He doesn't / isn't look tired.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Do / Are you usually play tennis on Sundays?",
+          "answer": "Do"
+        },
+        {
+          "item": "My boss doesn't / isn't German; he's Spanish.",
+          "answer": "isn't"
+        },
+        {
+          "item": "What do / are they talking about?",
+          "answer": "are"
+        },
+        {
+          "item": "The coffee doesn't / isn't hot enough.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "She doesn't / isn't want to go home yet.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "We don't / aren't here for the summer.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Do / Are the children playing outside?",
+          "answer": "Are"
+        },
+        {
+          "item": "Where do / are you usually go on vacation?",
+          "answer": "do"
+        },
+        {
+          "item": "The weather doesn't / isn't rainy today.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Does / Is he work in an office?",
+          "answer": "Does"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't speak Portuguese.",
+          "answer": "don't"
+        },
+        {
+          "item": "I don't / am not hungry right now.",
+          "answer": "am not"
+        },
+        {
+          "item": "Does / Is it true that the shop is closed?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are you think of this film?",
+          "answer": "do"
+        },
+        {
+          "item": "This doesn't / isn't my favourite song.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are we leaving soon?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "She doesn't / isn't wearing a coat.",
+          "answer": "isn't"
+        },
+        {
+          "item": "We don't / aren't believe the story.",
+          "answer": "don't"
+        },
+        {
+          "item": "Where does / is the key?",
+          "answer": "is"
+        },
+        {
+          "item": "Does / Is your brother live abroad?",
+          "answer": "Does"
+        },
+        {
+          "item": "The children don't / aren't tired.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I don't / am not need any help.",
+          "answer": "don't"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "Does / Is the dog sleep inside or outside?",
+          "answer": "Does"
+        },
+        {
+          "item": "We don't / aren't happy with the result.",
+          "answer": "aren't"
+        },
+        {
+          "item": "He doesn't / isn't have a car.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "What do / are they reading?",
+          "answer": "are"
+        },
+        {
+          "item": "You don't / aren't look well today.",
+          "answer": "don't"
+        },
+        {
+          "item": "Do / Are you a student at this university?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "She doesn't / isn't often cook dinner.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "I don't / am not going to the party.",
+          "answer": "am not"
+        },
+        {
+          "item": "Does / Is the train late today?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are you think about this plan?",
+          "answer": "do"
+        },
+        {
+          "item": "My keys don't / aren't on the table.",
+          "answer": "aren't"
+        },
+        {
+          "item": "We don't / aren't watch TV every day.",
+          "answer": "don't"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "He doesn't / isn't an engineer; he's a doctor.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are you working this weekend?",
+          "answer": "Are"
+        },
+        {
+          "item": "Does / Is your sister usually run in the morning?",
+          "answer": "Does"
+        },
+        {
+          "item": "I don't / am not believe in ghosts.",
+          "answer": "don't"
+        },
+        {
+          "item": "What do / are the neighbours complaining about?",
+          "answer": "are"
+        },
+        {
+          "item": "It doesn't / isn't cold outside today.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't know the answer.",
+          "answer": "don't"
+        },
+        {
+          "item": "She doesn't / isn't smiling at the moment.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Where does / is he usually study?",
+          "answer": "does"
+        },
+        {
+          "item": "Do / Are you sure about that time?",
+          "answer": "Are"
+        },
+        {
+          "item": "The children don't / aren't like broccoli.",
+          "answer": "don't"
+        },
+        {
+          "item": "He doesn't / isn't in London for a holiday.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't / am not wait for anyone.",
+          "answer": "don't"
+        },
+        {
+          "item": "What do / are you want to eat tonight?",
+          "answer": "do"
+        },
+        {
+          "item": "Does / Is your brother tall?",
+          "answer": "Is"
+        },
+        {
+          "item": "They don't / aren't watching the news now.",
+          "answer": "aren't"
+        },
+        {
+          "item": "This house doesn't / isn't big enough.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are we still waiting for the bus?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "She doesn't / isn't speaking loudly.",
+          "answer": "isn't"
+        },
+        {
+          "item": "We don't / aren't speak French very well.",
+          "answer": "don't"
+        },
+        {
+          "item": "Where does / is your meeting?",
+          "answer": "is"
+        },
+        {
+          "item": "Does / Is the weather cold in winter?",
+          "answer": "Is"
+        },
+        {
+          "item": "I don't / am not think that's fair.",
+          "answer": "don't"
+        },
+        {
+          "item": "What do / are you cooking for dinner?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "He doesn't / isn't a good listener.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are they want to leave yet?",
+          "answer": "Do"
+        },
+        {
+          "item": "What do / are the children doing at the moment?",
+          "answer": "are"
+        },
+        {
+          "item": "We don't / aren't have any milk.",
+          "answer": "don't"
+        },
+        {
+          "item": "Does / Is your phone broken?",
+          "answer": "Is"
+        },
+        {
+          "item": "I don't / am not listening to the radio.",
+          "answer": "am not"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't in the office today.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She doesn't / isn't usually drive to work.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Does / Is the food taste good?",
+          "answer": "Does"
+        },
+        {
+          "item": "What do / are you afraid of?",
+          "answer": "are"
+        },
+        {
+          "item": "I don't / am not like that music.",
+          "answer": "don't"
+        },
+        {
+          "item": "He doesn't / isn't ready for the test.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "We don't / aren't watching TV tonight.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I don't / am not remember his name.",
+          "answer": "don't"
+        },
+        {
+          "item": "Does / Is the water clean?",
+          "answer": "Is"
+        },
+        {
+          "item": "Where does / is she keep her keys?",
+          "answer": "does"
+        },
+        {
+          "item": "The film doesn't / isn't long.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are you living in the city center now?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "He doesn't / isn't work on weekends.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "We don't / aren't excited about the trip.",
+          "answer": "aren't"
+        },
+        {
+          "item": "What do / are they talking about?",
+          "answer": "are"
+        },
+        {
+          "item": "Does / Is the bus stop near here?",
+          "answer": "Is"
+        },
+        {
+          "item": "I don't / am not need to buy anything.",
+          "answer": "don't"
+        },
+        {
+          "item": "Do / Are you feel cold?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "The sky doesn't / isn't blue today.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are you watching a movie?",
+          "answer": "Are"
+        },
+        {
+          "item": "She doesn't / isn't like classical music.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Where does / is your family from?",
+          "answer": "is"
+        },
+        {
+          "item": "We don't / aren't have children.",
+          "answer": "don't"
+        },
+        {
+          "item": "What do / are you usually do after work?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "He doesn't / isn't coming with us tonight.",
+          "answer": "isn't"
+        },
+        {
+          "item": "I don't / am not usually cook on Mondays.",
+          "answer": "don't"
+        },
+        {
+          "item": "Does / Is the city beautiful in spring?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are you looking for?",
+          "answer": "are"
+        },
+        {
+          "item": "They don't / aren't often late.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Do / Are we leave the house at 7 a.m.?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "The problem doesn't / isn't difficult.",
+          "answer": "isn't"
+        },
+        {
+          "item": "I don't / am not agree with this statement.",
+          "answer": "don't"
+        },
+        {
+          "item": "Does / Is she enjoying her new job?",
+          "answer": "Is"
+        },
+        {
+          "item": "Where does / is he usually eat lunch?",
+          "answer": "does"
+        },
+        {
+          "item": "We don't / aren't in a hurry.",
+          "answer": "aren't"
+        },
+        {
+          "item": "What do / are you study?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't watch football on TV.",
+          "answer": "don't"
+        },
+        {
+          "item": "He doesn't / isn't tired this afternoon.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Does / Is it snowing outside?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are they usually do in the evenings?",
+          "answer": "do"
+        },
+        {
+          "item": "I don't / am not feel well today.",
+          "answer": "don't"
+        },
+        {
+          "item": "Where does / is your phone?",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "We don't / aren't believe that story.",
+          "answer": "don't"
+        },
+        {
+          "item": "The weather doesn't / isn't hot today.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are you talking on the phone?",
+          "answer": "Are"
+        },
+        {
+          "item": "Does / Is this restaurant expensive?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are they buy at the market?",
+          "answer": "do"
+        },
+        {
+          "item": "I don't / am not driving to work today.",
+          "answer": "am not"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don't"
+      },
+      "qa_pairs": [
+        {
+          "item": "He doesn't / isn't understand the rules.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Do / Are we ready to order?",
+          "answer": "Are"
+        },
+        {
+          "item": "Where does / is she go shopping?",
+          "answer": "does"
+        },
+        {
+          "item": "The keys don't / aren't in your bag.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I don't / am not think he knows the answer.",
+          "answer": "don't"
+        },
+        {
+          "item": "What do / are you wearing today?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't watching the game.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She doesn't / isn't live nearby.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Does / Is the music loud?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are you think of my new haircut?",
+          "answer": "do"
+        },
+        {
+          "item": "I don't / am not cold.",
+          "answer": "am not"
+        },
+        {
+          "item": "Do / Are you need help with your homework?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "He doesn't / isn't usually travel in winter.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "We don't / aren't at the cinema tonight.",
+          "answer": "aren't"
+        },
+        {
+          "item": "What do / are they looking for?",
+          "answer": "are"
+        },
+        {
+          "item": "Does / Is your father like hiking?",
+          "answer": "Does"
+        },
+        {
+          "item": "I don't / am not speak Chinese.",
+          "answer": "don't"
+        },
+        {
+          "item": "Where does / is the restaurant located?",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't selling tickets anymore.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I don't / am not usually get up early.",
+          "answer": "don't"
+        },
+        {
+          "item": "Does / Is the museum open on Mondays?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are you want to watch?",
+          "answer": "do"
+        },
+        {
+          "item": "This doesn't / isn't a temporary problem.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are we having lunch now?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "She doesn't / isn't listening to the radio.",
+          "answer": "isn't"
+        },
+        {
+          "item": "We don't / aren't often travel by plane.",
+          "answer": "don't"
+        },
+        {
+          "item": "Where does / is your mother live?",
+          "answer": "does"
+        },
+        {
+          "item": "Does / Is the movie interesting?",
+          "answer": "Is"
+        },
+        {
+          "item": "The children don't / aren't tired after school.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I don't / am not know the answer.",
+          "answer": "don't"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "Does / Is he studying English?",
+          "answer": "Is"
+        },
+        {
+          "item": "We don't / aren't often go out on Tuesdays.",
+          "answer": "don't"
+        },
+        {
+          "item": "He doesn't / isn't very tall.",
+          "answer": "isn't"
+        },
+        {
+          "item": "What do / are you usually have for breakfast?",
+          "answer": "do"
+        },
+        {
+          "item": "You don't / aren't sad about the news.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Do / Are you feel hungry?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "She doesn't / isn't drink coffee in the evening.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "I don't / am not talking about the weather.",
+          "answer": "am not"
+        },
+        {
+          "item": "Does / Is the film long?",
+          "answer": "Is"
+        },
+        {
+          "item": "Where do / are they meeting tomorrow?",
+          "answer": "are"
+        },
+        {
+          "item": "My parents don't / aren't retired yet.",
+          "answer": "aren't"
+        },
+        {
+          "item": "We don't / aren't use the computer often.",
+          "answer": "don't"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "The jacket doesn't / isn't warm enough.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Do / Are you usually go to the gym?",
+          "answer": "Do"
+        },
+        {
+          "item": "Does / Is your neighbour making a noise now?",
+          "answer": "Is"
+        },
+        {
+          "item": "I don't / am not want to travel alone.",
+          "answer": "don't"
+        },
+        {
+          "item": "What do / are they buying?",
+          "answer": "are"
+        },
+        {
+          "item": "He doesn't / isn't handsome.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't / aren't tired from walking.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She doesn't / isn't have a lot of money.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Where does / is the cat hiding?",
+          "answer": "is"
+        },
+        {
+          "item": "Do / Are you need a dictionary for this?",
+          "answer": "Do"
+        },
+        {
+          "item": "I don't / am not sure about the date.",
+          "answer": "am not"
+        },
+        {
+          "item": "What do / are they usually listen to?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "6C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "The students don’t / aren’t like doing tests.",
+        "answer": "don’t"
+      },
+      "qa_pairs": [
+        {
+          "item": "We don't / aren't often see our grandparents.",
+          "answer": "don't"
+        },
+        {
+          "item": "The dog doesn't / isn't barking now.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Does / Is the problem common in this city?",
+          "answer": "Is"
+        },
+        {
+          "item": "What do / are you think of this music?",
+          "answer": "do"
+        },
+        {
+          "item": "He doesn't / isn't speak Spanish.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Do / Are we meeting the director this morning?",
+          "answer": "Are"
+        }
+      ]
+    }
+  ]
+}
+

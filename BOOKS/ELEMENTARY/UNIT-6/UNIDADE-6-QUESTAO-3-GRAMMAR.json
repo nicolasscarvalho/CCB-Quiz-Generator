@@ -1,0 +1,1445 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Are they Scottish? Can you ask them / their?",
+          "answer": "them"
+        },
+        {
+          "item": "It isn’t me / my car. She has a red car.",
+          "answer": "my"
+        },
+        {
+          "item": "That isn’t they / their house. They don’t live in this street.",
+          "answer": "their"
+        },
+        {
+          "item": "We’re friends. You like me and I like you / your.",
+          "answer": "you"
+        },
+        {
+          "item": "That’s him / his phone! Give it to me.",
+          "answer": "his"
+        },
+        {
+          "item": "He likes Anita, but he doesn’t love she / her.",
+          "answer": "her"
+        },
+        {
+          "item": "We don’t speak Russian. They can’t understand we / us.",
+          "answer": "us"
+        },
+        {
+          "item": "Can you help I / me? I can’t do my homework.",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "This is we / our new flat. We love it.",
+          "answer": "our"
+        },
+        {
+          "item": "Where is she / her sister?",
+          "answer": "her"
+        },
+        {
+          "item": "I want to talk to you / your about the project.",
+          "answer": "you"
+        },
+        {
+          "item": "They are happy. We should congratulate them / their.",
+          "answer": "them"
+        },
+        {
+          "item": "Does he / his dog bite?",
+          "answer": "his"
+        },
+        {
+          "item": "I often see he / him at the gym.",
+          "answer": "him"
+        },
+        {
+          "item": "Can you bring me / my jacket, please?",
+          "answer": "my"
+        },
+        {
+          "item": "The cat is friendly. I want to pet it / its.",
+          "answer": "it"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "He needs help. Can you call him / his?",
+          "answer": "him"
+        },
+        {
+          "item": "I can’t find me / my keys anywhere.",
+          "answer": "my"
+        },
+        {
+          "item": "Where are they / their children?",
+          "answer": "their"
+        },
+        {
+          "item": "Please don’t worry about I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "Is this you / your phone?",
+          "answer": "your"
+        },
+        {
+          "item": "We are proud of we / our team.",
+          "answer": "our"
+        },
+        {
+          "item": "The teacher doesn't understand she / her accent.",
+          "answer": "her"
+        },
+        {
+          "item": "That is the dog. It / its name is Fido.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't like it / its colour.",
+          "answer": "its"
+        },
+        {
+          "item": "Do you need help with you / your homework?",
+          "answer": "your"
+        },
+        {
+          "item": "Tell they / them to come inside.",
+          "answer": "them"
+        },
+        {
+          "item": "He is very shy. I rarely talk to he / him.",
+          "answer": "him"
+        },
+        {
+          "item": "We want to show you we / our holiday photos.",
+          "answer": "our"
+        },
+        {
+          "item": "She lives near I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "Is this he / his computer?",
+          "answer": "his"
+        },
+        {
+          "item": "Do you often see she / her?",
+          "answer": "her"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "We’re going to the cinema. Do you want to join we / us?",
+          "answer": "us"
+        },
+        {
+          "item": "They / Their house is very far from here.",
+          "answer": "Their"
+        },
+        {
+          "item": "Can you lend I / me a pen?",
+          "answer": "me"
+        },
+        {
+          "item": "Where is he / his bag?",
+          "answer": "his"
+        },
+        {
+          "item": "I don't understand you / your question.",
+          "answer": "your"
+        },
+        {
+          "item": "She / Her dog is called Max.",
+          "answer": "Her"
+        },
+        {
+          "item": "I saw them / their waiting for the bus.",
+          "answer": "them"
+        },
+        {
+          "item": "The weather is cold. I don't like it / its.",
+          "answer": "it"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Do you speak English? I can’t understand you / your.",
+          "answer": "you"
+        },
+        {
+          "item": "They / Their apartment is on the fifth floor.",
+          "answer": "Their"
+        },
+        {
+          "item": "The cat is black. I love it / its eyes.",
+          "answer": "its"
+        },
+        {
+          "item": "This is we / our new car.",
+          "answer": "our"
+        },
+        {
+          "item": "I want to talk to him / his urgently.",
+          "answer": "him"
+        },
+        {
+          "item": "Can I have I / my coffee now?",
+          "answer": "my"
+        },
+        {
+          "item": "We saw she / her at the concert.",
+          "answer": "her"
+        },
+        {
+          "item": "Please give they / them the message.",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "He gave I / me a birthday present.",
+          "answer": "me"
+        },
+        {
+          "item": "Is that they / their dog outside?",
+          "answer": "their"
+        },
+        {
+          "item": "She doesn't like it / its noise.",
+          "answer": "its"
+        },
+        {
+          "item": "We need help. Can you assist we / us?",
+          "answer": "us"
+        },
+        {
+          "item": "I saw he / him yesterday at the supermarket.",
+          "answer": "him"
+        },
+        {
+          "item": "This is not you / your notebook.",
+          "answer": "your"
+        },
+        {
+          "item": "She / Her favourite color is blue.",
+          "answer": "Her"
+        },
+        {
+          "item": "Do they love we / us?",
+          "answer": "us"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Can you hear they / them talking?",
+          "answer": "them"
+        },
+        {
+          "item": "I need to check I / my flight time.",
+          "answer": "my"
+        },
+        {
+          "item": "This is he / his car, not mine.",
+          "answer": "his"
+        },
+        {
+          "item": "She wants to call I / me now.",
+          "answer": "me"
+        },
+        {
+          "item": "I like you / your dress.",
+          "answer": "your"
+        },
+        {
+          "item": "We don’t know she / her well.",
+          "answer": "her"
+        },
+        {
+          "item": "He is very tired. I should take he / him home.",
+          "answer": "him"
+        },
+        {
+          "item": "Are we / our friends coming too?",
+          "answer": "our"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Where is we / our ticket?",
+          "answer": "our"
+        },
+        {
+          "item": "The manager wants to see they / them.",
+          "answer": "them"
+        },
+        {
+          "item": "Do you often visit you / your family?",
+          "answer": "your"
+        },
+        {
+          "item": "I don't have I / my charger.",
+          "answer": "my"
+        },
+        {
+          "item": "She is hungry. Give she / her an apple.",
+          "answer": "her"
+        },
+        {
+          "item": "He / His birthday is next week.",
+          "answer": "His"
+        },
+        {
+          "item": "We need a taxi. Can you call we / us one?",
+          "answer": "us"
+        },
+        {
+          "item": "I like you / your, but I don't love you.",
+          "answer": "you"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't like it / its behaviour.",
+          "answer": "its"
+        },
+        {
+          "item": "They / Their flight is delayed.",
+          "answer": "Their"
+        },
+        {
+          "item": "I don't understand him / his question.",
+          "answer": "his"
+        },
+        {
+          "item": "We miss we / us when we are apart.",
+          "answer": "us"
+        },
+        {
+          "item": "He looks tired. I should speak to he / him.",
+          "answer": "him"
+        },
+        {
+          "item": "She / Her dog is very cute.",
+          "answer": "Her"
+        },
+        {
+          "item": "Can you see I / me from here?",
+          "answer": "me"
+        },
+        {
+          "item": "Do you like you / your new job?",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need help with I / my project.",
+          "answer": "my"
+        },
+        {
+          "item": "The children are noisy. Tell they / them to be quiet.",
+          "answer": "them"
+        },
+        {
+          "item": "This is we / our responsibility.",
+          "answer": "our"
+        },
+        {
+          "item": "Do you understand he / him when he speaks fast?",
+          "answer": "him"
+        },
+        {
+          "item": "She / Her favourite singer is Adele.",
+          "answer": "Her"
+        },
+        {
+          "item": "I don't like it / its taste.",
+          "answer": "its"
+        },
+        {
+          "item": "I love you / your very much.",
+          "answer": "you"
+        },
+        {
+          "item": "Please listen to I / me.",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Where is they / their new office?",
+          "answer": "their"
+        },
+        {
+          "item": "I need to call she / her later.",
+          "answer": "her"
+        },
+        {
+          "item": "Is this he / his umbrella?",
+          "answer": "his"
+        },
+        {
+          "item": "Do you want to come with we / us?",
+          "answer": "us"
+        },
+        {
+          "item": "I can’t find you / your number.",
+          "answer": "your"
+        },
+        {
+          "item": "The weather is changing. It / its raining heavily.",
+          "answer": "It"
+        },
+        {
+          "item": "He is always nice to I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "I don’t want to see they / them anymore.",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is ill. Take she / her to the doctor.",
+          "answer": "her"
+        },
+        {
+          "item": "I think this is he / his pencil.",
+          "answer": "his"
+        },
+        {
+          "item": "We are proud of we / us.",
+          "answer": "us"
+        },
+        {
+          "item": "Do you remember I / my name?",
+          "answer": "my"
+        },
+        {
+          "item": "I don't know you / your very well.",
+          "answer": "you"
+        },
+        {
+          "item": "The team won. They / Their victory was celebrated.",
+          "answer": "Their"
+        },
+        {
+          "item": "The dog is sleeping. Don't wake it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "Can you bring they / them some water?",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I want to show you I / my new phone.",
+          "answer": "my"
+        },
+        {
+          "item": "We bought a house. We / Our house is small.",
+          "answer": "Our"
+        },
+        {
+          "item": "Do you know him / his brother?",
+          "answer": "his"
+        },
+        {
+          "item": "She is intelligent. I admire she / her.",
+          "answer": "her"
+        },
+        {
+          "item": "They need help. We should contact they / them.",
+          "answer": "them"
+        },
+        {
+          "item": "I don’t understand you / your accent.",
+          "answer": "your"
+        },
+        {
+          "item": "I like I / me a lot.",
+          "answer": "me"
+        },
+        {
+          "item": "The movie is boring. I hate it / its.",
+          "answer": "it"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Is that they / their car over there?",
+          "answer": "their"
+        },
+        {
+          "item": "I need to ask him / his a question.",
+          "answer": "him"
+        },
+        {
+          "item": "We / Our boss is very strict.",
+          "answer": "Our"
+        },
+        {
+          "item": "I don't like you / your attitude.",
+          "answer": "your"
+        },
+        {
+          "item": "The professor explains it / its clearly.",
+          "answer": "it"
+        },
+        {
+          "item": "She wants to speak to I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "I saw she / her waiting for the train.",
+          "answer": "her"
+        },
+        {
+          "item": "Can you see we / us from this distance?",
+          "answer": "us"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Where is he / his coat?",
+          "answer": "his"
+        },
+        {
+          "item": "I miss they / them when they travel.",
+          "answer": "them"
+        },
+        {
+          "item": "She / Her dog is friendly.",
+          "answer": "Her"
+        },
+        {
+          "item": "I need to finish I / my work quickly.",
+          "answer": "my"
+        },
+        {
+          "item": "We don't understand you / your very well.",
+          "answer": "you"
+        },
+        {
+          "item": "The cat is asleep. I love it / its fur.",
+          "answer": "its"
+        },
+        {
+          "item": "Please wait for we / us.",
+          "answer": "us"
+        },
+        {
+          "item": "I gave he / him the money.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I want to speak to she / her about the meeting.",
+          "answer": "her"
+        },
+        {
+          "item": "We / Our office is on the second floor.",
+          "answer": "Our"
+        },
+        {
+          "item": "The machine is broken. I can’t use it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "Do you know I / my email address?",
+          "answer": "my"
+        },
+        {
+          "item": "They / Their parents are coming tomorrow.",
+          "answer": "Their"
+        },
+        {
+          "item": "Can you tell I / me the time?",
+          "answer": "me"
+        },
+        {
+          "item": "I like you / your presentation.",
+          "answer": "your"
+        },
+        {
+          "item": "The dog bit he / him on the hand.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't like they / them very much.",
+          "answer": "them"
+        },
+        {
+          "item": "Where are you / your friends?",
+          "answer": "your"
+        },
+        {
+          "item": "He is very kind to we / us.",
+          "answer": "us"
+        },
+        {
+          "item": "She / Her favorite hobby is dancing.",
+          "answer": "Her"
+        },
+        {
+          "item": "Is this I / my wallet?",
+          "answer": "my"
+        },
+        {
+          "item": "The weather is changing. It / its raining now.",
+          "answer": "It"
+        },
+        {
+          "item": "I saw he / him running in the park.",
+          "answer": "him"
+        },
+        {
+          "item": "Please call I / me when you arrive.",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don’t know we / our language.",
+          "answer": "our"
+        },
+        {
+          "item": "I need to discuss this with you / your.",
+          "answer": "you"
+        },
+        {
+          "item": "He loves she / her very much.",
+          "answer": "her"
+        },
+        {
+          "item": "I gave they / them the document.",
+          "answer": "them"
+        },
+        {
+          "item": "The baby is crying. Give it / its bottle.",
+          "answer": "its"
+        },
+        {
+          "item": "This is he / his jacket.",
+          "answer": "his"
+        },
+        {
+          "item": "Can you see I / me from here?",
+          "answer": "me"
+        },
+        {
+          "item": "We are a team. We rely on we / us.",
+          "answer": "us"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate you / your negativity.",
+          "answer": "your"
+        },
+        {
+          "item": "The bird has a broken wing. Help it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "He / His name is John.",
+          "answer": "His"
+        },
+        {
+          "item": "She doesn't like I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "I spoke to she / her yesterday.",
+          "answer": "her"
+        },
+        {
+          "item": "We need to send they / them an email.",
+          "answer": "them"
+        },
+        {
+          "item": "This is we / our biggest problem.",
+          "answer": "our"
+        },
+        {
+          "item": "I don't trust he / him anymore.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "This is they / their new laptop.",
+          "answer": "their"
+        },
+        {
+          "item": "I need to tell you / your something important.",
+          "answer": "you"
+        },
+        {
+          "item": "Where is he / his phone charger?",
+          "answer": "his"
+        },
+        {
+          "item": "She / Her favorite color is green.",
+          "answer": "Her"
+        },
+        {
+          "item": "Can you give I / me five minutes?",
+          "answer": "me"
+        },
+        {
+          "item": "We / Our team won the match.",
+          "answer": "Our"
+        },
+        {
+          "item": "I can’t find it / its location on the map.",
+          "answer": "its"
+        },
+        {
+          "item": "They want to travel with we / us.",
+          "answer": "us"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't like he / him when he is angry.",
+          "answer": "him"
+        },
+        {
+          "item": "Do you like you / your new shoes?",
+          "answer": "your"
+        },
+        {
+          "item": "I can’t understand they / them.",
+          "answer": "them"
+        },
+        {
+          "item": "She / Her jacket is brown.",
+          "answer": "Her"
+        },
+        {
+          "item": "The project is difficult. I can't finish it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "We need to fix we / our mistake.",
+          "answer": "our"
+        },
+        {
+          "item": "I don't know I / my address.",
+          "answer": "my"
+        },
+        {
+          "item": "Come here! I want to talk to you / your.",
+          "answer": "you"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Is this she / her pen?",
+          "answer": "her"
+        },
+        {
+          "item": "I don't like he / his attitude.",
+          "answer": "his"
+        },
+        {
+          "item": "Can you bring they / them the files?",
+          "answer": "them"
+        },
+        {
+          "item": "We are hungry. Give we / us some bread.",
+          "answer": "us"
+        },
+        {
+          "item": "I need to call I / me a taxi.",
+          "answer": "me"
+        },
+        {
+          "item": "I saw you / your brother yesterday.",
+          "answer": "your"
+        },
+        {
+          "item": "The company is big. It / its headquarters are in New York.",
+          "answer": "Its"
+        },
+        {
+          "item": "He doesn't want to talk to I / me.",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't know they / their names.",
+          "answer": "their"
+        },
+        {
+          "item": "He is my friend. I love he / him.",
+          "answer": "him"
+        },
+        {
+          "item": "The manager wants to speak to she / her.",
+          "answer": "her"
+        },
+        {
+          "item": "I need to check I / my flight details.",
+          "answer": "my"
+        },
+        {
+          "item": "Do you want to see we / our new house?",
+          "answer": "our"
+        },
+        {
+          "item": "I don't have enough money. Can you lend I / me ten euros?",
+          "answer": "me"
+        },
+        {
+          "item": "The dog is happy. Look at it / its tail.",
+          "answer": "its"
+        },
+        {
+          "item": "I like you / your, but you don't like me.",
+          "answer": "you"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "She / Her eyes are green.",
+          "answer": "Her"
+        },
+        {
+          "item": "We should tell you / your the truth.",
+          "answer": "you"
+        },
+        {
+          "item": "I can’t find he / his keys.",
+          "answer": "his"
+        },
+        {
+          "item": "I don't want to bother I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "They don't know we / us.",
+          "answer": "us"
+        },
+        {
+          "item": "The project is over. I finished it / its yesterday.",
+          "answer": "it"
+        },
+        {
+          "item": "Where are they / their bags?",
+          "answer": "their"
+        },
+        {
+          "item": "I saw he / him at the concert.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "Do you often visit they / them?",
+          "answer": "them"
+        },
+        {
+          "item": "I don’t like you / your new haircut.",
+          "answer": "your"
+        },
+        {
+          "item": "He needs to finish he / his report.",
+          "answer": "his"
+        },
+        {
+          "item": "I saw she / her with a friend.",
+          "answer": "her"
+        },
+        {
+          "item": "We / Our car is very old.",
+          "answer": "Our"
+        },
+        {
+          "item": "The problem is difficult. Can you help I / me?",
+          "answer": "me"
+        },
+        {
+          "item": "The house is big. I love it / its garden.",
+          "answer": "its"
+        },
+        {
+          "item": "She doesn't want to talk to he / him.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is crying. Console she / her.",
+          "answer": "her"
+        },
+        {
+          "item": "I like you / your style.",
+          "answer": "your"
+        },
+        {
+          "item": "The company fired they / them.",
+          "answer": "them"
+        },
+        {
+          "item": "Where is he / his family?",
+          "answer": "his"
+        },
+        {
+          "item": "We need to talk about we / us.",
+          "answer": "us"
+        },
+        {
+          "item": "I don't know I / my way home.",
+          "answer": "my"
+        },
+        {
+          "item": "The film is great. I really enjoyed it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "I gave he / him the book yesterday.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don’t trust she / her opinion.",
+          "answer": "her"
+        },
+        {
+          "item": "Can you see we / our flat from here?",
+          "answer": "our"
+        },
+        {
+          "item": "I saw you / your at the party.",
+          "answer": "you"
+        },
+        {
+          "item": "They don’t like I / me.",
+          "answer": "me"
+        },
+        {
+          "item": "This is they / their responsibility.",
+          "answer": "their"
+        },
+        {
+          "item": "He / His car is very fast.",
+          "answer": "His"
+        },
+        {
+          "item": "The plant is dying. I need to water it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "We want to join they / them for dinner.",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need to call he / him immediately.",
+          "answer": "him"
+        },
+        {
+          "item": "We / Our mother is a teacher.",
+          "answer": "Our"
+        },
+        {
+          "item": "I don't like I / my new boss.",
+          "answer": "my"
+        },
+        {
+          "item": "She / Her dog is big.",
+          "answer": "Her"
+        },
+        {
+          "item": "Do you need you / your coat?",
+          "answer": "your"
+        },
+        {
+          "item": "They should tell we / us the plans.",
+          "answer": "us"
+        },
+        {
+          "item": "The weather is bad. I hate it / its.",
+          "answer": "it"
+        },
+        {
+          "item": "I saw they / them leave the room.",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "6A",
+        "1C"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with me / my, you / your, him / his, etc.",
+      "example": {
+        "item": "It isn’t a good book. I don’t like it.",
+        "answer": "it"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't understand you / your very well.",
+          "answer": "you"
+        },
+        {
+          "item": "Where is they / their luggage?",
+          "answer": "their"
+        },
+        {
+          "item": "He is my friend. I usually visit he / him on Sundays.",
+          "answer": "him"
+        },
+        {
+          "item": "I don't like she / her singing.",
+          "answer": "her"
+        },
+        {
+          "item": "The book is interesting. I love it / its story.",
+          "answer": "its"
+        },
+        {
+          "item": "Can you give I / me a minute?",
+          "answer": "me"
+        },
+        {
+          "item": "We are a team. This is we / our victory.",
+          "answer": "our"
+        },
+        {
+          "item": "The manager wants to see they / them immediately.",
+          "answer": "them"
+        }
+      ]
+    }
+  ]
+}
+

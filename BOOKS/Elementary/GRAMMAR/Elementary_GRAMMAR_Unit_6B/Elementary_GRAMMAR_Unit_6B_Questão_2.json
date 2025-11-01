@@ -1,0 +1,395 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "play", "read", "travel", "watch", "visit", "clean", "write"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Uncle Tom, How are you? I'm having a great summer. I really enjoy traveling new places. Last week, I loved ¹ __________ a small village by the sea. It was beautiful! In the evenings, I like ² __________ books – especially adventure stories. My cousin, Ana, is here too. She likes ³ __________ video games a lot, but I don't really like ⁴ __________ them. We both don't mind ⁵ __________ the house sometimes, and we love ⁶ __________ short stories. See you soon, Laura",
+          "answer": "¹visiting, ²reading, ³playing, ⁴watching, ⁵cleaning, ⁶writing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "help", "volunteer", "work", "meet", "organize", "teach", "give"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Professor Miller, I hope this email finds you well. I’m writing about my experience. I enjoy helping people in my community. I don’t mind ¹ __________ on Saturdays for a good cause. I prefer ² __________ new people at events. After school, I love ³ __________ to children in my neighborhood. I also enjoy ⁴ __________ food drives. We both like ⁵ __________ advice to younger students. I also like ⁶ __________ in groups for projects. Sincerely, Ryan",
+          "answer": "¹volunteering, ²meeting, ³teaching, ⁴organizing, ⁵giving, ⁶working"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "eat", "sleep", "relax", "work", "dance", "shop", "go"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Chloe, How are you? I wanted to tell you about my plans for the weekend. I love sleeping! I usually wake up late on Saturdays. I also enjoy ¹ __________ and watching movies at home. My friend Liam doesn't mind ² __________ on Saturdays, but I prefer doing something active. Like, he really likes ³ __________ in the gym, but I hate ⁴ __________! And what about food? Do you like ⁵ __________ to restaurants? I love ⁶ __________ out! Talk soon, Chloe",
+          "answer": "¹relaxing, ²working, ³dancing, ⁴shopping, ⁵going, ⁶eating"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "run", "sing", "drive", "help", "teach", "wait", "call", "play"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hello everyone, My name is Ben and I'm a music teacher. I love singing because it makes me happy. I don't mind ¹ __________ children; it's a very rewarding job. After work, I usually go to the park. I enjoy ² __________ basketball with my friends. I don't like ³ __________ very much, especially when it's hot. On the weekends, I sometimes like ⁴ __________ my old friends, but I hate ⁵ __________ for people who are late. Also, my friend loves ⁶ __________ fast cars. See you around, Ben",
+          "answer": "¹teaching, ²playing, ³running, ⁴calling, ⁵waiting, ⁶driving"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "drink", "watch", "talk", "meet", "study", "make", "visit", "draw"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Dear Professor Lee, I hope you are well. I'm writing about the upcoming project. I don't like studying new things, but I know it's important. I enjoy ¹ __________ with my classmates to discuss ideas. After class, I like ² __________ coffee with my friends at the campus cafe. We often spend time ³ __________ funny pictures while we chat. My friend, Leo, loves ⁴ __________ his grandparents on Sundays. We both hate ⁵ __________ horror movies, but we love ⁶ __________ new friends. Sincerely, Sarah",
+          "answer": "¹talking, ²drinking, ³drawing, ⁴visiting, ⁵watching, ⁶meeting"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "dance", "explore", "hike", "travel", "sing", "listen", "try"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Leo, How are you? I'm excited about our trip next month! I love traveling to new countries. I don't mind ¹ __________ new foods, even if they look strange. I really enjoy ² __________ in the mountains – the views are amazing! When we are tired, I like ³ __________ to music or ⁴ __________ to relax. I hope you also enjoy ⁵ __________ to local festivals! We could even ⁶ __________ if there is a fun party! See you soon, Mia",
+          "answer": "¹trying, ²hiking, ³listening, ⁴singing, ⁵going, ⁶dancing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "bake", "buy", "make", "play", "read", "meet", "paint"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Sarah, How’s your art class going? I love painting; it’s so relaxing. I don’t mind ¹ __________ new art supplies online, but I prefer to go to the store. My friend Tom likes ² __________ new people, so he often goes to art events. He also loves ³ __________ cakes for his friends – they are delicious! After classes, I enjoy ⁴ __________ a good book at the park. And sometimes, I really like ⁵ __________ board games with my family. We also enjoy ⁶ __________ jewelry together. Talk soon, Emily",
+          "answer": "¹buying, ²meeting, ³baking, ⁴reading, ⁵playing, ⁶making"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "eat", "cook", "study", "learn", "write", "watch", "work"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Professor Davies, I hope this email finds you well. I’m writing about my progress in the course. I enjoy learning new things in your class. I don’t like ¹ __________ late every night, but I know it's necessary. I prefer ² __________ in the morning. After classes, I love ³ __________ healthy meals for my family. I don't mind ⁴ __________ new recipes. Sometimes, I enjoy ⁵ __________ documentaries about history. I also like ⁶ __________ notes during your lectures. Best regards, Michael",
+          "answer": "¹studying, ²working, ³cooking, ⁴trying, ⁵watching, ⁶writing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "clean", "call", "visit", "relax", "plan", "listen", "run"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Grandma, How are you? I wanted to tell you about my weekend. I love visiting you, but I couldn't this time. I decided to ¹ __________ at home. I don’t mind ² __________ to my favorite music. I also enjoy ³ __________ in the park on sunny days. My sister hates ⁴ __________ the house, but I don't mind it sometimes. We spent some time ⁵ __________ our next family dinner. I hope to ⁶ __________ you very soon! Love, Jessica",
+          "answer": "¹relaxing, ²listening, ³running, ⁴cleaning, ⁵planning, ⁶calling"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "take", "drink", "organize", "read", "sing", "meet", "talk"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Chris, How’s your new job? I hope it’s going well. I love meeting new people at my work events. I don’t mind ¹ __________ in big groups, but I prefer one-on-one conversations. I enjoy ² __________ photos of nature; it’s my hobby. After work, I like ³ __________ a cup of tea and ⁴ __________ a book. My colleague likes ⁵ __________ karaoke, but I’m not good at it. We also spend time ⁶ __________ our weekly tasks. Cheers, Sam",
+          "answer": "¹talking, ²taking, ³drinking, ⁴reading, ⁵singing, ⁶organizing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "play", "make", "travel", "sing", "listen", "read", "buy"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Clara, How are you? I'm excited about our next vacation! I love traveling to new countries. I don't mind ¹ __________ souvenirs for my friends, but I prefer local crafts. I really enjoy ² __________ music while I'm on the go. When we are tired, I like ³ __________ a good book. I hope you also enjoy ⁴ __________ new friends in different cities! We could even ⁵ __________ funny videos of our trip and ⁶ __________ new songs together. See you soon, Tom",
+          "answer": "¹buying, ²listening, ³reading, ⁴meeting, ⁵making, ⁶singing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "learn", "paint", "clean", "visit", "bake", "write", "draw"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Daniel, How’s your new art project? I love drawing; it’s so relaxing. I don’t mind ¹ __________ my art studio, but it can be messy. My friend Lisa likes ² __________ new things, so she’s taking a pottery class. She also loves ³ __________ cookies for her neighbors – they are delicious! After classes, I enjoy ⁴ __________ in my journal about my day. And sometimes, I really like ⁵ __________ old museums. We also enjoy ⁶ __________ abstract pictures together. Talk soon, Sophia",
+          "answer": "¹cleaning, ²learning, ³baking, ⁴writing, ⁵visiting, ⁶painting"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "eat", "try", "study", "watch", "work", "help", "talk"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Professor Green, I hope this email finds you well. I’m writing about my progress in the course. I enjoy studying about new technologies in your class. I don’t like ¹ __________ late every night, but I know it's necessary. I prefer ² __________ in groups. After classes, I love ³ __________ new restaurants with my friends. I don't mind ⁴ __________ new dishes. Sometimes, I enjoy ⁵ __________ science fiction movies. I also like ⁶ __________ my classmates with their projects. Best regards, Leo",
+          "answer": "¹working, ²talking, ³trying, ⁴eating, ⁵watching, ⁶helping"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "play", "run", "sleep", "relax", "walk", "call", "read"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Aunt Carol, How are you? I wanted to tell you about my weekend. I love relaxing at home on Sundays. I don’t mind ¹ __________ in the morning; it’s good for my health. I also enjoy ² __________ my dog in the park. My cousin Mark hates ³ __________ video games, but I don't mind it sometimes. We spent some time ⁴ __________ a good book. I hope to ⁵ __________ you very soon! And sometimes, I love ⁶ __________ my old friends. Love, David",
+          "answer": "¹running, ²walking, ³playing, ⁴reading, ⁵calling, ⁶visiting"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "cook", "drink", "organize", "meet", "drive", "give", "teach"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Alex, How’s your new project? I hope it’s going well. I love meeting new clients. I don’t mind ¹ __________ presentations in front of people. I enjoy ² __________ coffee in the morning; it helps me focus. After work, I like ³ __________ healthy dinners. My colleague likes ⁴ __________ his car fast, but I’m not a fan of that. We also spend time ⁵ __________ our weekly tasks. I don't mind ⁶ __________ my knowledge to new team members. Cheers, Maria",
+          "answer": "¹giving, ²drinking, ³cooking, ⁴driving, ⁵organizing, ⁶teaching"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "study", "listen", "read", "make", "do", "relax", "learn"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Sam, How are you? I hope your week is going well. I love studying at home, especially when it’s quiet. I don’t mind ¹ __________ to soft music while I work. I also enjoy ² __________ a good book in the evenings. After classes, I like ³ __________ delicious snacks. I don't mind ⁴ __________ homework, but I prefer ⁵ __________ fun activities. I also enjoy ⁶ __________ new things online. Talk soon, Ryan",
+          "answer": "¹listening, ²reading, ³making, ⁴doing, ⁵relaxing, ⁶learning"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "work", "study", "relax", "go", "play", "help", "eat"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Julia, I hope this email finds you well. I’m writing about my week. I enjoy working on interesting projects. I don’t like ¹ __________ too much, but it’s sometimes necessary. I prefer ² __________ after a long day. After work, I love ³ __________ to the gym. I don't mind ⁴ __________ new sports. Sometimes, I enjoy ⁵ __________ video games with my brother. I also like ⁶ __________ friends with their tasks. Best wishes, Ryan",
+          "answer": "¹studying, ²relaxing, ³going, ⁴playing, ⁵eating, ⁶helping"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "walk", "collect", "sing", "dance", "read", "call", "draw"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Sarah, How are you? I wanted to tell you about my weekend. I love walking by the beach on Sundays. I don’t mind ¹ __________ shells – it’s a nice memory. I also enjoy ² __________ my favorite songs. My cousin Chloe hates ³ __________ in public, but I don't mind it sometimes. We spent some time ⁴ __________ comic books. I hope to ⁵ __________ you very soon! And sometimes, I love ⁶ __________ new art. Love, Ryan",
+          "answer": "¹collecting, ²singing, ³dancing, ⁴reading, ⁵calling, ⁶drawing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "learn", "write", "drink", "meet", "organize", "give", "manage"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Professor Lee, I hope you are well. I'm writing about my progress. I enjoy learning new things in your class. I don’t mind ¹ __________ essays, but they can be long. I enjoy ² __________ coffee in the mornings. After class, I like ³ __________ with my study group to discuss assignments. We often spend time ⁴ __________ our weekly tasks. My friend, Leo, loves ⁵ __________ advice to others. We both hate ⁶ __________ difficult situations, but we learn a lot. Sincerely, Ryan",
+          "answer": "¹writing, ²drinking, ³meeting, ⁴organizing, ⁵giving, ⁶managing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "visit", "watch", "bake", "read", "eat", "help", "sing"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Aunt Carol, How are you? I hope you had a good week. I love visiting new places. I don't mind ¹ __________ my favorite TV shows in the evenings. My brother loves ² __________ cookies, and I enjoy ³ __________ them! After school, I like ⁴ __________ my friends with their homework. Sometimes, I enjoy ⁵ __________ funny songs. Love, Ryan",
+          "answer": "¹watching, ²baking, ³eating, ⁴helping, ⁵singing, ⁶playing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "decorate", "clean", "buy", "make", "talk", "find", "use"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Chris, How’s your new apartment? I hope it’s good. I love decorating my home. I don’t mind ¹ __________ it, but it takes time. I enjoy ² __________ new furniture online. My friend Alex likes ³ __________ new ideas for parties. He also loves ⁴ __________ to people about his projects. We both enjoy ⁵ __________ new solutions for problems. Sometimes, I like ⁶ __________ new apps on my phone. Cheers, Ryan",
+          "answer": "¹cleaning, ²buying, ³making, ⁴talking, ⁵finding, ⁶using"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "learn", "study", "go", "play", "run", "swim", "write"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Professor Jones, I hope this email finds you well. I’m writing about my progress this semester. I enjoy learning new things in your class. I don’t like ¹ __________ for exams too much, but I do it. I prefer ² __________ in the library. After classes, I love ³ __________ sports, especially soccer. I don't mind ⁴ __________ to the gym regularly. Sometimes, I enjoy ⁵ __________ in the pool. I also like ⁶ __________ stories about science. Sincerely, Ryan",
+          "answer": "¹studying, ²going, ³playing, ⁴running, ⁵swimming, ⁶writing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "travel", "wake up", "relax", "listen", "call", "sleep", "eat"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Daniel, How are you? I’m having a great time on my vacation. I love traveling to warm places. I don’t mind ¹ __________ early to see the sunrise. I really enjoy ² __________ by the pool. When I’m hungry, I like ³ __________ local food. I hope you also enjoy ⁴ __________ to music on your trips! Sometimes, I like ⁵ __________ my family back home. After a long day, I love ⁶ __________ a lot. Best wishes, Ryan",
+          "answer": "¹waking up, ²relaxing, ³eating, ⁴listening, ⁵calling, ⁶sleeping"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "read", "work", "walk", "drive", "bake", "watch", "clean"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Emma, How was your weekend? Mine was quiet. I love reading books on Saturday mornings. I don't mind ¹ __________ on my computer sometimes, but not too much. I enjoy ² __________ short distances to the store. My brother likes ³ __________ cars, but I don't. He also loves ⁴ __________ for friends in the kitchen. We both enjoy ⁵ __________ TV shows together. I also like ⁶ __________ the house if it's messy. Talk soon, Ryan",
+          "answer": "¹working, ²walking, ³driving, ⁴baking, ⁵watching, ⁶cleaning"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "play", "run", "swim", "exercise", "go", "win", "compete"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Leo, How’s your sports training? I hope it’s going well. I love playing soccer with my friends. I don’t mind ¹ __________ long distances; it makes me strong. I enjoy ² __________ in the pool, especially in summer. My coach likes ³ __________ to the gym every day. He also loves ⁴ __________ in races. We both enjoy ⁵ __________ as a team. I also like ⁶ __________ sports matches. Cheers, Ryan",
+          "answer": "¹running, ²swimming, ³exercising, ⁴competing, ⁵winning, ⁶going"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "go", "dance", "listen", "meet", "try", "talk", "play"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Alex, How was your weekend? Mine was great! I love going to new places on Saturdays. I don’t mind ¹ __________ new people; it’s always interesting. I also enjoy ² __________ to live music. My friends love ³ __________ at parties, but I’m not very good at it. We sometimes like ⁴ __________ board games. I also enjoy ⁵ __________ new types of food. We spent a lot of time ⁶ __________ about our plans. Cheers, Ryan",
+          "answer": "¹meeting, ²listening, ³dancing, ⁴playing, ⁵trying, ⁶talking"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "walk", "read", "observe", "relax", "write", "draw", "take"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Uncle Tom, How are you? I’m having a peaceful week. I love taking photos of nature. I don’t mind ¹ __________ long distances in the park. I really enjoy ² __________ animals in their natural habitat. In the evenings, I like ³ __________ a good book or ⁴ __________ in my armchair. Sometimes, I enjoy ⁵ __________ pictures of landscapes. I also like ⁶ __________ notes about my observations. See you soon, Ryan",
+          "answer": "¹walking, ²observing, ³reading, ⁴relaxing, ⁵drawing, ⁶writing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "ask", "prepare", "discuss", "answer", "help", "present", "study"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Professor Chen, I hope this email finds you well. I’m writing about my progress in the course. I enjoy studying about new topics every week. I don’t mind ¹ __________ questions in class; it helps me learn. I prefer ² __________ with my classmates for projects. After classes, I love ³ __________ presentations to the group. I also enjoy ⁴ __________ my friends with their assignments. We spend time ⁵ __________ questions in our study group. I also like ⁶ __________ for difficult exams. Sincerely, Ryan",
+          "answer": "¹asking, ²preparing, ³presenting, ⁴helping, ⁵answering, ⁶discussing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "taste", "learn", "explore", "share", "speak", "make", "travel"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Mia, How’s your trip going? I hope it’s fun! I love traveling to different countries. I don’t mind ¹ __________ new and unusual food. I enjoy ² __________ about local cultures. My friend Alex likes ³ __________ new friends wherever he goes. He also loves ⁴ __________ with people in different languages. We both enjoy ⁵ __________ stories from our adventures. I also like ⁶ __________ local crafts. Best wishes, Ryan",
+          "answer": "¹tasting, ²Learning, ³making, ⁴speaking, ⁵Sharing, ⁶exploring"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email with the verbs in the box. Use the -ing form.",
+      "options": [
+        "try", "explore", "listen", "dance", "go", "sing", "travel"
+      ],
+      "qa_pairs": [
+        {
+          "item": "Hi Emily, How are you? I'm excited about our trip next month! I love traveling to new countries. I don't mind ¹ __________ new foods, even if they look strange. I really enjoy ² __________ outside in new places – the views are amazing! When we are tired, I like ³ __________ to music or ⁴ __________ to relax. I hope you also enjoy ⁵ __________ to local festivals! We could even ⁶ __________ if there is a fun party! See you soon, Ryan",
+          "answer": "¹trying, ²exploring, ³listening, ⁴singing, ⁵going, ⁶dancing"
+        }
+      ]
+    }
+  ]
+}
+

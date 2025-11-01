@@ -1,0 +1,934 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you want to be a pilot?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a receptionist answer the phone?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you work with tourists?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Amelia drive a bus?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a soldier wear a uniform?' 'Yes, he ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What time ___ the shop assistant start work?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ police officers work at night?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you want to be a pilot?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a receptionist answer the phone?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you work with tourists?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Amelia drive a bus?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a soldier wear a uniform?' 'Yes, he ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What time ___ the shop assistant start work?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ police officers work at night?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you speak Japanese?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a journalist write articles?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your parents work in London?' 'Yes, they ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ Mr Harris teach French?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a musician work in a hospital?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 Where ___ a builder work?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ you and your friend study together?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you like your job?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ an architect design buildings?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you earn a lot of money?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ your sister work in a school?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a chef cook food?' 'Yes, he ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What ___ nurses do?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ models travel for work?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do they live in a flat?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a flight attendant serve passengers?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you speak German?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ your father work on a farm?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a lawyer work alone?' 'No, she ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 How ___ you travel to work?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ engineers solve problems?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you get up early?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a painter work with colours?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do they work on Sundays?' 'No, they ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Leo play the guitar in a band?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your mum work in a shop?' 'Yes, she ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What ___ a taxi driver do?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ factory workers make things?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you have a large family?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a politician give speeches?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you speak French?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ your cousin work in a hospital?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a farmer work in an office?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 Where ___ your grandparents live?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ pilots fly planes?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you read the newspaper?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a cleaner work at night?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you and your friend live near the school?' 'No, we ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ your teacher speak Spanish?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a police officer help people?' 'Yes, he ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What language ___ your boss speak?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ actors work in a theatre?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you play sports?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a dentist look at teeth?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your children go to bed late?' 'Yes, they ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ Olivia work with computers?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a shop assistant wear a suit?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 When ___ you finish work?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ waiters serve food in a restaurant?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you drink tea in the morning?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a mechanic fix cars?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you speak Italian?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ his brother work in a bank?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a hairdresser cut hair?' 'Yes, she ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 How many languages ___ you speak?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ receptionists work in hotels?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do penguins live in the Arctic?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a nurse wear a uniform?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you like your job?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ her husband work as a builder?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a journalist work from home?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 Why ___ you want a new job?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ they sell computers in that shop?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you work every day?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ an accountant work with numbers?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your parents live in the city?' 'No, they ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Sofia want to be a dentist?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your brother have a car?' 'Yes, he ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What time ___ you start work?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ musicians play instruments?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you live alone?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a scientist do experiments?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you speak Portuguese?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ your friend like his job?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a vet work with children?' 'No, she ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 Where ___ a chef work?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ police officers drive fast cars?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you go to the cinema often?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a farmer live in the countryside?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you and your family eat together?' 'No, we ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ James work as a tour guide?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a secretary send emails?' 'Yes, she ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What ___ you do in the evening?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ builders wear helmets?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you listen to music on the bus?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a graphic designer use a computer?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your colleagues speak English?' 'Yes, they ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ your flatmate cook dinner?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a pilot work in an office?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 How often ___ you check your emails?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ dentists earn good salaries?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you have any brothers or sisters?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a postman deliver letters?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you work at the weekend?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Maria work in a library?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a taxi driver know the city?' 'Yes, he ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 Where ___ your best friend live?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ journalists interview people?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you want a cup of tea?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a firefighter put out fires?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your friends live near here?' 'Yes, they ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ your manager speak other languages?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does an actor work in a hospital?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 What sports ___ your children play?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ pharmacists sell medicine?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you know the answer?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a zookeeper feed animals?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you drive to work?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ your dad work in an office?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a receptionist answer the phone?' 'Yes, she ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 When ___ the film start?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ all your friends have jobs?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you like cooking?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ an engineer design bridges?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you and your sister look the same?' 'Yes, we ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ the manager of this shop work here every day?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a lawyer wear a uniform?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 How ___ your brother get to university?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ professional footballers earn a lot of money?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do we have a class tomorrow?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a cashier work with money?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you speak Chinese?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ your flat have a balcony?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your sister work on Saturdays?' 'Yes, she ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 What kind of music ___ your father like?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ tour guides travel a lot?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you think English is difficult?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a web designer create websites?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your parents speak English?' 'Yes, they ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ Mr. Smith teach history?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does a dog eat vegetables?' 'No, it ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 Where ___ your cousins live?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ office workers sit at a desk?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you prefer tea or coffee?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a judge work in a court?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you watch TV in the morning?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ the lesson finish at 10 o'clock?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your car use a lot of petrol?' 'Yes, it ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 How much ___ a ticket to London cost?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ the shops here close on Sundays?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you need any help?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a software developer write code?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you get up early on Mondays?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ Carlos play tennis?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your television work?' 'No, it ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 What time ___ the banks open?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ gardeners work outside?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do they have a meeting every week?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a photographer take photos?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you live in a house?' 'No, I ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ the café on the corner sell sandwiches?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your teacher give a lot of homework?' 'Yes, she ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 Where ___ your parents work?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ sales assistants help customers?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you take sugar in your coffee?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ an electrician work with wires?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you speak Spanish?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ the bus stop near your house?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your brother like football?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 Which room ___ you like best in your house?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ children learn languages quickly?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you work or are you a student?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a plumber fix toilets and sinks?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do your friends call you often?' 'No, they ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Jessica have a part-time job?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your mobile phone have a good battery?' 'Yes, it ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 Where ___ a pilot usually work?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ the museums in your city charge for entry?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you come here often?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a tailor make clothes?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you need to go now?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ this computer have a good processor?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your boss work on Sundays?' 'No, he ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 What ___ your parents do at the weekend?",
+          "answer": "do"
+        },
+        {
+          "item": "6 ___ vets help sick animals?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you understand the question?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a baker make bread?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you and your flatmate clean the flat?' 'No, we ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ Sarah speak German?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does the train from Manchester arrive on time?' 'Yes, it ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 How often ___ your family eat in a restaurant?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ police officers have to be strong?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you want to order a pizza?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a farmer work with animals?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you play the guitar?' 'Yes, I ___.'",
+          "answer": "do"
+        },
+        {
+          "item": "3 ___ the library open on Sundays?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your friend have a job?' 'No, she ___.'",
+          "answer": "doesn't"
+        },
+        {
+          "item": "5 What time ___ the next bus leave?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ they sell tickets online?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": "Do you know what time it is?",
+      "qa_pairs": [
+        {
+          "item": "1 ___ a journalist write for a newspaper?",
+          "answer": "Does"
+        },
+        {
+          "item": "2 'Do you and your boss work well together?' 'No, we ___.'",
+          "answer": "don't"
+        },
+        {
+          "item": "3 ___ the supermarket sell fresh fruit?",
+          "answer": "Does"
+        },
+        {
+          "item": "4 'Does your phone need charging?' 'Yes, it ___.'",
+          "answer": "does"
+        },
+        {
+          "item": "5 Where ___ your mother work?",
+          "answer": "does"
+        },
+        {
+          "item": "6 ___ all the students in your class speak English?",
+          "answer": "Do"
+        }
+      ]
+    }
+  ]
+}

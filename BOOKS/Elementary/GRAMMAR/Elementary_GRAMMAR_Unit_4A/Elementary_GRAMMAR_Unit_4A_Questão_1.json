@@ -1,0 +1,395 @@
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["The dog always chases the cat in the garden.","Always the dog chases the cat in the garden."],"answer": "A"},
+            {"item": "2","options": ["Do you play chess sometimes?","Play you sometimes chess?"],"answer": "A"},
+            {"item": "3","options": ["She every Saturday visits her grandmother.","She visits her grandmother every Saturday."],"answer": "B"},
+            {"item": "4","options": ["He washes his car usually on Sunday.","He usually washes his car on Sunday."],"answer": "B"},
+            {"item": "5","options": ["My brother drinks coffee never.","My brother never drinks coffee."],"answer": "B"},
+            {"item": "6","options": ["The train doesn't come on time often.","The train often doesn't come on time."],"answer": "B"},
+            {"item": "7","options": ["We go always to the beach in summer.","We always go to the beach in summer."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["They usually take the bus to school.","Usually they take the bus to school."],"answer": "A"},
+            {"item": "2","options": ["My cat climbs always the tree when it rains.","My cat always climbs the tree when it rains."],"answer": "B"},
+            {"item": "3","options": ["He travels to Japan never.","He never travels to Japan."],"answer": "B"},
+            {"item": "4","options": ["Do you every day walk your dog?","Do you walk your dog every day?"],"answer": "B"},
+            {"item": "5","options": ["She reads often before bed.","She often reads before bed."],"answer": "B"},
+            {"item": "6","options": ["We play football at the sometimes park.","We sometimes play football at the park."],"answer": "B"},
+            {"item": "7","options": ["I eat lunch at work never.","I never eat lunch at work."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["Does your cousin always visit in the winter?","Always does your cousin visit in the winter?"],"answer": "A"},
+            {"item": "2","options": ["I don't usually go out on weekdays.","I usually don't go out on weekdays."],"answer": "A"},
+            {"item": "3","options": ["He never is late to meetings.","He is never late to meetings."],"answer": "B"},
+            {"item": "4","options": ["They come sometimes early to the office.","They sometimes come early to the office."],"answer": "B"},
+            {"item": "5","options": ["I go always shopping on Fridays.","I always go shopping on Fridays."],"answer": "B"},
+            {"item": "6","options": ["Do you watch movies often?","Watch you movies often?"],"answer": "A"},
+            {"item": "7","options": ["Birds usually sing in the morning.","Usually birds sing in the morning."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["We visit rarely our grandparents.","We rarely visit our grandparents."],"answer": "B"},
+            {"item": "2","options": ["Does she listen to the radio sometimes?","Listens she to the radio sometimes?"],"answer": "A"},
+            {"item": "3","options": ["I never drink soda.","I drink soda never."],"answer": "A"},
+            {"item": "4","options": ["He always brings lunch from home.","Always he brings lunch from home."],"answer": "A"},
+            {"item": "5","options": ["They eat often dinner at that restaurant.","They often eat dinner at that restaurant."],"answer": "B"},
+            {"item": "6","options": ["My friend goes to the cinema never.","My friend never goes to the cinema."],"answer": "B"},
+            {"item": "7","options": ["Do you often write poems?","Often do you write poems?"],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["She never calls her friends late at night.","She calls her friends never late at night."],"answer": "A"},
+            {"item": "2","options": ["Do your parents always drink tea in the evening?","Always do your parents drink tea in the evening?"],"answer": "A"},
+            {"item": "3","options": ["I usually sleep with the window open.","I sleep usually with the window open."],"answer": "A"},
+            {"item": "4","options": ["They go rarely to concerts.","They rarely go to concerts."],"answer": "B"},
+            {"item": "5","options": ["We often travel during holidays.","We travel often during holidays."],"answer": "A"},
+            {"item": "6","options": ["He doesn't usually eat breakfast.","He usually doesn't eat breakfast."],"answer": "A"},
+            {"item": "7","options": ["I read always before I sleep.","I always read before I sleep."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["The baby always cries when it's hungry.","Always the baby cries when it's hungry."],"answer": "A"},
+            {"item": "2","options": ["Do you clean often your room?","Do you often clean your room?"],"answer": "B"},
+            {"item": "3","options": ["I never am tired in the morning.","I am never tired in the morning."],"answer": "B"},
+            {"item": "4","options": ["She usually wears a hat in the sun.","She wears usually a hat in the sun."],"answer": "A"},
+            {"item": "5","options": ["They sometimes play board games.","They play sometimes board games."],"answer": "A"},
+            {"item": "6","options": ["We eat pizza always on Friday.","We always eat pizza on Friday."],"answer": "B"},
+            {"item": "7","options": ["Does your sister late arrive often?","Does your sister often arrive late?"],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["He usually forgets his umbrella.","He forgets usually his umbrella."],"answer": "A"},
+            {"item": "2","options": ["I rarely go to the gym during winter.","I go to the gym rarely during winter."],"answer": "A"},
+            {"item": "3","options": ["Do they sometimes cook together?","They cook do sometimes together?"],"answer": "A"},
+            {"item": "4","options": ["My uncle never drives to work.","My uncle drives never to work."],"answer": "A"},
+            {"item": "5","options": ["We take the train always in the morning.","We always take the train in the morning."],"answer": "B"},
+            {"item": "6","options": ["She every night reads a story.","She reads a story every night."],"answer": "B"},
+            {"item": "7","options": ["You often are early for school.","You are often early for school."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I always walk my dog after dinner.","I walk my dog always after dinner."],"answer": "A"},
+            {"item": "2","options": ["Does he usually work on weekends?","Usually does he work on weekends?"],"answer": "A"},
+            {"item": "3","options": ["She never eats vegetables.","She eats never vegetables."],"answer": "B"},
+            {"item": "4","options": ["They travel often by car.","They often travel by car."],"answer": "B"},
+            {"item": "5","options": ["My teacher gives never homework on Fridays.","My teacher never gives homework on Fridays."],"answer": "B"},
+            {"item": "6","options": ["You are usually tired after lunch.","Are you tired usually after lunch?"],"answer": "A"},
+            {"item": "7","options": ["We often see deer in the forest.","Often we see deer in the forest."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I usually take a nap after lunch.","Usually I take a nap after lunch."],"answer": "A"},
+            {"item": "2","options": ["Do you always eat cereal in the morning?","You eat cereal in the morning always?"],"answer": "A"},
+            {"item": "3","options": ["My father is never angry.","My father never is angry."],"answer": "A"},
+            {"item": "4","options": ["They sometimes have dinner at 10 p.m.","They have dinner at sometimes 10 p.m."],"answer": "B"},
+            {"item": "5","options": ["The kids go never to bed early.","The kids never go to bed early."],"answer": "B"},
+            {"item": "6","options": ["She writes often in her diary.","She often writes in her diary."],"answer": "B"},
+            {"item": "7","options": ["Do you every summer travel abroad?","Do you travel abroad every summer?"],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["We rarely eat sweets.","Rarely we eat sweets."],"answer": "A"},
+            {"item": "2","options": ["My cousin never studies at night.","My cousin studies at night never."],"answer": "A"},
+            {"item": "3","options": ["Do they often forget their keys?","Often do they forget their keys?"],"answer": "A"},
+            {"item": "4","options": ["He always is nervous before exams.","He is always nervous before exams."],"answer": "B"},
+            {"item": "5","options": ["I go sometimes to the museum.","I sometimes go to the museum."],"answer": "B"},
+            {"item": "6","options": ["You usually eat too fast.","Usually you eat too fast."],"answer": "A"},
+            {"item": "7","options": ["She drinks tea every morning.","She every morning drinks tea."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["She often listens to music while studying.","She listens often music while studying."],"answer": "A"},
+            {"item": "2","options": ["I never eat ice cream in winter.","I eat ice cream never in winter."],"answer": "A"},
+            {"item": "3","options": ["Do your friends usually play video games?","Do usually your friends play video games?"],"answer": "A"},
+            {"item": "4","options": ["We go sometimes to the zoo on Sundays.","We sometimes go to the zoo on Sundays."],"answer": "B"},
+            {"item": "5","options": ["He always wears gloves in the snow.","Always he wears gloves in the snow."],"answer": "A"},
+            {"item": "6","options": ["My dog barks never at strangers.","My dog never barks at strangers."],"answer": "B"},
+            {"item": "7","options": ["Do you every day take the same bus?","Do you take the same bus every day?"],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["She usually forgets her keys at home.","Usually she forgets her keys at home."],"answer": "A"},
+            {"item": "2","options": ["They never bring snacks to school.","They bring snacks to school never."],"answer": "A"},
+            {"item": "3","options": ["Do you sometimes go running in the morning?","Sometimes do you go running in the morning?"],"answer": "A"},
+            {"item": "4","options": ["I watch usually cartoons before bed.","I usually watch cartoons before bed."],"answer": "B"},
+            {"item": "5","options": ["The baby cries often at night.","The baby often cries at night."],"answer": "B"},
+            {"item": "6","options": ["He does always his homework after dinner.","He always does his homework after dinner."],"answer": "B"},
+            {"item": "7","options": ["We go swimming every weekend.","We every weekend go swimming."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I drink always water after exercising.","I always drink water after exercising."],"answer": "B"},
+            {"item": "2","options": ["Does your teacher usually start the class on time?","Usually does your teacher start the class on time?"],"answer": "A"},
+            {"item": "3","options": ["My friends sometimes help me with homework.","My friends help sometimes me with homework."],"answer": "A"},
+            {"item": "4","options": ["She never is bored during science class.","She is never bored during science class."],"answer": "B"},
+            {"item": "5","options": ["We play often with our cousins.","We often play with our cousins."],"answer": "B"},
+            {"item": "6","options": ["He drives never in the rain.","He never drives in the rain."],"answer": "B"},
+            {"item": "7","options": ["Do they usually eat lunch together?","They eat lunch together usually?"],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["The baby always smiles when she sees her mother.","Always the baby smiles when she sees her mother."],"answer": "A"},
+            {"item": "2","options": ["I don't often eat meat.","I don't eat often meat."],"answer": "A"},
+            {"item": "3","options": ["Do you usually go to school by bike?","Go you to school by bike usually?"],"answer": "A"},
+            {"item": "4","options": ["My brother never cleans his room.","My brother cleans his room never."],"answer": "A"},
+            {"item": "5","options": ["We usually sit near the window.","We sit usually near the window."],"answer": "A"},
+            {"item": "6","options": ["They often travel in summer.","They travel often in summer."],"answer": "B"},
+            {"item": "7","options": ["She does her homework never on time.","She never does her homework on time."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I rarely see owls in the forest.","I see owls rarely in the forest."],"answer": "A"},
+            {"item": "2","options": ["Do you always read before bed?","Do always you read before bed?"],"answer": "A"},
+            {"item": "3","options": ["He doesn't usually wake up early.","He usually doesn't wake up early."],"answer": "A"},
+            {"item": "4","options": ["We sometimes bake cookies together.","We bake sometimes cookies together."],"answer": "A"},
+            {"item": "5","options": ["She never brings her lunch.","She brings never her lunch."],"answer": "A"},
+            {"item": "6","options": ["The cat sleeps often on my clothes.","The cat often sleeps on my clothes."],"answer": "B"},
+            {"item": "7","options": ["They every year visit their cousins.","They visit their cousins every year."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["The bird sings usually in the morning.","The bird usually sings in the morning."],"answer": "B"},
+            {"item": "2","options": ["I never drink coffee before class.","I drink coffee never before class."],"answer": "A"},
+            {"item": "3","options": ["Do they always arrive late on Fridays?","Always do they arrive late on Fridays?"],"answer": "A"},
+            {"item": "4","options": ["She sometimes draws pictures in her notebook.","She draws sometimes pictures in her notebook."],"answer": "A"},
+            {"item": "5","options": ["My parents go never to the cinema.","My parents never go to the cinema."],"answer": "B"},
+            {"item": "6","options": ["We visit the museum every month.","We every month visit the museum."],"answer": "A"},
+            {"item": "7","options": ["He does his homework usually after dinner.","He usually does his homework after dinner."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["You always forget your books!","Always you forget your books!"],"answer": "A"},
+            {"item": "2","options": ["They often go camping in summer.","They go camping often in summer."],"answer": "A"},
+            {"item": "3","options": ["Does she usually eat vegetables?","Usually does she eat vegetables?"],"answer": "A"},
+            {"item": "4","options": ["We never see foxes around here.","We see never foxes around here."],"answer": "A"},
+            {"item": "5","options": ["My friends sometimes meet after school.","Do sometimes my friends meet after school."],"answer": "A"},
+            {"item": "6","options": ["He plays always the piano at night.","He always plays the piano at night."],"answer": "B"},
+            {"item": "7","options": ["Do you your room clean often?","Do you often clean your room?"],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I usually have cereal for breakfast.","I have usually cereal for breakfast."],"answer": "A"},
+            {"item": "2","options": ["She doesn't often read newspapers.","She often doesn't read newspapers."],"answer": "A"},
+            {"item": "3","options": ["Do you go to the beach every year?","Do you every year go to the beach?"],"answer": "A"},
+            {"item": "4","options": ["My cousin watches often cartoons.","My cousin often watches cartoons."],"answer": "B"},
+            {"item": "5","options": ["We never eat in that restaurant.","We eat in that restaurant never."],"answer": "A"},
+            {"item": "6","options": ["He always forgets his umbrella.","He forgets always his umbrella."],"answer": "A"},
+            {"item": "7","options": ["They sometimes are late for class.","They are sometimes late for class."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I brush my teeth always before bed.","I always brush my teeth before bed."],"answer": "B"},
+            {"item": "2","options": ["Do your friends often visit you?","Do often your friends visit you?"],"answer": "A"},
+            {"item": "3","options": ["She never listens to loud music.","She listens never to loud music."],"answer": "A"},
+            {"item": "4","options": ["They usually take the train to work.","Usually they take the train to work."],"answer": "A"},
+            {"item": "5","options": ["He goes rarely to the library.","He rarely goes to the library."],"answer": "B"},
+            {"item": "6","options": ["We cook sometimes pasta on Sundays.","We sometimes cook pasta on Sundays."],"answer": "B"},
+            {"item": "7","options": ["The baby cries often at night.","The baby often cries at night."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["Do you always wear a coat in winter?","Do always you wear a coat in winter?"],"answer": "A"},
+            {"item": "2","options": ["She often drinks juice with lunch.","She drinks juice often with lunch."],"answer": "A"},
+            {"item": "3","options": ["I never sleep during the day.","I sleep during the day never."],"answer": "A"},
+            {"item": "4","options": ["They usually go for walks in the evening.","They go for walks usually in the evening."],"answer": "A"},
+            {"item": "5","options": ["He sometimes is grumpy in the morning.","He is sometimes grumpy in the morning."],"answer": "B"},
+            {"item": "6","options": ["We eat out rarely.","We rarely eat out."],"answer": "B"},
+            {"item": "7","options": ["My sister always calls me on Sundays.","Always my sister calls me on Sundays."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["She often brings snacks for everyone.","She brings often snacks for everyone."],"answer": "A"},
+            {"item": "2","options": ["We never take the train on weekends.","We take never the train on weekends."],"answer": "A"},
+            {"item": "3","options": ["Do you sometimes forget your homework?","Do sometimes you forget your homework?"],"answer": "A"},
+            {"item": "4","options": ["They usually start work at 8 a.m.","Usually they start work at 8 a.m."],"answer": "A"},
+            {"item": "5","options": ["He goes fishing every Saturday.","He every Saturday goes fishing."],"answer": "A"},
+            {"item": "6","options": ["I always check my email in the morning.","I check always my email in the morning."],"answer": "A"},
+            {"item": "7","options": ["Does your mom cook dinner always?","Does your mom always cook dinner?"],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["My dog never eats vegetables.","My dog eats never vegetables."],"answer": "A"},
+            {"item": "2","options": ["We sometimes see shooting stars.","We see sometimes shooting stars."],"answer": "B"},
+            {"item": "3","options": ["Do you often go to concerts?","Do you go to often concerts?"],"answer": "A"},
+            {"item": "4","options": ["He always plays football after school.","Always he plays football after school."],"answer": "A"},
+            {"item": "5","options": ["I rarely drink soda.","I drink soda rarely."],"answer": "A"},
+            {"item": "6","options": ["They usually leave before 10 p.m.","They leave usually before 10 p.m."],"answer": "A"},
+            {"item": "7","options": ["She helps always her little brother.","She always helps her little brother."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["We never arrive late to class.","We arrive late never to class."],"answer": "A"},
+            {"item": "2","options": ["Does your brother usually watch the news?","Does usually your brother watch the news?"],"answer": "A"},
+            {"item": "3","options": ["I often take photos during my trips.","I take often photos during my trips."],"answer": "A"},
+            {"item": "4","options": ["She sometimes sings while cooking.","She sings sometimes while cooking."],"answer": "A"},
+            {"item": "5","options": ["My father always wears a tie to work.","Always my father wears a tie to work."],"answer": "A"},
+            {"item": "6","options": ["Do they every Sunday play tennis?","Do they play tennis every Sunday?"],"answer": "B"},
+            {"item": "7","options": ["You usually eat fast food, right?","Usually you eat fast food, right?"],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I don't usually sleep late.","I usually don't sleep late."],"answer": "A"},
+            {"item": "2","options": ["She goes to bed early always.","She always goes to bed early."],"answer": "B"},
+            {"item": "3","options": ["Do you sometimes study at the library?","You study sometimes at the library?"],"answer": "A"},
+            {"item": "4","options": ["My friends often meet at the park.","My friends meet at the park often."],"answer": "A"},
+            {"item": "5","options": ["He never takes sugar in his tea.","He takes never sugar in his tea."],"answer": "A"},
+            {"item": "6","options": ["They usually speak quietly.","Usually they speak quietly."],"answer": "A"},
+            {"item": "7","options": ["We walk to school every morning.","We every morning walk to school."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["She sometimes brings her guitar to school.","She brings sometimes her guitar to school."],"answer": "A"},
+            {"item": "2","options": ["I never forget my lunchbox.","I forget never my lunchbox."],"answer": "A"},
+            {"item": "3","options": ["Do they usually travel in July?","Usually do they travel in July?"],"answer": "A"},
+            {"item": "4","options": ["We often go swimming in the lake.","We go often swimming in the lake."],"answer": "A"},
+            {"item": "5","options": ["He always eats toast for breakfast.","He eats toast always for breakfast."],"answer": "A"},
+            {"item": "6","options": ["My grandma rarely watches TV.","My grandma watches rarely TV."],"answer": "A"},
+            {"item": "7","options": ["They sing every morning at school.","They every morning sing at school."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["She always takes notes during class.","She takes always notes during class."],"answer": "A"},
+            {"item": "2","options": ["Do you usually read before bed?","Do usually you read before bed?"],"answer": "A"},
+            {"item": "3","options": ["My brother never eats fast food.","My brother eats never fast food."],"answer": "A"},
+            {"item": "4","options": ["We go often to the countryside.","We often go to the countryside."],"answer": "B"},
+            {"item": "5","options": ["He sometimes plays chess with his dad.","He plays sometimes chess with his dad."],"answer": "A"},
+            {"item": "6","options": ["I usually eat fruit in the morning.","I eat usually fruit in the morning."],"answer": "A"},
+            {"item": "7","options": ["Do they every weekend watch movies?","Do they watch movies every weekend?"],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["I never go shopping on Mondays.","I go shopping on Mondays never."],"answer": "A"},
+            {"item": "2","options": ["They sometimes arrive late to school.","They arrive late to sometimes school."],"answer": "B"},
+            {"item": "3","options": ["She always studies in the afternoon.","Always she studies in the afternoon."],"answer": "A"},
+            {"item": "4","options": ["Do you usually walk to work?","You walk to work usually?"],"answer": "A"},
+            {"item": "5","options": ["He rarely speaks in class.","He speaks in class rarely."],"answer": "A"},
+            {"item": "6","options": ["We usually travel in December.","We travel usually in December."],"answer": "A"},
+            {"item": "7","options": ["My cat sleeps every day on the couch.","My cat every day sleeps on the couch."],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["Do you often take the same train?","Often do you take the same train?"],"answer": "A"},
+            {"item": "2","options": ["I always drink water with lunch.","I drink water with lunch always."],"answer": "A"},
+            {"item": "3","options": ["They never go to the beach in winter.","They go never to the beach in winter."],"answer": "A"},
+            {"item": "4","options": ["She sometimes brings flowers to her grandma.","She brings sometimes flowers to her grandma."],"answer": "A"},
+            {"item": "5","options": ["He goes jogging every Saturday.","He every Saturday goes jogging."],"answer": "A"},
+            {"item": "6","options": ["We usually eat outside in summer.","We eat usually outside in summer."],"answer": "A"},
+            {"item": "7","options": ["Does your friend always wear a scarf?","Does your friend wear always a scarf?"],"answer": "A"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["The kids always wash their hands before dinner.","Always the kids wash their hands before dinner."],"answer": "A"},
+            {"item": "2","options": ["I often help my parents at home.","I help my parents often at home."],"answer": "A"},
+            {"item": "3","options": ["She rarely watches scary movies.","She watches rarely scary movies."],"answer": "A"},
+            {"item": "4","options": ["Do you sometimes write in your journal?","Sometimes do you write in your journal?"],"answer": "A"},
+            {"item": "5","options": ["He never eats breakfast.","He eats never breakfast."],"answer": "A"},
+            {"item": "6","options": ["We usually take a break at 11.","Usually we take a break at 11."],"answer": "A"},
+            {"item": "7","options": ["They study together every evening.","They every evening study together."],"answer": "B"}
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "instructions": "Tick (✓) the correct sentence.",
+          "qa_pairs": [
+            {"item": "1","options": ["He sometimes draws comics in class.","He draws sometimes comics in class."],"answer": "A"},
+            {"item": "2","options": ["I always wear sunscreen at the beach.","I wear sunscreen always at the beach."],"answer": "A"},
+            {"item": "3","options": ["Do they often visit their grandparents?","They visit often their grandparents?"],"answer": "A"},
+            {"item": "4","options": ["We never go out on weekdays.","We go out never on weekdays."],"answer": "A"},
+            {"item": "5","options": ["My mother usually drinks tea in the morning.","My mother drinks tea usually in the morning."],"answer": "A"},
+            {"item": "6","options": ["The baby cries every night.","The baby every night cries."],"answer": "A"},
+            {"item": "7","options": ["She sings in the shower always.","She always sings in the shower."],"answer": "B"}
+          ]
+        }
+      ]
+    }
+

@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "We love __________ in cafés, drinking coffee and talking.",
+          "answer": "sitting"
+        },
+        {
+          "item": "We also like __________ to good music.",
+          "answer": "listening"
+        },
+        {
+          "item": "But we both hate __________ – we can’t dance very well.",
+          "answer": "dancing"
+        },
+        {
+          "item": "I don’t mind __________ and my favourite food is pasta.",
+          "answer": "cooking"
+        },
+        {
+          "item": "My flatmate loves __________ sport after work.",
+          "answer": "doing"
+        },
+        {
+          "item": "I like __________ a student at this university.",
+          "answer": "being"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "My sister doesn't mind __________ homework, but she hates __________ tests.",
+          "answer": "doing"
+        },
+        {
+          "item": "I love __________ home on Saturdays.",
+          "answer": "being"
+        },
+        {
+          "item": "We don't like __________ to loud rock music.",
+          "answer": "listening"
+        },
+        {
+          "item": "He loves __________ dinner for his friends.",
+          "answer": "cooking"
+        },
+        {
+          "item": "She hates __________ in small, crowded rooms.",
+          "answer": "sitting"
+        },
+        {
+          "item": "They don’t mind __________ late for the project.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ sport in the rain.",
+          "answer": "doing"
+        },
+        {
+          "item": "My wife loves __________ on the beach during summer.",
+          "answer": "sitting"
+        },
+        {
+          "item": "We don't mind __________ at work if the project is interesting.",
+          "answer": "being"
+        },
+        {
+          "item": "They like __________ classical music.",
+          "answer": "listening"
+        },
+        {
+          "item": "He doesn't like __________ dinner every night.",
+          "answer": "cooking"
+        },
+        {
+          "item": "She loves __________ ballet.",
+          "answer": "dancing"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ a puzzle in the evening.",
+          "answer": "doing"
+        },
+        {
+          "item": "My boss likes __________ professional.",
+          "answer": "being"
+        },
+        {
+          "item": "We hate __________ for hours in a waiting room.",
+          "answer": "sitting"
+        },
+        {
+          "item": "I don't mind __________ jazz music while I work.",
+          "answer": "listening"
+        },
+        {
+          "item": "They like __________ salsa.",
+          "answer": "dancing"
+        },
+        {
+          "item": "She dislikes __________ for her entire family.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "My parents love __________ in the garden on sunny days.",
+          "answer": "sitting"
+        },
+        {
+          "item": "I hate __________ extra work on weekends.",
+          "answer": "doing"
+        },
+        {
+          "item": "We don’t mind __________ healthy food.",
+          "answer": "cooking"
+        },
+        {
+          "item": "She likes __________ a good friend.",
+          "answer": "being"
+        },
+        {
+          "item": "He loves __________ hip hop music.",
+          "answer": "listening"
+        },
+        {
+          "item": "I hate __________ difficult subjects.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "They don't mind __________ for long periods in class.",
+          "answer": "sitting"
+        },
+        {
+          "item": "He dislikes __________ fast music.",
+          "answer": "listening"
+        },
+        {
+          "item": "I love __________ my own clothes.",
+          "answer": "doing"
+        },
+        {
+          "item": "We don’t mind __________ an amateur chef.",
+          "answer": "being"
+        },
+        {
+          "item": "She likes __________ for exercise.",
+          "answer": "dancing"
+        },
+        {
+          "item": "He hates __________ for his exams.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I like __________ on the balcony on summer nights.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She hates __________ to heavy metal.",
+          "answer": "listening"
+        },
+        {
+          "item": "We love __________ a delicious meal.",
+          "answer": "cooking"
+        },
+        {
+          "item": "He doesn't mind __________ a teacher.",
+          "answer": "being"
+        },
+        {
+          "item": "My colleagues like __________ exercise during the lunch break.",
+          "answer": "doing"
+        },
+        {
+          "item": "They dislike __________ for hours every evening.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "The students don’t mind __________ on the floor.",
+          "answer": "sitting"
+        },
+        {
+          "item": "I love __________ the tango.",
+          "answer": "dancing"
+        },
+        {
+          "item": "She dislikes __________ all the housework.",
+          "answer": "doing"
+        },
+        {
+          "item": "We don't mind __________ polite.",
+          "answer": "being"
+        },
+        {
+          "item": "He hates __________ to interviews.",
+          "answer": "listening"
+        },
+        {
+          "item": "My friend loves __________ Italian food.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ in the library all day.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She loves __________ to pop concerts.",
+          "answer": "listening"
+        },
+        {
+          "item": "We like __________ difficult maths problems.",
+          "answer": "doing"
+        },
+        {
+          "item": "He doesn't mind __________ a beginner.",
+          "answer": "being"
+        },
+        {
+          "item": "They dislike __________ for long tests.",
+          "answer": "studying"
+        },
+        {
+          "item": "My mother loves __________ traditional dishes.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "We hate __________ in the back of the car.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She likes __________ well informed about the news.",
+          "answer": "being"
+        },
+        {
+          "item": "He loves __________ contemporary dance.",
+          "answer": "dancing"
+        },
+        {
+          "item": "They don’t mind __________ the laundry.",
+          "answer": "doing"
+        },
+        {
+          "item": "I hate __________ new vocabulary.",
+          "answer": "studying"
+        },
+        {
+          "item": "My father likes __________ to political podcasts.",
+          "answer": "listening"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "He loves __________ quietly in the park.",
+          "answer": "sitting"
+        },
+        {
+          "item": "I hate __________ the dishes.",
+          "answer": "doing"
+        },
+        {
+          "item": "We don't mind __________ new recipes.",
+          "answer": "cooking"
+        },
+        {
+          "item": "She loves __________ a good student.",
+          "answer": "being"
+        },
+        {
+          "item": "They dislike __________ to the professor's lectures.",
+          "answer": "listening"
+        },
+        {
+          "item": "He likes __________ salsa on Friday nights.",
+          "answer": "dancing"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ exercise first thing in the morning.",
+          "answer": "doing"
+        },
+        {
+          "item": "We hate __________ in traffic.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She doesn't mind __________ a little bit of classical music.",
+          "answer": "listening"
+        },
+        {
+          "item": "He likes __________ organized.",
+          "answer": "being"
+        },
+        {
+          "item": "They dislike __________ advanced physics.",
+          "answer": "studying"
+        },
+        {
+          "item": "My friend loves __________ special meals.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "She hates __________ to the same songs repeatedly.",
+          "answer": "listening"
+        },
+        {
+          "item": "I love __________ my yoga routine.",
+          "answer": "doing"
+        },
+        {
+          "item": "We don't mind __________ vegetarian food sometimes.",
+          "answer": "cooking"
+        },
+        {
+          "item": "He likes __________ on the sofa and reading.",
+          "answer": "sitting"
+        },
+        {
+          "item": "They love __________ an active couple.",
+          "answer": "being"
+        },
+        {
+          "item": "She hates __________ the history course.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ out with friends on Saturdays.",
+          "answer": "being"
+        },
+        {
+          "item": "We don't mind __________ for the geography test.",
+          "answer": "studying"
+        },
+        {
+          "item": "He hates __________ quietly in meetings.",
+          "answer": "sitting"
+        },
+        {
+          "item": "They love __________ to podcasts on their commute.",
+          "answer": "listening"
+        },
+        {
+          "item": "She dislikes __________ the gardening.",
+          "answer": "doing"
+        },
+        {
+          "item": "We like __________ easy meals.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ in the park when it’s cold.",
+          "answer": "sitting"
+        },
+        {
+          "item": "We love __________ ballroom dancing.",
+          "answer": "dancing"
+        },
+        {
+          "item": "He doesn’t mind __________ the washing up.",
+          "answer": "doing"
+        },
+        {
+          "item": "They dislike __________ to the news 24/7.",
+          "answer": "listening"
+        },
+        {
+          "item": "She likes __________ a chef in her free time.",
+          "answer": "being"
+        },
+        {
+          "item": "My colleague hates __________ late at night.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "She hates __________ for the history test.",
+          "answer": "studying"
+        },
+        {
+          "item": "I love __________ active on holiday.",
+          "answer": "being"
+        },
+        {
+          "item": "We like __________ in the first row at the cinema.",
+          "answer": "sitting"
+        },
+        {
+          "item": "He doesn't mind __________ the weekend shopping.",
+          "answer": "doing"
+        },
+        {
+          "item": "They dislike __________ to motivational speeches.",
+          "answer": "listening"
+        },
+        {
+          "item": "My mother loves __________ traditional cakes.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ on the bus every morning.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She loves __________ the housework early.",
+          "answer": "doing"
+        },
+        {
+          "item": "We don't mind __________ modern music.",
+          "answer": "listening"
+        },
+        {
+          "item": "He likes __________ the perfect host.",
+          "answer": "being"
+        },
+        {
+          "item": "They dislike __________ complicated recipes.",
+          "answer": "cooking"
+        },
+        {
+          "item": "My cousin loves __________ contemporary pieces.",
+          "answer": "dancing"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ late on holiday.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She hates __________ maths.",
+          "answer": "studying"
+        },
+        {
+          "item": "We like __________ a healthy lifestyle.",
+          "answer": "doing"
+        },
+        {
+          "item": "He doesn't mind __________ alone sometimes.",
+          "answer": "being"
+        },
+        {
+          "item": "They love __________ to the radio in the morning.",
+          "answer": "listening"
+        },
+        {
+          "item": "My parents dislike __________ complicated meals.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ on the train for hours.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She doesn't mind __________ the shopping.",
+          "answer": "doing"
+        },
+        {
+          "item": "We love __________ jazz music.",
+          "answer": "listening"
+        },
+        {
+          "item": "He dislikes __________ too serious.",
+          "answer": "being"
+        },
+        {
+          "item": "They like __________ new recipes together.",
+          "answer": "cooking"
+        },
+        {
+          "item": "My colleague hates __________ at the club.",
+          "answer": "dancing"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "We love __________ on the balcony and relaxing.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She likes __________ a volunteer.",
+          "answer": "being"
+        },
+        {
+          "item": "I hate __________ all the chores myself.",
+          "answer": "doing"
+        },
+        {
+          "item": "They dislike __________ for hours before a test.",
+          "answer": "studying"
+        },
+        {
+          "item": "He loves __________ to loud music.",
+          "answer": "listening"
+        },
+        {
+          "item": "My aunt likes __________ pasta dishes.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ the accounts.",
+          "answer": "doing"
+        },
+        {
+          "item": "We love __________ a delicious birthday dinner.",
+          "answer": "cooking"
+        },
+        {
+          "item": "She doesn't mind __________ for the economics course.",
+          "answer": "studying"
+        },
+        {
+          "item": "He likes __________ on the grass in the summer.",
+          "answer": "sitting"
+        },
+        {
+          "item": "They dislike __________ modern jazz.",
+          "answer": "listening"
+        },
+        {
+          "item": "My friends love __________ professional dancers.",
+          "answer": "being"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "We hate __________ quiet all the time.",
+          "answer": "being"
+        },
+        {
+          "item": "She loves __________ to the classical radio station.",
+          "answer": "listening"
+        },
+        {
+          "item": "He doesn't mind __________ his own repairs.",
+          "answer": "doing"
+        },
+        {
+          "item": "They like __________ comfortably at home.",
+          "answer": "sitting"
+        },
+        {
+          "item": "I hate __________ for the final exam.",
+          "answer": "studying"
+        },
+        {
+          "item": "My grandmother dislikes __________ foreign food.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ my own research.",
+          "answer": "doing"
+        },
+        {
+          "item": "She dislikes __________ in formal places.",
+          "answer": "sitting"
+        },
+        {
+          "item": "We don't mind __________ for the meeting.",
+          "answer": "studying"
+        },
+        {
+          "item": "He loves __________ to live rock bands.",
+          "answer": "listening"
+        },
+        {
+          "item": "They hate __________ responsible for everything.",
+          "answer": "being"
+        },
+        {
+          "item": "My colleague loves __________ modern dance.",
+          "answer": "dancing"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ in the classroom all day.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She doesn't mind __________ traditional food.",
+          "answer": "cooking"
+        },
+        {
+          "item": "We love __________ energetic exercise.",
+          "answer": "doing"
+        },
+        {
+          "item": "He dislikes __________ classical music.",
+          "answer": "listening"
+        },
+        {
+          "item": "They love __________ fit and healthy.",
+          "answer": "being"
+        },
+        {
+          "item": "My friends love __________ in nightclubs.",
+          "answer": "dancing"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ quietly by the river.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She dislikes __________ the piano.",
+          "answer": "studying"
+        },
+        {
+          "item": "We don’t mind __________ the garden work.",
+          "answer": "doing"
+        },
+        {
+          "item": "He likes __________ creative.",
+          "answer": "being"
+        },
+        {
+          "item": "They hate __________ to arguments.",
+          "answer": "listening"
+        },
+        {
+          "item": "My sister loves __________ elaborate cakes.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ in the sun for too long.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She doesn't mind __________ an expert on the subject.",
+          "answer": "being"
+        },
+        {
+          "item": "We love __________ fast rhythms.",
+          "answer": "dancing"
+        },
+        {
+          "item": "He dislikes __________ the ironing.",
+          "answer": "doing"
+        },
+        {
+          "item": "They love __________ to podcasts about science.",
+          "answer": "listening"
+        },
+        {
+          "item": "My colleague hates __________ every night.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don’t mind __________ late for the final project.",
+          "answer": "studying"
+        },
+        {
+          "item": "She loves __________ good at her job.",
+          "answer": "being"
+        },
+        {
+          "item": "We hate __________ for the train.",
+          "answer": "sitting"
+        },
+        {
+          "item": "He likes __________ the waltz.",
+          "answer": "dancing"
+        },
+        {
+          "item": "They dislike __________ to country music.",
+          "answer": "listening"
+        },
+        {
+          "item": "My mother loves __________ for large groups.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ difficult crosswords.",
+          "answer": "doing"
+        },
+        {
+          "item": "She loves __________ in the warm sun.",
+          "answer": "sitting"
+        },
+        {
+          "item": "We don't mind __________ simple meals.",
+          "answer": "cooking"
+        },
+        {
+          "item": "He likes __________ a helpful colleague.",
+          "answer": "being"
+        },
+        {
+          "item": "They dislike __________ the drums.",
+          "answer": "listening"
+        },
+        {
+          "item": "My friend hates __________ the law.",
+          "answer": "studying"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love __________ my hobby.",
+          "answer": "doing"
+        },
+        {
+          "item": "She hates __________ alone at the bar.",
+          "answer": "sitting"
+        },
+        {
+          "item": "We don’t mind __________ an intermediate level student.",
+          "answer": "being"
+        },
+        {
+          "item": "He loves __________ to classical pieces in silence.",
+          "answer": "listening"
+        },
+        {
+          "item": "They dislike __________ for the difficult course.",
+          "answer": "studying"
+        },
+        {
+          "item": "My brother hates __________ in the small kitchen.",
+          "answer": "cooking"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "6B"
+      ],
+      "type": "fill_in_the_blanks_verb_ing",
+      "instructions": "Complete the text with the verbs in the box. Use the -ing form.\nVerbs in the box: listen, cook, do, dance, study, be, sit",
+      "example": {
+        "item": "I don't like __________ but I like being a student.",
+        "answer": "studying"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate __________ in the rain.",
+          "answer": "sitting"
+        },
+        {
+          "item": "She loves __________ ballroom.",
+          "answer": "dancing"
+        },
+        {
+          "item": "We don’t mind __________ extra chores.",
+          "answer": "doing"
+        },
+        {
+          "item": "He dislikes __________ late for classes.",
+          "answer": "being"
+        },
+        {
+          "item": "They love __________ to the radio while driving.",
+          "answer": "listening"
+        },
+        {
+          "item": "My parents hate __________ complicated dishes.",
+          "answer": "cooking"
+        }
+      ]
+    }
+  ]
+}
+

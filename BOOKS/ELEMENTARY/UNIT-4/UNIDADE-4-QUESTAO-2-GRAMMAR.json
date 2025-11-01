@@ -1,0 +1,1295 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We go ______ the market every Sunday.",
+          "answer": "to"
+        },
+        {
+          "item": "I finish work ______ 5 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "She reads books ______ the evening.",
+          "answer": "in"
+        },
+        {
+          "item": "The party is ______ Sunday.",
+          "answer": "on"
+        },
+        {
+          "item": "They live ______ London.",
+          "answer": "in"
+        },
+        {
+          "item": "He is always ______ home on Fridays.",
+          "answer": "at"
+        },
+        {
+          "item": "My birthday is ______ July.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We start school ______ Monday.",
+          "answer": "on"
+        },
+        {
+          "item": "They go ______ the theatre once a month.",
+          "answer": "to"
+        },
+        {
+          "item": "The train leaves ______ half past three.",
+          "answer": "at"
+        },
+        {
+          "item": "She works ______ a big office.",
+          "answer": "in"
+        },
+        {
+          "item": "He often studies ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "The meeting is ______ the 5th of May.",
+          "answer": "on"
+        },
+        {
+          "item": "I was born ______ 1995.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We eat dinner ______ 8 o'clock.",
+          "answer": "at"
+        },
+        {
+          "item": "I study English ______ the morning.",
+          "answer": "in"
+        },
+        {
+          "item": "She travels ______ France every year.",
+          "answer": "to"
+        },
+        {
+          "item": "The concert is ______ Friday.",
+          "answer": "on"
+        },
+        {
+          "item": "He is currently ______ university.",
+          "answer": "at"
+        },
+        {
+          "item": "They work ______ a library.",
+          "answer": "in"
+        },
+        {
+          "item": "I wear a uniform ______ work.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We visit our cousins ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "I read the newspaper ______ the afternoon.",
+          "answer": "in"
+        },
+        {
+          "item": "He goes ______ the cinema often.",
+          "answer": "to"
+        },
+        {
+          "item": "The deadline is ______ 15th March.",
+          "answer": "on"
+        },
+        {
+          "item": "She lives ______ a small village.",
+          "answer": "in"
+        },
+        {
+          "item": "We meet friends ______ 7:00 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "Do you go ______ the gym?",
+          "answer": "to"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "They always have a party ______ the summer.",
+          "answer": "in"
+        },
+        {
+          "item": "We have classes ______ Mondays and Wednesdays.",
+          "answer": "on"
+        },
+        {
+          "item": "She works ______ a restaurant near here.",
+          "answer": "in"
+        },
+        {
+          "item": "I usually drink coffee ______ midnight.",
+          "answer": "at"
+        },
+        {
+          "item": "He goes ______ the park to walk his dog.",
+          "answer": "to"
+        },
+        {
+          "item": "The test is ______ Tuesday morning.",
+          "answer": "on"
+        },
+        {
+          "item": "My boss is ______ work right now.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always have a sandwich ______ lunch time.",
+          "answer": "at"
+        },
+        {
+          "item": "She lives ______ the UK.",
+          "answer": "in"
+        },
+        {
+          "item": "We start the course ______ March.",
+          "answer": "in"
+        },
+        {
+          "item": "The concert is ______ 21st December.",
+          "answer": "on"
+        },
+        {
+          "item": "They go ______ the beach every year.",
+          "answer": "to"
+        },
+        {
+          "item": "He is usually ______ home after 6 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "I finish reading this book ______ the end of the week.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually get up ______ 7:00 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "They travel ______ Spain for their holidays.",
+          "answer": "to"
+        },
+        {
+          "item": "I don't work ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "She works ______ an art gallery.",
+          "answer": "in"
+        },
+        {
+          "item": "The flight is ______ Wednesday.",
+          "answer": "on"
+        },
+        {
+          "item": "My flat is ______ the first floor.",
+          "answer": "on"
+        },
+        {
+          "item": "He eats a lot of fruit ______ the summer.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I prefer travelling ______ the winter.",
+          "answer": "in"
+        },
+        {
+          "item": "We arrived ______ home very late.",
+          "answer": "at"
+        },
+        {
+          "item": "The ceremony is ______ 2:00 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "He goes ______ the supermarket every day.",
+          "answer": "to"
+        },
+        {
+          "item": "The class is cancelled ______ Thursday.",
+          "answer": "on"
+        },
+        {
+          "item": "She works ______ a high school.",
+          "answer": "at"
+        },
+        {
+          "item": "I live ______ a big city in the north.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "My birthday is always ______ April.",
+          "answer": "in"
+        },
+        {
+          "item": "The children go ______ school by bus.",
+          "answer": "to"
+        },
+        {
+          "item": "We visit the museum ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "She works ______ a café downtown.",
+          "answer": "in"
+        },
+        {
+          "item": "I usually sleep well ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "The meeting is ______ Tuesday morning.",
+          "answer": "on"
+        },
+        {
+          "item": "He starts his shift ______ 9:00 a.m.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I have a shower ______ the morning.",
+          "answer": "in"
+        },
+        {
+          "item": "They usually meet ______ 7 o'clock.",
+          "answer": "at"
+        },
+        {
+          "item": "She goes ______ the park to run.",
+          "answer": "to"
+        },
+        {
+          "item": "The appointment is ______ 3rd October.",
+          "answer": "on"
+        },
+        {
+          "item": "We work ______ a quiet office.",
+          "answer": "in"
+        },
+        {
+          "item": "He is always busy ______ work.",
+          "answer": "at"
+        },
+        {
+          "item": "I finish my homework ______ the evening.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually go out ______ Friday night.",
+          "answer": "on"
+        },
+        {
+          "item": "I go ______ the hospital to visit my aunt.",
+          "answer": "to"
+        },
+        {
+          "item": "She lives ______ a flat downtown.",
+          "answer": "in"
+        },
+        {
+          "item": "He finishes work ______ half past five.",
+          "answer": "at"
+        },
+        {
+          "item": "They travel to Italy ______ the spring.",
+          "answer": "in"
+        },
+        {
+          "item": "The concert is ______ Saturday.",
+          "answer": "on"
+        },
+        {
+          "item": "I like to stay ______ home and relax.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We arrived ______ the cinema on time.",
+          "answer": "at"
+        },
+        {
+          "item": "The bus goes directly ______ the city centre.",
+          "answer": "to"
+        },
+        {
+          "item": "She often studies ______ the afternoon.",
+          "answer": "in"
+        },
+        {
+          "item": "I was born ______ October.",
+          "answer": "in"
+        },
+        {
+          "item": "He usually visits his grandmother ______ Sundays.",
+          "answer": "on"
+        },
+        {
+          "item": "They work ______ the second floor.",
+          "answer": "on"
+        },
+        {
+          "item": "My boss is often stressed ______ work.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "The lesson ends ______ 10:15 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "We live ______ the north of the country.",
+          "answer": "in"
+        },
+        {
+          "item": "She travels ______ work by train.",
+          "answer": "to"
+        },
+        {
+          "item": "I always do my housework ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "The concert is ______ 24th July.",
+          "answer": "on"
+        },
+        {
+          "item": "He usually wakes up early ______ the morning.",
+          "answer": "in"
+        },
+        {
+          "item": "They work ______ a huge factory.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't like driving ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "We go ______ the gym every Tuesday.",
+          "answer": "to"
+        },
+        {
+          "item": "She often works late ______ the office.",
+          "answer": "in"
+        },
+        {
+          "item": "He was born ______ February.",
+          "answer": "in"
+        },
+        {
+          "item": "The party is ______ Christmas Day.",
+          "answer": "on"
+        },
+        {
+          "item": "Do you stay ______ home on weekdays?",
+          "answer": "at"
+        },
+        {
+          "item": "The meeting starts exactly ______ 4:00 p.m.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always have a long shower ______ the morning.",
+          "answer": "in"
+        },
+        {
+          "item": "We travel ______ work by car.",
+          "answer": "to"
+        },
+        {
+          "item": "She is usually very tired ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "He lives ______ a village near the coast.",
+          "answer": "in"
+        },
+        {
+          "item": "The flight is ______ 1st June.",
+          "answer": "on"
+        },
+        {
+          "item": "They usually eat lunch ______ 1:00 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "My flat is ______ the third floor.",
+          "answer": "on"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We never eat fish ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "I go ______ the church every Sunday.",
+          "answer": "to"
+        },
+        {
+          "item": "She finishes school ______ 3:30 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "He doesn't like cold weather ______ the autumn.",
+          "answer": "in"
+        },
+        {
+          "item": "They live ______ a house near the park.",
+          "answer": "in"
+        },
+        {
+          "item": "The lesson is ______ Wednesday.",
+          "answer": "on"
+        },
+        {
+          "item": "I’m not ______ work today.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "The shop is closed ______ Sundays.",
+          "answer": "on"
+        },
+        {
+          "item": "I usually drink coffee ______ the afternoon.",
+          "answer": "in"
+        },
+        {
+          "item": "She goes ______ her parents’ house once a week.",
+          "answer": "to"
+        },
+        {
+          "item": "He is usually busy ______ 9 o'clock.",
+          "answer": "at"
+        },
+        {
+          "item": "We live ______ a huge flat in the city.",
+          "answer": "in"
+        },
+        {
+          "item": "The party is always ______ New Year’s Eve.",
+          "answer": "on"
+        },
+        {
+          "item": "They are never ______ home during the day.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I sometimes read books ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "The company was founded ______ 2005.",
+          "answer": "in"
+        },
+        {
+          "item": "We go ______ the cinema on Saturdays.",
+          "answer": "to"
+        },
+        {
+          "item": "She has a meeting ______ Thursday afternoon.",
+          "answer": "on"
+        },
+        {
+          "item": "He works ______ a big company in the finance sector.",
+          "answer": "in"
+        },
+        {
+          "item": "Do you usually have lunch ______ work?",
+          "answer": "at"
+        },
+        {
+          "item": "I like running ______ the morning.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We arrive ______ the airport ______ 11:30 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "I travel ______ Italy every year.",
+          "answer": "to"
+        },
+        {
+          "item": "She studies hard ______ the evening.",
+          "answer": "in"
+        },
+        {
+          "item": "He was born ______ the 2nd of March.",
+          "answer": "on"
+        },
+        {
+          "item": "They are usually ______ home on Sundays.",
+          "answer": "at"
+        },
+        {
+          "item": "My sister works ______ a small school.",
+          "answer": "at"
+        },
+        {
+          "item": "We meet ______ 8 o'clock.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "The weather is very hot ______ the summer.",
+          "answer": "in"
+        },
+        {
+          "item": "I go ______ the market to buy vegetables.",
+          "answer": "to"
+        },
+        {
+          "item": "She visits her doctor ______ Wednesdays.",
+          "answer": "on"
+        },
+        {
+          "item": "He usually has a shower ______ the morning.",
+          "answer": "in"
+        },
+        {
+          "item": "We are never tired ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "My parents live ______ the suburbs.",
+          "answer": "in"
+        },
+        {
+          "item": "The class starts ______ 7:00 a.m.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually go for a walk ______ the afternoon.",
+          "answer": "in"
+        },
+        {
+          "item": "I have a class ______ 10:00 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "She works ______ a primary school.",
+          "answer": "at"
+        },
+        {
+          "item": "He goes ______ the park every day.",
+          "answer": "to"
+        },
+        {
+          "item": "The appointment is ______ 12th February.",
+          "answer": "on"
+        },
+        {
+          "item": "They live ______ Portugal.",
+          "answer": "in"
+        },
+        {
+          "item": "I am not ______ university now.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "The party is ______ midnight.",
+          "answer": "at"
+        },
+        {
+          "item": "We go ______ the cinema ______ Sunday.",
+          "answer": "to"
+        },
+        {
+          "item": "I finish work ______ the afternoon.",
+          "answer": "in"
+        },
+        {
+          "item": "She usually reads ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "He lives ______ a house with a big garden.",
+          "answer": "in"
+        },
+        {
+          "item": "The presentation is scheduled ______ 8th May.",
+          "answer": "on"
+        },
+        {
+          "item": "I’m very busy ______ work today.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually wear warm clothes ______ the winter.",
+          "answer": "in"
+        },
+        {
+          "item": "We go ______ the library every Tuesday.",
+          "answer": "to"
+        },
+        {
+          "item": "She has dinner ______ 7 o'clock.",
+          "answer": "at"
+        },
+        {
+          "item": "He works ______ a pharmaceutical company.",
+          "answer": "in"
+        },
+        {
+          "item": "The shop is closed ______ 1st January.",
+          "answer": "on"
+        },
+        {
+          "item": "They are never ______ home before 7 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "I always listen to the radio ______ the morning.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "The conference is ______ 14th June.",
+          "answer": "on"
+        },
+        {
+          "item": "We arrive ______ work early.",
+          "answer": "at"
+        },
+        {
+          "item": "She goes ______ London once a month.",
+          "answer": "to"
+        },
+        {
+          "item": "He studies ______ the evening.",
+          "answer": "in"
+        },
+        {
+          "item": "I go to bed late ______ night.",
+          "answer": "at"
+        },
+        {
+          "item": "They live ______ a small town.",
+          "answer": "in"
+        },
+        {
+          "item": "I usually see my family ______ Saturday.",
+          "answer": "on"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "My favorite season is ______ the spring.",
+          "answer": "in"
+        },
+        {
+          "item": "We go ______ the mountain every year.",
+          "answer": "to"
+        },
+        {
+          "item": "She often cooks dinner ______ 6:30 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "He is ______ school until 3 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "I visit my doctor ______ Tuesday.",
+          "answer": "on"
+        },
+        {
+          "item": "They live ______ a house with a balcony.",
+          "answer": "in"
+        },
+        {
+          "item": "We have coffee ______ the afternoon.",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I sometimes work late ______ the office.",
+          "answer": "in"
+        },
+        {
+          "item": "We travel ______ the USA ______ August.",
+          "answer": "to"
+        },
+        {
+          "item": "She usually stays ______ home on rainy days.",
+          "answer": "at"
+        },
+        {
+          "item": "He was born ______ the 7th of September.",
+          "answer": "on"
+        },
+        {
+          "item": "The sun sets late ______ the summer.",
+          "answer": "in"
+        },
+        {
+          "item": "The concert starts ______ 8:30 p.m.",
+          "answer": "at"
+        },
+        {
+          "item": "Do you go ______ the coast for holidays?",
+          "answer": "to"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "My flight is ______ 10:00 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "We go ______ the mountains every winter.",
+          "answer": "to"
+        },
+        {
+          "item": "She reads books ______ the evening.",
+          "answer": "in"
+        },
+        {
+          "item": "He is ______ university now, studying medicine.",
+          "answer": "at"
+        },
+        {
+          "item": "I always visit my grandma ______ Christmas Day.",
+          "answer": "on"
+        },
+        {
+          "item": "They live ______ Brazil.",
+          "answer": "in"
+        },
+        {
+          "item": "We do the housework ______ Saturday morning.",
+          "answer": "on"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I have a shower ______ 7:30 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "We don't work ______ the weekend.",
+          "answer": "at"
+        },
+        {
+          "item": "She travels ______ work by metro.",
+          "answer": "to"
+        },
+        {
+          "item": "He was born ______ 1988.",
+          "answer": "in"
+        },
+        {
+          "item": "The presentation is ______ Monday.",
+          "answer": "on"
+        },
+        {
+          "item": "They live ______ an apartment in the city.",
+          "answer": "in"
+        },
+        {
+          "item": "I often study late ______ night.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually have my birthday party ______ December.",
+          "answer": "in"
+        },
+        {
+          "item": "We go ______ the library to study.",
+          "answer": "to"
+        },
+        {
+          "item": "She cooks dinner ______ the afternoon.",
+          "answer": "in"
+        },
+        {
+          "item": "He usually meets his friends ______ Saturday night.",
+          "answer": "on"
+        },
+        {
+          "item": "I stay ______ home when the weather is bad.",
+          "answer": "at"
+        },
+        {
+          "item": "The shop opens ______ 9:00 a.m.",
+          "answer": "at"
+        },
+        {
+          "item": "Do you work ______ an office or a school?",
+          "answer": "in"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "4B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences.",
+      "example": {
+        "item": "Do they usually have lunch at school?",
+        "answer": "at"
+      },
+      "qa_pairs": [
+        {
+          "item": "My family goes abroad ______ the summer.",
+          "answer": "in"
+        },
+        {
+          "item": "I finish reading the book ______ 23rd October.",
+          "answer": "on"
+        },
+        {
+          "item": "She is always happy ______ work.",
+          "answer": "at"
+        },
+        {
+          "item": "He goes ______ the doctor twice a year.",
+          "answer": "to"
+        },
+        {
+          "item": "We are usually busy ______ the evening.",
+          "answer": "in"
+        },
+        {
+          "item": "The party is always ______ New Year’s Eve.",
+          "answer": "on"
+        },
+        {
+          "item": "Do you usually wake up ______ 6:00 a.m.?",
+          "answer": "at"
+        }
+      ]
+    }
+  ]
+}
+

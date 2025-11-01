@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He’s a t _ _ m _ _ _ _ _. He plays the trumpet.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "Jessica sings in a c_ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "My aunt likes jazz, but she doesn’t like c _ _ _ _ i _ _ l music.",
+          "answer": "classical"
+        },
+        {
+          "item": "I sometimes go to pop c_ _ ce _ ts.",
+          "answer": "concerts"
+        },
+        {
+          "item": "My cousin plays the accordion. He’s an a_ _ _ r _ _ _ n _ _ _.",
+          "answer": "accordionist"
+        },
+        {
+          "item": "She’s a d _ _ _ _ _ r. She plays the drums.",
+          "answer": "drummer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "A group of singers is called a c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "He plays the violin. He is a v_ _ l _ n _ _ _.",
+          "answer": "violinist"
+        },
+        {
+          "item": "Many young people love r _ _ k m _ s _ c.",
+          "answer": "rock music"
+        },
+        {
+          "item": "The guitar player is a g _ _ t _ _ _ s t.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "She often goes to l _ v _ c _ n c _ _ _ s.",
+          "answer": "live concerts"
+        },
+        {
+          "item": "My favorite instrument is the k _ y b _ _ r d.",
+          "answer": "keyboard"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "Beethoven wrote c _ _ _ _ i _ _ l pieces.",
+          "answer": "classical"
+        },
+        {
+          "item": "The person who plays the drums is the d _ _ _ _ _ r.",
+          "answer": "drummer"
+        },
+        {
+          "item": "We saw an amazing pop b _ n d play yesterday.",
+          "answer": "band"
+        },
+        {
+          "item": "A person who sings is known as a s _ n _ _ r.",
+          "answer": "singer"
+        },
+        {
+          "item": "I love going to m _ s _ c f _ _ t _ v _ l s in the summer.",
+          "answer": "music festivals"
+        },
+        {
+          "item": "The trumpet player is a t _ _ m p _ t _ r.",
+          "answer": "trumpeter"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He plays the acoustic g _ _ t _ r.",
+          "answer": "guitar"
+        },
+        {
+          "item": "I prefer j _ z z to rock and roll.",
+          "answer": "jazz"
+        },
+        {
+          "item": "She is a p _ _ n _ s t and performs beautifully.",
+          "answer": "pianist"
+        },
+        {
+          "item": "The children sing in the school c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "He performs at many c _ _ c _ r t s.",
+          "answer": "concerts"
+        },
+        {
+          "item": "The musician played the large a _ c _ _ d _ _ n.",
+          "answer": "accordion"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "I like listening to r _ g g _ _ music.",
+          "answer": "reggae"
+        },
+        {
+          "item": "She is the main v _ c _ l _ s t of the band.",
+          "answer": "vocalist"
+        },
+        {
+          "item": "That instrument is a k _ y b _ _ r d.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "They are famous for their d _ n c _ m _ s _ c.",
+          "answer": "dance music"
+        },
+        {
+          "item": "The person who plays the tuba is a t _ b _ s t.",
+          "answer": "tubist"
+        },
+        {
+          "item": "He attends many m _ s _ c f _ _ t _ v _ l s.",
+          "answer": "music festivals"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She plays the c _ _ l o.",
+          "answer": "cello"
+        },
+        {
+          "item": "He is a f _ l k s _ n g _ r.",
+          "answer": "folksinger"
+        },
+        {
+          "item": "I love the sound of the t _ _ m p e t.",
+          "answer": "trumpet"
+        },
+        {
+          "item": "The orchestra plays c _ _ s s _ c _ l music.",
+          "answer": "classical"
+        },
+        {
+          "item": "He is the d _ _ m m _ r for the group.",
+          "answer": "drummer"
+        },
+        {
+          "item": "They performed at the annual c _ n c _ _ t.",
+          "answer": "concert"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is a g _ _ t _ r _ s t in a famous band.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "They are performing at the local c _ _ c _ r t h _ l l.",
+          "answer": "concert hall"
+        },
+        {
+          "item": "I don't like h _ a v y m _ t _ l music.",
+          "answer": "heavy metal"
+        },
+        {
+          "item": "He plays the drums, so he's a d _ _ m m _ r.",
+          "answer": "drummer"
+        },
+        {
+          "item": "We listen to p _ p m _ s _ c every day.",
+          "answer": "pop music"
+        },
+        {
+          "item": "The lead s _ n g _ r is very charismatic.",
+          "answer": "singer"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He plays the violin. He's a v _ _ l _ n _ _ t.",
+          "answer": "violinist"
+        },
+        {
+          "item": "They perform as part of a large c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "She loves listening to j _ z z in the evening.",
+          "answer": "jazz"
+        },
+        {
+          "item": "He plays the piano, so he’s a p _ a _ _ s t.",
+          "answer": "pianist"
+        },
+        {
+          "item": "I hate going to noisy r _ c k c _ n c e r t s.",
+          "answer": "rock concerts"
+        },
+        {
+          "item": "The accordion is played by an a _ c _ _ d _ n _ s t.",
+          "answer": "accordionist"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The c _ _ _ s s _ c _ l musician was fantastic.",
+          "answer": "classical"
+        },
+        {
+          "item": "He plays the f _ u t e.",
+          "answer": "flute"
+        },
+        {
+          "item": "She is the s _ n g _ r of the punk group.",
+          "answer": "singer"
+        },
+        {
+          "item": "The instrument with keys is the p _ a n _ .",
+          "answer": "piano"
+        },
+        {
+          "item": "They are a new indie b _ n d.",
+          "answer": "band"
+        },
+        {
+          "item": "He is a t _ _ m p _ t _ r.",
+          "answer": "trumpeter"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The b _ s s i s t plays the large strings.",
+          "answer": "bassist"
+        },
+        {
+          "item": "I often go to music f _ s t _ v _ l s.",
+          "answer": "festivals"
+        },
+        {
+          "item": "She plays the electric k _ y b _ a r d.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "He is the d _ u m _ e r.",
+          "answer": "drummer"
+        },
+        {
+          "item": "The gospel group sings in a c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "They love listening to h _ p h _ p.",
+          "answer": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The musician played the a _ c _ r d _ _ n.",
+          "answer": "accordion"
+        },
+        {
+          "item": "I love going to outdoor c _ _ c _ r t s.",
+          "answer": "concerts"
+        },
+        {
+          "item": "He is the lead g _ i t _ _ i s t.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "She is a talented p _ _ n _ s t.",
+          "answer": "pianist"
+        },
+        {
+          "item": "My father hates c _ _ s s _ c _ l music.",
+          "answer": "classical"
+        },
+        {
+          "item": "The t _ _ m p _ t _ r played a solo.",
+          "answer": "trumpeter"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is a s _ n g _ r and a songwriter.",
+          "answer": "singer"
+        },
+        {
+          "item": "They are a folk m _ s _ c b _ n d.",
+          "answer": "music band"
+        },
+        {
+          "item": "I prefer listening to h _ p h _ p in the gym.",
+          "answer": "hip hop"
+        },
+        {
+          "item": "The person who plays the drums is the d _ _ m m _ r.",
+          "answer": "drummer"
+        },
+        {
+          "item": "We saw them at the annual m _ s _ c f _ _ t _ v _ l.",
+          "answer": "music festival"
+        },
+        {
+          "item": "The whole c _ _ _ r stood up to sing.",
+          "answer": "choir"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "I dislike most c _ _ n t r y m _ s _ c.",
+          "answer": "country music"
+        },
+        {
+          "item": "He is an a _ c _ r d _ _ n _ s t.",
+          "answer": "accordionist"
+        },
+        {
+          "item": "She plays the electric k _ y b _ a r d.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "We saw a famous s _ n g _ r at the festival.",
+          "answer": "singer"
+        },
+        {
+          "item": "The brass player is a t _ _ m p _ t e r.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "He sings in the church c _ _ i r.",
+          "answer": "choir"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "I prefer c _ _ s s _ c _ l music to pop.",
+          "answer": "classical"
+        },
+        {
+          "item": "She plays the bass g _ _ t _ r.",
+          "answer": "guitar"
+        },
+        {
+          "item": "He is the best d _ _ m m _ r I know.",
+          "answer": "drummer"
+        },
+        {
+          "item": "I bought tickets for the c _ n c _ _ t.",
+          "answer": "concert"
+        },
+        {
+          "item": "The p _ a n _ s t played Chopin.",
+          "answer": "pianist"
+        },
+        {
+          "item": "They are part of a school b _ n d.",
+          "answer": "band"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The saxophone player is a s _ x _ p h _ n _ s t.",
+          "answer": "saxophonist"
+        },
+        {
+          "item": "She sings in a large c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "I don't mind listening to r _ g g _ e.",
+          "answer": "reggae"
+        },
+        {
+          "item": "He plays the t _ u m p _ t.",
+          "answer": "trumpet"
+        },
+        {
+          "item": "They are going to a music f _ s t _ v _ l.",
+          "answer": "festival"
+        },
+        {
+          "item": "The keyboard player is a k _ y b _ _ r d i s t.",
+          "answer": "keyboardist"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The d _ _ m m _ r kept the rhythm perfectly.",
+          "answer": "drummer"
+        },
+        {
+          "item": "I like p _ p m _ s _ c.",
+          "answer": "pop music"
+        },
+        {
+          "item": "She plays the a _ c _ r d _ o n.",
+          "answer": "accordion"
+        },
+        {
+          "item": "He is a famous s _ n g _ r.",
+          "answer": "singer"
+        },
+        {
+          "item": "We enjoyed the c _ _ c _ r t very much.",
+          "answer": "concert"
+        },
+        {
+          "item": "The p _ _ n _ s t gave a solo performance.",
+          "answer": "pianist"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He plays the violin, so he is a v _ o l _ n _ s t.",
+          "answer": "violinist"
+        },
+        {
+          "item": "The music genre is called c _ _ s s _ c _ l.",
+          "answer": "classical"
+        },
+        {
+          "item": "She sings in the church c _ h _ i r.",
+          "answer": "choir"
+        },
+        {
+          "item": "They are the new local r _ c k b _ n d.",
+          "answer": "rock band"
+        },
+        {
+          "item": "I love listening to j _ z z.",
+          "answer": "jazz"
+        },
+        {
+          "item": "He is a t _ _ m p _ t _ r.",
+          "answer": "trumpeter"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He plays the electric g _ _ t _ r.",
+          "answer": "guitar"
+        },
+        {
+          "item": "I don't like h _ p h _ p music.",
+          "answer": "hip hop"
+        },
+        {
+          "item": "She is the only s _ n g _ r in the competition.",
+          "answer": "singer"
+        },
+        {
+          "item": "The festival held several c _ n c _ _ t s.",
+          "answer": "concerts"
+        },
+        {
+          "item": "He is a k _ y b _ a r d i s t.",
+          "answer": "keyboardist"
+        },
+        {
+          "item": "The d _ _ m m _ r broke his stick.",
+          "answer": "drummer"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She plays the a _ c _ r d _ _ n.",
+          "answer": "accordion"
+        },
+        {
+          "item": "He is a famous p _ _ n _ s t.",
+          "answer": "pianist"
+        },
+        {
+          "item": "I prefer c _ _ s s _ c _ l m _ s _ c.",
+          "answer": "classical music"
+        },
+        {
+          "item": "The entire c _ _ _ r sang the national anthem.",
+          "answer": "choir"
+        },
+        {
+          "item": "We saw a great local b _ n d.",
+          "answer": "band"
+        },
+        {
+          "item": "He is a t _ _ m p _ t _ r.",
+          "answer": "trumpeter"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She loves p _ p c _ n c _ r t s.",
+          "answer": "pop concerts"
+        },
+        {
+          "item": "I hate the sound of the d _ _ m s.",
+          "answer": "drums"
+        },
+        {
+          "item": "He is a professional g _ _ t _ _ i s t.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "The genre is called r _ c k and roll.",
+          "answer": "rock"
+        },
+        {
+          "item": "The woman is the lead s _ n g _ r.",
+          "answer": "singer"
+        },
+        {
+          "item": "I love the sound of the v _ o l _ n.",
+          "answer": "violin"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He is an a _ c _ r d _ _ n _ s t.",
+          "answer": "accordionist"
+        },
+        {
+          "item": "She plays the electric p _ a n o.",
+          "answer": "piano"
+        },
+        {
+          "item": "I dislike most c _ _ s s _ c _ l music.",
+          "answer": "classical"
+        },
+        {
+          "item": "The b _ n d is playing tonight.",
+          "answer": "band"
+        },
+        {
+          "item": "He is a t _ _ m p _ t _ r.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "The performance will be at the c _ n c _ _ t h _ l l.",
+          "answer": "concert hall"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "We listened to a great s _ n g _ r on the radio.",
+          "answer": "singer"
+        },
+        {
+          "item": "The orchestra has a large c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "He plays the d _ _ m s in the group.",
+          "answer": "drums"
+        },
+        {
+          "item": "I hate h _ p h _ p music.",
+          "answer": "hip hop"
+        },
+        {
+          "item": "She is an excellent p _ _ n _ s t.",
+          "answer": "pianist"
+        },
+        {
+          "item": "We are going to a m _ s _ c f _ s t _ v _ l next month.",
+          "answer": "music festival"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love listening to j _ z z m _ s _ c.",
+          "answer": "jazz music"
+        },
+        {
+          "item": "The flutist is a f _ _ t i s t.",
+          "answer": "flutist"
+        },
+        {
+          "item": "He plays the k _ y b _ a r d.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "They are a famous p _ p b _ n d.",
+          "answer": "pop band"
+        },
+        {
+          "item": "She is learning the a _ c _ r d _ _ n.",
+          "answer": "accordion"
+        },
+        {
+          "item": "We enjoyed the c _ _ c _ r t tonight.",
+          "answer": "concert"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The singer is the v _ c _ l _ s t.",
+          "answer": "vocalist"
+        },
+        {
+          "item": "I like c _ _ s s _ c _ l p _ e c _ s.",
+          "answer": "classical pieces"
+        },
+        {
+          "item": "She is learning the t _ _ m p _ t.",
+          "answer": "trumpet"
+        },
+        {
+          "item": "He is the lead d _ _ m m _ r.",
+          "answer": "drummer"
+        },
+        {
+          "item": "We saw them at a local m _ s _ c f _ s t _ v _ l.",
+          "answer": "music festival"
+        },
+        {
+          "item": "The p _ _ n _ s t played beautifully.",
+          "answer": "pianist"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is a g _ _ t _ _ i s t and plays folk songs.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "The genre is called r _ g g _ e music.",
+          "answer": "reggae"
+        },
+        {
+          "item": "He plays the k _ y b _ _ r d s.",
+          "answer": "keyboards"
+        },
+        {
+          "item": "I went to a jazz c _ n c _ r t.",
+          "answer": "concert"
+        },
+        {
+          "item": "The whole c _ _ i r was dressed in red.",
+          "answer": "choir"
+        },
+        {
+          "item": "She is an a _ c _ r d _ _ n _ s t.",
+          "answer": "accordionist"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "The t _ _ m p _ t _ r played a fanfare.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "I love the sound of the v _ o l _ n.",
+          "answer": "violin"
+        },
+        {
+          "item": "She is the d _ _ m m _ r of the band.",
+          "answer": "drummer"
+        },
+        {
+          "item": "He sings in a large c _ _ i r.",
+          "answer": "choir"
+        },
+        {
+          "item": "I hate c _ _ s s _ c _ l music.",
+          "answer": "classical"
+        },
+        {
+          "item": "We saw a great p _ p b _ n d.",
+          "answer": "pop band"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "He plays the a _ c _ r d _ _ n.",
+          "answer": "accordion"
+        },
+        {
+          "item": "She is a talented s _ n g _ r.",
+          "answer": "singer"
+        },
+        {
+          "item": "I like listening to j _ z z.",
+          "answer": "jazz"
+        },
+        {
+          "item": "The band performs at many c _ _ c _ r t s.",
+          "answer": "concerts"
+        },
+        {
+          "item": "He is the g _ _ t _ _ i s t.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "She plays the p _ _ n o beautifully.",
+          "answer": "piano"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love the sound of the d _ _ m s.",
+          "answer": "drums"
+        },
+        {
+          "item": "She is the lead s _ n g _ r of the group.",
+          "answer": "singer"
+        },
+        {
+          "item": "He is an a _ c _ r d _ _ n _ s t.",
+          "answer": "accordionist"
+        },
+        {
+          "item": "I enjoy p _ p music more than rock.",
+          "answer": "pop"
+        },
+        {
+          "item": "We saw a t _ _ m p _ t _ r at the jazz club.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "The new m _ s _ c f _ s t _ v _ l starts next week.",
+          "answer": "music festival"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is a c _ _ l _ s t (plays the cello).",
+          "answer": "cellist"
+        },
+        {
+          "item": "He sings in the school c _ _ _ r.",
+          "answer": "choir"
+        },
+        {
+          "item": "I prefer listening to h _ p h _ p.",
+          "answer": "hip hop"
+        },
+        {
+          "item": "The p _ _ n _ s t is famous worldwide.",
+          "answer": "pianist"
+        },
+        {
+          "item": "We are going to a live c _ n c _ r t.",
+          "answer": "concert"
+        },
+        {
+          "item": "The b _ n d is releasing a new album soon.",
+          "answer": "band"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "6C"
+      ],
+      "type": "fill_in_the_blanks_letters",
+      "instructions": "Complete the words.",
+      "example": {
+        "item": "Judith plays the piano. She’s a p i a n i s t.",
+        "answer": "pianist"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love the sound of the t _ _ m p _ t.",
+          "answer": "trumpet"
+        },
+        {
+          "item": "She is the v _ o l _ n _ s t in the orchestra.",
+          "answer": "violinist"
+        },
+        {
+          "item": "He plays the d _ _ m s.",
+          "answer": "drums"
+        },
+        {
+          "item": "I enjoy c _ _ s s _ c _ l music when I study.",
+          "answer": "classical"
+        },
+        {
+          "item": "The s _ n g _ r of the band is excellent.",
+          "answer": "singer"
+        },
+        {
+          "item": "The accordion player is an a _ c _ r d _ _ n _ s t.",
+          "answer": "accordionist"
+        }
+      ]
+    }
+  ]
+}
+

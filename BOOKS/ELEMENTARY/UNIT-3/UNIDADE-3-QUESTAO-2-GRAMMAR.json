@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your phone have a good camera?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do you speak Russian?’  ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "__________ Ethan work in a hotel?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Does Sunita live near you?’  ‘No, she __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "What __________ your parents do?",
+          "answer": "do"
+        },
+        {
+          "item": "__________ your cousins live in the USA?",
+          "answer": "Do"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ he wear glasses?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do they live in a flat?’ ‘Yes, they __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "Where __________ your sister work?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Does the bus stop here?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ your children like vegetables?",
+          "answer": "Do"
+        },
+        {
+          "item": "When __________ she have lunch?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "What time __________ the lesson finish?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do you speak French?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ your mother cook well?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do we have homework?’ ‘Yes, you __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "Why __________ they work on Sundays?",
+          "answer": "do"
+        },
+        {
+          "item": "__________ your friend live nearby?",
+          "answer": "Does"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your parents drive a car?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does your brother smoke?’ ‘No, he __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "How many languages __________ he speak?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do we need tickets?’ ‘Yes, we __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "__________ the shop open early?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ you read in your free time?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your job involve travel?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do you like this music?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "Where __________ they go for holidays?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the computer work?’ ‘Yes, it __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "__________ your cousins live in Australia?",
+          "answer": "Do"
+        },
+        {
+          "item": "Why __________ the manager arrive late?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ she have a sister?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do I need a key?’ ‘Yes, you __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "What kind of car __________ they drive?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does your flat have a balcony?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ you drink black coffee?",
+          "answer": "Do"
+        },
+        {
+          "item": "When __________ the plane leave?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ they work hard?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does he live alone?’ ‘Yes, he __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "When __________ your parents visit?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Do you play tennis?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ the shop close late?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ your boss say?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ you take photos?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does the dog eat fast?’ ‘Yes, it __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "Where __________ we go for dinner?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Do your colleagues speak English?’ ‘No, they __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ your mother like jazz?",
+          "answer": "Does"
+        },
+        {
+          "item": "How many hours __________ you work?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your brother study French?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do you have a big family?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "What __________ your friend do on weekends?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Does the train arrive on time?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ we need an umbrella?",
+          "answer": "Do"
+        },
+        {
+          "item": "When __________ they usually go to bed?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ they read a lot of books?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does your father cook?’ ‘Yes, he __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "Where __________ the children go to school?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Do you like classical music?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ your boss travel often?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ we do now?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your flatmate have a dog?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do you work hard?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "When __________ the museum open?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Does she speak Italian?’ ‘No, she __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ you watch TV in the morning?",
+          "answer": "Do"
+        },
+        {
+          "item": "Why __________ they study English?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ we go now?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does your brother drive?’ ‘Yes, he __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "What kind of music __________ she listen to?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do you live near here?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ your parents live in a big house?",
+          "answer": "Do"
+        },
+        {
+          "item": "When __________ the baby sleep?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the shop sell coffee?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do you read the newspaper?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "How often __________ your cousins visit?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the computer work well?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ he cook dinner every night?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ kind of car do you like?",
+          "answer": "What"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ they have a big garden?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does the project start today?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Where __________ she go to university?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do you have brothers?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "__________ your sister live in London?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ you do on holiday?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the students wear uniforms?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does your boss give bonuses?’ ‘Yes, he __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "When __________ they work?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Do we need to take a taxi?’ ‘No, we __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ the teacher speak slowly?",
+          "answer": "Does"
+        },
+        {
+          "item": "What languages __________ you speak?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ he like travelling?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do your parents live nearby?’ ‘No, they __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "Where __________ the children play?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does your cat eat fish?’ ‘Yes, it __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "__________ I need my passport?",
+          "answer": "Do"
+        },
+        {
+          "item": "What time __________ the bank close?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your boss work from home?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do they speak English well?’ ‘Yes, they __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "When __________ the movie start?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Does your flat have WiFi?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ you often eat fast food?",
+          "answer": "Do"
+        },
+        {
+          "item": "What __________ kind of films does she like?",
+          "answer": "What"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ we have enough time?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does the dog bite?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Why __________ your parents live there?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Do you work on Saturday?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "__________ the company hire new staff?",
+          "answer": "Does"
+        },
+        {
+          "item": "What time __________ they usually finish work?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your friend speak loud?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do they visit often?’ ‘No, they __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "Where __________ we meet tomorrow?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the teacher give homework?’ ‘Yes, she __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "__________ you like your apartment?",
+          "answer": "Do"
+        },
+        {
+          "item": "How many sisters __________ he have?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your parents like walking?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does the office close early?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "What time __________ the museum open?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do you drive a fast car?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ she read novels?",
+          "answer": "Does"
+        },
+        {
+          "item": "Where __________ they live?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your children watch TV?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does he work on Sundays?’ ‘Yes, he __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "How many hours __________ your sister sleep?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do you wear a uniform?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ the weather change quickly?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ you have for breakfast?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ she like noisy places?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do we need money?’ ‘Yes, you __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "Where __________ your friends go out?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the baby cry a lot?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ you listen to the radio?",
+          "answer": "Do"
+        },
+        {
+          "item": "When __________ your plane arrive?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your boss work long hours?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do they speak German?’ ‘Yes, they __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "What kind of music __________ you like?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the lift work?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ your neighbours have a dog?",
+          "answer": "Do"
+        },
+        {
+          "item": "Where __________ the children play football?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ you live alone?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does she read books?’ ‘Yes, she __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "When __________ your class start?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do they like this restaurant?’ ‘No, they __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ the shop close on Sunday?",
+          "answer": "Does"
+        },
+        {
+          "item": "What __________ we do now?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your mother speak loud?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do I need to hurry?’ ‘Yes, you __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "Where __________ your parents live?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the school finish early?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "__________ they work in an office?",
+          "answer": "Do"
+        },
+        {
+          "item": "What time __________ the train arrive?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the film start now?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do your children like the beach?’ ‘Yes, they __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "How many siblings __________ he have?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do we have a break now?’ ‘No, we __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "__________ you drink tea or coffee?",
+          "answer": "Do"
+        },
+        {
+          "item": "Where __________ the restaurant sell cheap food?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your father work far away?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do you live in a big city?’ ‘No, I __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "When __________ they have dinner?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does the computer work fast?’ ‘Yes, it __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "__________ your friends like sports?",
+          "answer": "Do"
+        },
+        {
+          "item": "What __________ she wear for the party?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ they work on weekends?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does your boss smoke?’ ‘No, he __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Where __________ the bus stop?",
+          "answer": "does"
+        },
+        {
+          "item": "‘Do you like vegetables?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "__________ your sister go to the gym?",
+          "answer": "Does"
+        },
+        {
+          "item": "What kind of job __________ you have?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ your flat have many rooms?",
+          "answer": "Does"
+        },
+        {
+          "item": "‘Do they drive a big car?’ ‘No, they __________.’",
+          "answer": "don't"
+        },
+        {
+          "item": "When __________ the shops close?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Does he work hard?’ ‘Yes, he __________.’",
+          "answer": "does"
+        },
+        {
+          "item": "__________ you live in a flat or a house?",
+          "answer": "Do"
+        },
+        {
+          "item": "What time __________ the movie finish?",
+          "answer": "does"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "3B"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with one word.",
+      "example": {
+        "item": "Do you drink coffee?",
+        "answer": "Do"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ we need to wear a uniform?",
+          "answer": "Do"
+        },
+        {
+          "item": "‘Does the library open on Sunday?’ ‘No, it __________.’",
+          "answer": "doesn't"
+        },
+        {
+          "item": "Where __________ you usually go?",
+          "answer": "do"
+        },
+        {
+          "item": "‘Do you read English books?’ ‘Yes, I __________.’",
+          "answer": "do"
+        },
+        {
+          "item": "__________ she like taking photos?",
+          "answer": "Does"
+        },
+        {
+          "item": "How many people __________ your flat accommodate?",
+          "answer": "does"
+        }
+      ]
+    }
+  ]
+}
+
