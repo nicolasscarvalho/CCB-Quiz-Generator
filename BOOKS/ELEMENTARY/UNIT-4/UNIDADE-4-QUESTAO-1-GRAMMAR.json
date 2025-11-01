@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A We often watch movies on Saturdays. B We watch often movies on Saturdays.",
+          "answer": "A"
+        },
+        {
+          "item": "A He is usually tired after lunch. B He usually is tired after lunch.",
+          "answer": "A"
+        },
+        {
+          "item": "A She cleans her flat every morning. B She every morning cleans her flat.",
+          "answer": "A"
+        },
+        {
+          "item": "A My father hardly ever cooks dinner. B My father cooks hardly ever dinner.",
+          "answer": "A"
+        },
+        {
+          "item": "A They aren't always happy. B They always aren't happy.",
+          "answer": "A"
+        },
+        {
+          "item": "A I go out with friends three times a month. B I three times a month go out with friends.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My boss is never late. B My boss never is late.",
+          "answer": "A"
+        },
+        {
+          "item": "A We meet always for coffee. B We always meet for coffee.",
+          "answer": "B"
+        },
+        {
+          "item": "A Do you often play tennis? B Do often you play tennis?",
+          "answer": "A"
+        },
+        {
+          "item": "A She usually works at the weekend. B She works usually at the weekend.",
+          "answer": "A"
+        },
+        {
+          "item": "A They visit us twice a year. B They twice a year visit us.",
+          "answer": "A"
+        },
+        {
+          "item": "A I don’t often drive to work. B I don’t drive often to work.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A We are usually late for the cinema. B We usually are late for the cinema.",
+          "answer": "A"
+        },
+        {
+          "item": "A He usually is hungry in the morning. B He is usually hungry in the morning.",
+          "answer": "B"
+        },
+        {
+          "item": "A They eat fish every Friday. B They every Friday eat fish.",
+          "answer": "A"
+        },
+        {
+          "item": "A I hardly ever go shopping. B I go shopping hardly ever.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does she usually cook dinner? B Does usually she cook dinner?",
+          "answer": "A"
+        },
+        {
+          "item": "A My mother often travels to London. B My mother travels often to London.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A We drink rarely coffee. B We rarely drink coffee.",
+          "answer": "B"
+        },
+        {
+          "item": "A Is he sometimes sad? B Sometimes is he sad?",
+          "answer": "A"
+        },
+        {
+          "item": "A I visit my grandparents twice a month. B I twice a month visit my grandparents.",
+          "answer": "A"
+        },
+        {
+          "item": "A They don’t often listen to music. B They often don’t listen to music.",
+          "answer": "A"
+        },
+        {
+          "item": "A He never smokes. B He smokes never.",
+          "answer": "A"
+        },
+        {
+          "item": "A My sister helps me every day. B My sister every day helps me.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A They are always friendly. B They always are friendly.",
+          "answer": "A"
+        },
+        {
+          "item": "A We hardly ever go to the museum. B We go hardly ever to the museum.",
+          "answer": "A"
+        },
+        {
+          "item": "A He calls his mother three times a week. B He three times a week calls his mother.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually finish work at 5 p.m. B I finish usually work at 5 p.m.",
+          "answer": "A"
+        },
+        {
+          "item": "A Are you usually right? B Are you right usually?",
+          "answer": "A"
+        },
+        {
+          "item": "A She never drinks alcohol. B She drinks never alcohol.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My friends are often late. B My friends often are late.",
+          "answer": "A"
+        },
+        {
+          "item": "A I listen to music every night. B I every night listen to music.",
+          "answer": "A"
+        },
+        {
+          "item": "A He sometimes reads the newspaper. B He reads sometimes the newspaper.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do you often play games? B Do often you play games?",
+          "answer": "A"
+        },
+        {
+          "item": "A She is hardly ever stressed. B She hardly ever is stressed.",
+          "answer": "A"
+        },
+        {
+          "item": "A We go to the beach once a year. B We once a year go to the beach.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A They are rarely quiet. B They rarely are quiet.",
+          "answer": "A"
+        },
+        {
+          "item": "A He plays golf twice a week. B He twice a week plays golf.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually have a shower in the morning. B I have usually a shower in the morning.",
+          "answer": "A"
+        },
+        {
+          "item": "A She is always happy to see you. B She always is happy to see you.",
+          "answer": "A"
+        },
+        {
+          "item": "A We don’t often eat fast food. B We don’t eat often fast food.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does he sometimes drink wine? B Does sometimes he drink wine?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My sister never cleans her room. B My sister cleans never her room.",
+          "answer": "A"
+        },
+        {
+          "item": "A My parents are usually very kind. B My parents usually are very kind.",
+          "answer": "A"
+        },
+        {
+          "item": "A I take the train every day. B I every day take the train.",
+          "answer": "A"
+        },
+        {
+          "item": "A We hardly ever argue. B We argue hardly ever.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does he often travel for work? B Does often he travel for work?",
+          "answer": "A"
+        },
+        {
+          "item": "A They go to the supermarket three times a month. B They three times a month go to the supermarket.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The teacher is sometimes strict. B The teacher sometimes is strict.",
+          "answer": "A"
+        },
+        {
+          "item": "A We always drive slowly. B We drive always slowly.",
+          "answer": "A"
+        },
+        {
+          "item": "A I read books once a week. B I once a week read books.",
+          "answer": "A"
+        },
+        {
+          "item": "A She doesn’t usually read magazines. B She usually doesn’t read magazines.",
+          "answer": "A"
+        },
+        {
+          "item": "A He rarely works at the weekend. B He works rarely at the weekend.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do you often play computer games? B Do often you play computer games?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The cinema is often closed on Mondays. B The cinema often is closed on Mondays.",
+          "answer": "A"
+        },
+        {
+          "item": "A I go to the gym four times a week. B I four times a week go to the gym.",
+          "answer": "A"
+        },
+        {
+          "item": "A They always wear a uniform. B They wear always a uniform.",
+          "answer": "A"
+        },
+        {
+          "item": "A He usually takes a taxi. B He takes usually a taxi.",
+          "answer": "A"
+        },
+        {
+          "item": "A Are your parents usually home? B Are your parents home usually?",
+          "answer": "A"
+        },
+        {
+          "item": "A We never watch TV in the morning. B We watch TV never in the morning.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A She sometimes is late for class. B She is sometimes late for class.",
+          "answer": "B"
+        },
+        {
+          "item": "A We usually cook dinner at home. B We cook dinner usually at home.",
+          "answer": "A"
+        },
+        {
+          "item": "A My sister sees her friends every day. B My sister every day sees her friends.",
+          "answer": "A"
+        },
+        {
+          "item": "A They don’t usually work on Sundays. B They usually don’t work on Sundays.",
+          "answer": "A"
+        },
+        {
+          "item": "A I often drink tea. B I drink often tea.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does your flat often have visitors? B Does often your flat have visitors?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A He is never tired. B He never is tired.",
+          "answer": "A"
+        },
+        {
+          "item": "A We go abroad once a year. B We once a year go abroad.",
+          "answer": "A"
+        },
+        {
+          "item": "A She hardly ever smokes. B She smokes hardly ever.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually meet my friends on Fridays. B I meet usually my friends on Fridays.",
+          "answer": "A"
+        },
+        {
+          "item": "A The children are always noisy. B The children always are noisy.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does the manager often travel? B Does often the manager travel?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My mother sometimes is angry. B My mother is sometimes angry.",
+          "answer": "B"
+        },
+        {
+          "item": "A We buy clothes three times a year. B We three times a year buy clothes.",
+          "answer": "A"
+        },
+        {
+          "item": "A I often forget my keys. B I forget often my keys.",
+          "answer": "A"
+        },
+        {
+          "item": "A Are they usually late? B Are they late usually?",
+          "answer": "A"
+        },
+        {
+          "item": "A She always wears red. B She wears always red.",
+          "answer": "A"
+        },
+        {
+          "item": "A The teacher checks homework every lesson. B The teacher every lesson checks homework.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A They are hardly ever stressed. B They hardly ever are stressed.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually wake up at seven. B I wake up usually at seven.",
+          "answer": "A"
+        },
+        {
+          "item": "A We have a party once a month. B We once a month have a party.",
+          "answer": "A"
+        },
+        {
+          "item": "A She doesn’t often drive. B She often doesn’t drive.",
+          "answer": "A"
+        },
+        {
+          "item": "A He never cleans. B He cleans never.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does he sometimes drink beer? B Does sometimes he drink beer?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My sister always is right. B My sister is always right.",
+          "answer": "B"
+        },
+        {
+          "item": "A I go to the cinema twice a week. B I twice a week go to the cinema.",
+          "answer": "A"
+        },
+        {
+          "item": "A They sometimes watch old films. B They watch sometimes old films.",
+          "answer": "A"
+        },
+        {
+          "item": "A We are usually quiet at night. B We usually are quiet at night.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does she usually cook? B Does usually she cook?",
+          "answer": "A"
+        },
+        {
+          "item": "A He rarely stays home. B He stays rarely home.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The door is often closed. B The door often is closed.",
+          "answer": "A"
+        },
+        {
+          "item": "A I buy a newspaper every day. B I every day buy a newspaper.",
+          "answer": "A"
+        },
+        {
+          "item": "A We never argue about money. B We argue never about money.",
+          "answer": "A"
+        },
+        {
+          "item": "A She usually is at home in the evening. B She is usually at home in the evening.",
+          "answer": "B"
+        },
+        {
+          "item": "A He sometimes reads romantic novels. B He reads sometimes romantic novels.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do you often visit the museum? B Do often you visit the museum?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A They are rarely ill. B They rarely are ill.",
+          "answer": "A"
+        },
+        {
+          "item": "A I call my parents once a week. B I once a week call my parents.",
+          "answer": "A"
+        },
+        {
+          "item": "A She always finishes her homework. B She finishes always her homework.",
+          "answer": "A"
+        },
+        {
+          "item": "A He doesn’t often drink milk. B He often doesn’t drink milk.",
+          "answer": "A"
+        },
+        {
+          "item": "A We hardly ever travel. B We travel hardly ever.",
+          "answer": "A"
+        },
+        {
+          "item": "A Is he usually sad on Mondays? B Is usually he sad on Mondays?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My cousins visit us four times a year. B My cousins four times a year visit us.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually wake up late. B I wake up usually late.",
+          "answer": "A"
+        },
+        {
+          "item": "A They are never late for meetings. B They never are late for meetings.",
+          "answer": "A"
+        },
+        {
+          "item": "A She sometimes drives to work. B She drives sometimes to work.",
+          "answer": "A"
+        },
+        {
+          "item": "A We often eat dinner late. B We eat often dinner late.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does the train always arrive on time? B Does always the train arrive on time?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A He hardly ever goes out on weekdays. B He goes out hardly ever on weekdays.",
+          "answer": "A"
+        },
+        {
+          "item": "A We are usually good students. B We usually are good students.",
+          "answer": "A"
+        },
+        {
+          "item": "A I listen to the radio every morning. B I every morning listen to the radio.",
+          "answer": "A"
+        },
+        {
+          "item": "A She never drinks alcohol. B She drinks never alcohol.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do you often take a taxi? B Do often you take a taxi?",
+          "answer": "A"
+        },
+        {
+          "item": "A My parents don’t usually watch TV. B My parents usually don’t watch TV.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The teacher usually gives homework. B The teacher gives usually homework.",
+          "answer": "A"
+        },
+        {
+          "item": "A We go to the gym twice a month. B We twice a month go to the gym.",
+          "answer": "A"
+        },
+        {
+          "item": "A I am sometimes late for work. B I sometimes am late for work.",
+          "answer": "A"
+        },
+        {
+          "item": "A They often forget people’s names. B They forget often people’s names.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does she always cook well? B Does always she cook well?",
+          "answer": "A"
+        },
+        {
+          "item": "A My brother rarely calls me. B My brother calls rarely me.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The children are often happy. B The children often are happy.",
+          "answer": "A"
+        },
+        {
+          "item": "A We eat pizza once a week. B We once a week eat pizza.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually finish reading a book on Sunday. B I finish usually reading a book on Sunday.",
+          "answer": "A"
+        },
+        {
+          "item": "A She hardly ever plays tennis. B She plays hardly ever tennis.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do they always wear a suit? B Do always they wear a suit?",
+          "answer": "A"
+        },
+        {
+          "item": "A He never watches reality TV. B He watches never reality TV.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The students are always polite. B The students always are polite.",
+          "answer": "A"
+        },
+        {
+          "item": "A We go to the theatre four times a year. B We four times a year go to the theatre.",
+          "answer": "A"
+        },
+        {
+          "item": "A I often read novels at night. B I read often novels at night.",
+          "answer": "A"
+        },
+        {
+          "item": "A She is usually busy on Tuesdays. B She usually is busy on Tuesdays.",
+          "answer": "A"
+        },
+        {
+          "item": "A He sometimes drinks orange juice. B He drinks sometimes orange juice.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does your sister hardly ever study? B Does hardly ever your sister study?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A They are never ready on time. B They never are ready on time.",
+          "answer": "A"
+        },
+        {
+          "item": "A I clean my car every week. B I every week clean my car.",
+          "answer": "A"
+        },
+        {
+          "item": "A She usually works from home. B She works usually from home.",
+          "answer": "A"
+        },
+        {
+          "item": "A We don’t often go abroad. B We often don’t go abroad.",
+          "answer": "A"
+        },
+        {
+          "item": "A He hardly ever makes mistakes. B He makes hardly ever mistakes.",
+          "answer": "A"
+        },
+        {
+          "item": "A Is your mother often tired? B Is often your mother tired?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A What time do you usually finish work? B What time do usually you finish work?",
+          "answer": "A"
+        },
+        {
+          "item": "A They always listen to rock music. B They listen always to rock music.",
+          "answer": "A"
+        },
+        {
+          "item": "A My sister studies three times a week. B My sister three times a week studies.",
+          "answer": "A"
+        },
+        {
+          "item": "A We are sometimes late for dinner. B We sometimes are late for dinner.",
+          "answer": "A"
+        },
+        {
+          "item": "A He rarely goes to the gym. B He goes rarely to the gym.",
+          "answer": "A"
+        },
+        {
+          "item": "A I don’t usually take a bus. B I usually don’t take a bus.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The film is often boring. B The film often is boring.",
+          "answer": "A"
+        },
+        {
+          "item": "A We go to the coast once a year. B We once a year go to the coast.",
+          "answer": "A"
+        },
+        {
+          "item": "A I always eat vegetables. B I eat always vegetables.",
+          "answer": "A"
+        },
+        {
+          "item": "A She hardly ever wears jeans. B She wears hardly ever jeans.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do your parents usually cook Italian food? B Do usually your parents cook Italian food?",
+          "answer": "A"
+        },
+        {
+          "item": "A He is sometimes late for appointments. B He sometimes is late for appointments.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My father never drives fast. B My father drives never fast.",
+          "answer": "A"
+        },
+        {
+          "item": "A We have a break every hour. B We every hour have a break.",
+          "answer": "A"
+        },
+        {
+          "item": "A I usually study in the evening. B I study usually in the evening.",
+          "answer": "A"
+        },
+        {
+          "item": "A She is often tired after work. B She often is tired after work.",
+          "answer": "A"
+        },
+        {
+          "item": "A They rarely eat meat. B They eat rarely meat.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does he sometimes forget your name? B Does sometimes he forget your name?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The bus is always full. B The bus always is full.",
+          "answer": "A"
+        },
+        {
+          "item": "A We eat out three times a month. B We three times a month eat out.",
+          "answer": "A"
+        },
+        {
+          "item": "A I don’t often take photos. B I don’t take often photos.",
+          "answer": "A"
+        },
+        {
+          "item": "A She usually travels by train. B She travels usually by train.",
+          "answer": "A"
+        },
+        {
+          "item": "A He never argues with his wife. B He argues never with his wife.",
+          "answer": "A"
+        },
+        {
+          "item": "A Is the weather always cold here? B Is always the weather cold here?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A My boss is rarely angry. B My boss rarely is angry.",
+          "answer": "A"
+        },
+        {
+          "item": "A I call my brother every week. B I every week call my brother.",
+          "answer": "A"
+        },
+        {
+          "item": "A They often forget their keys. B They forget often their keys.",
+          "answer": "A"
+        },
+        {
+          "item": "A She never watches TV after 10 p.m. B She watches TV never after 10 p.m.",
+          "answer": "A"
+        },
+        {
+          "item": "A We usually read the newspaper in the morning. B We read usually the newspaper in the morning.",
+          "answer": "A"
+        },
+        {
+          "item": "A Does he hardly ever drive? B Does hardly ever he drive?",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A The computers are sometimes slow. B The computers sometimes are slow.",
+          "answer": "A"
+        },
+        {
+          "item": "A I eat at home four times a week. B I four times a week eat at home.",
+          "answer": "A"
+        },
+        {
+          "item": "A We always arrive early. B We arrive always early.",
+          "answer": "A"
+        },
+        {
+          "item": "A She rarely cooks complex meals. B She cooks rarely complex meals.",
+          "answer": "A"
+        },
+        {
+          "item": "A Do you often visit new places? B Do often you visit new places?",
+          "answer": "A"
+        },
+        {
+          "item": "A My friend doesn’t usually read magazines. B My friend usually doesn’t read magazines.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "4C"
+      ],
+      "type": "select_correct_sentence",
+      "instructions": "Tick () the correct sentence.",
+      "example": {
+        "item": "A Never I have breakfast. B I never have breakfast.",
+        "answer": "B"
+      },
+      "qa_pairs": [
+        {
+          "item": "A He usually is correct. B He is usually correct.",
+          "answer": "B"
+        },
+        {
+          "item": "A I have English class three times a week. B I three times a week have English class.",
+          "answer": "A"
+        },
+        {
+          "item": "A They often forget their passwords. B They forget often their passwords.",
+          "answer": "A"
+        },
+        {
+          "item": "A She never cleans the dishes. B She cleans never the dishes.",
+          "answer": "A"
+        },
+        {
+          "item": "A We don’t hardly ever argue. B We hardly ever argue.",
+          "answer": "B"
+        },
+        {
+          "item": "A Is the shop sometimes closed on Sundays? B Is sometimes the shop closed on Sundays?",
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+

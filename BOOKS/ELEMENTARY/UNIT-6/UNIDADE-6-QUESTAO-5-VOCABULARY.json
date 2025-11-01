@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s very hot in the Sahara __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "He can see his house far away so he walks __________ it.",
+          "answer": "towards"
+        },
+        {
+          "item": "What’s that __________ noise? I don’t know what it is.",
+          "answer": "strange"
+        },
+        {
+          "item": "Silver and gold are __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "We are thirsty so we __________ to drink some water.",
+          "answer": "decide"
+        },
+        {
+          "item": "It’s raining so she opens the door and says ‘Come __________.’",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "We walked __________ the busy marketplace.",
+          "answer": "through"
+        },
+        {
+          "item": "I hate the extreme heat of the __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "She looked at the old map and tried to __________ the best route.",
+          "answer": "decide"
+        },
+        {
+          "item": "That ring is very __________; it’s over 100 years old.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The bus drove __________ the city center.",
+          "answer": "towards"
+        },
+        {
+          "item": "There was a __________ smell coming from the kitchen.",
+          "answer": "strange"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please close the door, it's cold __________.",
+          "answer": "inside"
+        },
+        {
+          "item": "The car drove __________ the tunnel.",
+          "answer": "through"
+        },
+        {
+          "item": "We must __________ what we want to eat.",
+          "answer": "decide"
+        },
+        {
+          "item": "The museum has many __________ historical objects.",
+          "answer": "valuable"
+        },
+        {
+          "item": "She saw a __________ man standing near her car.",
+          "answer": "strange"
+        },
+        {
+          "item": "They walked __________ the river to find the bridge.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The vast __________ is home to many unique animals.",
+          "answer": "desert"
+        },
+        {
+          "item": "We are going __________ the mountains tomorrow.",
+          "answer": "through"
+        },
+        {
+          "item": "I heard a __________ sound coming from the basement.",
+          "answer": "strange"
+        },
+        {
+          "item": "The rain stopped, so the children went __________ to play.",
+          "answer": "outside"
+        },
+        {
+          "item": "The antique vase is extremely __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I can’t __________ if I should wear the blue or red shirt.",
+          "answer": "decide"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "She moved quickly __________ the exit when the fire alarm sounded.",
+          "answer": "towards"
+        },
+        {
+          "item": "We spent a month travelling __________ the Arabian Peninsula.",
+          "answer": "through"
+        },
+        {
+          "item": "That diamond necklace is incredibly __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I need to __________ which university I will attend.",
+          "answer": "decide"
+        },
+        {
+          "item": "They found a genuinely __________ artifact in the ancient tomb.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The coach told the team to stay __________ until the next game.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "After crossing the hot __________, they finally reached an oasis.",
+          "answer": "desert"
+        },
+        {
+          "item": "I saw a really __________ creature in the forest yesterday.",
+          "answer": "strange"
+        },
+        {
+          "item": "The dog ran __________ its owner when it saw her.",
+          "answer": "towards"
+        },
+        {
+          "item": "We need to go __________ the main hall to get to the meeting room.",
+          "answer": "through"
+        },
+        {
+          "item": "It’s cold, so let’s stay __________ tonight.",
+          "answer": "inside"
+        },
+        {
+          "item": "They had a lot of options, so it took them a long time to __________.",
+          "answer": "decide"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The ancient manuscripts are extremely __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "When the lights went out, everything felt __________.",
+          "answer": "strange"
+        },
+        {
+          "item": "The hikers spent days trekking __________ the dry desert.",
+          "answer": "through"
+        },
+        {
+          "item": "We must __________ on a location for the party soon.",
+          "answer": "decide"
+        },
+        {
+          "item": "The door was closed, so we couldn’t see what was __________.",
+          "answer": "inside"
+        },
+        {
+          "item": "I noticed the cat walking __________ the kitchen.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "I had a __________ dream about flying last night.",
+          "answer": "strange"
+        },
+        {
+          "item": "The children stayed __________ because of the thunderstorm.",
+          "answer": "inside"
+        },
+        {
+          "item": "The explorer wanted to cross the Gobi __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "She walked __________ the counter and paid for the food.",
+          "answer": "towards"
+        },
+        {
+          "item": "We drove __________ the storm without any problems.",
+          "answer": "through"
+        },
+        {
+          "item": "The family gathered to __________ their vacation plans.",
+          "answer": "decide"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can see the fish swimming __________ the glass tank.",
+          "answer": "through"
+        },
+        {
+          "item": "They finally managed to __________ on a date for the wedding.",
+          "answer": "decide"
+        },
+        {
+          "item": "He found a small, old, but very __________ coin.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The dog was running quickly __________ the park gate.",
+          "answer": "towards"
+        },
+        {
+          "item": "I saw a very __________ thing happen this morning.",
+          "answer": "strange"
+        },
+        {
+          "item": "The tourists often explore the hot Arabian __________.",
+          "answer": "desert"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "We walked slowly __________ the entrance of the castle.",
+          "answer": "towards"
+        },
+        {
+          "item": "The key must be __________ this box.",
+          "answer": "inside"
+        },
+        {
+          "item": "It is difficult to __________ between these two options.",
+          "answer": "decide"
+        },
+        {
+          "item": "The ancient pyramid contains many __________ artifacts.",
+          "answer": "valuable"
+        },
+        {
+          "item": "We traveled __________ the whole country in ten days.",
+          "answer": "through"
+        },
+        {
+          "item": "I don't like that painting; it looks very __________.",
+          "answer": "strange"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The weather is very hot in the __________ regions.",
+          "answer": "desert"
+        },
+        {
+          "item": "She looked __________ the clear water of the lake.",
+          "answer": "through"
+        },
+        {
+          "item": "Please come __________; it's getting late.",
+          "answer": "inside"
+        },
+        {
+          "item": "I found a very old and potentially __________ watch.",
+          "answer": "valuable"
+        },
+        {
+          "item": "We had to __________ quickly before the store closed.",
+          "answer": "decide"
+        },
+        {
+          "item": "The shadow moved __________ the window and disappeared.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don’t know why he wore such a __________ outfit.",
+          "answer": "strange"
+        },
+        {
+          "item": "The children ran __________ the rain and into the house.",
+          "answer": "through"
+        },
+        {
+          "item": "It took us hours to __________ which furniture to buy.",
+          "answer": "decide"
+        },
+        {
+          "item": "Diamonds are considered extremely __________ stones.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The snake moved slowly __________ the rock.",
+          "answer": "towards"
+        },
+        {
+          "item": "The door creaked open, and a cold gust of air came from __________.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The traveler carried water for the journey across the __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "She walked __________ the crowd to reach the stage.",
+          "answer": "through"
+        },
+        {
+          "item": "I saw a __________ bird I had never seen before.",
+          "answer": "strange"
+        },
+        {
+          "item": "We need to __________ if the project is feasible.",
+          "answer": "decide"
+        },
+        {
+          "item": "The police are looking for the missing __________ paintings.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The camera focused on the objects that were __________ the car.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The dog was running fast __________ the ball.",
+          "answer": "towards"
+        },
+        {
+          "item": "After an hour, they still couldn't __________ where to eat.",
+          "answer": "decide"
+        },
+        {
+          "item": "They put the boxes __________ the house last night.",
+          "answer": "inside"
+        },
+        {
+          "item": "The heat in the Mojave __________ can be dangerous.",
+          "answer": "desert"
+        },
+        {
+          "item": "It was a very __________ film, with a confusing plot.",
+          "answer": "strange"
+        },
+        {
+          "item": "The children ran __________ the corridor to the classroom.",
+          "answer": "through"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "We need to go __________ the security check before boarding.",
+          "answer": "through"
+        },
+        {
+          "item": "I have a lot of books; some of them are quite __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "She took a step __________ the police officer.",
+          "answer": "towards"
+        },
+        {
+          "item": "It’s hard to __________ between pizza and pasta.",
+          "answer": "decide"
+        },
+        {
+          "item": "I heard a quiet whisper coming from __________ the closed room.",
+          "answer": "inside"
+        },
+        {
+          "item": "The Atacama is known as the driest __________ on Earth.",
+          "answer": "desert"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The cat slowly crept __________ the sleeping mouse.",
+          "answer": "towards"
+        },
+        {
+          "item": "The only way out was to go __________ the dark cave.",
+          "answer": "through"
+        },
+        {
+          "item": "We should go __________ now, it's safer.",
+          "answer": "inside"
+        },
+        {
+          "item": "That statue is not only old but also historically __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I need to __________ if I accept the new job offer.",
+          "answer": "decide"
+        },
+        {
+          "item": "There was a __________ message left on the answering machine.",
+          "answer": "strange"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate the dry climate of the __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "The dog ran __________ the gate when I opened it.",
+          "answer": "towards"
+        },
+        {
+          "item": "We need to look __________ the evidence carefully.",
+          "answer": "through"
+        },
+        {
+          "item": "That’s a very __________ painting; I don't understand it.",
+          "answer": "strange"
+        },
+        {
+          "item": "After a long discussion, they managed to __________ on a compromise.",
+          "answer": "decide"
+        },
+        {
+          "item": "The children quickly came __________ when their mother called them.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The crown jewels are the most __________ items in the tower.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I saw a really __________ car parked outside the house.",
+          "answer": "strange"
+        },
+        {
+          "item": "We need to go __________ the airport security checks.",
+          "answer": "through"
+        },
+        {
+          "item": "The dog ran __________ its kennel.",
+          "answer": "towards"
+        },
+        {
+          "item": "We must __________ whether to cancel the event.",
+          "answer": "decide"
+        },
+        {
+          "item": "The most important documents are kept safely __________ the vault.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The Gobi __________ is one of the largest deserts in the world.",
+          "answer": "desert"
+        },
+        {
+          "item": "I want to __________ what to study at university.",
+          "answer": "decide"
+        },
+        {
+          "item": "I need to read __________ the whole contract before signing.",
+          "answer": "through"
+        },
+        {
+          "item": "The sculpture had a very __________ shape and colour.",
+          "answer": "strange"
+        },
+        {
+          "item": "We rushed __________ the shelter as the storm began.",
+          "answer": "inside"
+        },
+        {
+          "item": "He saw the boat moving slowly __________ the shore.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "We walked __________ the park to get to the library.",
+          "answer": "through"
+        },
+        {
+          "item": "That antique piece of furniture is very __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The hikers got lost in the vast __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "She hesitated, unable to __________ what to say next.",
+          "answer": "decide"
+        },
+        {
+          "item": "There was a loud noise from __________ the locked room.",
+          "answer": "inside"
+        },
+        {
+          "item": "I noticed the runner moving rapidly __________ the finish line.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The ring belonged to her grandmother and was very __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I saw a __________ animal that looked like a large rodent.",
+          "answer": "strange"
+        },
+        {
+          "item": "We must __________ on a colour for the walls.",
+          "answer": "decide"
+        },
+        {
+          "item": "The tourists walked slowly __________ the main monument.",
+          "answer": "towards"
+        },
+        {
+          "item": "It took us five minutes to drive __________ the tunnel.",
+          "answer": "through"
+        },
+        {
+          "item": "It was cold, so we stayed __________ all afternoon.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The only way to win is to __________ not to give up.",
+          "answer": "decide"
+        },
+        {
+          "item": "I dislike the intense heat of the vast __________ lands.",
+          "answer": "desert"
+        },
+        {
+          "item": "We need to cut __________ the forest to find the river.",
+          "answer": "through"
+        },
+        {
+          "item": "The dog was moving __________ the kitchen, hoping for food.",
+          "answer": "towards"
+        },
+        {
+          "item": "The box contained many old and __________ pieces of jewellery.",
+          "answer": "valuable"
+        },
+        {
+          "item": "She noticed a distinctly __________ symbol painted on the wall.",
+          "answer": "strange"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "It took the council a month to __________ on the new policy.",
+          "answer": "decide"
+        },
+        {
+          "item": "I left my umbrella __________ the office.",
+          "answer": "inside"
+        },
+        {
+          "item": "I saw a tall figure walking slowly __________ the house.",
+          "answer": "towards"
+        },
+        {
+          "item": "The air felt __________ and heavy before the storm.",
+          "answer": "strange"
+        },
+        {
+          "item": "The diamond bracelet is extremely __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "The water flowed quickly __________ the broken pipe.",
+          "answer": "through"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "We traveled __________ the Sahara __________ for three days.",
+          "answer": "through"
+        },
+        {
+          "item": "She felt nervous moving __________ the large crowd.",
+          "answer": "towards"
+        },
+        {
+          "item": "The museum displays many __________ cultural artifacts.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I couldn't shake off the __________ feeling that something was wrong.",
+          "answer": "strange"
+        },
+        {
+          "item": "We are planning a trip to the Australian __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "I need to __________ if I want to join the team or not.",
+          "answer": "decide"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "She walked quickly __________ the building and shut the door.",
+          "answer": "inside"
+        },
+        {
+          "item": "It’s hard to __________ on the best strategy.",
+          "answer": "decide"
+        },
+        {
+          "item": "The security guards protect the __________ jewels.",
+          "answer": "valuable"
+        },
+        {
+          "item": "We drove __________ the countryside to reach the village.",
+          "answer": "through"
+        },
+        {
+          "item": "The man was staring with a very __________ look.",
+          "answer": "strange"
+        },
+        {
+          "item": "The camel moved slowly __________ the oasis.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The children stayed __________ until the rain stopped.",
+          "answer": "inside"
+        },
+        {
+          "item": "The tourists often visit the Peruvian coastal __________.",
+          "answer": "desert"
+        },
+        {
+          "item": "I need to read __________ this document again.",
+          "answer": "through"
+        },
+        {
+          "item": "We must __________ if we should leave now or later.",
+          "answer": "decide"
+        },
+        {
+          "item": "That antique book is considered very __________.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I saw the runner sprinting __________ the finish line.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "She heard a very __________ sound from the woods.",
+          "answer": "strange"
+        },
+        {
+          "item": "It’s raining; we must rush __________.",
+          "answer": "inside"
+        },
+        {
+          "item": "We watched the small bird fly __________ the air.",
+          "answer": "through"
+        },
+        {
+          "item": "The car slowly moved __________ the parking space.",
+          "answer": "towards"
+        },
+        {
+          "item": "I need to __________ on the topic of my presentation.",
+          "answer": "decide"
+        },
+        {
+          "item": "The explorers crossed the hot, barren __________.",
+          "answer": "desert"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "We must __________ whether to stay or leave immediately.",
+          "answer": "decide"
+        },
+        {
+          "item": "The chest contained many __________ items like old coins and silver.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I saw him moving quickly __________ the station entrance.",
+          "answer": "towards"
+        },
+        {
+          "item": "I felt a very __________ sense of relief when I arrived home.",
+          "answer": "strange"
+        },
+        {
+          "item": "The only way to reach the next town was to travel __________ the dense jungle.",
+          "answer": "through"
+        },
+        {
+          "item": "The children wanted to see what was __________ the gift box.",
+          "answer": "inside"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The plane flew __________ the clouds.",
+          "answer": "through"
+        },
+        {
+          "item": "We need to __________ if the costs are acceptable.",
+          "answer": "decide"
+        },
+        {
+          "item": "The Mojave __________ is in the US.",
+          "answer": "desert"
+        },
+        {
+          "item": "She put the flowers __________ the vase.",
+          "answer": "inside"
+        },
+        {
+          "item": "This gold watch is a very __________ family heirloom.",
+          "answer": "valuable"
+        },
+        {
+          "item": "I saw him running directly __________ the ocean.",
+          "answer": "towards"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "6A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word from the list: decide, strange, inside, towards, valuable, desert, through.",
+      "example": {
+        "item": "You can see __________ a glass bottle.",
+        "answer": "through"
+      },
+      "qa_pairs": [
+        {
+          "item": "The package contained a very old and __________ letter.",
+          "answer": "valuable"
+        },
+        {
+          "item": "They finally managed to __________ on the movie they would watch.",
+          "answer": "decide"
+        },
+        {
+          "item": "The man had a __________ way of walking that I couldn't forget.",
+          "answer": "strange"
+        },
+        {
+          "item": "The children rushed __________ when the bell rang.",
+          "answer": "inside"
+        },
+        {
+          "item": "We drove __________ the entire city in just one hour.",
+          "answer": "through"
+        },
+        {
+          "item": "The caravan moved slowly __________ the horizon.",
+          "answer": "towards"
+        }
+      ]
+    }
+  ]
+}
+

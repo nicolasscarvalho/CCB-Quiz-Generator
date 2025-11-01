@@ -1,0 +1,2374 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹one, three, five, __________",
+          "options": [
+            "seven",
+            "six",
+            "eight"
+          ],
+          "answer": "seven"
+        },
+        {
+          "item": "²Monday, Wednesday, Friday, __________",
+          "options": [
+            "Sunday",
+            "Saturday",
+            "Tuesday"
+          ],
+          "answer": "Sunday"
+        },
+        {
+          "item": "³ten, twenty, thirty, __________",
+          "options": [
+            "forty",
+            "fifty",
+            "twenty-five"
+          ],
+          "answer": "forty"
+        },
+        {
+          "item": "⁴red, blue, green, __________",
+          "options": [
+            "purple",
+            "black",
+            "yellow"
+          ],
+          "answer": "yellow"
+        },
+        {
+          "item": "⁵cat, dog, bird, __________",
+          "options": [
+            "fish",
+            "bear",
+            "cow"
+          ],
+          "answer": "fish"
+        },
+        {
+          "item": "⁶morning, afternoon, evening, __________",
+          "options": [
+            "night",
+            "noon",
+            "midnight"
+          ],
+          "answer": "night"
+        },
+        {
+          "item": "⁷April, May, June, __________",
+          "options": [
+            "July",
+            "August",
+            "March"
+          ],
+          "answer": "July"
+        },
+        {
+          "item": "⁸first, second, third, __________",
+          "options": [
+            "fourth",
+            "fifth",
+            "sixth"
+          ],
+          "answer": "fourth"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹six, seven, eight, __________",
+          "options": [
+            "nine",
+            "ten",
+            "eleven"
+          ],
+          "answer": "nine"
+        },
+        {
+          "item": "²November, December, January, __________",
+          "options": [
+            "February",
+            "October",
+            "March"
+          ],
+          "answer": "February"
+        },
+        {
+          "item": "³twenty-five, thirty, thirty-five, __________",
+          "options": [
+            "forty",
+            "twenty",
+            "forty-five"
+          ],
+          "answer": "forty"
+        },
+        {
+          "item": "⁴breakfast, lunch, dinner, __________",
+          "options": [
+            "snack",
+            "tea",
+            "meal"
+          ],
+          "answer": "snack"
+        },
+        {
+          "item": "⁵pen, pencil, eraser, __________",
+          "options": [
+            "ruler",
+            "marker",
+            "crayon"
+          ],
+          "answer": "ruler"
+        },
+        {
+          "item": "⁶square, triangle, circle, __________",
+          "options": [
+            "rectangle",
+            "oval",
+            "cube"
+          ],
+          "answer": "rectangle"
+        },
+        {
+          "item": "⁷Monday, Tuesday, Wednesday, __________",
+          "options": [
+            "Thursday",
+            "Saturday",
+            "Sunday"
+          ],
+          "answer": "Thursday"
+        },
+        {
+          "item": "⁸one, five, ten, __________",
+          "options": [
+            "fifteen",
+            "twenty",
+            "twenty-five"
+          ],
+          "answer": "fifteen"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹four, eight, twelve, __________",
+          "options": [
+            "sixteen",
+            "ten",
+            "fourteen"
+          ],
+          "answer": "sixteen"
+        },
+        {
+          "item": "²July, August, September, __________",
+          "options": [
+            "October",
+            "June",
+            "November"
+          ],
+          "answer": "October"
+        },
+        {
+          "item": "³hat, shirt, pants, __________",
+          "options": [
+            "shoes",
+            "belt",
+            "coat"
+          ],
+          "answer": "shoes"
+        },
+        {
+          "item": "⁴spring, summer, fall, __________",
+          "options": [
+            "winter",
+            "autumn",
+            "rain"
+          ],
+          "answer": "winter"
+        },
+        {
+          "item": "⁵big, bigger, biggest, __________",
+          "options": [
+            "tall",
+            "small",
+            "large"
+          ],
+          "answer": "tall"
+        },
+        {
+          "item": "⁶armchair, chair, sofa, __________",
+          "options": [
+            "bed",
+            "carpet",
+            "mirror"
+          ],
+          "answer": "bed"
+        },
+        {
+          "item": "⁷I, you, he, __________",
+          "options": [
+            "she",
+            "we",
+            "it"
+          ],
+          "answer": "she"
+        },
+        {
+          "item": "⁸pink, purple, brown, __________",
+          "options": [
+            "gray",
+            "green",
+            "black"
+          ],
+          "answer": "gray"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹cow, horse, pig, __________",
+          "options": [
+            "chicken",
+            "goat",
+            "cat"
+          ],
+          "answer": "chicken"
+        },
+        {
+          "item": "²zero, ten, twenty, __________",
+          "options": [
+            "thirty",
+            "fifteen",
+            "five"
+          ],
+          "answer": "thirty"
+        },
+        {
+          "item": "³bus, train, airplane, __________",
+          "options": [
+            "boat",
+            "car",
+            "bike"
+          ],
+          "answer": "car"
+        },
+        {
+          "item": "⁴January, February, March, __________",
+          "options": [
+            "April",
+            "June",
+            "December"
+          ],
+          "answer": "April"
+        },
+        {
+          "item": "⁵happy, sad, angry, __________",
+          "options": [
+            "tired",
+            "bored",
+            "excited"
+          ],
+          "answer": "tired"
+        },
+        {
+          "item": "⁶fork, spoon, knife, __________",
+          "options": [
+            "plate",
+            "glass",
+            "bowl"
+          ],
+          "answer": "bowl"
+        },
+        {
+          "item": "⁷tall, short, long, __________",
+          "options": [
+            "wide",
+            "tiny",
+            "thin"
+          ],
+          "answer": "wide"
+        },
+        {
+          "item": "⁸apple, banana, orange, __________",
+          "options": [
+            "grape",
+            "pear",
+            "lemon"
+          ],
+          "answer": "pear"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹ten, fifteen, twenty, __________",
+          "options": [
+            "twenty-five",
+            "thirty",
+            "eighteen"
+          ],
+          "answer": "twenty-five"
+        },
+        {
+          "item": "²desk, board, notebook, __________",
+          "options": [
+            "pen",
+            "chalk",
+            "backpack"
+          ],
+          "answer": "backpack"
+        },
+        {
+          "item": "³Monday, Thursday, Sunday, __________",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+          ],
+          "answer": "Tuesday"
+        },
+        {
+          "item": "⁴cup, plate, bowl, __________",
+          "options": [
+            "glass",
+            "napkin",
+            "fork"
+          ],
+          "answer": "glass"
+        },
+        {
+          "item": "⁵up, down, left, __________",
+          "options": [
+            "right",
+            "back",
+            "over"
+          ],
+          "answer": "right"
+        },
+        {
+          "item": "⁶tea, coffee, juice, __________",
+          "options": [
+            "milk",
+            "soda",
+            "wine"
+          ],
+          "answer": "milk"
+        },
+        {
+          "item": "⁷walk, run, jump, __________",
+          "options": [
+            "swim",
+            "dance",
+            "climb"
+          ],
+          "answer": "swim"
+        },
+        {
+          "item": "⁸first, third, fifth, __________",
+          "options": [
+            "seventh",
+            "sixth",
+            "eighth"
+          ],
+          "answer": "seventh"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹car, truck, bike, __________",
+          "options": [
+            "bus",
+            "scooter",
+            "train"
+          ],
+          "answer": "bus"
+        },
+        {
+          "item": "²six, twelve, eighteen, __________",
+          "options": [
+            "twenty-four",
+            "thirty",
+            "twenty"
+          ],
+          "answer": "twenty-four"
+        },
+        {
+          "item": "³rain, snow, wind, __________",
+          "options": [
+            "sun",
+            "storm",
+            "cloud"
+          ],
+          "answer": "storm"
+        },
+        {
+          "item": "⁴clock, calendar, alarm, __________",
+          "options": [
+            "watch",
+            "time",
+            "date"
+          ],
+          "answer": "watch"
+        },
+        {
+          "item": "⁵hot, warm, cool, __________",
+          "options": [
+            "cold",
+            "chill",
+            "frozen"
+          ],
+          "answer": "cold"
+        },
+        {
+          "item": "⁶breakfast, brunch, lunch, __________",
+          "options": [
+            "dinner",
+            "snack",
+            "meal"
+          ],
+          "answer": "dinner"
+        },
+        {
+          "item": "⁷Tuesday, Thursday, Saturday, __________",
+          "options": [
+            "Saturday",
+            "Sunday",
+            "another"
+          ],
+          "answer": "Sunday"
+        },
+        {
+          "item": "⁸one hundred, two hundred, three hundred, __________",
+          "options": [
+            "four hundred",
+            "five hundred",
+            "six hundred"
+          ],
+          "answer": "four hundred"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹cat, kitten, dog, __________",
+          "options": [
+            "puppy",
+            "pet",
+            "cub"
+          ],
+          "answer": "puppy"
+        },
+        {
+          "item": "²blue, green, yellow, __________",
+          "options": [
+            "orange",
+            "purple",
+            "pink"
+          ],
+          "answer": "orange"
+        },
+        {
+          "item": "³book, page, letter, __________",
+          "options": [
+            "word",
+            "story",
+            "pen"
+          ],
+          "answer": "word"
+        },
+        {
+          "item": "⁴kitchen, bedroom, bathroom, __________",
+          "options": [
+            "living room",
+            "hall",
+            "closet"
+          ],
+          "answer": "living room"
+        },
+        {
+          "item": "⁵drink, eat, cook, __________",
+          "options": [
+            "sleep",
+            "wash",
+            "clean"
+          ],
+          "answer": "sleep"
+        },
+        {
+          "item": "⁶eye, nose, mouth, __________",
+          "options": [
+            "ear",
+            "head",
+            "face"
+          ],
+          "answer": "ear"
+        },
+        {
+          "item": "⁷five, ten, fifteen, __________",
+          "options": [
+            "twenty",
+            "twenty-five",
+            "eighteen"
+          ],
+          "answer": "twenty"
+        },
+        {
+          "item": "⁸Tuesday, Thursday, Saturday, __________",
+          "options": [
+            "Monday",
+            "Sunday",
+            "Wednesday"
+          ],
+          "answer": "Monday"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹bus, subway, taxi, __________",
+          "options": [
+            "train",
+            "scooter",
+            "car"
+          ],
+          "answer": "car"
+        },
+        {
+          "item": "²thirty, thirty-five, forty, __________",
+          "options": [
+            "forty-five",
+            "fifty",
+            "thirty-eight"
+          ],
+          "answer": "forty-five"
+        },
+        {
+          "item": "³sun, moon, stars, __________",
+          "options": [
+            "sky",
+            "cloud",
+            "space"
+          ],
+          "answer": "space"
+        },
+        {
+          "item": "⁴soccer, tennis, basketball, __________",
+          "options": [
+            "volleyball",
+            "baseball",
+            "rugby"
+          ],
+          "answer": "volleyball"
+        },
+        {
+          "item": "⁵January, April, July, __________",
+          "options": [
+            "October",
+            "August",
+            "November"
+          ],
+          "answer": "October"
+        },
+        {
+          "item": "⁶animal, plant, insect, __________",
+          "options": [
+            "bird",
+            "fish",
+            "tree"
+          ],
+          "answer": "bird"
+        },
+        {
+          "item": "⁷one, two, four, __________",
+          "options": [
+            "eight",
+            "five",
+            "six"
+          ],
+          "answer": "eight"
+        },
+        {
+          "item": "⁸mom, dad, sister, __________",
+          "options": [
+            "brother",
+            "cousin",
+            "aunt"
+          ],
+          "answer": "brother"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹winter, spring, summer, __________",
+          "options": [
+            "fall",
+            "autumn",
+            "rainy"
+          ],
+          "answer": "fall"
+        },
+        {
+          "item": "²bread, butter, cheese, __________",
+          "options": [
+            "ham",
+            "milk",
+            "egg"
+          ],
+          "answer": "ham"
+        },
+        {
+          "item": "³nine, eighteen, twenty-seven, __________",
+          "options": [
+            "thirty-six",
+            "thirty",
+            "forty"
+          ],
+          "answer": "thirty-six"
+        },
+        {
+          "item": "⁴happy, excited, surprised, __________",
+          "options": [
+            "scared",
+            "angry",
+            "nervous"
+          ],
+          "answer": "nervous"
+        },
+        {
+          "item": "⁵lion, tiger, bear, __________",
+          "options": [
+            "elephant",
+            "giraffe",
+            "monkey"
+          ],
+          "answer": "monkey"
+        },
+        {
+          "item": "⁶jeans, jacket, coat, __________",
+          "options": [
+            "sweater",
+            "dress",
+            "shirt"
+          ],
+          "answer": "sweater"
+        },
+        {
+          "item": "⁷bathroom, towel, soap, __________",
+          "options": [
+            "shampoo",
+            "water",
+            "sink"
+          ],
+          "answer": "shampoo"
+        },
+        {
+          "item": "⁸egg, chicken, cow, __________",
+          "options": [
+            "milk",
+            "beef",
+            "pig"
+          ],
+          "answer": "pig"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹Thursday, Friday, Saturday, __________",
+          "options": [
+            "Saturday",
+            "Sunday",
+            "another"
+          ],
+          "answer": "Sunday"
+        },
+        {
+          "item": "²apple, orange, banana, __________",
+          "options": [
+            "pineapple",
+            "grape",
+            "lemon"
+          ],
+          "answer": "grape"
+        },
+        {
+          "item": "³mother, father, baby, __________",
+          "options": [
+            "child",
+            "son",
+            "daughter"
+          ],
+          "answer": "daughter"
+        },
+        {
+          "item": "⁴black, white, gray, __________",
+          "options": [
+            "brown",
+            "blue",
+            "red"
+          ],
+          "answer": "brown"
+        },
+        {
+          "item": "⁵play, laugh, smile, __________",
+          "options": [
+            "cry",
+            "talk",
+            "jump"
+          ],
+          "answer": "talk"
+        },
+        {
+          "item": "⁶sun, sky, cloud, __________",
+          "options": [
+            "rain",
+            "wind",
+            "moon"
+          ],
+          "answer": "moon"
+        },
+        {
+          "item": "⁷one, two, three, __________",
+          "options": [
+            "four",
+            "five",
+            "zero"
+          ],
+          "answer": "four"
+        },
+        {
+          "item": "⁸foot, leg, arm, __________",
+          "options": [
+            "hand",
+            "head",
+            "toe"
+          ],
+          "answer": "hand"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹yellow, orange, red, __________",
+          "options": [
+            "pink",
+            "green",
+            "blue"
+          ],
+          "answer": "pink"
+        },
+        {
+          "item": "²soup, salad, sandwich, __________",
+          "options": [
+            "dessert",
+            "juice",
+            "meat"
+          ],
+          "answer": "dessert"
+        },
+        {
+          "item": "³mouse, keyboard, screen, __________",
+          "options": [
+            "computer",
+            "monitor",
+            "speaker"
+          ],
+          "answer": "speaker"
+        },
+        {
+          "item": "⁴black, white, gray, __________",
+          "options": [
+            "red",
+            "gray",
+            "brown"
+          ],
+          "answer": "brown"
+        },
+        {
+          "item": "⁵hair, face, eyes, __________",
+          "options": [
+            "nose",
+            "head",
+            "lips"
+          ],
+          "answer": "nose"
+        },
+        {
+          "item": "⁶finger, hand, arm, __________",
+          "options": [
+            "shoulder",
+            "toe",
+            "knee"
+          ],
+          "answer": "shoulder"
+        },
+        {
+          "item": "⁷rice, beans, meat, __________",
+          "options": [
+            "vegetables",
+            "chicken",
+            "bread"
+          ],
+          "answer": "vegetables"
+        },
+        {
+          "item": "⁸elephant, whale, shark, __________",
+          "options": [
+            "dolphin",
+            "turtle",
+            "octopus"
+          ],
+          "answer": "dolphin"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹ten, twenty, forty, __________",
+          "options": [
+            "eighty",
+            "sixty",
+            "one hundred"
+          ],
+          "answer": "eighty"
+        },
+        {
+          "item": "²cake, pie, cookie, __________",
+          "options": [
+            "candy",
+            "muffin",
+            "pudding"
+          ],
+          "answer": "pudding"
+        },
+        {
+          "item": "³man, woman, child, __________",
+          "options": [
+            "baby",
+            "boy",
+            "girl"
+          ],
+          "answer": "baby"
+        },
+        {
+          "item": "⁴red, yellow, orange, __________",
+          "options": [
+            "orange",
+            "brown",
+            "green"
+          ],
+          "answer": "green"
+        },
+        {
+          "item": "⁵math, science, English, __________",
+          "options": [
+            "history",
+            "art",
+            "geography"
+          ],
+          "answer": "history"
+        },
+        {
+          "item": "⁶fork, knife, spoon, __________",
+          "options": [
+            "chopstick",
+            "plate",
+            "dish"
+          ],
+          "answer": "chopstick"
+        },
+        {
+          "item": "⁷January, March, May, __________",
+          "options": [
+            "July",
+            "June",
+            "November"
+          ],
+          "answer": "July"
+        },
+        {
+          "item": "⁸bus, bike, car, __________",
+          "options": [
+            "train",
+            "boat",
+            "plane"
+          ],
+          "answer": "plane"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹Monday, Tuesday, Wednesday, __________",
+          "options": [
+            "Thursday",
+            "another",
+            "Wednesday"
+          ],
+          "answer": "Thursday"
+        },
+        {
+          "item": "²coat, scarf, gloves, __________",
+          "options": [
+            "hat",
+            "sweater",
+            "boots"
+          ],
+          "answer": "hat"
+        },
+        {
+          "item": "³lion, monkey, giraffe, __________",
+          "options": [
+            "zebra",
+            "panda",
+            "tiger"
+          ],
+          "answer": "zebra"
+        },
+        {
+          "item": "⁴nose, mouth, chin, __________",
+          "options": [
+            "ear",
+            "eyebrow",
+            "cheek"
+          ],
+          "answer": "cheek"
+        },
+        {
+          "item": "⁵raincoat, umbrella, boots, __________",
+          "options": [
+            "jacket",
+            "pants",
+            "hat"
+          ],
+          "answer": "jacket"
+        },
+        {
+          "item": "⁶doctor, nurse, patient, __________",
+          "options": [
+            "hospital",
+            "clinic",
+            "medicine"
+          ],
+          "answer": "hospital"
+        },
+        {
+          "item": "⁷April, June, August, __________",
+          "options": [
+            "October",
+            "December",
+            "September"
+          ],
+          "answer": "October"
+        },
+        {
+          "item": "⁸slow, fast, faster, __________",
+          "options": [
+            "quickest",
+            "quick",
+            "slower"
+          ],
+          "answer": "quick"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹music, dance, paint, __________",
+          "options": [
+            "sing",
+            "draw",
+            "act"
+          ],
+          "answer": "sing"
+        },
+        {
+          "item": "²house, apartment, building, __________",
+          "options": [
+            "hotel",
+            "condo",
+            "room"
+          ],
+          "answer": "hotel"
+        },
+        {
+          "item": "³sandwich, burger, hot dog, __________",
+          "options": [
+            "pizza",
+            "fries",
+            "taco"
+          ],
+          "answer": "pizza"
+        },
+        {
+          "item": "⁴grandma, grandpa, aunt, __________",
+          "options": [
+            "uncle",
+            "cousin",
+            "dad"
+          ],
+          "answer": "uncle"
+        },
+        {
+          "item": "⁵soccer, baseball, tennis, __________",
+          "options": [
+            "golf",
+            "basketball",
+            "hockey"
+          ],
+          "answer": "basketball"
+        },
+        {
+          "item": "⁶water, juice, tea, __________",
+          "options": [
+            "soda",
+            "milk",
+            "coffee"
+          ],
+          "answer": "coffee"
+        },
+        {
+          "item": "⁷pen, pencil, marker, __________",
+          "options": [
+            "highlighter",
+            "brush",
+            "crayon"
+          ],
+          "answer": "crayon"
+        },
+        {
+          "item": "⁸Wednesday, Friday, Sunday, __________",
+          "options": [
+            "Monday",
+            "another",
+            "Sunday"
+          ],
+          "answer": "Monday"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹dog, puppy, cat, __________",
+          "options": [
+            "kitten",
+            "cub",
+            "bunny"
+          ],
+          "answer": "kitten"
+        },
+        {
+          "item": "²red, pink, purple, __________",
+          "options": [
+            "violet",
+            "blue",
+            "brown"
+          ],
+          "answer": "blue"
+        },
+        {
+          "item": "³May, July, September, __________",
+          "options": [
+            "another",
+            "November",
+            "September"
+          ],
+          "answer": "November"
+        },
+        {
+          "item": "⁴bed, pillow, blanket, __________",
+          "options": [
+            "sheet",
+            "mattress",
+            "cover"
+          ],
+          "answer": "sheet"
+        },
+        {
+          "item": "⁵pencil, paper, ruler, __________",
+          "options": [
+            "eraser",
+            "scissors",
+            "pen"
+          ],
+          "answer": "eraser"
+        },
+        {
+          "item": "⁶winter, summer, fall, __________",
+          "options": [
+            "spring",
+            "cold",
+            "snow"
+          ],
+          "answer": "spring"
+        },
+        {
+          "item": "⁷book, magazine, newspaper, __________",
+          "options": [
+            "comic",
+            "story",
+            "blog"
+          ],
+          "answer": "comic"
+        },
+        {
+          "item": "⁸one, four, nine, __________",
+          "options": [
+            "sixteen",
+            "six",
+            "twelve"
+          ],
+          "answer": "sixteen"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹January, March, May, __________",
+          "options": [
+            "July",
+            "June",
+            "May"
+          ],
+          "answer": "July"
+        },
+        {
+          "item": "²bear, deer, fox, __________",
+          "options": [
+            "wolf",
+            "rabbit",
+            "owl"
+          ],
+          "answer": "rabbit"
+        },
+        {
+          "item": "³cook, bake, boil, __________",
+          "options": [
+            "fry",
+            "grill",
+            "toast"
+          ],
+          "answer": "fry"
+        },
+        {
+          "item": "⁴shirt, pants, jacket, __________",
+          "options": [
+            "shoes",
+            "socks",
+            "hat"
+          ],
+          "answer": "socks"
+        },
+        {
+          "item": "⁵park, zoo, museum, __________",
+          "options": [
+            "aquarium",
+            "cinema",
+            "gallery"
+          ],
+          "answer": "aquarium"
+        },
+        {
+          "item": "⁶train, airplane, car, __________",
+          "options": [
+            "boat",
+            "tram",
+            "truck"
+          ],
+          "answer": "boat"
+        },
+        {
+          "item": "⁷doctor, teacher, engineer, __________",
+          "options": [
+            "nurse",
+            "pilot",
+            "lawyer"
+          ],
+          "answer": "lawyer"
+        },
+        {
+          "item": "⁸table, chair, lamp, __________",
+          "options": [
+            "desk",
+            "sofa",
+            "bed"
+          ],
+          "answer": "desk"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹yellow, blue, green, __________",
+          "options": [
+            "red",
+            "purple",
+            "orange"
+          ],
+          "answer": "red"
+        },
+        {
+          "item": "²nose, lips, teeth, __________",
+          "options": [
+            "tongue",
+            "mouth",
+            "chin"
+          ],
+          "answer": "tongue"
+        },
+        {
+          "item": "³candy, cake, chocolate, __________",
+          "options": [
+            "pie",
+            "pudding",
+            "donut"
+          ],
+          "answer": "donut"
+        },
+        {
+          "item": "⁴father, mother, daughter, __________",
+          "options": [
+            "son",
+            "child",
+            "brother"
+          ],
+          "answer": "son"
+        },
+        {
+          "item": "⁵jeans, shorts, skirt, __________",
+          "options": [
+            "dress",
+            "pants",
+            "coat"
+          ],
+          "answer": "dress"
+        },
+        {
+          "item": "⁶book, pen, notebook, __________",
+          "options": [
+            "paper",
+            "folder",
+            "bag"
+          ],
+          "answer": "folder"
+        },
+        {
+          "item": "⁷orange, apple, grape, __________",
+          "options": [
+            "melon",
+            "pear",
+            "cherry"
+          ],
+          "answer": "pear"
+        },
+        {
+          "item": "⁸cat, dog, rabbit, __________",
+          "options": [
+            "hamster",
+            "pig",
+            "horse"
+          ],
+          "answer": "hamster"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹four, eight, twelve, __________",
+          "options": [
+            "twelve",
+            "another",
+            "sixteen"
+          ],
+          "answer": "sixteen"
+        },
+        {
+          "item": "²cherry, wine, ruby, __________",
+          "options": [
+            "ruby",
+            "another",
+            "scarlet"
+          ],
+          "answer": "scarlet"
+        },
+        {
+          "item": "³hand, foot, arm, __________",
+          "options": [
+            "leg",
+            "head",
+            "ear"
+          ],
+          "answer": "leg"
+        },
+        {
+          "item": "⁴lion, tiger, panther, __________",
+          "options": [
+            "cheetah",
+            "bear",
+            "wolf"
+          ],
+          "answer": "cheetah"
+        },
+        {
+          "item": "⁵six, twelve, eighteen, __________",
+          "options": [
+            "twenty-four",
+            "another",
+            "eighteen"
+          ],
+          "answer": "twenty-four"
+        },
+        {
+          "item": "⁶sun, rain, snow, __________",
+          "options": [
+            "wind",
+            "fog",
+            "cloud"
+          ],
+          "answer": "wind"
+        },
+        {
+          "item": "⁷tea, coffee, milk, __________",
+          "options": [
+            "juice",
+            "soda",
+            "water"
+          ],
+          "answer": "juice"
+        },
+        {
+          "item": "⁸bedroom, kitchen, bathroom, __________",
+          "options": [
+            "living room",
+            "garage",
+            "closet"
+          ],
+          "answer": "living room"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹red, green, blue, __________",
+          "options": [
+            "yellow",
+            "orange",
+            "purple"
+          ],
+          "answer": "yellow"
+        },
+        {
+          "item": "²car, truck, bus, __________",
+          "options": [
+            "train",
+            "scooter",
+            "bike"
+          ],
+          "answer": "train"
+        },
+        {
+          "item": "³eye, ear, nose, __________",
+          "options": [
+            "mouth",
+            "head",
+            "face"
+          ],
+          "answer": "mouth"
+        },
+        {
+          "item": "⁴eight, sixteen, twenty-four, __________",
+          "options": [
+            "thirty-two",
+            "another",
+            "twenty-four"
+          ],
+          "answer": "thirty-two"
+        },
+        {
+          "item": "⁵ball, bat, glove, __________",
+          "options": [
+            "helmet",
+            "net",
+            "goal"
+          ],
+          "answer": "helmet"
+        },
+        {
+          "item": "⁶dog, cat, fish, __________",
+          "options": [
+            "bird",
+            "rabbit",
+            "turtle"
+          ],
+          "answer": "bird"
+        },
+        {
+          "item": "⁷climb, jump, run, __________",
+          "options": [
+            "walk",
+            "crawl",
+            "fall"
+          ],
+          "answer": "walk"
+        },
+        {
+          "item": "⁸plate, fork, glass, __________",
+          "options": [
+            "knife",
+            "cup",
+            "spoon"
+          ],
+          "answer": "knife"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹four, six, eight, __________",
+          "options": [
+            "ten",
+            "twelve",
+            "fourteen"
+          ],
+          "answer": "ten"
+        },
+        {
+          "item": "²father, uncle, cousin, __________",
+          "options": [
+            "brother",
+            "son",
+            "grandfather"
+          ],
+          "answer": "brother"
+        },
+        {
+          "item": "³pizza, pasta, burger, __________",
+          "options": [
+            "sandwich",
+            "fries",
+            "taco"
+          ],
+          "answer": "sandwich"
+        },
+        {
+          "item": "⁴pencil, notebook, folder, __________",
+          "options": [
+            "backpack",
+            "book",
+            "pen"
+          ],
+          "answer": "backpack"
+        },
+        {
+          "item": "⁵cherry, wine, ruby, __________",
+          "options": [
+            "ruby",
+            "scarlet",
+            "another"
+          ],
+          "answer": "scarlet"
+        },
+        {
+          "item": "⁶yellow, orange, pink, __________",
+          "options": [
+            "red",
+            "green",
+            "blue"
+          ],
+          "answer": "red"
+        },
+        {
+          "item": "⁷ant, bee, spider, __________",
+          "options": [
+            "mosquito",
+            "fly",
+            "bug"
+          ],
+          "answer": "mosquito"
+        },
+        {
+          "item": "⁸rice, beans, chicken, __________",
+          "options": [
+            "salad",
+            "meat",
+            "bread"
+          ],
+          "answer": "salad"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹four, eight, twelve, __________",
+          "options": [
+            "another",
+            "sixteen",
+            "twelve"
+          ],
+          "answer": "sixteen"
+        },
+        {
+          "item": "²ear, eye, nose, __________",
+          "options": [
+            "mouth",
+            "head",
+            "lip"
+          ],
+          "answer": "mouth"
+        },
+        {
+          "item": "³March, June, September, __________",
+          "options": [
+            "December",
+            "another",
+            "September"
+          ],
+          "answer": "December"
+        },
+        {
+          "item": "⁴knife, fork, spoon, __________",
+          "options": [
+            "plate",
+            "napkin",
+            "bowl"
+          ],
+          "answer": "bowl"
+        },
+        {
+          "item": "⁵January, March, May, __________",
+          "options": [
+            "another",
+            "May",
+            "July"
+          ],
+          "answer": "July"
+        },
+        {
+          "item": "⁶apple, banana, cherry, __________",
+          "options": [
+            "peach",
+            "grape",
+            "lemon"
+          ],
+          "answer": "peach"
+        },
+        {
+          "item": "⁷navy, sky, aqua, __________",
+          "options": [
+            "teal",
+            "aqua",
+            "another"
+          ],
+          "answer": "teal"
+        },
+        {
+          "item": "⁸April, August, October, __________",
+          "options": [
+            "December",
+            "October",
+            "another"
+          ],
+          "answer": "December"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹February, April, June, __________",
+          "options": [
+            "June",
+            "August",
+            "another"
+          ],
+          "answer": "August"
+        },
+        {
+          "item": "²hat, scarf, gloves, __________",
+          "options": [
+            "boots",
+            "coat",
+            "sweater"
+          ],
+          "answer": "boots"
+        },
+        {
+          "item": "³five, ten, fifteen, __________",
+          "options": [
+            "twenty",
+            "another",
+            "fifteen"
+          ],
+          "answer": "twenty"
+        },
+        {
+          "item": "⁴March, June, September, __________",
+          "options": [
+            "another",
+            "September",
+            "December"
+          ],
+          "answer": "December"
+        },
+        {
+          "item": "⁵bread, cheese, ham, __________",
+          "options": [
+            "lettuce",
+            "tomato",
+            "butter"
+          ],
+          "answer": "tomato"
+        },
+        {
+          "item": "⁶bus, taxi, train, __________",
+          "options": [
+            "subway",
+            "scooter",
+            "plane"
+          ],
+          "answer": "subway"
+        },
+        {
+          "item": "⁷milk, juice, soda, __________",
+          "options": [
+            "water",
+            "tea",
+            "coffee"
+          ],
+          "answer": "water"
+        },
+        {
+          "item": "⁸foot, leg, knee, __________",
+          "options": [
+            "ankle",
+            "hip",
+            "toe"
+          ],
+          "answer": "ankle"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹nose, eyes, ears, __________",
+          "options": [
+            "mouth",
+            "hair",
+            "face"
+          ],
+          "answer": "mouth"
+        },
+        {
+          "item": "²dog, cat, bird, __________",
+          "options": [
+            "fish",
+            "turtle",
+            "snake"
+          ],
+          "answer": "fish"
+        },
+        {
+          "item": "³gold, silver, bronze, __________",
+          "options": [
+            "platinum",
+            "bronze",
+            "another"
+          ],
+          "answer": "platinum"
+        },
+        {
+          "item": "⁴Wednesday, Friday, Sunday, __________",
+          "options": [
+            "Monday",
+            "Sunday",
+            "another"
+          ],
+          "answer": "Monday"
+        },
+        {
+          "item": "⁵chair, table, bed, __________",
+          "options": [
+            "sofa",
+            "lamp",
+            "stool"
+          ],
+          "answer": "sofa"
+        },
+        {
+          "item": "⁶violet, indigo, blue, __________",
+          "options": [
+            "another",
+            "cyan",
+            "blue"
+          ],
+          "answer": "cyan"
+        },
+        {
+          "item": "⁷red, yellow, orange, __________",
+          "options": [
+            "orange",
+            "green",
+            "another"
+          ],
+          "answer": "green"
+        },
+        {
+          "item": "⁸six, twelve, eighteen, __________",
+          "options": [
+            "another",
+            "twenty-four",
+            "eighteen"
+          ],
+          "answer": "twenty-four"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹two, four, six, __________",
+          "options": [
+            "eight",
+            "ten",
+            "twelve"
+          ],
+          "answer": "eight"
+        },
+        {
+          "item": "²spring, summer, autumn, __________",
+          "options": [
+            "winter",
+            "rainy",
+            "dry"
+          ],
+          "answer": "winter"
+        },
+        {
+          "item": "³chicken, beef, pork, __________",
+          "options": [
+            "fish",
+            "lamb",
+            "egg"
+          ],
+          "answer": "fish"
+        },
+        {
+          "item": "⁴sandwich, burger, taco, __________",
+          "options": [
+            "pizza",
+            "salad",
+            "hotdog"
+          ],
+          "answer": "hotdog"
+        },
+        {
+          "item": "⁵four, seven, ten, __________",
+          "options": [
+            "ten",
+            "another",
+            "thirteen"
+          ],
+          "answer": "thirteen"
+        },
+        {
+          "item": "⁶mother, father, daughter, __________",
+          "options": [
+            "son",
+            "baby",
+            "uncle"
+          ],
+          "answer": "son"
+        },
+        {
+          "item": "⁷maroon, peach, tan, __________",
+          "options": [
+            "beige",
+            "another",
+            "tan"
+          ],
+          "answer": "beige"
+        },
+        {
+          "item": "⁸bus, car, bike, __________",
+          "options": [
+            "train",
+            "scooter",
+            "airplane"
+          ],
+          "answer": "train"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹one, three, five, __________",
+          "options": [
+            "seven",
+            "nine",
+            "eleven"
+          ],
+          "answer": "seven"
+        },
+        {
+          "item": "²red, yellow, blue, __________",
+          "options": [
+            "green",
+            "orange",
+            "purple"
+          ],
+          "answer": "green"
+        },
+        {
+          "item": "³desk, chair, lamp, __________",
+          "options": [
+            "shelf",
+            "drawer",
+            "bed"
+          ],
+          "answer": "shelf"
+        },
+        {
+          "item": "⁴breakfast, lunch, dinner, __________",
+          "options": [
+            "snack",
+            "dessert",
+            "meal"
+          ],
+          "answer": "snack"
+        },
+        {
+          "item": "⁵train, plane, car, __________",
+          "options": [
+            "boat",
+            "bus",
+            "taxi"
+          ],
+          "answer": "bus"
+        },
+        {
+          "item": "⁶circle, square, triangle, __________",
+          "options": [
+            "rectangle",
+            "oval",
+            "line"
+          ],
+          "answer": "rectangle"
+        },
+        {
+          "item": "⁷shoes, socks, pants, __________",
+          "options": [
+            "shirt",
+            "belt",
+            "hat"
+          ],
+          "answer": "shirt"
+        },
+        {
+          "item": "⁸lime, olive, emerald, __________",
+          "options": [
+            "another",
+            "jade",
+            "emerald"
+          ],
+          "answer": "jade"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹dog, puppy, wolf, __________",
+          "options": [
+            "fox",
+            "cat",
+            "bear"
+          ],
+          "answer": "fox"
+        },
+        {
+          "item": "²January, February, March, __________",
+          "options": [
+            "April",
+            "May",
+            "June"
+          ],
+          "answer": "April"
+        },
+        {
+          "item": "³apple, banana, orange, __________",
+          "options": [
+            "mango",
+            "grape",
+            "pear"
+          ],
+          "answer": "pear"
+        },
+        {
+          "item": "⁴pen, notebook, backpack, __________",
+          "options": [
+            "paper",
+            "folder",
+            "pencil"
+          ],
+          "answer": "pencil"
+        },
+        {
+          "item": "⁵hand, arm, shoulder, __________",
+          "options": [
+            "elbow",
+            "chest",
+            "wrist"
+          ],
+          "answer": "elbow"
+        },
+        {
+          "item": "⁶lion, tiger, cheetah, __________",
+          "options": [
+            "jaguar",
+            "leopard",
+            "panther"
+          ],
+          "answer": "panther"
+        },
+        {
+          "item": "⁷cake, pie, ice cream, __________",
+          "options": [
+            "pudding",
+            "chocolate",
+            "cookie"
+          ],
+          "answer": "cookie"
+        },
+        {
+          "item": "⁸bus, car, bike, __________",
+          "options": [
+            "truck",
+            "train",
+            "van"
+          ],
+          "answer": "truck"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹five, ten, fifteen, __________",
+          "options": [
+            "twenty",
+            "twenty-five",
+            "thirty"
+          ],
+          "answer": "twenty"
+        },
+        {
+          "item": "²shirt, pants, shoes, __________",
+          "options": [
+            "socks",
+            "hat",
+            "tie"
+          ],
+          "answer": "socks"
+        },
+        {
+          "item": "³eye, nose, mouth, __________",
+          "options": [
+            "ear",
+            "chin",
+            "head"
+          ],
+          "answer": "ear"
+        },
+        {
+          "item": "⁴pink, purple, blue, __________",
+          "options": [
+            "green",
+            "red",
+            "yellow"
+          ],
+          "answer": "green"
+        },
+        {
+          "item": "⁵sandwich, burger, hotdog, __________",
+          "options": [
+            "fries",
+            "taco",
+            "pizza"
+          ],
+          "answer": "taco"
+        },
+        {
+          "item": "⁶Saturday, Sunday, Monday, __________",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+          ],
+          "answer": "Tuesday"
+        },
+        {
+          "item": "⁷cup, plate, bowl, __________",
+          "options": [
+            "spoon",
+            "fork",
+            "glass"
+          ],
+          "answer": "glass"
+        },
+        {
+          "item": "⁸mom, dad, sister, __________",
+          "options": [
+            "brother",
+            "uncle",
+            "cousin"
+          ],
+          "answer": "brother"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹twelve, fifteen, eighteen, __________",
+          "options": [
+            "twenty-one",
+            "twenty-four",
+            "twenty"
+          ],
+          "answer": "twenty-one"
+        },
+        {
+          "item": "²bird, fish, dog, __________",
+          "options": [
+            "cat",
+            "lizard",
+            "hamster"
+          ],
+          "answer": "cat"
+        },
+        {
+          "item": "³Monday, Wednesday, Friday, __________",
+          "options": [
+            "Sunday",
+            "Saturday",
+            "Thursday"
+          ],
+          "answer": "Sunday"
+        },
+        {
+          "item": "⁴math, science, history, __________",
+          "options": [
+            "English",
+            "art",
+            "geography"
+          ],
+          "answer": "English"
+        },
+        {
+          "item": "⁵door, window, roof, __________",
+          "options": [
+            "wall",
+            "floor",
+            "ceiling"
+          ],
+          "answer": "wall"
+        },
+        {
+          "item": "⁶orange, apple, mango, __________",
+          "options": [
+            "papaya",
+            "banana",
+            "peach"
+          ],
+          "answer": "banana"
+        },
+        {
+          "item": "⁷doctor, nurse, patient, __________",
+          "options": [
+            "hospital",
+            "clinic",
+            "medicine"
+          ],
+          "answer": "clinic"
+        },
+        {
+          "item": "⁸bus, plane, boat, __________",
+          "options": [
+            "train",
+            "car",
+            "subway"
+          ],
+          "answer": "train"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹two, four, six, __________",
+          "options": [
+            "eight",
+            "ten",
+            "twelve"
+          ],
+          "answer": "eight"
+        },
+        {
+          "item": "²red, white, blue, __________",
+          "options": [
+            "yellow",
+            "green",
+            "black"
+          ],
+          "answer": "black"
+        },
+        {
+          "item": "³mother, father, son, __________",
+          "options": [
+            "daughter",
+            "uncle",
+            "baby"
+          ],
+          "answer": "daughter"
+        },
+        {
+          "item": "⁴knife, fork, spoon, __________",
+          "options": [
+            "plate",
+            "bowl",
+            "cup"
+          ],
+          "answer": "cup"
+        },
+        {
+          "item": "⁵cat, dog, bird, __________",
+          "options": [
+            "fish",
+            "turtle",
+            "lizard"
+          ],
+          "answer": "fish"
+        },
+        {
+          "item": "⁶Monday, Tuesday, Wednesday, __________",
+          "options": [
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "answer": "Thursday"
+        },
+        {
+          "item": "⁷rain, snow, wind, __________",
+          "options": [
+            "sun",
+            "storm",
+            "cloud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "item": "⁸face, hair, eyes, __________",
+          "options": [
+            "ears",
+            "lips",
+            "nose"
+          ],
+          "answer": "nose"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the lists with the correct word.",
+      "example": "five, ten, fifteen, twenty.",
+      "qa_pairs": [
+        {
+          "item": "¹green, blue, purple, __________",
+          "options": [
+            "pink",
+            "red",
+            "brown"
+          ],
+          "answer": "pink"
+        },
+        {
+          "item": "²bear, fox, wolf, __________",
+          "options": [
+            "deer",
+            "lion",
+            "tiger"
+          ],
+          "answer": "tiger"
+        },
+        {
+          "item": "³January, April, July, __________",
+          "options": [
+            "October",
+            "December",
+            "August"
+          ],
+          "answer": "October"
+        },
+        {
+          "item": "⁴three, six, nine, __________",
+          "options": [
+            "twelve",
+            "ten",
+            "fifteen"
+          ],
+          "answer": "twelve"
+        },
+        {
+          "item": "⁵hand, finger, wrist, __________",
+          "options": [
+            "arm",
+            "shoulder",
+            "elbow"
+          ],
+          "answer": "elbow"
+        },
+        {
+          "item": "⁶juice, milk, tea, __________",
+          "options": [
+            "coffee",
+            "water",
+            "soda"
+          ],
+          "answer": "soda"
+        },
+        {
+          "item": "⁷bus, taxi, subway, __________",
+          "options": [
+            "tram",
+            "train",
+            "airplane"
+          ],
+          "answer": "train"
+        },
+        {
+          "item": "⁸sister, cousin, aunt, __________",
+          "options": [
+            "mother",
+            "grandma",
+            "niece"
+          ],
+          "answer": "niece"
+        }
+      ]
+    }
+  ]
+}

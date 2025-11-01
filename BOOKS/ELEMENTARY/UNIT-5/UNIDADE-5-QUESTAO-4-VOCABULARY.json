@@ -1,0 +1,1445 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "Dante __________ to the gym on Tuesdays. does    goes    plays",
+          "answer": "goes"
+        },
+        {
+          "item": "Can you __________ a taxi, please? call    take    hear",
+          "answer": "call"
+        },
+        {
+          "item": "I can’t __________ his name. call    talk    remember",
+          "answer": "remember"
+        },
+        {
+          "item": "I want to __________ a photo of your dog. draw    take    paint",
+          "answer": "take"
+        },
+        {
+          "item": "They are __________ a race. making    going    running",
+          "answer": "running"
+        },
+        {
+          "item": "Hannah can’t __________ her purse. find    watch    look",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ for a coffee before the lesson. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a picture of my house? paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually __________ out on weekends. do    go    make",
+          "answer": "go"
+        },
+        {
+          "item": "I need to __________ my friend later. call    say    tell",
+          "answer": "call"
+        },
+        {
+          "item": "She can __________ a horse very well. ride    drive    walk",
+          "answer": "ride"
+        },
+        {
+          "item": "I want to __________ a picture of the sea. draw    make    take",
+          "answer": "draw"
+        },
+        {
+          "item": "The athletes are __________ a marathon. running    going    making",
+          "answer": "running"
+        },
+        {
+          "item": "Did you __________ your keys? find    see    watch",
+          "answer": "find"
+        },
+        {
+          "item": "Can we __________ for a drink after work? meet    go    take",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ the news in the paper. see    read    look",
+          "answer": "read"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ shopping every Saturday. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "They need to __________ a doctor urgently. call    speak    ask",
+          "answer": "call"
+        },
+        {
+          "item": "I can’t __________ my childhood home. look    remember    talk",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ a ticket before the show. buy    make    take",
+          "answer": "buy"
+        },
+        {
+          "item": "The children are __________ outside. running    making    going",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ my jacket? find    see    watch",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ for lunch at noon. meet    wait    have",
+          "answer": "meet"
+        },
+        {
+          "item": "She can __________ a portrait of her dog. paint    do    make",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can __________ a car quickly. drive    ride    walk",
+          "answer": "drive"
+        },
+        {
+          "item": "I need to __________ a taxi right now. take    call    do",
+          "answer": "call"
+        },
+        {
+          "item": "Do you __________ my name? remember    know    call",
+          "answer": "remember"
+        },
+        {
+          "item": "She wants to __________ a photo of the building. draw    take    paint",
+          "answer": "take"
+        },
+        {
+          "item": "We are __________ late for the train. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "They can’t __________ the solution to the problem. look    see    find",
+          "answer": "find"
+        },
+        {
+          "item": "I’m going to __________ my friend at the cafe. wait    meet    talk",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a landscape? draw    make    try",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss usually __________ for a walk at lunchtime. does    plays    goes",
+          "answer": "goes"
+        },
+        {
+          "item": "Can you __________ my mother, please? talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "I can’t __________ your birthday. forget    remember    know",
+          "answer": "remember"
+        },
+        {
+          "item": "Let’s __________ a selfie. make    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "They are __________ to catch the bus. making    running    going",
+          "answer": "running"
+        },
+        {
+          "item": "We need to __________ a cheaper hotel. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "I will __________ you at the main entrance. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "She can __________ abstract art. paint    run    try",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't usually __________ to the city centre. go    take    do",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ me a favour? call    do    make",
+          "answer": "do"
+        },
+        {
+          "item": "I can’t __________ what I had for dinner yesterday. talk    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "He wants to __________ a comic book character. paint    draw    make",
+          "answer": "draw"
+        },
+        {
+          "item": "The child is __________ towards the door. going    running    taking",
+          "answer": "running"
+        },
+        {
+          "item": "Did you __________ your passport? find    look    see",
+          "answer": "find"
+        },
+        {
+          "item": "They often __________ for dinner in this restaurant. wait    meet    go",
+          "answer": "meet"
+        },
+        {
+          "item": "We need to __________ a new car. buy    take    do",
+          "answer": "buy"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ cycling on Sundays. do    make    go",
+          "answer": "go"
+        },
+        {
+          "item": "Please __________ a taxi for the airport. call    take    drive",
+          "answer": "call"
+        },
+        {
+          "item": "She can always __________ people's faces. know    remember    look",
+          "answer": "remember"
+        },
+        {
+          "item": "We want to __________ a picture of the sunset. draw    paint    take",
+          "answer": "take"
+        },
+        {
+          "item": "He is __________ late for class. running    making    going",
+          "answer": "running"
+        },
+        {
+          "item": "I need to __________ a solution to this problem. look    see    find",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ at the coffee shop tomorrow. meet    wait    go",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a nice logo? paint    draw    make",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "They usually __________ to the beach in summer. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ me when you arrive? talk    say    call",
+          "answer": "call"
+        },
+        {
+          "item": "I can’t __________ the name of that film. know    remember    speak",
+          "answer": "remember"
+        },
+        {
+          "item": "The artist is __________ a canvas with bright colors. draw    take    paint",
+          "answer": "paint"
+        },
+        {
+          "item": "The children are __________ after the ice cream truck. running    going    making",
+          "answer": "running"
+        },
+        {
+          "item": "Did she __________ her missing earring? find    look    watch",
+          "answer": "find"
+        },
+        {
+          "item": "We should __________ for a quick meeting soon. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ a photo of the monument. buy    take    do",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need to __________ to the supermarket. run    go    take",
+          "answer": "go"
+        },
+        {
+          "item": "The secretary is __________ a taxi for the boss. making    calling    doing",
+          "answer": "calling"
+        },
+        {
+          "item": "I can’t __________ where I left my phone. look    remember    talk",
+          "answer": "remember"
+        },
+        {
+          "item": "She wants to __________ a portrait in oil. draw    paint    make",
+          "answer": "paint"
+        },
+        {
+          "item": "They are __________ away from the police. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I must __________ my documents before the trip. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ at the bus stop in ten minutes. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ a very detailed sketch. draw    take    paint",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "We __________ dancing every Friday night. do    go    play",
+          "answer": "go"
+        },
+        {
+          "item": "I need to __________ my credit card company. talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "He can __________ numbers easily. know    remember    see",
+          "answer": "remember"
+        },
+        {
+          "item": "Can you __________ a picture of the garden? make    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "She is __________ to the pharmacy quickly. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I hope you __________ your lost wallet. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "They are going to __________ for a business lunch. wait    meet    have",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ a cartoon character. paint    draw    run",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually __________ for a run in the morning. do    make    go",
+          "answer": "go"
+        },
+        {
+          "item": "The police need to __________ the owner of the car. call    talk    ask",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ her sister’s face. look    remember    know",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ a landscape with watercolours. take    draw    paint",
+          "answer": "paint"
+        },
+        {
+          "item": "He is __________ late for the bus. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ the file on the desktop? look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ the client at the station. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "I want to __________ a picture of the sunset. take    try     run",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "He __________ to the museum on weekends. goes    plays    takes",
+          "answer": "goes"
+        },
+        {
+          "item": "I’m going to __________ the electrician now. call    take    hear",
+          "answer": "call"
+        },
+        {
+          "item": "They can __________ their lines perfectly. say    talk    remember",
+          "answer": "remember"
+        },
+        {
+          "item": "Can you __________ a drawing of a flower? take    draw    paint",
+          "answer": "draw"
+        },
+        {
+          "item": "She is __________ away from danger. making    going    running",
+          "answer": "running"
+        },
+        {
+          "item": "We need to __________ a new flat to rent. find    watch    look",
+          "answer": "find"
+        },
+        {
+          "item": "I must __________ my colleagues at 3 p.m. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ the whole wall red. paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to the park every morning. run    go    take",
+          "answer": "go"
+        },
+        {
+          "item": "Please __________ the number on the screen. call    dial    say",
+          "answer": "call"
+        },
+        {
+          "item": "She can always __________ my advice. follow    remember    know",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ a ticket for the concert. buy    take    do",
+          "answer": "buy"
+        },
+        {
+          "item": "He is __________ a marathon next month. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ my lost glasses? look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "I need to __________ my project deadline. finish    meet    do",
+          "answer": "meet"
+        },
+        {
+          "item": "She can __________ a self-portrait. paint    draw    make",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "They __________ to the mountain on holiday. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "I must __________ a taxi for my boss. take    call    do",
+          "answer": "call"
+        },
+        {
+          "item": "He can __________ complex instructions. know    remember    speak",
+          "answer": "remember"
+        },
+        {
+          "item": "She wants to __________ a quick photo. draw    make    take",
+          "answer": "take"
+        },
+        {
+          "item": "We are __________ out of time. running    going    making",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ my keys under the sofa? look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ the director tomorrow morning. wait    meet    talk",
+          "answer": "meet"
+        },
+        {
+          "item": "I can __________ portraits with charcoal. paint    draw    run",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to the library to study. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ the office to confirm the time? call    speak    ask",
+          "answer": "call"
+        },
+        {
+          "item": "She always __________ the names of students. know    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "I want to __________ a picture of the beach. draw    paint    take",
+          "answer": "take"
+        },
+        {
+          "item": "He is __________ late for the appointment. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "We must __________ the information on the website. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "They __________ for a business discussion. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ the garden wall? paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually __________ jogging after work. do    make    go",
+          "answer": "go"
+        },
+        {
+          "item": "The client will __________ us later. talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "He can’t __________ faces, only names. look    remember    talk",
+          "answer": "remember"
+        },
+        {
+          "item": "She can __________ a perfect circle. paint    draw    run",
+          "answer": "draw"
+        },
+        {
+          "item": "We are __________ out of batteries. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Did you __________ the restaurant you wanted? look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ for coffee at 4 p.m. meet    wait    have",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a photo of the building? buy    take    do",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to the park with my dog. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ the emergency number? ask    dial    say",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ the name of the book. know    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "I need to __________ a new picture for the living room. draw    paint    make",
+          "answer": "paint"
+        },
+        {
+          "item": "He is __________ late for the train. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "We need to __________ the truth. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "They want to __________ new people. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a snapshot of the moment? draw    take    run",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "We often __________ for a coffee after lunch. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "I must __________ the bank to check my balance. talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "Can he __________ complicated passwords? know    remember    see",
+          "answer": "remember"
+        },
+        {
+          "item": "She can __________ excellent architectural plans. paint    draw    make",
+          "answer": "draw"
+        },
+        {
+          "item": "I am __________ late, I must hurry. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "They can’t __________ the right bus stop. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "He is going to __________ us at the museum. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "We need to __________ the front door green. paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ to the market every Sunday. runs    goes    takes",
+          "answer": "goes"
+        },
+        {
+          "item": "I need to __________ a friend for advice. call    speak    ask",
+          "answer": "call"
+        },
+        {
+          "item": "Can you __________ where you parked the car? look    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "He wants to __________ a portrait of his wife. paint    draw    make",
+          "answer": "paint"
+        },
+        {
+          "item": "We are __________ out of patience. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "The scientist wants to __________ the cure. look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ for lunch tomorrow. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "I can __________ a picture of the clouds. draw    take    run",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to bed late on Fridays. do    go    take",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ the doctor for me? talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ where she put her phone. know    remember    see",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ a new passport photo. draw    make    take",
+          "answer": "take"
+        },
+        {
+          "item": "He is __________ to the office now. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Did they __________ the money they lost? look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "I’m going to __________ the team for a project review. wait    meet    do",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ the kitchen walls blue? paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "He __________ to the museum once a year. does    goes    plays",
+          "answer": "goes"
+        },
+        {
+          "item": "I need to __________ an ambulance immediately. call    take    hear",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ what the teacher said. call    talk    remember",
+          "answer": "remember"
+        },
+        {
+          "item": "I want to __________ a photo of the cityscape. draw    take    paint",
+          "answer": "take"
+        },
+        {
+          "item": "They are __________ away from the noise. making    going    running",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ the file I sent you? find    watch    look",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ for a drink after the movie. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a small cartoon character? paint    draw     run",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always __________ swimming on holiday. do    go    make",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ the office to confirm the details? call    speak    ask",
+          "answer": "call"
+        },
+        {
+          "item": "He can __________ new information quickly. look    remember    talk",
+          "answer": "remember"
+        },
+        {
+          "item": "She wants to __________ a portrait of her family. draw    paint    make",
+          "answer": "paint"
+        },
+        {
+          "item": "We are __________ out of money. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Did you __________ your lost earring? look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ for lunch at the Italian place. meet    wait    have",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ a photo of the food. take    try     run",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "They usually __________ to the coast for vacation. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "I need to __________ my friend about the plans. talk    call    say",
+          "answer": "call"
+        },
+        {
+          "item": "Can you __________ the words to that song? know    remember    speak",
+          "answer": "remember"
+        },
+        {
+          "item": "She wants to __________ a beautiful design. paint    draw    make",
+          "answer": "draw"
+        },
+        {
+          "item": "We are __________ a marathon next spring. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I can’t __________ my glasses without help. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "He is going to __________ his mentor tomorrow. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can we __________ a picture with the camera? take    try     run",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to the park after work. run    go    take",
+          "answer": "go"
+        },
+        {
+          "item": "Please __________ a taxi for the guests. call    take    drive",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ faces, only names. look    remember    talk",
+          "answer": "remember"
+        },
+        {
+          "item": "He needs to __________ the ceiling white. draw    take    paint",
+          "answer": "paint"
+        },
+        {
+          "item": "The dog is __________ fast in the field. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ the remote control? look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "Let’s __________ at the train station. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "I can __________ a detailed sketch of a car. draw    take    paint",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "We __________ out to eat once a week. do    go    make",
+          "answer": "go"
+        },
+        {
+          "item": "I need to __________ my parents later. talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "He can __________ historical dates easily. know    remember    see",
+          "answer": "remember"
+        },
+        {
+          "item": "She wants to __________ a picture of the clouds. make    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "I am __________ late, I need to hurry. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Did they __________ the address in time? look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "We must __________ the deadline of the project. wait    meet    do",
+          "answer": "meet"
+        },
+        {
+          "item": "He can __________ the bedroom walls red. paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to the gym four times a week. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ a driver for me, please? call    drive    ask",
+          "answer": "call"
+        },
+        {
+          "item": "She can __________ complicated passwords. know    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ a new logo design. paint    draw    make",
+          "answer": "draw"
+        },
+        {
+          "item": "He is __________ out of ideas. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I can’t __________ my ticket for the concert. look    find    see",
+          "answer": "find"
+        },
+        {
+          "item": "They want to __________ new clients this year. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a photograph of the flower? take    try     run",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "They __________ to the party last night. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "I need to __________ my colleague about the deadline. talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "He can __________ the lyrics to every song. know    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "She can __________ a life-size statue. draw    paint    make",
+          "answer": "paint"
+        },
+        {
+          "item": "We are __________ late for the appointment. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "Can you __________ the keys to the office? look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "I will __________ my family at the airport. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "He wants to __________ a quick sketch. draw    take    paint",
+          "answer": "draw"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't usually __________ to the theatre. go    take    do",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ the fire department? ask    dial    call",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ the exact date of the event. know    remember    talk",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ a photo of the receipt. take    draw    paint",
+          "answer": "take"
+        },
+        {
+          "item": "He is __________ out of breath. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I must __________ the correct platform for the train. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "They will __________ their investors next week. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ the living room walls yellow? paint    try     run",
+          "answer": "paint"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "We __________ swimming every summer. take    go    do",
+          "answer": "go"
+        },
+        {
+          "item": "I need to __________ an Uber right now. call    speak    ask",
+          "answer": "call"
+        },
+        {
+          "item": "She can __________ people she met years ago. look    remember    say",
+          "answer": "remember"
+        },
+        {
+          "item": "He can __________ a caricature of anyone. paint    draw    make",
+          "answer": "draw"
+        },
+        {
+          "item": "They are __________ a 10k race on Sunday. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I can’t __________ my mobile phone. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "We should __________ up for dinner tonight. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a snapshot of the view? take    try     run",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "It’s cold but Marcus is swimming in the sea.            waiting    leaving    swimming",
+        "answer": "swimming"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ to the park to read. do    make    go",
+          "answer": "go"
+        },
+        {
+          "item": "Can you __________ the front desk for me? talk    call    speak",
+          "answer": "call"
+        },
+        {
+          "item": "She can’t __________ faces, but remembers voices. know    remember    see",
+          "answer": "remember"
+        },
+        {
+          "item": "We need to __________ the fence brown. draw    take    paint",
+          "answer": "paint"
+        },
+        {
+          "item": "He is __________ late, so he must hurry. going    running    making",
+          "answer": "running"
+        },
+        {
+          "item": "I need to __________ my way back home. look    find    watch",
+          "answer": "find"
+        },
+        {
+          "item": "They are going to __________ the professor after class. wait    do    meet",
+          "answer": "meet"
+        },
+        {
+          "item": "Can you __________ a realistic drawing of the car? draw    take    paint",
+          "answer": "draw"
+        }
+      ]
+    }
+  ]
+}
+

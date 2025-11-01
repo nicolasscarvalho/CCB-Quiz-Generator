@@ -1,0 +1,305 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s very w__________. Let’s go swimming!\n²It’s so c__________. I need a jacket.\n³It’s s__________ now. The roads are white.\n⁴Be careful! The road is i__________ and dangerous.\n⁵It’s a s__________ day. Let’s play football!\n⁶I don’t like r__________ days. They make me sad.",
+          "answer": "¹warm, ²cold, ³snowing, ⁴icy, ⁵sunny, ⁶rainy"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s very h__________. I need some water!\n²I love the b__________ wind near the sea.\n³There’s a big s__________ coming. Stay inside!\n⁴My shoes are wet. It’s r__________ again!\n⁵We can’t go outside. It’s too w__________.\n⁶There are no clouds. It’s a c__________ sky.",
+          "answer": "¹hot, ²breeze, ³storm, ⁴raining, ⁵windy, ⁶clear"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The leaves fall in a__________.\n²In s__________ the flowers grow.\n³The nights are longer in w__________.\n⁴We go to the beach in s__________.\n⁵I love f__________ mornings with low clouds.\n⁶Take a coat! It’s really c__________ tonight.",
+          "answer": "¹autumn, ²spring, ³winter, ⁴summer, ⁵foggy, ⁶cold"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s very h__________. Let’s get some ice cream!\n²The sky is dark. A t__________ is coming.\n³It’s s__________ and bright this morning.\n⁴The ground is w__________ after the rain.\n⁵Look! It’s s__________! Let’s make a snowman.\n⁶It’s too h__________ to wear a jacket.",
+          "answer": "¹hot, ²thunderstorm, ³sunny, ⁴wet, ⁵snowing, ⁶hot"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s c__________ now. The sun is hiding.\n²I hear t__________. Let’s go inside.\n³It’s very w__________. The wind is strong.\n⁴The day is d__________ and grey.\n⁵It’s h__________ and I need water.\n⁶It’s s__________ a lot. Everything is white!",
+          "answer": "¹cloudy, ²thunder, ³windy, ⁴dull, ⁵hot, ⁶snowing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The sky is blue and it’s s__________.\n²We can’t play outside. It’s r__________.\n³It’s very c__________ in the mountains.\n⁴In w__________ we wear warm clothes.\n⁵The air feels fresh in s__________.\n⁶It’s f__________ outside. I can’t see anything!",
+          "answer": "¹sunny, ²raining, ³cold, ⁴winter, ⁵spring, ⁶foggy"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s too h__________ to sleep.\n²The trees move because it’s w__________.\n³I can’t see the stars. It’s c__________.\n⁴It’s s__________ now. Let’s build a snowman.\n⁵I hear t__________ and see lightning.\n⁶Let’s stay inside. It’s very s__________.",
+          "answer": "¹hot, ²windy, ³cloudy, ⁴snowing, ⁵thunder, ⁶stormy"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s w__________ today. Not cold, not hot.\n²The streets are wet. It’s been r__________.\n³We love to go outside when it’s s__________.\n⁴It’s dark and f__________ early in the morning.\n⁵She’s wearing a coat because it’s c__________.\n⁶It’s s__________ and I need sunglasses.",
+          "answer": "¹warm, ²raining, ³sunny, ⁴foggy, ⁵cold, ⁶sunny"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s cold and s__________ in December.\n²It’s a nice b__________ in the evening.\n³The weather is d__________ and boring.\n⁴We get s__________ days in summer.\n⁵It’s h__________ again. Turn on the fan!\n⁶The road is i__________. Walk slowly.",
+          "answer": "¹snowy, ²breeze, ³dull, ⁴sunny, ⁵hot, ⁶icy"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s c__________ now. The sun is behind clouds.\n²The leaves fall in a__________.\n³The sky is c__________. Not a cloud in sight!\n⁴We go to the pool in s__________.\n⁵It’s s__________ today. Let’s wear boots.\n⁶It’s getting d__________ early in winter.",
+          "answer": "¹cloudy, ²autumn, ³clear, ⁴summer, ⁵snowy, ⁶dark"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s w__________ outside. Hold your hat!\n²The weather is h__________ and sunny today.\n³It’s f__________ this morning. Drive carefully.\n⁴The sky is full of c__________. It might rain.\n⁵I love the cold in w__________.\n⁶The kids are playing in the s__________.",
+          "answer": "¹windy, ²hot, ³foggy, ⁴clouds, ⁵winter, ⁶snow"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹We wear shorts in s__________.\n²The road is wet after the r__________.\n³It’s too c__________ to go outside without a coat.\n⁴It’s s__________ today. Let’s go for a walk.\n⁵It’s t__________ and lightning outside!\n⁶The sky is d__________. It looks like evening.",
+          "answer": "¹summer, ²rain, ³cold, ⁴sunny, ⁵thunder, ⁶dark"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The wind is strong. It’s very w__________.\n²It’s s__________ again! The cars are white.\n³The air feels warm in s__________.\n⁴We wear jackets in a__________.\n⁵It’s a c__________ night. Let’s make tea.\n⁶I like the soft b__________ from the window.",
+          "answer": "¹windy, ²snowing, ³spring, ⁴autumn, ⁵cold, ⁶breeze"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s r__________ today. Don’t forget your umbrella!\n²The sky is blue and c__________.\n³It’s a bit c__________. Take a sweater.\n⁴It’s s__________ hard. Let’s watch it from inside.\n⁵It’s a beautiful day — warm and s__________.\n⁶I can’t see! It’s too f__________.",
+          "answer": "¹rainy, ²clear, ³chilly, ⁴snowing, ⁵sunny, ⁶foggy"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s d__________ and sad today. No sun at all.\n²A loud t__________ woke me up last night.\n³The s__________ is bright. Wear sunglasses!\n⁴I like the cool air in a__________.\n⁵It’s too h__________. I need a cold drink!\n⁶The ground is w__________ from the storm.",
+          "answer": "¹dull, ²thunder, ³sun, ⁴autumn, ⁵hot, ⁶wet"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s s__________ now. Let’s stay warm inside.\n²I can’t see the sun. It’s very c__________.\n³The trees move a lot when it’s w__________.\n⁴It’s r__________ again. I need my raincoat.\n⁵The air is cold and f__________ today.\n⁶We wear hats and gloves in w__________.",
+          "answer": "¹snowing, ²cloudy, ³windy, ⁴raining, ⁵foggy, ⁶winter"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹We play outside when it’s s__________.\n²The streets are i__________ in the morning.\n³It’s very h__________ today. Let’s get ice cream!\n⁴There’s a loud t__________ and bright lights!\n⁵In s__________ the trees get green again.\n⁶It’s c__________ outside. Take your scarf.",
+          "answer": "¹sunny, ²icy, ³hot, ⁴thunderstorm, ⁵spring, ⁶cold"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The weather is d__________ and a bit sad.\n²I hear t__________ in the distance.\n³We always go to the beach in s__________.\n⁴The road is w__________ after the rain.\n⁵It’s too c__________ to go out without gloves.\n⁶I love the cool wind or b__________ on my face.",
+          "answer": "¹dull, ²thunder, ³summer, ⁴wet, ⁵cold, ⁶breeze"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s f__________ outside. I can’t see the road!\n²The sky is c__________ — maybe it’ll rain.\n³I love s__________ days with a bright sky.\n⁴Let’s drink hot chocolate. It’s s__________.\n⁵The ground is w__________ from the rain.\n⁶In a__________ the leaves turn orange.",
+          "answer": "¹foggy, ²cloudy, ³sunny, ⁴snowy, ⁵wet, ⁶autumn"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s h__________ and I feel tired.\n²The weather is s__________ with no clouds.\n³It’s w__________ today. Let’s wear jackets.\n⁴I see l__________ in the sky — wow!\n⁵In s__________ the days are longer.\n⁶The air is c__________ and fresh.",
+          "answer": "¹hot, ²sunny, ³windy, ⁴lightning, ⁵summer, ⁶cool"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The sky is c__________. It might rain soon.\n²It’s very s__________ today. I’m wearing shorts.\n³The snow is d__________ today. Everything is white.\n⁴It’s very f__________ outside. Be careful on the road.\n⁵The b__________ wind is perfect for flying a kite.\n⁶I like to walk in the m__________ air in the morning.",
+          "answer": "¹cloudy, ²sunny, ³deep, ⁴freezing, ⁵brisk, ⁶morning"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s r__________ heavily. Don’t forget your umbrella!\n²The road is i__________ from the cold night.\n³It’s h__________ during the day, but cool at night.\n⁴The sky is o__________ with orange and pink clouds.\n⁵The f__________ weather is slowing down traffic.\n⁶It’s a perfect day for a picnic — not too hot, just w__________.",
+          "answer": "¹raining, ²icy, ³hot, ⁴overcast, ⁵foggy, ⁶warm"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s s__________ at the beach today.\n²There are a lot of c__________ in the sky.\n³It’s getting c__________ as the sun goes down.\n⁴The w__________ is blowing from the sea.\n⁵It’s f__________ again this evening.\n⁶The sun is out. It’s a b__________ day.",
+          "answer": "¹sunny, ²clouds, ³chilly, ⁴wind, ⁵foggy, ⁶bright"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The night is c__________ and quiet.\n²It’s a very w__________ day. I don’t need a coat.\n³The sky is s__________. No clouds at all.\n⁴There’s a t__________ outside. It’s dangerous.\n⁵It’s a s__________ day. We can go for a walk.\n⁶I need a warm jacket. It’s c__________ today.",
+          "answer": "¹cold, ²warm, ³sunny, ⁴thunderstorm, ⁵sunny, ⁶chilly"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s r__________ a lot today. Bring your raincoat.\n²I can’t see clearly because of the f__________.\n³The wind is strong and w__________.\n⁴It’s too c__________ to go swimming.\n⁵The sun is b__________. Let’s go to the beach.\n⁶It’s s__________ again. The ground is covered in snow.",
+          "answer": "¹raining, ²foggy, ³windy, ⁴cold, ⁵blazing, ⁶snowing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The weather is s__________ and warm today.\n²It’s very f__________ this morning.\n³The sky is c__________ and cloudy.\n⁴It’s r__________ again. We need to take an umbrella.\n⁵The ground is w__________ after the rain.\n⁶It’s a bit c__________ now. Let’s wear jackets.",
+          "answer": "¹sunny, ²foggy, ³cloudy, ⁴raining, ⁵wet, ⁶chilly"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The sun is very b__________ today.\n²The temperature is c__________ outside.\n³There’s a t__________ in the distance.\n⁴It’s w__________ at the beach, but cool in the city.\n⁵It’s s__________! Everything is covered in snow.\n⁶The weather is m__________ today — not too hot, not too cold.",
+          "answer": "¹bright, ²cold, ³thunder, ⁴warm, ⁵snowing, ⁶mild"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s f__________ in the morning. Be careful on the road.\n²The weather is d__________ and rainy today.\n³It’s w__________ today. Wear a coat.\n⁴The weather is very s__________. The sun is shining.\n⁵It’s c__________ in the mountains.\n⁶It’s s__________ outside. Let’s go for a walk.",
+          "answer": "¹foggy, ²dull, ³windy, ⁴sunny, ⁵cold, ⁶sunny"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹The wind is w__________ today.\n²It’s very h__________ at the beach.\n³There are a lot of c__________ in the sky.\n⁴It’s f__________ and I can’t see the road.\n⁵The rain is very h__________ today.\n⁶It’s r__________ again! I think we’ll stay indoors.",
+          "answer": "¹windy, ²hot, ³clouds, ⁴foggy, ⁵heavy, ⁶raining"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the weather words.",
+      "qa_pairs": [
+        {
+          "item": "¹It’s s__________ today. Let’s go to the park.\n²The temperature is m__________ in the morning.\n³It’s a t__________ outside. You should stay indoors.\n⁴The weather is c__________ and nice.\n⁵It’s very r__________ now. Don’t forget your umbrella.\n⁶It’s b__________ outside. The snow is falling fast.",
+          "answer": "¹sunny, ²mild, ³thunderstorm, ⁴clear, ⁵rainy, ⁶blizzard"
+        }
+      ]
+    }
+  ]
+}
+

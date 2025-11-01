@@ -1,0 +1,1205 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a text message",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the internet",
+          "answer": "use"
+        },
+        {
+          "item": "__________ loud music",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a lot of noise",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to a friend",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a big party",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a letter to my parents",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a meeting at work",
+          "answer": "have"
+        },
+        {
+          "item": "__________ the piano",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a loud bang",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to a colleague",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a messaging app",
+          "answer": "use"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ an email to the boss",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the computer for homework",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a short movie",
+          "answer": "see"
+        },
+        {
+          "item": "__________ an appointment with the dentist",
+          "answer": "have"
+        },
+        {
+          "item": "__________ an apology",
+          "answer": "make"
+        },
+        {
+          "item": "__________ about the news",
+          "answer": "talk"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a lot of money",
+          "answer": "make"
+        },
+        {
+          "item": "__________ video games",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a message to my brother",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the washing machine",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a drink",
+          "answer": "have"
+        },
+        {
+          "item": "__________ the sunset",
+          "answer": "see"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a quick shower",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a good impression",
+          "answer": "make"
+        },
+        {
+          "item": "__________ the lift",
+          "answer": "use"
+        },
+        {
+          "item": "__________ tennis on weekends",
+          "answer": "play"
+        },
+        {
+          "item": "__________ about your problems",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a postcard",
+          "answer": "send"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a text to my mum",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a terrible noise",
+          "answer": "make"
+        },
+        {
+          "item": "__________ soccer",
+          "answer": "play"
+        },
+        {
+          "item": "__________ the TV for news",
+          "answer": "use"
+        },
+        {
+          "item": "__________ about politics",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a view from the top floor",
+          "answer": "see"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a loud sound",
+          "answer": "make"
+        },
+        {
+          "item": "__________ an urgent message",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a cup of coffee",
+          "answer": "have"
+        },
+        {
+          "item": "__________ chess with grandpa",
+          "answer": "play"
+        },
+        {
+          "item": "__________ the oven",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a friend in the park",
+          "answer": "see"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a phone call",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to the teacher",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a quiet dinner",
+          "answer": "have"
+        },
+        {
+          "item": "__________ an apology note",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the public transport",
+          "answer": "use"
+        },
+        {
+          "item": "__________ volleyball",
+          "answer": "play"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a mistake",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a letter by post",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a long conversation",
+          "answer": "have"
+        },
+        {
+          "item": "__________ the computer",
+          "answer": "use"
+        },
+        {
+          "item": "__________ the mountains",
+          "answer": "see"
+        },
+        {
+          "item": "__________ an instrument",
+          "answer": "play"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a text message quickly",
+          "answer": "send"
+        },
+        {
+          "item": "__________ about the trip",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a noise",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a break",
+          "answer": "have"
+        },
+        {
+          "item": "__________ the microwave",
+          "answer": "use"
+        },
+        {
+          "item": "__________ hockey",
+          "answer": "play"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a message via WhatsApp",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a beautiful view",
+          "answer": "see"
+        },
+        {
+          "item": "__________ the remote control",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a quick chat",
+          "answer": "have"
+        },
+        {
+          "item": "__________ an arrangement",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to your boss",
+          "answer": "talk"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the guitar loudly",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a suggestion",
+          "answer": "make"
+        },
+        {
+          "item": "__________ an eye doctor",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a long holiday",
+          "answer": "have"
+        },
+        {
+          "item": "__________ about your feelings",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a parcel by courier",
+          "answer": "send"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ board games",
+          "answer": "play"
+        },
+        {
+          "item": "__________ the microwave oven",
+          "answer": "use"
+        },
+        {
+          "item": "__________ an important document",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a difficult decision",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a doctor",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a delicious dinner",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ to your parents every day",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ the internet for research",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a formal invitation",
+          "answer": "send"
+        },
+        {
+          "item": "__________ too much noise at night",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a good time",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a cartoon",
+          "answer": "see"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the flute",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a lot of friends",
+          "answer": "have"
+        },
+        {
+          "item": "__________ to your professor",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a photo via email",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a comment online",
+          "answer": "make"
+        },
+        {
+          "item": "__________ the directions on the map",
+          "answer": "use"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ basketball",
+          "answer": "play"
+        },
+        {
+          "item": "__________ an email to the client",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the TV for news updates",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a film in 3D",
+          "answer": "see"
+        },
+        {
+          "item": "__________ an appointment",
+          "answer": "have"
+        },
+        {
+          "item": "__________ too many promises",
+          "answer": "make"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ about the holiday plans",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a lot of progress",
+          "answer": "make"
+        },
+        {
+          "item": "__________ the car often",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a quick coffee break",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a horror movie",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a reply immediately",
+          "answer": "send"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ football on TV",
+          "answer": "play"
+        },
+        {
+          "item": "__________ the stove",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a difficult journey",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a loud complaint",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a beautiful rainbow",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a fax document",
+          "answer": "send"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ to your therapist",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ music at full volume",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a mistake during the exam",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a photo album",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a reminder note",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the kitchen tools",
+          "answer": "use"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ an email right away",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the phone",
+          "answer": "use"
+        },
+        {
+          "item": "__________ dinner with my family",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a decision",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a documentary",
+          "answer": "see"
+        },
+        {
+          "item": "__________ about the project",
+          "answer": "talk"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a fun game",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a quick reply",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a lot of effort",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a short break",
+          "answer": "have"
+        },
+        {
+          "item": "__________ to the client",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ the internet for flights",
+          "answer": "use"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the new application",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a loud shout",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a message to the group",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a friend this weekend",
+          "answer": "see"
+        },
+        {
+          "item": "__________ the drums",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a nice evening",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ to your neighbour",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ the camera",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a bad impression",
+          "answer": "make"
+        },
+        {
+          "item": "__________ a text message to her",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a horror film tonight",
+          "answer": "see"
+        },
+        {
+          "item": "__________ dinner with colleagues",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a loud boom",
+          "answer": "make"
+        },
+        {
+          "item": "__________ the flute",
+          "answer": "play"
+        },
+        {
+          "item": "__________ to the receptionist",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ the computer at work",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a quick snack",
+          "answer": "have"
+        },
+        {
+          "item": "__________ an important document via email",
+          "answer": "send"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a good holiday",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a scary movie",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a detailed report",
+          "answer": "send"
+        },
+        {
+          "item": "__________ the internet connection",
+          "answer": "use"
+        },
+        {
+          "item": "__________ chess",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a good living",
+          "answer": "make"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a quick phone call",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to your parents",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ the washing machine now",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a message to the team",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a concert",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a great time at the party",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a video game",
+          "answer": "play"
+        },
+        {
+          "item": "__________ the lift (elevator)",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a note to the concierge",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a serious mistake",
+          "answer": "make"
+        },
+        {
+          "item": "__________ about the weather",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a big breakfast",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ the computer for a project",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a postcard home",
+          "answer": "send"
+        },
+        {
+          "item": "__________ loud jazz music",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a documentary about animals",
+          "answer": "see"
+        },
+        {
+          "item": "__________ a delicious meal",
+          "answer": "have"
+        },
+        {
+          "item": "__________ a comment",
+          "answer": "make"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ a loud noise during the night",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to your friends often",
+          "answer": "talk"
+        },
+        {
+          "item": "__________ a long phone call",
+          "answer": "have"
+        },
+        {
+          "item": "__________ the elevator",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a text to the waiter",
+          "answer": "send"
+        },
+        {
+          "item": "__________ a play at the theatre",
+          "answer": "see"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "5A",
+        "5B"
+      ],
+      "type": "match_verb_to_phrase",
+      "instructions": "Complete the phrases with the correct verb from the list: have, make, use, talk, play, see, send.",
+      "example": {
+        "item": "__________ a film at the cinema",
+        "answer": "see"
+      },
+      "qa_pairs": [
+        {
+          "item": "__________ music through headphones",
+          "answer": "play"
+        },
+        {
+          "item": "__________ a big lunch",
+          "answer": "have"
+        },
+        {
+          "item": "__________ the remote control for the TV",
+          "answer": "use"
+        },
+        {
+          "item": "__________ a message to the professor",
+          "answer": "send"
+        },
+        {
+          "item": "__________ an effort to be early",
+          "answer": "make"
+        },
+        {
+          "item": "__________ to your pet",
+          "answer": "talk"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1295 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually __________ up at 7 a.m. get    wake    start",
+          "answer": "get"
+        },
+        {
+          "item": "She __________ the housework every day. makes    does    takes",
+          "answer": "does"
+        },
+        {
+          "item": "We __________ the dog for a walk twice a day. take    go    make",
+          "answer": "take"
+        },
+        {
+          "item": "He often __________ pizza at the weekend. have    take    go",
+          "answer": "have"
+        },
+        {
+          "item": "My father usually __________ a shave in the morning. does    makes    has",
+          "answer": "has"
+        },
+        {
+          "item": "Leon __________ work at 8 a.m. goes    gets    starts",
+          "answer": "starts"
+        },
+        {
+          "item": "They __________ to school by car. are    go    take",
+          "answer": "go"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually __________ dressed before leaving. get    take    make",
+          "answer": "get"
+        },
+        {
+          "item": "I __________ my homework in the evening. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "She __________ a lot of noise when she cooks. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "They __________ lunch at 1 p.m. have    take    go",
+          "answer": "have"
+        },
+        {
+          "item": "He __________ up late on Saturdays. start    wake    go",
+          "answer": "wake"
+        },
+        {
+          "item": "I __________ to the gym four times a week. go    take    do",
+          "answer": "go"
+        },
+        {
+          "item": "My boss __________ work at 5:30 p.m. finishes    starts    takes",
+          "answer": "finishes"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually __________ a shower in the morning. take    have    make",
+          "answer": "have"
+        },
+        {
+          "item": "She __________ a sandwich for lunch. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ the washing up after dinner. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "They __________ the bus to the city centre. go    take    have",
+          "answer": "take"
+        },
+        {
+          "item": "He __________ home at 6 p.m. finishes    goes    gets",
+          "answer": "gets"
+        },
+        {
+          "item": "The class __________ at 9 a.m. goes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "We usually __________ up early on weekdays. wake    get    go",
+          "answer": "wake"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I often __________ late at night. finish    start    wake",
+          "answer": "finish"
+        },
+        {
+          "item": "She __________ to bed at 11 p.m. takes    goes    has",
+          "answer": "goes"
+        },
+        {
+          "item": "We __________ dressed in our uniform. take    get    do",
+          "answer": "get"
+        },
+        {
+          "item": "He __________ exercise twice a week. takes    goes    makes",
+          "answer": "takes"
+        },
+        {
+          "item": "They __________ breakfast together every day. have    do    make",
+          "answer": "have"
+        },
+        {
+          "item": "My sister __________ the dinner tonight. does    makes    takes",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ up at 6:30 a.m. every morning. get    start    do",
+          "answer": "get"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ her hair before work. takes    does    has",
+          "answer": "does"
+        },
+        {
+          "item": "We __________ home early on Fridays. get    start    go",
+          "answer": "get"
+        },
+        {
+          "item": "He __________ a taxi to the airport. takes    goes    makes",
+          "answer": "takes"
+        },
+        {
+          "item": "I __________ dinner with my family every day. make    do    have",
+          "answer": "have"
+        },
+        {
+          "item": "They __________ school at 3 p.m. finish    start    take",
+          "answer": "finish"
+        },
+        {
+          "item": "The concert __________ at 9 p.m. goes    starts    makes",
+          "answer": "starts"
+        },
+        {
+          "item": "My flatmate usually __________ his bed. does    makes    gets",
+          "answer": "makes"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always __________ my keys before leaving. get    take    make",
+          "answer": "take"
+        },
+        {
+          "item": "They __________ out with friends on Saturdays. go    do    have",
+          "answer": "go"
+        },
+        {
+          "item": "She __________ her teeth three times a day. does    makes    brushes",
+          "answer": "brushes"
+        },
+        {
+          "item": "He __________ his job at 8:30 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "We __________ a drink after work. have    take    go",
+          "answer": "have"
+        },
+        {
+          "item": "My sister usually __________ up at 10 a.m. wake    get    do",
+          "answer": "wake"
+        },
+        {
+          "item": "I __________ the garden on Sundays. make    do    get",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I often __________ the bus to work. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "She __________ home late every day. gets    goes    finishes",
+          "answer": "gets"
+        },
+        {
+          "item": "They __________ a noise when they study. make    do    have",
+          "answer": "make"
+        },
+        {
+          "item": "He usually __________ lunch at the office. takes    has    goes",
+          "answer": "has"
+        },
+        {
+          "item": "We __________ exercise at the gym. do    make    go",
+          "answer": "do"
+        },
+        {
+          "item": "The lesson __________ at 11:45 a.m. finish    starts    ends",
+          "answer": "ends"
+        },
+        {
+          "item": "My friend __________ up before 6 a.m. gets    starts    makes",
+          "answer": "gets"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I never __________ the washing up. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "She __________ a lot of money in her job. makes    does    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "We __________ dressed very quickly. take    get    have",
+          "answer": "get"
+        },
+        {
+          "item": "He __________ to the city centre on Friday. takes    goes    makes",
+          "answer": "goes"
+        },
+        {
+          "item": "They __________ dinner at 8 p.m. have    take    go",
+          "answer": "have"
+        },
+        {
+          "item": "My boss __________ school at 4 o'clock. finishes    starts    ends",
+          "answer": "finishes"
+        },
+        {
+          "item": "I usually __________ a shower before bed. take    have    make",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She usually __________ late for work. goes    gets    makes",
+          "answer": "gets"
+        },
+        {
+          "item": "I __________ the dishes after every meal. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "We __________ up before sunrise. wake    get    start",
+          "answer": "wake"
+        },
+        {
+          "item": "He __________ to the park to read. go    take    make",
+          "answer": "go"
+        },
+        {
+          "item": "They often __________ a shave in the morning. does    makes    has",
+          "answer": "has"
+        },
+        {
+          "item": "My wife __________ work at 8:00 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "I always __________ a cup of coffee. make    do    have",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "They usually __________ a quick lunch. make    do    have",
+          "answer": "have"
+        },
+        {
+          "item": "She __________ a decision quickly. does    makes    takes",
+          "answer": "makes"
+        },
+        {
+          "item": "He __________ the train to London. goes    takes    makes",
+          "answer": "takes"
+        },
+        {
+          "item": "I __________ the exercise in the book. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "We __________ up very late today. wake    start    go",
+          "answer": "wake"
+        },
+        {
+          "item": "The shops __________ at 9 a.m. finish    starts    get",
+          "answer": "starts"
+        },
+        {
+          "item": "My friend __________ home after work. goes    takes    gets",
+          "answer": "gets"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ the car to the park. go    take    make",
+          "answer": "take"
+        },
+        {
+          "item": "She usually __________ to the museum on Sundays. goes    takes    does",
+          "answer": "goes"
+        },
+        {
+          "item": "We __________ dressed in five minutes. take    get    make",
+          "answer": "get"
+        },
+        {
+          "item": "He __________ a shower after the gym. makes    does    has",
+          "answer": "has"
+        },
+        {
+          "item": "They __________ their job at 5 p.m. finish    start    take",
+          "answer": "finish"
+        },
+        {
+          "item": "My brother __________ a lot of money. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ up when the alarm rings. wake    start    get",
+          "answer": "wake"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ the garden every weekend. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "I __________ dinner at 7:30 p.m. have    make    go",
+          "answer": "have"
+        },
+        {
+          "item": "We __________ up late on Fridays. get    start    do",
+          "answer": "get"
+        },
+        {
+          "item": "He __________ the metro to the office. goes    takes    makes",
+          "answer": "takes"
+        },
+        {
+          "item": "They __________ a lot of research for their project. do    make    have",
+          "answer": "do"
+        },
+        {
+          "item": "My cousin __________ work at 9:00 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "I usually __________ a good coffee in the morning. make    do    have",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "They __________ home immediately after work. get    go    take",
+          "answer": "go"
+        },
+        {
+          "item": "She __________ the family budget. does    makes    gets",
+          "answer": "does"
+        },
+        {
+          "item": "I __________ a nap in the afternoon. have    take    do",
+          "answer": "have"
+        },
+        {
+          "item": "We __________ school at 4:30 p.m. start    finish    wake",
+          "answer": "finish"
+        },
+        {
+          "item": "He usually __________ a shave before the meeting. does    makes    has",
+          "answer": "has"
+        },
+        {
+          "item": "My sister __________ up at 7:00 a.m. get    start    wake",
+          "answer": "wake"
+        },
+        {
+          "item": "I __________ the children to school. take    go    make",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "He __________ dressed and leaves fast. takes    gets    makes",
+          "answer": "gets"
+        },
+        {
+          "item": "I __________ a lot of errors when I'm tired. do    make    have",
+          "answer": "make"
+        },
+        {
+          "item": "They __________ the bus every day. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "We __________ out to a restaurant on Fridays. go    take    have",
+          "answer": "go"
+        },
+        {
+          "item": "She __________ work at 7:00 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "My parents __________ dinner every evening. do    make    have",
+          "answer": "make"
+        },
+        {
+          "item": "I usually __________ a shower before breakfast. have    make    do",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ up late on weekends. start    wake    go",
+          "answer": "wake"
+        },
+        {
+          "item": "I __________ the dishes after dinner. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "We __________ to the library to study. go    take    do",
+          "answer": "go"
+        },
+        {
+          "item": "He __________ his hair before going out. does    makes    gets",
+          "answer": "does"
+        },
+        {
+          "item": "They __________ a break at 10 a.m. have    take    make",
+          "answer": "have"
+        },
+        {
+          "item": "My friend __________ work at 6 p.m. finishes    starts    takes",
+          "answer": "finishes"
+        },
+        {
+          "item": "I __________ the children to bed. make    take    do",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually __________ up early. get    wake    start",
+          "answer": "get"
+        },
+        {
+          "item": "She __________ the family shopping. does    makes    takes",
+          "answer": "does"
+        },
+        {
+          "item": "We __________ a shower after exercise. take    have    make",
+          "answer": "have"
+        },
+        {
+          "item": "He __________ work at 9:30 a.m. goes    starts    gets",
+          "answer": "starts"
+        },
+        {
+          "item": "They __________ dressed quickly. make    do    get",
+          "answer": "get"
+        },
+        {
+          "item": "My sister __________ a quick phone call. does    makes    takes",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ to the park to read a book. go    take    do",
+          "answer": "go"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ a taxi to the station. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "I __________ home late on Mondays. get    go    finish",
+          "answer": "get"
+        },
+        {
+          "item": "We __________ up when the sun rises. start    wake    get",
+          "answer": "wake"
+        },
+        {
+          "item": "He __________ a cup of tea every afternoon. have    make    take",
+          "answer": "have"
+        },
+        {
+          "item": "They __________ their homework every night. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "My father __________ dinner at 7 p.m. finishes    starts    makes",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ work at 6:30 p.m. finish    start    take",
+          "answer": "finish"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always __________ my bed after I wake up. do    make    get",
+          "answer": "make"
+        },
+        {
+          "item": "She __________ to university on weekends. goes    takes    makes",
+          "answer": "goes"
+        },
+        {
+          "item": "We __________ a break for coffee. have    make    do",
+          "answer": "have"
+        },
+        {
+          "item": "He __________ the children to school. go    take    make",
+          "answer": "take"
+        },
+        {
+          "item": "They __________ up at half past six. wake    start    get",
+          "answer": "get"
+        },
+        {
+          "item": "My friend __________ the washing up. makes    do    takes",
+          "answer": "do"
+        },
+        {
+          "item": "I __________ school at 2 p.m. finish    start    go",
+          "answer": "finish"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "We usually __________ out for dinner on Fridays. go    take    have",
+          "answer": "go"
+        },
+        {
+          "item": "She __________ a quick shower in the evening. take    has    make",
+          "answer": "has"
+        },
+        {
+          "item": "I __________ my job at 8:45 a.m. finish    start    get",
+          "answer": "start"
+        },
+        {
+          "item": "He __________ a cup of coffee every morning. make    do    take",
+          "answer": "make"
+        },
+        {
+          "item": "They __________ dressed before breakfast. take    get    have",
+          "answer": "get"
+        },
+        {
+          "item": "My sister __________ the dog for a walk. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "I usually __________ up early. wake    start    do",
+          "answer": "wake"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ a lot of money every month. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ the ironing on Sundays. make    do    get",
+          "answer": "do"
+        },
+        {
+          "item": "We __________ home at 7 p.m. goes    gets    finishes",
+          "answer": "gets"
+        },
+        {
+          "item": "He __________ dinner with his wife. have    take    go",
+          "answer": "have"
+        },
+        {
+          "item": "They __________ work at 5:00 p.m. finishes    starts    takes",
+          "answer": "finishes"
+        },
+        {
+          "item": "My cousin __________ the metro to school. goes    takes    makes",
+          "answer": "takes"
+        },
+        {
+          "item": "I __________ up late on holidays. wake    start    do",
+          "answer": "wake"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ the dishes after dinner. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "She usually __________ to the coast for holidays. takes    goes    makes",
+          "answer": "goes"
+        },
+        {
+          "item": "We __________ a long walk in the park. have    take    make",
+          "answer": "take"
+        },
+        {
+          "item": "He __________ lunch at work. does    makes    has",
+          "answer": "has"
+        },
+        {
+          "item": "They __________ school at 8:00 a.m. finish    start    get",
+          "answer": "start"
+        },
+        {
+          "item": "My sister __________ up at 7:00 a.m. wake    get    do",
+          "answer": "get"
+        },
+        {
+          "item": "I __________ a lot of money in my job. make    do    get",
+          "answer": "make"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "We always __________ dinner at 9 p.m. make    do    have",
+          "answer": "have"
+        },
+        {
+          "item": "She __________ the children to bed early. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "He __________ the housework on Saturdays. make    do    get",
+          "answer": "do"
+        },
+        {
+          "item": "I __________ work at 6:00 p.m. start    finish    wake",
+          "answer": "finish"
+        },
+        {
+          "item": "They __________ dressed and leave the house. take    get    have",
+          "answer": "get"
+        },
+        {
+          "item": "My mother __________ a good cup of tea. makes    does    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I usually __________ up at 7:30 a.m. wake    start    go",
+          "answer": "wake"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ to the theatre once a month. takes    goes    makes",
+          "answer": "goes"
+        },
+        {
+          "item": "I __________ a shower after the gym. have    make    take",
+          "answer": "have"
+        },
+        {
+          "item": "We __________ a lot of effort in our studies. do    make    take",
+          "answer": "make"
+        },
+        {
+          "item": "He __________ his job at 9:00 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "They __________ the dog for a walk. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "My friend __________ home late. goes    gets    finishes",
+          "answer": "gets"
+        },
+        {
+          "item": "I usually __________ up at 7:00 a.m. get    start    do",
+          "answer": "get"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ dressed quickly every morning. take    get    make",
+          "answer": "get"
+        },
+        {
+          "item": "I __________ the dishes every evening. make    do    have",
+          "answer": "do"
+        },
+        {
+          "item": "We __________ a quick dinner after work. have    take    go",
+          "answer": "have"
+        },
+        {
+          "item": "He __________ school at 3:30 p.m. finish    start    wake",
+          "answer": "finish"
+        },
+        {
+          "item": "They __________ up early to exercise. wake    start    go",
+          "answer": "wake"
+        },
+        {
+          "item": "My cousin __________ a lot of money in her job. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ the train to the office. go    take    make",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "We __________ home at 6:45 p.m. goes    gets    starts",
+          "answer": "gets"
+        },
+        {
+          "item": "She __________ to the market on Tuesdays. go    take    do",
+          "answer": "go"
+        },
+        {
+          "item": "He __________ his homework before dinner. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "I __________ a shower in the evening. have    make    take",
+          "answer": "have"
+        },
+        {
+          "item": "They __________ work at 8:15 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "My mother usually __________ a delicious cake. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ up at 5 a.m. get    start    wake",
+          "answer": "get"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ the washing up after lunch. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "I __________ a break when I'm tired. have    make    take",
+          "answer": "have"
+        },
+        {
+          "item": "We __________ the train to the city centre. go    take    do",
+          "answer": "take"
+        },
+        {
+          "item": "He usually __________ up when the alarm rings. wake    start    get",
+          "answer": "wake"
+        },
+        {
+          "item": "They __________ home late every night. gets    goes    finishes",
+          "answer": "gets"
+        },
+        {
+          "item": "My sister __________ work at 5:30 p.m. finish    start    take",
+          "answer": "finish"
+        },
+        {
+          "item": "I __________ to the park with my dog. go    take    make",
+          "answer": "go"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I __________ a lot of effort in my job. do    make    take",
+          "answer": "make"
+        },
+        {
+          "item": "She __________ dressed in her uniform. take    get    have",
+          "answer": "get"
+        },
+        {
+          "item": "We __________ school at 7:45 a.m. finish    start    go",
+          "answer": "start"
+        },
+        {
+          "item": "He usually __________ a shave before the interview. does    makes    has",
+          "answer": "has"
+        },
+        {
+          "item": "They __________ the cleaning on Fridays. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "My boss __________ home at 8 p.m. goes    gets    finishes",
+          "answer": "gets"
+        },
+        {
+          "item": "I __________ dinner with my parents. make    do    have",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "We __________ to the cinema once a month. go    take    do",
+          "answer": "go"
+        },
+        {
+          "item": "She __________ work at 6:30 p.m. finish    start    wake",
+          "answer": "finish"
+        },
+        {
+          "item": "He usually __________ a shower at night. have    make    take",
+          "answer": "have"
+        },
+        {
+          "item": "I __________ the dog for a walk every evening. go    take    make",
+          "answer": "take"
+        },
+        {
+          "item": "They __________ up early on weekdays. get    wake    start",
+          "answer": "get"
+        },
+        {
+          "item": "My friend __________ a lot of phone calls. does    makes    gets",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ the chores on Sundays. make    do    have",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "She __________ to the gym after work. goes    takes    makes",
+          "answer": "goes"
+        },
+        {
+          "item": "I __________ up at 7:45 a.m. wake    start    do",
+          "answer": "wake"
+        },
+        {
+          "item": "We __________ home very late. get    go    take",
+          "answer": "get"
+        },
+        {
+          "item": "He __________ a cup of coffee at breakfast. have    make    take",
+          "answer": "have"
+        },
+        {
+          "item": "They __________ their homework carefully. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "My mother __________ dinner at 7:00 p.m. finishes    starts    makes",
+          "answer": "makes"
+        },
+        {
+          "item": "I __________ school at 4:00 p.m. finish    start    go",
+          "answer": "finish"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "4B"
+      ],
+      "type": "select_correct_word",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Harry finishes school at 4 o’clock.         goes    does    finishes",
+        "answer": "finishes"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually __________ a shower in the evening. take    have    make",
+          "answer": "have"
+        },
+        {
+          "item": "She __________ up late on weekends. get    wake    start",
+          "answer": "wake"
+        },
+        {
+          "item": "We __________ work at 8:00 a.m. finishes    starts    takes",
+          "answer": "starts"
+        },
+        {
+          "item": "He __________ the train to the city. goes    takes    makes",
+          "answer": "takes"
+        },
+        {
+          "item": "They __________ home quickly. go    get    finish",
+          "answer": "get"
+        },
+        {
+          "item": "My father __________ the housework on Mondays. make    do    take",
+          "answer": "do"
+        },
+        {
+          "item": "I __________ a quick meal for lunch. does    makes    have",
+          "answer": "makes"
+        }
+      ]
+    }
+  ]
+}
+

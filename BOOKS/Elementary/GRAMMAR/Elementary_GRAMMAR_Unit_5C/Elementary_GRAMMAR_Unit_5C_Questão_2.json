@@ -1,0 +1,335 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["have", "lie", "play", "love", "swim", "listen", "try", "want"],
+      "qa_pairs": [
+        {
+          "item": "Hi Sam,\nI’m on holiday in Spain and I am having a wonderful time! The weather is amazing. I ¹__________ on the beach right now. My dad and brother ²__________ volleyball. They ³__________ sports. My mum ⁴__________, she ⁵__________ to music. Every day, we ⁶__________ a different restaurant in the evening. I ⁷__________ it to end.\nBest wishes,\nAmy",
+          "answer": "¹am lying, ²are playing, ³love, ⁴isn’t swimming, ⁵is listening, ⁶try, ⁷don’t want"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["sit", "come", "drink", "watch", "rain", "carry", "wait", "need"],
+      "qa_pairs": [
+        {
+          "item": "Hi Chloe,\nThanks for your message. I am sitting in my favourite café right now. I often ¹__________ here to relax. Today, I’m alone. I ²__________ a cup of coffee and I ³__________ the people outside. It ⁴__________ a lot, so everyone ⁵__________ umbrellas. My mum ⁶__________ for me at home. I ⁷__________ to go soon.\nSee you,\nBen",
+          "answer": "¹come, ²am drinking, ³am watching, ⁴is raining, ⁵is carrying, ⁶is waiting, ⁷need"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["write", "watch", "play", "shout", "bake", "smell", "do", "think"],
+      "qa_pairs": [
+        {
+          "item": "Hi Grandma,\nHow are you? We are all fine. I am writing this email from the living room. My dad is with me. He ¹__________ football on TV; his favourite team ²__________. He always ³__________ when they score a goal. My mum is in the kitchen; she ⁴__________ a cake. It ⁵__________ delicious! My brother isn’t here, he ⁶__________ his homework in his bedroom. I ⁷__________ I’ll go help my mum now.\nLots of love,\nJosh",
+          "answer": "¹is watching, ²is playing, ³shouts, ⁴is baking, ⁵smells, ⁶is doing, ⁷think"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["wait", "play", "take", "use", "have", "seem", "talk", "hope"],
+      "qa_pairs": [
+        {
+          "item": "Hi Alex,\nHow are you doing? I am waiting for my tennis class to start. I’m at the local sports centre. I usually ¹__________ tennis on Thursdays. My friend Clara is here too. She ²__________ a class today; she ³__________ the gym. Right now, a group of kids ⁴__________ a swimming lesson in the pool. They ⁵__________ to be having fun. My coach ⁶__________ to some parents at the moment. I ⁷__________ the class starts soon.\nTalk soon,\nTom",
+          "answer": "¹play, ²isn’t taking, ³is using, ⁴are having, ⁵seem, ⁶is talking, ⁷hope"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["have", "play", "dance", "cut", "open", "get", "enjoy"],
+      "qa_pairs": [
+        {
+          "item": "Hi Jessica,\nI’m at my cousin’s birthday party and I am having a great time! The music ¹__________ very loudly. Some people ²__________ in the living room. I ³__________ right now; I’m in the kitchen. My aunt ⁴__________ the birthday cake. It looks delicious! My little cousin, the birthday boy, ⁵__________ his presents. He ⁶__________ so many cool toys. I always ⁷__________ our family parties.\nSee you soon,\nLaura",
+          "answer": "¹is playing, ²are dancing, ³am not dancing, ⁴is cutting, ⁵is opening, ⁶is getting, ⁷enjoy"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["study", "sit", "read", "work", "talk", "need", "want", "close"],
+      "qa_pairs": [
+        {
+          "item": "Hi Fiona,\nI am studying for my English test at the city library. It's very quiet here. I ¹__________ near the window. A man in front of me ²__________ a newspaper. The librarians ³__________ at their desks. People normally ⁴__________ loudly here. I ⁵__________ to find one more book. I ⁶__________ to go home soon. The library ⁷__________ at 6 p.m. today.\nTalk later,\nMike",
+          "answer": "¹am sitting, ²is reading, ³are working, ⁴don’t talk, ⁵need, ⁶want, ⁷closes"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["help", "make", "try", "follow", "know", "look", "taste", "hope"],
+      "qa_pairs": [
+        {
+          "item": "Hi Oscar,\nMy brother is helping me in the kitchen. We ¹__________ pizza for the first time! We ²__________ a new recipe from a website. We ³__________ the instructions, but I ⁴__________ if it's correct. It ⁵__________ a bit strange. My brother ⁶__________ the sauce now. He says it's good! I ⁷__________ he is right!\nWish us luck!\nSara",
+          "answer": "¹are making, ²are trying, ³are following, ⁴don’t know, ⁵looks, ⁶is tasting, ⁷hope"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["stand", "do", "buy", "have", "need", "cost", "look", "forget"],
+      "qa_pairs": [
+        {
+          "item": "Hi Tim,\nI am standing in the fruit section at the supermarket. I ¹__________ the weekly shopping. I ²__________ everything on our list. The supermarket ³__________ a special offer on pasta today. Do we ⁴__________ more milk? I can't remember. Everything ⁵__________ so much these days! A woman near me ⁶__________ for cereal. I hope I ⁷__________ anything.\nSee you soon,\nPaul",
+          "answer": "¹am doing, ²am buying, ³has, ⁴need, ⁵costs, ⁶is looking, ⁷don’t forget"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["arrive", "wait", "feel", "drink", "run", "announce", "travel", "seem"],
+      "qa_pairs": [
+        {
+          "item": "Hi Mum,\nMy train is arriving in five minutes, so I don’t have much time. I ¹__________ on the platform. I ²__________ a bit nervous because I don't usually travel alone. I ³__________ a bottle of water. Lots of people ⁴__________ to catch their trains. A voice on the loudspeaker ⁵__________ delays. My train always ⁶__________ to Manchester. All the people ⁷__________ busy.\nLove,\nClara",
+          "answer": "¹am waiting, ²feel, ³am drinking, ⁴are running, ⁵is announcing, ⁶travels, ⁷seem"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["send", "rain", "make", "watch", "sleep", "love", "have", "do"],
+      "qa_pairs": [
+        {
+          "item": "Hi Eva,\nHow’s your weekend? I am sending you this email from the sofa. It's a very lazy Sunday! It ¹__________ outside. My mum is in the kitchen; she ²__________ breakfast. My dad ³__________ the news on TV. My sister is still in bed; she ⁴__________! I ⁵__________ days like this. We always ⁶__________ a big family breakfast on Sundays. We ⁷__________ anything special today.\nBest,\nLeo",
+          "answer": "¹is raining, ²is making, ³is watching, ⁴is sleeping, ⁵love, ⁶have, ⁷are not doing"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["play", "stand", "sing", "shine", "feel", "sound", "love", "hope"],
+      "qa_pairs": [
+        {
+          "item": "Hi Nate,\nYou won't believe where I am! I'm at the open-air concert in the city park. The band is playing my favourite song! I ¹__________ near the front. Everyone around me ²__________ along. The stage lights ³__________ brightly. I ⁴__________ so happy. The music ⁵__________ amazing. I absolutely ⁶__________ this band. I ⁷__________ they play 'Midnight Sky' next.\nWish you were here!\nAlex",
+          "answer": "¹am standing, ²is singing, ³are shining, ⁴feel, ⁵sounds, ⁶love, ⁷hope"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["work", "write", "look for", "find", "seem", "need", "think", "have"],
+      "qa_pairs": [
+        {
+          "item": "Hi Sofia,\nI am working on our history project right now. I ¹__________ the introduction. Maria ²__________ pictures online, but she ³__________ very much. This topic ⁴__________ quite difficult. I ⁵__________ to check some facts in the textbook. I ⁶__________ we should meet tomorrow. We usually ⁷__________ our project meetings at the library.\nLet me know!\nCarlos",
+          "answer": "¹am writing, ²is looking for, ³isn’t finding, ⁴seems, ⁵need, ⁶think, ⁷have"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["look", "enjoy", "walk", "take", "read", "contain", "want", "close"],
+      "qa_pairs": [
+        {
+          "item": "Hi Grandma,\nWe're at the Natural History Museum. My little brother is looking at a huge dinosaur skeleton. We ¹__________ our visit a lot. I ²__________ through the main hall now. Some students ³__________ notes for a school trip. My dad ⁴__________ the information on the wall. This room ⁵__________ many interesting fossils. I ⁶__________ to see the mammal exhibit next. The museum ⁷__________ in an hour.\nSpeak soon,\nLily",
+          "answer": "¹are enjoying, ²am walking, ³are taking, ⁴is reading, ⁵contains, ⁶want, ⁷closes"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["plant", "help", "dig", "pull out", "shine", "feel", "love", "grow"],
+      "qa_pairs": [
+        {
+          "item": "Hi Oliver,\nIt's a beautiful day, so I'm in the garden. I am planting some new flowers today. My dad ¹__________ me. He ²__________ a new vegetable patch. My mum ³__________ the weeds. The sun ⁴__________ and it isn't too hot. I ⁵__________ really relaxed. I ⁶__________ spending time outdoors. Vegetables always ⁷__________ well in our garden.\nWhat are you up to?\nBella",
+          "answer": "¹is helping, ²is digging, ³is pulling out, ⁴is shining, ⁵feel, ⁶love, ⁷grow"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["call", "sit", "wait", "read", "play", "seem", "have", "hope"],
+      "qa_pairs": [
+        {
+          "item": "Hi Dad,\nI'm at the doctor's office. A nurse is calling a patient's name. I ¹__________ in the waiting room. I ²__________ for Dr. Evans. A few other people are here too. A man ³__________ a magazine and two children ⁴__________ quietly with their toys. Everyone ⁵__________ very patient. I ⁶__________ my appointment at 4:30. I ⁷__________ I don't have to wait too long.\nSam",
+          "answer": "¹am sitting, ²am waiting, ³is reading, ⁴are playing, ⁵seems, ⁶have, ⁷hope"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["dance", "wear", "talk", "eat", "play", "look", "feel", "have"],
+      "qa_pairs": [
+        {
+          "item": "Hi Olivia,\nI'm at my cousin’s wedding reception. The bride and groom are dancing now. The bride ¹__________ a beautiful dress. All the guests ²__________ and laughing. People ³__________ dinner. The band ⁴__________ some great music. Everyone ⁵__________ so happy. I ⁶__________ a bit tired, but I ⁷__________ a wonderful time.\nSpeak tomorrow,\nJess",
+          "answer": "¹is wearing, ²are talking, ³are eating, ⁴is playing, ⁵looks, ⁶feel, ⁷am having"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["show", "learn", "try", "work", "help", "understand", "give", "seem"],
+      "qa_pairs": [
+        {
+          "item": "Hi Tom,\nHow is your class? I'm in my computer class. Our teacher is showing us how to create a website. We ¹__________ about HTML. I ²__________ to follow his instructions. My computer ³__________ a bit slowly today. The student next to me ⁴__________ his friend. I ⁵__________ everything, but it's interesting. The teacher always ⁶__________ us useful tips. This class ⁷__________ very practical.\nSee you later,\nDan",
+          "answer": "¹are learning, ²am trying, ³is working, ⁴is helping, ⁵don’t understand, ⁶gives, ⁷seems"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["move", "sit", "listen", "read", "look", "get", "stop", "want"],
+      "qa_pairs": [
+        {
+          "item": "Hi Zoe,\nWhere are you? I'm on my way home. The bus is moving very slowly because of traffic. I ¹__________ by the window. I ²__________ to music on my phone. An old man across from me ³__________ a book. A few people ⁴__________ tired after work. The bus ⁵__________ very crowded now. It ⁶__________ at every bus stop. I just ⁷__________ to get home!\nMatt",
+          "answer": "¹am sitting, ²am listening, ³is reading, ⁴look, ⁵is getting, ⁶stops, ⁷want"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["make", "sit", "put up", "get", "shine", "tell", "sound", "feel"],
+      "qa_pairs": [
+        {
+          "item": "Hi Alex,\nGreetings from the woods! We're on our camping trip. My dad is making a fire. We ¹__________ around it to keep warm. My brother ²__________ our tent right now. It ³__________ dark, and the stars ⁴__________ brightly. My mum ⁵__________ a story. The forest ⁶__________ very quiet at night. I ⁷__________ so peaceful here.\nFrom,\nLeo",
+          "answer": "¹are sitting, ²is putting up, ³is getting, ⁴are shining, ⁵is telling, ⁶sounds, ⁷feel"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["walk", "look", "sell", "buy", "smell", "play", "seem", "have"],
+      "qa_pairs": [
+        {
+          "item": "Hi Isabella,\nI am walking around a busy street market. I ¹__________ at all the interesting stalls. People ²__________ everything here, from fresh fruit to handmade clothes. I ³__________ some local cheese at the moment. The food stalls ⁴__________ amazing! A musician ⁵__________ a guitar in the corner. Everyone ⁶__________ to be enjoying the sunny weather. This market always ⁷__________ a great atmosphere.\nEva",
+          "answer": "¹am looking, ²sell, ³am buying, ⁴smell, ⁵is playing, ⁶seems, ⁷has"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["show", "try", "follow", "play", "feel", "look", "think", "have"],
+      "qa_pairs": [
+        {
+          "item": "Hi Carla,\nI’m in my yoga class now. The instructor is showing us a new yoga pose. I ¹__________ my best to copy her. The person next to me ²__________ the instructions perfectly. Soft music ³__________ in the background. I already ⁴__________ more relaxed. The instructor ⁵__________ very calm. I ⁶__________ yoga is great for stress. We ⁷__________ this class every Tuesday and Thursday.\nSee you later,\nSofia",
+          "answer": "¹am trying, ²is following, ³is playing, ⁴feel, ⁵looks, ⁶think, ⁷have"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["teach", "sit", "wait", "shine", "listen", "catch", "seem", "enjoy"],
+      "qa_pairs": [
+        {
+          "item": "Hi Daniel,\nGuess what I’m doing? My grandpa is teaching me how to fish. We ¹__________ by a beautiful, quiet lake. We ²__________ for a fish to bite. The sun ³__________ on the water. We ⁴__________ to the birds. We ⁵__________ anything yet, but I don't mind. The fish ⁶__________ to be sleeping today! I really ⁷__________ this peaceful time with him.\nBest,\nKevin",
+          "answer": "¹are sitting, ²are waiting, ³is shining, ⁴are listening, ⁵are not catching, ⁶seem, ⁷am enjoying"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["do", "mix", "watch", "change", "write", "happen", "need", "look"],
+      "qa_pairs": [
+        {
+          "item": "Hi Paula,\nYou are missing a great class! We are doing an interesting experiment in chemistry class. Our teacher, Mr. Harris, ¹__________ two chemicals. We ²__________ the liquid carefully. It ³__________ color from blue to green! I ⁴__________ down all the observations. Cool things always ⁵__________ in this lab. We ⁶__________ to wear safety goggles. It ⁷__________ really cool.\nHope you're feeling better!\nAnna",
+          "answer": "¹is mixing, ²are watching, ³is changing, ⁴am writing, ⁵happen, ⁶need, ⁷looks"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["cook", "chat", "play", "listen", "smell", "love", "get", "feel"],
+      "qa_pairs": [
+        {
+          "item": "Hi Rafa,\nI'm at a big family barbecue at my grandparents' house. My uncle is cooking the meat on the barbecue. My cousins and I ¹__________ in the garden. Some of the kids ²__________ football. My dad ³__________ to some music with my aunts. The food ⁴__________ fantastic! I ⁵__________ our family get-togethers. It ⁶__________ a little cloudy now, but it's still warm. The whole family ⁷__________ happy to be together.\nBest,\nLucas",
+          "answer": "¹are chatting, ²are playing, ³is listening, ⁴smells, ⁵love, ⁶is getting, ⁷feels"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["paint", "try", "use", "teach", "concentrate", "help", "think", "look"],
+      "qa_pairs": [
+        {
+          "item": "Hi Mum,\nI'm at my art class. I am painting a picture of a sunset. I ¹__________ to blend the colors correctly. I ²__________ mostly reds and oranges. Our teacher ³__________ a new technique for painting clouds. Everyone ⁴__________ hard on their work. The teacher often ⁵__________ students one-on-one. I ⁶__________ my painting ⁷__________ okay so far!\nSee you at home later,\nChloe",
+          "answer": "¹am trying, ²am using, ³is teaching, ⁴is concentrating, ⁵helps, ⁶think, ⁷looks"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["study", "help", "explain", "understand", "feel", "have", "need", "work"],
+      "qa_pairs": [
+        {
+          "item": "Hi Mum,\nJust letting you know I'm at the library. My friend Lucas and I are studying for our geography test. He ¹__________ me with the capital cities. Right now, he ²__________ something about rivers. I ³__________ it much better now. I ⁴__________ more confident. We ⁵__________ the test tomorrow morning. We ⁶__________ a good grade! This method of studying together really ⁷__________.\nSee you later,\nMaria",
+          "answer": "¹is helping, ²is explaining, ³understand, ⁴feel, ⁵have, ⁶need, ⁷works"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["run", "wear", "eat", "play", "sing", "cry", "love", "want"],
+      "qa_pairs": [
+        {
+          "item": "Hi Leo,\nHelp me! I'm at my little brother's 5th birthday party. All the kids are running around and shouting. My brother ¹__________ a superhero costume. The kids ²__________ cake and sweets. A clown ³__________ games with them. Right now, they ⁴__________ 'Happy Birthday'. One little girl ⁵__________ because she lost a game. My brother ⁶__________ all the attention. I ⁷__________ to go home!\nFrom,\nA tired big sister",
+          "answer": "¹is wearing, ²are eating, ³is playing, ⁴are singing, ⁵is crying, ⁶loves, ⁷want"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["take", "sit", "drink", "shine", "follow", "feel", "look", "lead"],
+      "qa_pairs": [
+        {
+          "item": "Hi Dad,\nWe are taking a short break from our hike. We ¹__________ on a big rock. I ²__________ some water. The sun ³__________, but it's not too hot. We ⁴__________ a path that goes up the mountain. My legs ⁵__________ a bit tired, but the view ⁶__________ amazing from here. Our guide says this path ⁷__________ to a waterfall.\nCan't wait!\nLove,\nBen",
+          "answer": "¹are sitting, ²am drinking, ³is shining, ⁴are following, ⁵feel, ⁶looks, ⁷leads"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["rehearse", "practice", "teach", "watch", "correct", "make", "want", "need"],
+      "qa_pairs": [
+        {
+          "item": "Hi Julia,\nHow are you? Our dance group is rehearsing for the end-of-year show. We ¹__________ the final number. Our choreographer ²__________ us a new step. She ³__________ us very carefully. She often ⁴__________ our posture. We sometimes ⁵__________ mistakes, but we are improving. Our choreographer ⁶__________ our performance to be perfect. We ⁷__________ to practice a lot more!\nWish me luck,\nAna",
+          "answer": "¹are practicing, ²is teaching, ³is watching, ⁴corrects, ⁵make, ⁶wants, ⁷need"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_from_word_bank",
+      "instructions": "Complete the email. Use the present simple or present continuous form of the verbs in brackets.",
+      "options": ["wash", "clean", "listen", "help", "hate", "want", "shine", "promise"],
+      "qa_pairs": [
+        {
+          "item": "Hi Sam,\nWhat are you up to? I can't go out yet. My brother is washing the car outside. I ¹__________ my bedroom. I ²__________ to music to make it more fun. My mum ³__________ my dad in the garden. I ⁴__________ doing chores, but I ⁵__________ my pocket money! The sun ⁶__________ outside. My mum ⁷__________ we can go to the beach later.\nHope you're having a better Saturday!\nJack",
+          "answer": "¹am cleaning, ²am listening, ³is helping, ⁴hate, ⁵want, ⁶is shining, ⁷promises"
+        }
+      ]
+    }
+  ]
+}
+

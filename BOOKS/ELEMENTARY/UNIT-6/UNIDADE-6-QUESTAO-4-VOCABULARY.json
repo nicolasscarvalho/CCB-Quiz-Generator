@@ -1,0 +1,1445 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "second, __________, fourth, fifth",
+          "answer": "third"
+        },
+        {
+          "item": "__________, March, April",
+          "answer": "February"
+        },
+        {
+          "item": "fiftieth, __________, fifty-second",
+          "answer": "fifty-first"
+        },
+        {
+          "item": "April, May, __________",
+          "answer": "June"
+        },
+        {
+          "item": "spring, __________, autumn, winter",
+          "answer": "summer"
+        },
+        {
+          "item": "ninth, tenth, __________",
+          "answer": "eleventh"
+        },
+        {
+          "item": "October, November, __________",
+          "answer": "December"
+        },
+        {
+          "item": "__________, September, October",
+          "answer": "August"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "eighth, ninth, __________",
+          "answer": "tenth"
+        },
+        {
+          "item": "June, __________, August",
+          "answer": "July"
+        },
+        {
+          "item": "first, second, __________",
+          "answer": "third"
+        },
+        {
+          "item": "winter, spring, __________",
+          "answer": "summer"
+        },
+        {
+          "item": "September, October, __________",
+          "answer": "November"
+        },
+        {
+          "item": "sixty-first, sixty-second, __________",
+          "answer": "sixty-third"
+        },
+        {
+          "item": "__________, February, March",
+          "answer": "January"
+        },
+        {
+          "item": "sixth, __________, eighth",
+          "answer": "seventh"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "twelfth, thirteenth, __________",
+          "answer": "fourteenth"
+        },
+        {
+          "item": "March, April, __________",
+          "answer": "May"
+        },
+        {
+          "item": "ninth, __________, eleventh",
+          "answer": "tenth"
+        },
+        {
+          "item": "autumn, winter, __________",
+          "answer": "spring"
+        },
+        {
+          "item": "July, __________, September",
+          "answer": "August"
+        },
+        {
+          "item": "twenty-ninth, __________, thirty-first",
+          "answer": "thirtieth"
+        },
+        {
+          "item": "__________, May, June",
+          "answer": "April"
+        },
+        {
+          "item": "fourth, fifth, __________",
+          "answer": "sixth"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "thirteenth, fourteenth, __________",
+          "answer": "fifteenth"
+        },
+        {
+          "item": "November, __________, January",
+          "answer": "December"
+        },
+        {
+          "item": "seventieth, seventy-first, __________",
+          "answer": "seventy-second"
+        },
+        {
+          "item": "summer, autumn, __________",
+          "answer": "winter"
+        },
+        {
+          "item": "__________, March, April",
+          "answer": "February"
+        },
+        {
+          "item": "third, fourth, __________",
+          "answer": "fifth"
+        },
+        {
+          "item": "April, __________, June",
+          "answer": "May"
+        },
+        {
+          "item": "eighty-ninth, ninetieth, __________",
+          "answer": "ninety-first"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "fifth, __________, seventh",
+          "answer": "sixth"
+        },
+        {
+          "item": "January, February, __________",
+          "answer": "March"
+        },
+        {
+          "item": "eleventh, twelfth, __________",
+          "answer": "thirteenth"
+        },
+        {
+          "item": "winter, __________, summer",
+          "answer": "spring"
+        },
+        {
+          "item": "August, September, __________",
+          "answer": "October"
+        },
+        {
+          "item": "fortieth, forty-first, __________",
+          "answer": "forty-second"
+        },
+        {
+          "item": "__________, November, December",
+          "answer": "October"
+        },
+        {
+          "item": "seventeenth, eighteenth, __________",
+          "answer": "nineteenth"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "third, fourth, __________",
+          "answer": "fifth"
+        },
+        {
+          "item": "May, June, __________",
+          "answer": "July"
+        },
+        {
+          "item": "twenty-eighth, twenty-ninth, __________",
+          "answer": "thirtieth"
+        },
+        {
+          "item": "__________, summer, autumn",
+          "answer": "spring"
+        },
+        {
+          "item": "December, __________, February",
+          "answer": "January"
+        },
+        {
+          "item": "tenth, __________, twelfth",
+          "answer": "eleventh"
+        },
+        {
+          "item": "August, __________, October",
+          "answer": "September"
+        },
+        {
+          "item": "eighteenth, nineteenth, __________",
+          "answer": "twentieth"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "ninety-first, ninety-second, __________",
+          "answer": "ninety-third"
+        },
+        {
+          "item": "__________, April, May",
+          "answer": "March"
+        },
+        {
+          "item": "seventh, eighth, __________",
+          "answer": "ninth"
+        },
+        {
+          "item": "autumn, __________, spring",
+          "answer": "winter"
+        },
+        {
+          "item": "June, July, __________",
+          "answer": "August"
+        },
+        {
+          "item": "sixty-seventh, sixty-eighth, __________",
+          "answer": "sixty-ninth"
+        },
+        {
+          "item": "October, __________, December",
+          "answer": "November"
+        },
+        {
+          "item": "twentieth, twenty-first, __________",
+          "answer": "twenty-second"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "fourth, __________, sixth",
+          "answer": "fifth"
+        },
+        {
+          "item": "July, August, __________",
+          "answer": "September"
+        },
+        {
+          "item": "ninety-ninth, __________, one hundred and first",
+          "answer": "one hundredth"
+        },
+        {
+          "item": "spring, summer, __________",
+          "answer": "autumn"
+        },
+        {
+          "item": "__________, October, November",
+          "answer": "September"
+        },
+        {
+          "item": "fifteenth, sixteenth, __________",
+          "answer": "seventeenth"
+        },
+        {
+          "item": "January, __________, March",
+          "answer": "February"
+        },
+        {
+          "item": "thirtieth, thirty-first, __________",
+          "answer": "thirty-second"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "eleventh, __________, thirteenth",
+          "answer": "twelfth"
+        },
+        {
+          "item": "August, __________, October",
+          "answer": "September"
+        },
+        {
+          "item": "second, third, __________",
+          "answer": "fourth"
+        },
+        {
+          "item": "summer, __________, winter",
+          "answer": "autumn"
+        },
+        {
+          "item": "April, May, __________",
+          "answer": "June"
+        },
+        {
+          "item": "forty-fourth, forty-fifth, __________",
+          "answer": "forty-sixth"
+        },
+        {
+          "item": "__________, December, January",
+          "answer": "November"
+        },
+        {
+          "item": "first, __________, third",
+          "answer": "second"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "sixth, seventh, __________",
+          "answer": "eighth"
+        },
+        {
+          "item": "October, November, __________",
+          "answer": "December"
+        },
+        {
+          "item": "twelfth, __________, fourteenth",
+          "answer": "thirteenth"
+        },
+        {
+          "item": "winter, spring, __________",
+          "answer": "summer"
+        },
+        {
+          "item": "March, __________, May",
+          "answer": "April"
+        },
+        {
+          "item": "eightieth, eighty-first, __________",
+          "answer": "eighty-second"
+        },
+        {
+          "item": "July, __________, September",
+          "answer": "August"
+        },
+        {
+          "item": "twenty-second, twenty-third, __________",
+          "answer": "twenty-fourth"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "fourteenth, fifteenth, __________",
+          "answer": "sixteenth"
+        },
+        {
+          "item": "September, October, __________",
+          "answer": "November"
+        },
+        {
+          "item": "third, __________, fifth",
+          "answer": "fourth"
+        },
+        {
+          "item": "spring, __________, autumn",
+          "answer": "summer"
+        },
+        {
+          "item": "June, __________, August",
+          "answer": "July"
+        },
+        {
+          "item": "fifty-fifth, fifty-sixth, __________",
+          "answer": "fifty-seventh"
+        },
+        {
+          "item": "__________, April, May",
+          "answer": "March"
+        },
+        {
+          "item": "ninth, tenth, __________",
+          "answer": "eleventh"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "twentieth, __________, twenty-second",
+          "answer": "twenty-first"
+        },
+        {
+          "item": "November, December, __________",
+          "answer": "January"
+        },
+        {
+          "item": "third, fourth, __________",
+          "answer": "fifth"
+        },
+        {
+          "item": "summer, autumn, __________",
+          "answer": "winter"
+        },
+        {
+          "item": "__________, June, July",
+          "answer": "May"
+        },
+        {
+          "item": "ninety-fifth, ninety-sixth, __________",
+          "answer": "ninety-seventh"
+        },
+        {
+          "item": "February, March, __________",
+          "answer": "April"
+        },
+        {
+          "item": "seventh, __________, ninth",
+          "answer": "eighth"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "thirteenth, __________, fifteenth",
+          "answer": "fourteenth"
+        },
+        {
+          "item": "August, September, __________",
+          "answer": "October"
+        },
+        {
+          "item": "eighteenth, nineteenth, __________",
+          "answer": "twentieth"
+        },
+        {
+          "item": "winter, __________, summer",
+          "answer": "spring"
+        },
+        {
+          "item": "May, __________, July",
+          "answer": "June"
+        },
+        {
+          "item": "seventy-fifth, seventy-sixth, __________",
+          "answer": "seventy-seventh"
+        },
+        {
+          "item": "__________, August, September",
+          "answer": "July"
+        },
+        {
+          "item": "sixth, seventh, __________",
+          "answer": "eighth"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "eighteenth, __________, twentieth",
+          "answer": "nineteenth"
+        },
+        {
+          "item": "October, November, __________",
+          "answer": "December"
+        },
+        {
+          "item": "thirty-third, thirty-fourth, __________",
+          "answer": "thirty-fifth"
+        },
+        {
+          "item": "spring, summer, __________, winter",
+          "answer": "autumn"
+        },
+        {
+          "item": "__________, March, April",
+          "answer": "February"
+        },
+        {
+          "item": "first, second, __________",
+          "answer": "third"
+        },
+        {
+          "item": "June, __________, August",
+          "answer": "July"
+        },
+        {
+          "item": "sixty-first, sixty-second, __________",
+          "answer": "sixty-third"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "tenth, eleventh, __________",
+          "answer": "twelfth"
+        },
+        {
+          "item": "December, January, __________",
+          "answer": "February"
+        },
+        {
+          "item": "ninety-third, ninety-fourth, __________",
+          "answer": "ninety-fifth"
+        },
+        {
+          "item": "autumn, winter, __________, spring",
+          "answer": "spring"
+        },
+        {
+          "item": "__________, May, June",
+          "answer": "April"
+        },
+        {
+          "item": "fourth, __________, sixth",
+          "answer": "fifth"
+        },
+        {
+          "item": "September, October, __________",
+          "answer": "November"
+        },
+        {
+          "item": "twenty-seventh, twenty-eighth, __________",
+          "answer": "twenty-ninth"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "eleventh, twelfth, __________",
+          "answer": "thirteenth"
+        },
+        {
+          "item": "July, __________, September",
+          "answer": "August"
+        },
+        {
+          "item": "sixty-fifth, sixty-sixth, __________",
+          "answer": "sixty-seventh"
+        },
+        {
+          "item": "winter, __________, summer",
+          "answer": "spring"
+        },
+        {
+          "item": "March, April, __________",
+          "answer": "May"
+        },
+        {
+          "item": "fifth, __________, seventh",
+          "answer": "sixth"
+        },
+        {
+          "item": "November, __________, January",
+          "answer": "December"
+        },
+        {
+          "item": "forty-ninth, fiftieth, __________",
+          "answer": "fifty-first"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "thirty-eighth, thirty-ninth, __________",
+          "answer": "fortieth"
+        },
+        {
+          "item": "May, __________, July",
+          "answer": "June"
+        },
+        {
+          "item": "fourth, fifth, __________",
+          "answer": "sixth"
+        },
+        {
+          "item": "spring, summer, __________",
+          "answer": "autumn"
+        },
+        {
+          "item": "__________, October, November",
+          "answer": "September"
+        },
+        {
+          "item": "seventieth, seventy-first, __________",
+          "answer": "seventy-second"
+        },
+        {
+          "item": "January, February, __________",
+          "answer": "March"
+        },
+        {
+          "item": "seventh, eighth, __________",
+          "answer": "ninth"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "ninth, __________, eleventh",
+          "answer": "tenth"
+        },
+        {
+          "item": "March, April, __________",
+          "answer": "May"
+        },
+        {
+          "item": "fifty-first, fifty-second, __________",
+          "answer": "fifty-third"
+        },
+        {
+          "item": "summer, __________, winter",
+          "answer": "autumn"
+        },
+        {
+          "item": "June, July, __________",
+          "answer": "August"
+        },
+        {
+          "item": "second, __________, fourth",
+          "answer": "third"
+        },
+        {
+          "item": "__________, December, January",
+          "answer": "November"
+        },
+        {
+          "item": "one hundredth, one hundred and first, __________",
+          "answer": "one hundred and second"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "twelfth, thirteenth, __________",
+          "answer": "fourteenth"
+        },
+        {
+          "item": "April, May, __________",
+          "answer": "June"
+        },
+        {
+          "item": "forty-third, forty-fourth, __________",
+          "answer": "forty-fifth"
+        },
+        {
+          "item": "autumn, winter, __________",
+          "answer": "spring"
+        },
+        {
+          "item": "November, December, __________",
+          "answer": "January"
+        },
+        {
+          "item": "eighth, ninth, __________",
+          "answer": "tenth"
+        },
+        {
+          "item": "August, September, __________",
+          "answer": "October"
+        },
+        {
+          "item": "__________, sixty-second, sixty-third",
+          "answer": "sixty-first"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "thirtieth, __________, thirty-second",
+          "answer": "thirty-first"
+        },
+        {
+          "item": "February, __________, April",
+          "answer": "March"
+        },
+        {
+          "item": "seventy-eighth, seventy-ninth, __________",
+          "answer": "eightieth"
+        },
+        {
+          "item": "winter, __________, summer",
+          "answer": "spring"
+        },
+        {
+          "item": "September, October, __________",
+          "answer": "November"
+        },
+        {
+          "item": "fifth, sixth, __________",
+          "answer": "seventh"
+        },
+        {
+          "item": "__________, July, August",
+          "answer": "June"
+        },
+        {
+          "item": "ninety-sixth, ninety-seventh, __________",
+          "answer": "ninety-eighth"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "seventeenth, eighteenth, __________",
+          "answer": "nineteenth"
+        },
+        {
+          "item": "June, July, __________",
+          "answer": "August"
+        },
+        {
+          "item": "ninth, tenth, __________",
+          "answer": "eleventh"
+        },
+        {
+          "item": "spring, __________, autumn",
+          "answer": "summer"
+        },
+        {
+          "item": "October, November, __________",
+          "answer": "December"
+        },
+        {
+          "item": "sixty-ninth, seventieth, __________",
+          "answer": "seventy-first"
+        },
+        {
+          "item": "__________, April, May",
+          "answer": "March"
+        },
+        {
+          "item": "third, __________, fifth",
+          "answer": "fourth"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "fifth, sixth, __________",
+          "answer": "seventh"
+        },
+        {
+          "item": "November, __________, January",
+          "answer": "December"
+        },
+        {
+          "item": "forty-sixth, forty-seventh, __________",
+          "answer": "forty-eighth"
+        },
+        {
+          "item": "summer, autumn, __________",
+          "answer": "winter"
+        },
+        {
+          "item": "January, February, __________",
+          "answer": "March"
+        },
+        {
+          "item": "thirteenth, __________, fifteenth",
+          "answer": "fourteenth"
+        },
+        {
+          "item": "__________, June, July",
+          "answer": "May"
+        },
+        {
+          "item": "first, second, __________",
+          "answer": "third"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "thirty-first, thirty-second, __________",
+          "answer": "thirty-third"
+        },
+        {
+          "item": "August, __________, October",
+          "answer": "September"
+        },
+        {
+          "item": "twelfth, thirteenth, __________",
+          "answer": "fourteenth"
+        },
+        {
+          "item": "winter, spring, __________",
+          "answer": "summer"
+        },
+        {
+          "item": "April, May, __________",
+          "answer": "June"
+        },
+        {
+          "item": "ninety-first, __________, ninety-third",
+          "answer": "ninety-second"
+        },
+        {
+          "item": "October, November, __________",
+          "answer": "December"
+        },
+        {
+          "item": "fourth, fifth, __________",
+          "answer": "sixth"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "second, third, __________",
+          "answer": "fourth"
+        },
+        {
+          "item": "July, August, __________",
+          "answer": "September"
+        },
+        {
+          "item": "tenth, __________, twelfth",
+          "answer": "eleventh"
+        },
+        {
+          "item": "autumn, winter, __________",
+          "answer": "spring"
+        },
+        {
+          "item": "May, June, __________",
+          "answer": "July"
+        },
+        {
+          "item": "fifty-fifth, __________, fifty-seventh",
+          "answer": "fifty-sixth"
+        },
+        {
+          "item": "March, __________, May",
+          "answer": "April"
+        },
+        {
+          "item": "seventeenth, eighteenth, __________",
+          "answer": "nineteenth"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "eleventh, twelfth, __________",
+          "answer": "thirteenth"
+        },
+        {
+          "item": "December, __________, February",
+          "answer": "January"
+        },
+        {
+          "item": "sixty-eighth, sixty-ninth, __________",
+          "answer": "seventieth"
+        },
+        {
+          "item": "spring, __________, autumn",
+          "answer": "summer"
+        },
+        {
+          "item": "August, September, __________",
+          "answer": "October"
+        },
+        {
+          "item": "third, fourth, __________",
+          "answer": "fifth"
+        },
+        {
+          "item": "__________, April, May",
+          "answer": "March"
+        },
+        {
+          "item": "twenty-first, twenty-second, __________",
+          "answer": "twenty-third"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "fourth, fifth, __________",
+          "answer": "sixth"
+        },
+        {
+          "item": "April, __________, June",
+          "answer": "May"
+        },
+        {
+          "item": "eighty-third, eighty-fourth, __________",
+          "answer": "eighty-fifth"
+        },
+        {
+          "item": "winter, spring, __________",
+          "answer": "summer"
+        },
+        {
+          "item": "October, November, __________",
+          "answer": "December"
+        },
+        {
+          "item": "seventh, eighth, __________",
+          "answer": "ninth"
+        },
+        {
+          "item": "__________, July, August",
+          "answer": "June"
+        },
+        {
+          "item": "twelfth, __________, fourteenth",
+          "answer": "thirteenth"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "ninth, __________, eleventh",
+          "answer": "tenth"
+        },
+        {
+          "item": "January, __________, March",
+          "answer": "February"
+        },
+        {
+          "item": "twenty-fourth, twenty-fifth, __________",
+          "answer": "twenty-sixth"
+        },
+        {
+          "item": "summer, autumn, __________",
+          "answer": "winter"
+        },
+        {
+          "item": "November, December, __________",
+          "answer": "January"
+        },
+        {
+          "item": "fifty-second, fifty-third, __________",
+          "answer": "fifty-fourth"
+        },
+        {
+          "item": "May, June, __________",
+          "answer": "July"
+        },
+        {
+          "item": "third, fourth, __________",
+          "answer": "fifth"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "eighth, ninth, __________",
+          "answer": "tenth"
+        },
+        {
+          "item": "March, April, __________",
+          "answer": "May"
+        },
+        {
+          "item": "thirty-seventh, thirty-eighth, __________",
+          "answer": "thirty-ninth"
+        },
+        {
+          "item": "autumn, __________, spring",
+          "answer": "winter"
+        },
+        {
+          "item": "June, __________, August",
+          "answer": "July"
+        },
+        {
+          "item": "fifteenth, __________, seventeenth",
+          "answer": "sixteenth"
+        },
+        {
+          "item": "September, October, __________",
+          "answer": "November"
+        },
+        {
+          "item": "first, __________, third",
+          "answer": "second"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "sixth, seventh, __________",
+          "answer": "eighth"
+        },
+        {
+          "item": "December, January, __________",
+          "answer": "February"
+        },
+        {
+          "item": "fortieth, forty-first, __________",
+          "answer": "forty-second"
+        },
+        {
+          "item": "spring, summer, __________",
+          "answer": "autumn"
+        },
+        {
+          "item": "__________, March, April",
+          "answer": "February"
+        },
+        {
+          "item": "ninety-seventh, ninety-eighth, __________",
+          "answer": "ninety-ninth"
+        },
+        {
+          "item": "July, August, __________",
+          "answer": "September"
+        },
+        {
+          "item": "eleventh, __________, thirteenth",
+          "answer": "twelfth"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "6B",
+        "4C"
+      ],
+      "type": "fill_in_the_blanks_sequence",
+      "instructions": "Complete the lists.",
+      "example": {
+        "item": "twenty-fourth, twenty-fifth, twenty-sixth",
+        "answer": "twenty-seventh"
+      },
+      "qa_pairs": [
+        {
+          "item": "first, second, __________",
+          "answer": "third"
+        },
+        {
+          "item": "August, September, __________",
+          "answer": "October"
+        },
+        {
+          "item": "eighty-ninth, ninetieth, __________",
+          "answer": "ninety-first"
+        },
+        {
+          "item": "winter, __________, summer",
+          "answer": "spring"
+        },
+        {
+          "item": "May, June, __________",
+          "answer": "July"
+        },
+        {
+          "item": "fourth, fifth, __________",
+          "answer": "sixth"
+        },
+        {
+          "item": "November, __________, January",
+          "answer": "December"
+        },
+        {
+          "item": "twenty-third, twenty-fourth, __________",
+          "answer": "twenty-fifth"
+        }
+      ]
+    }
+  ]
+}
+

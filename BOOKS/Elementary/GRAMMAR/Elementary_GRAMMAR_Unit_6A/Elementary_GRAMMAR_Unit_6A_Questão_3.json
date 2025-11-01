@@ -1,0 +1,1174 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t a good book. I don’t like it.",
+      "qa_pairs": [
+        {
+          "item": "¹I like your shoes. Where did you buy __________?",
+          "answer": "them"
+        },
+        {
+          "item": "²That is Mr. Smith. __________ office is on the second floor.",
+          "answer": "His"
+        },
+        {
+          "item": "³We are late. The teacher is waiting for __________.",
+          "answer": "us"
+        },
+        {
+          "item": "⁴Is this Anna's bag? No, __________ bag is black.",
+          "answer": "her"
+        },
+        {
+          "item": "⁵My parents live in another city. I miss __________ a lot.",
+          "answer": "them"
+        },
+        {
+          "item": "⁶Could you help __________ with this box? It's heavy.",
+          "answer": "me"
+        },
+        {
+          "item": "⁷The dog is playing in the garden with __________ new ball.",
+          "answer": "its"
+        },
+        {
+          "item": "⁸You need to finish __________ report before Friday.",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Are they Scottish? Can you ask them?",
+      "qa_pairs": [
+        {
+          "item": "¹My sister loves music. This is __________ favorite CD.",
+          "answer": "her"
+        },
+        {
+          "item": "²The children are thirsty. Can you give __________ some water?",
+          "answer": "them"
+        },
+        {
+          "item": "³He is my best friend. I know __________ very well.",
+          "answer": "him"
+        },
+        {
+          "item": "⁴We bought a new car. __________ car is blue.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁵I can't find my phone. Can you call __________?",
+          "answer": "me"
+        },
+        {
+          "item": "⁶Is that your brother's coat? Please give it to __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁷This is a good book. __________ story is very interesting.",
+          "answer": "Its"
+        },
+        {
+          "item": "⁸They are from Spain. __________ accents are beautiful.",
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That’s my phone! Give it to me.",
+      "qa_pairs": [
+        {
+          "item": "¹That's Peter's bicycle. __________ bicycle is new.",
+          "answer": "His"
+        },
+        {
+          "item": "²She is very kind. Everyone likes __________.",
+          "answer": "her"
+        },
+        {
+          "item": "³Can you see those birds? __________ feathers are so colorful.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁴My team is playing now. Let's go and support __________.",
+          "answer": "us"
+        },
+        {
+          "item": "⁵Excuse me, this is __________ seat.",
+          "answer": "my"
+        },
+        {
+          "item": "⁶The cat is cute. I want to take a picture of __________.",
+          "answer": "it"
+        },
+        {
+          "item": "⁷I don't know those people. Do you know __________?",
+          "answer": "them"
+        },
+        {
+          "item": "⁸He called you yesterday. Did you talk to __________?",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: We’re friends. You like me and I like you.",
+      "qa_pairs": [
+        {
+          "item": "¹Our teacher is very patient. She always helps __________.",
+          "answer": "us"
+        },
+        {
+          "item": "²My friends are coming over. I need to clean __________ room.",
+          "answer": "my"
+        },
+        {
+          "item": "³Laura is not here. I think this is __________ notebook.",
+          "answer": "her"
+        },
+        {
+          "item": "⁴Look at my new watch. My father gave __________ to me.",
+          "answer": "it"
+        },
+        {
+          "item": "⁵He speaks very fast. I can't understand __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁶The students are in the library. This is __________ study time.",
+          "answer": "their"
+        },
+        {
+          "item": "⁷Are you going to the party? I'll see __________ there.",
+          "answer": "you"
+        },
+        {
+          "item": "⁸The company is growing. __________ new logo is very modern.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: He likes Anita, but he doesn’t love her.",
+      "qa_pairs": [
+        {
+          "item": "¹These are my parents. __________ names are John and Mary.",
+          "answer": "Their"
+        },
+        {
+          "item": "²Please be quiet. The baby is sleeping and I don't want to wake __________.",
+          "answer": "her"
+        },
+        {
+          "item": "³This is a secret between you and __________.",
+          "answer": "me"
+        },
+        {
+          "item": "⁴What do you think of my new haircut? Do you like __________?",
+          "answer": "it"
+        },
+        {
+          "item": "⁵My brother works in a bank. I sometimes have lunch with __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁶You and your family are invited. We want __________ to come.",
+          "answer": "you"
+        },
+        {
+          "item": "⁷Our neighbors are noisy. I can hear __________ every night.",
+          "answer": "them"
+        },
+        {
+          "item": "⁸Is this your wallet? No, __________ wallet is brown.",
+          "answer": "my"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t your car. It’s his car.",
+      "qa_pairs": [
+        {
+          "item": "¹Tom is a doctor. __________ hospital is near here.",
+          "answer": "His"
+        },
+        {
+          "item": "²I love these flowers. I'm going to put __________ in a vase.",
+          "answer": "them"
+        },
+        {
+          "item": "³She told __________ a funny story yesterday.",
+          "answer": "me"
+        },
+        {
+          "item": "⁴We have a problem with our computer. Can you fix __________ for us?",
+          "answer": "it"
+        },
+        {
+          "item": "⁵My friends live in London. I visit __________ every year.",
+          "answer": "them"
+        },
+        {
+          "item": "⁶This is not our classroom. __________ classroom is number 12.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁷Listen to Maria. __________ voice is amazing.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁸Did you see Mark? I have a message for __________.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Can you help me? I can’t do my homework.",
+      "qa_pairs": [
+        {
+          "item": "¹The students did a great job. The teacher is proud of __________.",
+          "answer": "them"
+        },
+        {
+          "item": "²Where is your sister? I need to ask __________ a question.",
+          "answer": "her"
+        },
+        {
+          "item": "³This isn't my coffee. __________ coffee has sugar in it.",
+          "answer": "My"
+        },
+        {
+          "item": "⁴They have a beautiful house. I love __________ garden.",
+          "answer": "their"
+        },
+        {
+          "item": "⁵My husband and I are going on vacation. A friend is joining __________.",
+          "answer": "us"
+        },
+        {
+          "item": "⁶Look at that dog! __________ tail is so long.",
+          "answer": "Its"
+        },
+        {
+          "item": "⁷He is my new boss. I need to speak with __________ now.",
+          "answer": "him"
+        },
+        {
+          "item": "⁸I like your ideas. Can you explain __________ to me?",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That isn’t their house. They don’t live in this street.",
+      "qa_pairs": [
+        {
+          "item": "¹She has two brothers. __________ brothers are both older than her.",
+          "answer": "Her"
+        },
+        {
+          "item": "²We need to buy tickets. Can you buy __________ online?",
+          "answer": "them"
+        },
+        {
+          "item": "³This is for my father. It's a birthday present for __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁴Where are you? I can't see __________.",
+          "answer": "you"
+        },
+        {
+          "item": "⁵My favorite band is playing tonight. I love __________ music.",
+          "answer": "their"
+        },
+        {
+          "item": "⁶The soup is hot. Be careful when you eat __________.",
+          "answer": "it"
+        },
+        {
+          "item": "⁷I have a new camera. Let __________ take a picture of you.",
+          "answer": "me"
+        },
+        {
+          "item": "⁸We are a team. __________ goal is to win the championship.",
+          "answer": "Our"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: We don’t speak Russian. They can’t understand us.",
+      "qa_pairs": [
+        {
+          "item": "¹My grandparents are very active. __________ hobbies are gardening and swimming.",
+          "answer": "Their"
+        },
+        {
+          "item": "²I met your cousin yesterday. I really liked __________ a lot.",
+          "answer": "her"
+        },
+        {
+          "item": "³Could you lend __________ your pen for a minute?",
+          "answer": "me"
+        },
+        {
+          "item": "⁴He is looking for his keys. He can't find __________ anywhere.",
+          "answer": "them"
+        },
+        {
+          "item": "⁵The hotel is fantastic. __________ rooms are very comfortable.",
+          "answer": "Its"
+        },
+        {
+          "item": "⁶That boy fell off his bike. We should go and help __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁷Our children are at school. We pick __________ up at 4 PM.",
+          "answer": "them"
+        },
+        {
+          "item": "⁸This isn't my umbrella. __________ umbrella is blue and yellow.",
+          "answer": "My"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t a good book. I don’t like it.",
+      "qa_pairs": [
+        {
+          "item": "¹He is an author. I have read all of __________ books.",
+          "answer": "his"
+        },
+        {
+          "item": "²My sister called me. I need to call __________ back.",
+          "answer": "her"
+        },
+        {
+          "item": "³These are my new colleagues. I work with __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁴We have a new project. __________ boss explained it to us.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁵The phone is ringing. Can you answer __________?",
+          "answer": "it"
+        },
+        {
+          "item": "⁶This package is for you. A delivery person left __________ on the porch.",
+          "answer": "it"
+        },
+        {
+          "item": "⁷Is that your car? No, __________ car is parked over there.",
+          "answer": "my"
+        },
+        {
+          "item": "⁸The students have an exam tomorrow. We wish __________ good luck.",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Are they Scottish? Can you ask them?",
+      "qa_pairs": [
+        {
+          "item": "¹I have two cats. __________ names are Luna and Simba.",
+          "answer": "Their"
+        },
+        {
+          "item": "²Can you tell __________ the time, please?",
+          "answer": "me"
+        },
+        {
+          "item": "³She is wearing a beautiful dress. __________ dress is red.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁴My brother is sick. The doctor is visiting __________ now.",
+          "answer": "him"
+        },
+        {
+          "item": "⁵These cookies are delicious. Did you make __________ yourself?",
+          "answer": "them"
+        },
+        {
+          "item": "⁶Our flight is delayed. We have to wait for __________.",
+          "answer": "it"
+        },
+        {
+          "item": "⁷The children are playing outside. I can hear __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁸We are lost. Can you show __________ the way on the map?",
+          "answer": "us"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That’s my phone! Give it to me.",
+      "qa_pairs": [
+        {
+          "item": "¹He dropped his phone. Luckily, he didn't break __________.",
+          "answer": "it"
+        },
+        {
+          "item": "²My sister is a great cook. __________ pasta is the best.",
+          "answer": "Her"
+        },
+        {
+          "item": "³Those are my friends from Canada. I am so happy to see __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁴Could you take a photo of __________, please?",
+          "answer": "us"
+        },
+        {
+          "item": "⁵That is David's house. __________ house is the one with the red door.",
+          "answer": "His"
+        },
+        {
+          "item": "⁶I don't have a pen. Can I borrow __________ pen?",
+          "answer": "your"
+        },
+        {
+          "item": "⁷The team lost the game, but __________ effort was amazing.",
+          "answer": "their"
+        },
+        {
+          "item": "⁸Sarah is my neighbor. I sometimes talk to __________ in the elevator.",
+          "answer": "her"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: We’re friends. You like me and I like you.",
+      "qa_pairs": [
+        {
+          "item": "¹I don't like this movie. __________ plot is boring.",
+          "answer": "Its"
+        },
+        {
+          "item": "²We have a message for you. My mom wants to talk to __________.",
+          "answer": "you"
+        },
+        {
+          "item": "³My grandparents live far away. We visit __________ once a year.",
+          "answer": "them"
+        },
+        {
+          "item": "⁴This is a picture of my family. That is __________ on the left.",
+          "answer": "me"
+        },
+        {
+          "item": "⁵He is a famous actor. I saw __________ on TV last night.",
+          "answer": "him"
+        },
+        {
+          "item": "⁶She has a new car. __________ car is an electric one.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁷The students are quiet. __________ teacher gave them a test.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁸Our dog is very friendly. It loves when people play with __________.",
+          "answer": "it"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: He likes Anita, but he doesn’t love her.",
+      "qa_pairs": [
+        {
+          "item": "¹This is my favorite painting. I love __________ colors.",
+          "answer": "its"
+        },
+        {
+          "item": "²Where is your mom? I have a gift for __________.",
+          "answer": "her"
+        },
+        {
+          "item": "³My friends and I are going to a concert. __________ tickets are already bought.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁴Those are my keys. Can you pass __________ to me?",
+          "answer": "them"
+        },
+        {
+          "item": "⁵He is a talented musician. I love listening to __________ play the piano.",
+          "answer": "him"
+        },
+        {
+          "item": "⁶They built a new house. __________ new house is very big.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁷I'm looking for my glasses. I can't find __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁸This is our project. We need __________ help to finish it.",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t your car. It’s his car.",
+      "qa_pairs": [
+        {
+          "item": "¹My brother is an engineer. __________ job is very demanding.",
+          "answer": "His"
+        },
+        {
+          "item": "²The city is beautiful. I want to explore all of __________ streets.",
+          "answer": "its"
+        },
+        {
+          "item": "³She wrote a book. I am reading __________ now.",
+          "answer": "it"
+        },
+        {
+          "item": "⁴We are having a party. We want to invite all of __________.",
+          "answer": "you"
+        },
+        {
+          "item": "⁵My parents are not home. I will call __________ later.",
+          "answer": "them"
+        },
+        {
+          "item": "⁶He is my classmate. I sit next to __________ in class.",
+          "answer": "him"
+        },
+        {
+          "item": "⁷This is my new dress. My sister gave __________ to me.",
+          "answer": "it"
+        },
+        {
+          "item": "⁸They are my cousins. __________ family lives in Australia.",
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Can you help me? I can’t do my homework.",
+      "qa_pairs": [
+        {
+          "item": "¹She has a lovely cat. I love to play with __________.",
+          "answer": "it"
+        },
+        {
+          "item": "²Where are my shoes? I can't see __________.",
+          "answer": "them"
+        },
+        {
+          "item": "³Our teacher gave __________ a lot of homework.",
+          "answer": "us"
+        },
+        {
+          "item": "⁴That is Julia's pencil. Can you give it to __________?",
+          "answer": "her"
+        },
+        {
+          "item": "⁵They are watching a movie. __________ movie is a comedy.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁶I need to talk to you. Can I call __________ later?",
+          "answer": "you"
+        },
+        {
+          "item": "⁷He is a good student. __________ grades are always high.",
+          "answer": "His"
+        },
+        {
+          "item": "⁸This is for my friends. It is a present for __________.",
+          "answer": "them"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That isn’t their house. They don’t live in this street.",
+      "qa_pairs": [
+        {
+          "item": "¹We live on a busy street. __________ street has many shops.",
+          "answer": "Our"
+        },
+        {
+          "item": "²He is my uncle. I am going to visit __________ this weekend.",
+          "answer": "him"
+        },
+        {
+          "item": "³These are my sister's children. She loves __________ very much.",
+          "answer": "them"
+        },
+        {
+          "item": "⁴The restaurant is famous for __________ pizza.",
+          "answer": "its"
+        },
+        {
+          "item": "⁵I have a question. Can I ask __________ something?",
+          "answer": "you"
+        },
+        {
+          "item": "⁶She is a writer. __________ new book is a bestseller.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁷I don't have any money on __________.",
+          "answer": "me"
+        },
+        {
+          "item": "⁸The team celebrated __________ victory all night.",
+          "answer": "their"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: We don’t speak Russian. They can’t understand us.",
+      "qa_pairs": [
+        {
+          "item": "¹Look at the car. __________ color is bright red.",
+          "answer": "Its"
+        },
+        {
+          "item": "²My friends are waiting for me. I need to meet __________.",
+          "answer": "them"
+        },
+        {
+          "item": "³He is a famous chef. I tried __________ new recipe.",
+          "answer": "his"
+        },
+        {
+          "item": "⁴This is a message for my parents. Please give __________ to them.",
+          "answer": "it"
+        },
+        {
+          "item": "⁵She is my dentist. I have an appointment with __________ tomorrow.",
+          "answer": "her"
+        },
+        {
+          "item": "⁶We are going to the beach. Do you want to come with __________?",
+          "answer": "us"
+        },
+        {
+          "item": "⁷The students must do __________ homework.",
+          "answer": "their"
+        },
+        {
+          "item": "⁸Can you repeat that? I didn't hear __________.",
+          "answer": "you"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t a good book. I don’t like it.",
+      "qa_pairs": [
+        {
+          "item": "¹My brother has a new apartment. I'm helping __________ move.",
+          "answer": "him"
+        },
+        {
+          "item": "²This is a photo of my dog. __________ name is Rocky.",
+          "answer": "His"
+        },
+        {
+          "item": "³She bought new curtains. She is going to hang __________ today.",
+          "answer": "them"
+        },
+        {
+          "item": "⁴I am writing a letter to my grandma. I miss __________.",
+          "answer": "her"
+        },
+        {
+          "item": "⁵Our vacation was wonderful. We enjoyed __________ very much.",
+          "answer": "it"
+        },
+        {
+          "item": "⁶They are our neighbors. We like __________ a lot.",
+          "answer": "them"
+        },
+        {
+          "item": "⁷We have a new teacher. __________ new teacher is from Ireland.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁸Please give __________ your phone number.",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Are they Scottish? Can you ask them?",
+      "qa_pairs": [
+        {
+          "item": "¹They have three children. __________ children go to the local school.",
+          "answer": "Their"
+        },
+        {
+          "item": "²He loves cars. __________ dream is to own a sports car.",
+          "answer": "His"
+        },
+        {
+          "item": "³Can you see that woman? I think I know __________.",
+          "answer": "her"
+        },
+        {
+          "item": "⁴We have a test next week. Our teacher is helping __________ prepare.",
+          "answer": "us"
+        },
+        {
+          "item": "⁵This is a great song. Let's listen to __________ again.",
+          "answer": "it"
+        },
+        {
+          "item": "⁶My keys are in my pocket. I can feel __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁷I need your advice. Can I ask __________ a question?",
+          "answer": "you"
+        },
+        {
+          "item": "⁸The museum is famous. __________ collection is priceless.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That’s my phone! Give it to me.",
+      "qa_pairs": [
+        {
+          "item": "¹The company gave __________ a holiday bonus.",
+          "answer": "us"
+        },
+        {
+          "item": "²She has a beautiful voice. Everyone loves to hear __________ sing.",
+          "answer": "her"
+        },
+        {
+          "item": "³I have a bike. __________ bike is red.",
+          "answer": "My"
+        },
+        {
+          "item": "⁴He is my cousin. I am going to the movies with __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁵The flowers are for my mother. I will give __________ to her.",
+          "answer": "them"
+        },
+        {
+          "item": "⁶The students are happy with __________ grades.",
+          "answer": "their"
+        },
+        {
+          "item": "⁷Look at the building. __________ architecture is amazing.",
+          "answer": "Its"
+        },
+        {
+          "item": "⁸I forgot my wallet. Can you lend __________ some money?",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: We’re friends. You like me and I like you.",
+      "qa_pairs": [
+        {
+          "item": "¹He is an artist. __________ paintings are very famous.",
+          "answer": "His"
+        },
+        {
+          "item": "²My parents are traveling. I will see __________ next month.",
+          "answer": "them"
+        },
+        {
+          "item": "³This is my favorite chair. I love sitting on __________.",
+          "answer": "it"
+        },
+        {
+          "item": "⁴She is my teacher. I learn a lot from __________.",
+          "answer": "her"
+        },
+        {
+          "item": "⁵We are going to a party. Our friends invited __________.",
+          "answer": "us"
+        },
+        {
+          "item": "⁶Where are the children? __________ toys are all over the floor.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁷This is a difficult exercise. Can you explain __________ to me?",
+          "answer": "it"
+        },
+        {
+          "item": "⁸Is this your book? I thought it was __________ book.",
+          "answer": "my"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: He likes Anita, but he doesn’t love her.",
+      "qa_pairs": [
+        {
+          "item": "¹My sister has a new job. She loves __________.",
+          "answer": "it"
+        },
+        {
+          "item": "²They are my colleagues. I have a meeting with __________ later.",
+          "answer": "them"
+        },
+        {
+          "item": "³He is a great cook. I love __________ food.",
+          "answer": "his"
+        },
+        {
+          "item": "⁴She is not feeling well. I am worried about __________.",
+          "answer": "her"
+        },
+        {
+          "item": "⁵We need to clean the house. __________ parents are coming to visit.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁶Look at my new phone. __________ camera is fantastic.",
+          "answer": "Its"
+        },
+        {
+          "item": "⁷I don't know the answer. Can you tell __________?",
+          "answer": "me"
+        },
+        {
+          "item": "⁸The students are excited about __________ school trip.",
+          "answer": "their"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t your car. It’s his car.",
+      "qa_pairs": [
+        {
+          "item": "¹He is my best friend's brother. I have never met __________.",
+          "answer": "him"
+        },
+        {
+          "item": "²This is my car. __________ car is not very new.",
+          "answer": "My"
+        },
+        {
+          "item": "³She loves animals. __________ dream is to be a veterinarian.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁴I bought some apples. Can you put __________ in the fridge?",
+          "answer": "them"
+        },
+        {
+          "item": "⁵Our neighbors are very kind. They often help __________.",
+          "answer": "us"
+        },
+        {
+          "item": "⁶I like your jacket. Where did you get __________?",
+          "answer": "it"
+        },
+        {
+          "item": "⁷They are a famous band. I have all of __________ albums.",
+          "answer": "their"
+        },
+        {
+          "item": "⁸He needs help. Let's go and see what __________ wants.",
+          "answer": "he"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Can you help me? I can’t do my homework.",
+      "qa_pairs": [
+        {
+          "item": "¹The letter is for my parents. I need to give it to __________.",
+          "answer": "them"
+        },
+        {
+          "item": "²We have a new dog. __________ dog is very playful.",
+          "answer": "Our"
+        },
+        {
+          "item": "³She is an excellent driver. I feel safe with __________.",
+          "answer": "her"
+        },
+        {
+          "item": "⁴He forgot his lunch. I will take it to __________.",
+          "answer": "him"
+        },
+        {
+          "item": "⁵What do you think of my idea? Is __________ a good one?",
+          "answer": "it"
+        },
+        {
+          "item": "⁶I need to talk to my boss. Where is __________ office?",
+          "answer": "his"
+        },
+        {
+          "item": "⁷They are my favorite team. I always support __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁸This is my new address. Please send all __________ letters here.",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That isn’t their house. They don’t live in this street.",
+      "qa_pairs": [
+        {
+          "item": "¹That is my sister's cat. __________ name is Whiskers.",
+          "answer": "Its"
+        },
+        {
+          "item": "²He is my brother. My parents are very proud of __________.",
+          "answer": "him"
+        },
+        {
+          "item": "³She is wearing a beautiful necklace. It was a gift from __________ grandmother.",
+          "answer": "her"
+        },
+        {
+          "item": "⁴I like these songs. Can you send __________ to me?",
+          "answer": "them"
+        },
+        {
+          "item": "⁵Our car broke down. A mechanic is fixing __________ for us.",
+          "answer": "it"
+        },
+        {
+          "item": "⁶They are architects. __________ designs are very modern.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁷We are going to the library. Do you want to join __________?",
+          "answer": "us"
+        },
+        {
+          "item": "⁸This is for you. I hope __________ like it.",
+          "answer": "you"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: We don’t speak Russian. They can’t understand us.",
+      "qa_pairs": [
+        {
+          "item": "¹I have a new computer. My father bought __________ for me.",
+          "answer": "it"
+        },
+        {
+          "item": "²She is a talented dancer. I love watching __________.",
+          "answer": "her"
+        },
+        {
+          "item": "³He is a police officer. __________ job is very dangerous.",
+          "answer": "His"
+        },
+        {
+          "item": "⁴They are my guests. I have to prepare dinner for __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁵We are planning a trip. __________ destination is Italy.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁶The children are noisy. Can you ask __________ to be quiet?",
+          "answer": "them"
+        },
+        {
+          "item": "⁷This is my favorite mug. Please be careful with __________.",
+          "answer": "it"
+        },
+        {
+          "item": "⁸Can you give __________ some advice?",
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: It isn’t a good book. I don’t like it.",
+      "qa_pairs": [
+        {
+          "item": "¹They have a big family. __________ house is always full.",
+          "answer": "Their"
+        },
+        {
+          "item": "²He is our coach. We all respect __________ very much.",
+          "answer": "him"
+        },
+        {
+          "item": "³That is Maria's dress. __________ mother made it for her.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁴I bought new books. I can't wait to read __________.",
+          "answer": "them"
+        },
+        {
+          "item": "⁵Our cat is very old. __________ fur is white.",
+          "answer": "Its"
+        },
+        {
+          "item": "⁶The director wants to see us. She has a new project for __________.",
+          "answer": "us"
+        },
+        {
+          "item": "⁷Where is your homework? Did you bring __________?",
+          "answer": "it"
+        },
+        {
+          "item": "⁸She is waiting for her friend. She is meeting __________ at the cafe.",
+          "answer": "him"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: Are they Scottish? Can you ask them?",
+      "qa_pairs": [
+        {
+          "item": "¹We love our grandparents. We write letters to __________ every month.",
+          "answer": "them"
+        },
+        {
+          "item": "²He is a famous singer. I have tickets to see __________ in concert.",
+          "answer": "him"
+        },
+        {
+          "item": "³This is my sister's room. __________ room is always tidy.",
+          "answer": "Her"
+        },
+        {
+          "item": "⁴I have a new recipe. Do you want to try __________?",
+          "answer": "it"
+        },
+        {
+          "item": "⁵They are very good students. __________ teacher praises them often.",
+          "answer": "Their"
+        },
+        {
+          "item": "⁶The package is heavy. Can you help __________ carry it?",
+          "answer": "me"
+        },
+        {
+          "item": "⁷She has a beautiful garden. I admire __________ flowers.",
+          "answer": "her"
+        },
+        {
+          "item": "⁸The team is ready for the match. __________ are very confident.",
+          "answer": "They"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with me / my, you / your, him / his , etc.",
+      "example": "Example: That’s my phone! Give it to me.",
+      "qa_pairs": [
+        {
+          "item": "¹He is a pilot. __________ job takes him all over the world.",
+          "answer": "His"
+        },
+        {
+          "item": "²My friends are here. I'm so happy to see __________.",
+          "answer": "them"
+        },
+        {
+          "item": "³The city is known for __________ historical monuments.",
+          "answer": "its"
+        },
+        {
+          "item": "⁴She is my role model. I look up to __________.",
+          "answer": "her"
+        },
+        {
+          "item": "⁵We need to talk. Can you meet __________ in five minutes?",
+          "answer": "us"
+        },
+        {
+          "item": "⁶These are my paintings. Do you like __________?",
+          "answer": "them"
+        },
+        {
+          "item": "⁷This is our new house. __________ house has a small garden.",
+          "answer": "Our"
+        },
+        {
+          "item": "⁸They are lost. We should give __________ directions.",
+          "answer": "them"
+        }
+      ]
+    }
+  ]
+}

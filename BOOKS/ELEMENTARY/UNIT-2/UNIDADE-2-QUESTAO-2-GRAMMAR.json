@@ -1,0 +1,1174 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "I'm worried about the test. ___________ worry!",
+          "answer": "DON'T"
+        },
+        {
+          "item": "I'm cold. ___________ close the window.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ attention to the teacher.",
+          "answer": "PAY"
+        },
+        {
+          "item": "___________ late! Be / Are / Is",
+          "answer": "BE"
+        },
+        {
+          "item": "It's noisy. ___________ turn the TV off.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "We need to talk. ___________ me.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "I’m hungry. ___________ stop at the café.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ my pizza! Don’t eat / No eat / Eat not",
+          "answer": "DON'T EAT"
+        },
+        {
+          "item": "___________ quiet, children!",
+          "answer": "BE"
+        },
+        {
+          "item": "Please ___________ your car here. don’t park / no park / not to park",
+          "answer": "DON'T PARK"
+        },
+        {
+          "item": "___________ turn the radio on.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ to me.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ late! The meeting starts at 9 a.m. Don’t be / Be not / Not be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "We are tired. ___________ go home.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "It's a secret. ___________ anyone! Tell not / Don’t tell / To tell not",
+          "answer": "DON'T TELL"
+        },
+        {
+          "item": "___________ the door, please.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "I am thirsty. ___________ buy a drink.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "This is important. ___________ carefully.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "The light is red. ___________ stop here.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ fast! Slow down! Drive not / Don’t drive / No drive",
+          "answer": "DON'T DRIVE"
+        },
+        {
+          "item": "I can’t hear. ___________ louder.",
+          "answer": "SPEAK"
+        },
+        {
+          "item": "___________ home now.",
+          "answer": "GO"
+        },
+        {
+          "item": "We need help. ___________ ask the teacher.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the new vocabulary.",
+          "answer": "WRITE"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the window! It’s cold! Open not / Don’t open / No opening",
+          "answer": "DON'T OPEN"
+        },
+        {
+          "item": "We are bored. ___________ watch a movie.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ up, please.",
+          "answer": "STAND"
+        },
+        {
+          "item": "I don't understand. ___________ again, please.",
+          "answer": "REPEAT"
+        },
+        {
+          "item": "___________ to the music.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "It’s too hot. ___________ open the window.",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ talking! We need silence. Stop / To stop / Stopping",
+          "answer": "STOP"
+        },
+        {
+          "item": "I feel stressed. ___________ go for a walk.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your keys. Find / Finding / To find",
+          "answer": "FIND"
+        },
+        {
+          "item": "___________ the coffee! It's mine. Don't touch / No touch / Not to touch",
+          "answer": "DON'T TOUCH"
+        },
+        {
+          "item": "The book is boring. ___________ read a magazine.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ careful! Be / Are / Is",
+          "answer": "BE"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the lights off.",
+          "answer": "TURN"
+        },
+        {
+          "item": "It's late. ___________ rush! Not rush / Don’t rush / No rushing",
+          "answer": "DON'T RUSH"
+        },
+        {
+          "item": "We need a pen. ___________ me one. Please lend / Lend me / You lend",
+          "answer": "LEND"
+        },
+        {
+          "item": "___________ the TV on.",
+          "answer": "TURN"
+        },
+        {
+          "item": "The weather is nice. ___________ go outside.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your name at the top of the paper.",
+          "answer": "WRITE"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the noise!",
+          "answer": "STOP"
+        },
+        {
+          "item": "I’m cold. ___________ turn the heating on.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ my secret. Don't tell / No tell / Not to tell",
+          "answer": "DON'T TELL"
+        },
+        {
+          "item": "___________ your keys.",
+          "answer": "FIND"
+        },
+        {
+          "item": "___________ the exercise now.",
+          "answer": "DO"
+        },
+        {
+          "item": "We are going to be late. ___________ go faster.",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the TV off! Don’t turn / No turn / Not turn",
+          "answer": "DON'T TURN"
+        },
+        {
+          "item": "I’m tired. ___________ rest for five minutes.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ to the new song.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "___________ fast! The road is dangerous. Drive not / Don't drive / No driving",
+          "answer": "DON'T DRIVE"
+        },
+        {
+          "item": "We need a decision. ___________ decide now.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the new rule. Remember / Remembering / To remember",
+          "answer": "REMEMBER"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ a sandwich.",
+          "answer": "EAT"
+        },
+        {
+          "item": "We are cold. ___________ turn up the heating.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ about the problem. Don’t worry / No worry / Not worry",
+          "answer": "DON'T WORRY"
+        },
+        {
+          "item": "___________ your name.",
+          "answer": "SPELL"
+        },
+        {
+          "item": "I need help. ___________ ask a friend.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the door.",
+          "answer": "CLOSE"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ quiet! The baby is sleeping.",
+          "answer": "BE"
+        },
+        {
+          "item": "___________ a cup of tea.",
+          "answer": "MAKE"
+        },
+        {
+          "item": "We need to study. ___________ open the books.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ angry! Don't be / Be not / Not to be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "___________ the message.",
+          "answer": "READ"
+        },
+        {
+          "item": "It’s a great idea. ___________ do it!",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ fast! The police are here. Drive not / Don’t drive / No drive",
+          "answer": "DON'T DRIVE"
+        },
+        {
+          "item": "___________ your mobile off.",
+          "answer": "TURN"
+        },
+        {
+          "item": "I am stressed. ___________ have a holiday.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the truth!",
+          "answer": "TELL"
+        },
+        {
+          "item": "___________ late! You missed the beginning. Don’t be / Be not / Not be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "The sun is out. ___________ go to the park.",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the new words in your notebook.",
+          "answer": "WRITE"
+        },
+        {
+          "item": "I'm tired. ___________ go to bed early.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your keys! Don’t lose / No losing / Not lose",
+          "answer": "DON'T LOSE"
+        },
+        {
+          "item": "___________ on the sofa.",
+          "answer": "SIT"
+        },
+        {
+          "item": "The exercise is difficult. ___________ ask for help.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ talking!",
+          "answer": "STOP"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ to the end of the line.",
+          "answer": "GO"
+        },
+        {
+          "item": "___________ your money! Don't spend / No spending / Not to spend",
+          "answer": "DON'T SPEND"
+        },
+        {
+          "item": "We are hungry. ___________ buy sandwiches.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ to me when I speak.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "___________ the door and come in.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the TV on.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ about the exam. Don’t worry / No worry / Not to worry",
+          "answer": "DON'T WORRY"
+        },
+        {
+          "item": "I'm bored. ___________ go to the cinema.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ quiet! The children are asleep.",
+          "answer": "BE"
+        },
+        {
+          "item": "___________ the window.",
+          "answer": "CLOSE"
+        },
+        {
+          "item": "I'm thirsty. ___________ buy a bottle of water.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your work now.",
+          "answer": "START"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ late! Be not / Don’t be / Not to be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "We need practice. ___________ do Exercise 3.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the new word.",
+          "answer": "SPELL"
+        },
+        {
+          "item": "___________ in here! No smoking / Don't smoke / Not smoke",
+          "answer": "DON'T SMOKE"
+        },
+        {
+          "item": "I'm hot. ___________ open the window.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the question. Answer / Answering / To answer",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the lights off when you leave.",
+          "answer": "TURN"
+        },
+        {
+          "item": "I’m tired. ___________ have a short nap.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ down, please.",
+          "answer": "SIT"
+        },
+        {
+          "item": "___________ my bag! Don’t touch / No touching / Not to touch",
+          "answer": "DON'T TOUCH"
+        },
+        {
+          "item": "We are cold. ___________ turn the volume up.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your name at the top of the paper.",
+          "answer": "WRITE"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "I'm stressed. ___________ take a break.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ to the audio file.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "___________ this difficult exercise. Don't do / No do / Not to do",
+          "answer": "DON'T DO"
+        },
+        {
+          "item": "___________ quiet! The lecture is starting.",
+          "answer": "BE"
+        },
+        {
+          "item": "It's time for lunch. ___________ stop work now.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the door open.",
+          "answer": "LEAVE"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your work with me.",
+          "answer": "SHARE"
+        },
+        {
+          "item": "___________ about the small problem. Don't worry / No worry / Not worry",
+          "answer": "DON'T WORRY"
+        },
+        {
+          "item": "We need a dictionary. ___________ use the online one.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the mistake.",
+          "answer": "CORRECT"
+        },
+        {
+          "item": "I'm hungry. ___________ eat a sandwich.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the door closed.",
+          "answer": "KEEP"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your keys! Don’t forget / No forget / Not to forget",
+          "answer": "DON'T FORGET"
+        },
+        {
+          "item": "___________ the verb 'go'.",
+          "answer": "SPELL"
+        },
+        {
+          "item": "It’s raining. ___________ take your umbrella.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ down! The music is too loud.",
+          "answer": "TURN"
+        },
+        {
+          "item": "___________ the question correctly.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "We are here. ___________ start the lesson.",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the book to page 15.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ late for the interview. Don’t be / Be not / Not to be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "We need a decision. ___________ vote.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ to your partner.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "I’m bored. ___________ go to the gym.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the exercise now!",
+          "answer": "DO"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ talking! It's too noisy.",
+          "answer": "STOP"
+        },
+        {
+          "item": "I'm hot. ___________ drink cold water.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your name on the board.",
+          "answer": "WRITE"
+        },
+        {
+          "item": "___________ that movie! It's terrible. Don't watch / No watch / Not to watch",
+          "answer": "DON'T WATCH"
+        },
+        {
+          "item": "We need to go. ___________ hurry!",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the book. Close / Closing / To close",
+          "answer": "CLOSE"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the paper over.",
+          "answer": "TURN"
+        },
+        {
+          "item": "___________ tired! You need to sleep. Don’t be / Be not / Not to be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "I'm stressed. ___________ relax for five minutes.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the question from the book.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "___________ me! I have an idea.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "We are ready. ___________ start the game.",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the instructions.",
+          "answer": "READ"
+        },
+        {
+          "item": "We have finished. ___________ go home.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the question! No answering / Don't answer / Not to answer",
+          "answer": "DON'T ANSWER"
+        },
+        {
+          "item": "___________ your pen.",
+          "answer": "USE"
+        },
+        {
+          "item": "I’m thirsty. ___________ drink something.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ fast! Slow down. Drive not / Don’t drive / No driving",
+          "answer": "DON'T DRIVE"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ quiet, please.",
+          "answer": "BE"
+        },
+        {
+          "item": "It’s a long journey. ___________ stop for coffee.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your phone in class. Don’t use / No use / Not to use",
+          "answer": "DON'T USE"
+        },
+        {
+          "item": "___________ the instructions again.",
+          "answer": "READ"
+        },
+        {
+          "item": "I'm cold. ___________ turn the volume down.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ your name.",
+          "answer": "SPELL"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the door open.",
+          "answer": "LEAVE"
+        },
+        {
+          "item": "We need to talk. ___________ meet tomorrow.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the book! It’s dirty. Don’t touch / No touch / Not to touch",
+          "answer": "DON'T TOUCH"
+        },
+        {
+          "item": "___________ the lights on.",
+          "answer": "TURN"
+        },
+        {
+          "item": "___________ the exercise now.",
+          "answer": "DO"
+        },
+        {
+          "item": "I am worried. ___________ be calm.",
+          "answer": "BE"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ me! I need help.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "We are tired. ___________ rest now.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the answer.",
+          "answer": "WRITE"
+        },
+        {
+          "item": "___________ the window! It's too noisy. Don’t open / No open / Not to open",
+          "answer": "DON'T OPEN"
+        },
+        {
+          "item": "___________ the lights on.",
+          "answer": "TURN"
+        },
+        {
+          "item": "___________ fast! Slow down. Drive not / Don't drive / No driving",
+          "answer": "DON'T DRIVE"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the verb 'come'.",
+          "answer": "SPELL"
+        },
+        {
+          "item": "I’m hungry. ___________ eat outside.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the question! Don’t ask / No asking / Not to ask",
+          "answer": "DON'T ASK"
+        },
+        {
+          "item": "___________ to the previous page.",
+          "answer": "GO"
+        },
+        {
+          "item": "We are ready. ___________ begin.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ the door.",
+          "answer": "CLOSE"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the noise!",
+          "answer": "STOP"
+        },
+        {
+          "item": "I’m thirsty. ___________ buy drinks.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ to the Grammar Bank.",
+          "answer": "GO"
+        },
+        {
+          "item": "___________ me! I can't see.",
+          "answer": "LOOK AT"
+        },
+        {
+          "item": "___________ late! Don’t be / Be not / Not to be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "We need practice. ___________ do the writing task.",
+          "answer": "LET'S"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word or phrase from the list: DON'T, LET'S, PAY, BE, LISTEN, WRITE, GO, OPEN, CLOSE, DO, TURN, STOP, STAND, SPEAK, MAKE, TELL, DRIVE, ANSWER, READ, USE, KEEP, SHARE, CORRECT, FORGET, ASK.",
+      "example": {
+        "item": "Turn left here. Turn to / Turn we / Turn",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your mobile off.",
+          "answer": "TURN"
+        },
+        {
+          "item": "I’m cold. ___________ close the door.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ tired! You must finish the work. Don’t be / Be not / Not to be",
+          "answer": "DON'T BE"
+        },
+        {
+          "item": "___________ me the paper.",
+          "answer": "GIVE"
+        },
+        {
+          "item": "We need help. ___________ ask the supervisor.",
+          "answer": "LET'S"
+        },
+        {
+          "item": "___________ about the mistake. Don’t worry / No worry / Not worry",
+          "answer": "DON'T WORRY"
+        }
+      ]
+    }
+  ]
+}

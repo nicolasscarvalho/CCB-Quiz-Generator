@@ -1,0 +1,934 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The c _ _ _ _ is a large string instrument you play sitting down.",
+          "answer": "cello"
+        },
+        {
+          "item": "²He writes the s _ _ _ s for a famous singer.",
+          "answer": "songs"
+        },
+        {
+          "item": "³A v _ _ _ _ _ _ t is a musician who plays the violin.",
+          "answer": "violinist"
+        },
+        {
+          "item": "⁴The DJ played a great b _ _ t and everyone danced.",
+          "answer": "beat"
+        },
+        {
+          "item": "⁵She is the lead g _ _ _ _ _ _ _ t in the band.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "⁶They are going to a jazz c _ _ _ b tonight.",
+          "answer": "club"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The band plays on a s _ _ _ e during a concert.",
+          "answer": "stage"
+        },
+        {
+          "item": "²A t _ _ _ _ _ _ _ r is someone who plays the trumpet.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "³Rock and roll is a popular music g _ _ _ e.",
+          "answer": "genre"
+        },
+        {
+          "item": "⁴She sings soprano in the c _ _ _ _.",
+          "answer": "choir"
+        },
+        {
+          "item": "⁵The b _ _ _ guitar has four strings.",
+          "answer": "bass"
+        },
+        {
+          "item": "⁶He is a c _ _ _ _ _ _ r of classical music.",
+          "answer": "composer"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The d _ _ _ _ _ r uses sticks to play.",
+          "answer": "drummer"
+        },
+        {
+          "item": "²They are going to a music f _ _ _ _ _ _ _ l this summer.",
+          "answer": "festival"
+        },
+        {
+          "item": "³He can p _ _ y three different instruments.",
+          "answer": "play"
+        },
+        {
+          "item": "⁴The s _ _ _ p _ _ _ e is often heard in jazz.",
+          "answer": "saxophone"
+        },
+        {
+          "item": "⁵She has all the albums of her favorite a _ _ _ _ t.",
+          "answer": "artist"
+        },
+        {
+          "item": "⁶The o _ _ _ _ _ _ _ _ played a beautiful symphony.",
+          "answer": "orchestra"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹A violin is a s _ _ _ _ g instrument.",
+          "answer": "string"
+        },
+        {
+          "item": "²She is a famous pop s _ _ _.",
+          "answer": "star"
+        },
+        {
+          "item": "³The c _ _ _ _ _ _ _ _ r directs the musicians.",
+          "answer": "conductor"
+        },
+        {
+          "item": "⁴Do you know the l _ _ _ _ s to this song?",
+          "answer": "lyrics"
+        },
+        {
+          "item": "⁵He plays the t _ _ _ _ _ _ _ _ e in the brass band.",
+          "answer": "trombone"
+        },
+        {
+          "item": "⁶The audience clapped to the r _ _ _ _ m of the music.",
+          "answer": "rhythm"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The sound of the f _ _ _ e is very delicate.",
+          "answer": "flute"
+        },
+        {
+          "item": "²A small group of musicians is a b _ _ d.",
+          "answer": "band"
+        },
+        {
+          "item": "³She is the b _ _ _ _ _ t for a rock group.",
+          "answer": "bassist"
+        },
+        {
+          "item": "⁴My favorite singer has a beautiful v _ _ _ e.",
+          "answer": "voice"
+        },
+        {
+          "item": "⁵They are looking for a k _ _ _ _ _ _ d player.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "⁶The show is at the city's concert h _ _ _.",
+          "answer": "hall"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹She is the lead v _ _ _ _ _ _ t in a new pop group.",
+          "answer": "vocalist"
+        },
+        {
+          "item": "²The sound of a t _ _ _ _ _ _ can be very powerful.",
+          "answer": "trumpet"
+        },
+        {
+          "item": "³Do you know the c _ _ _ _ s to this song on the guitar?",
+          "answer": "chords"
+        },
+        {
+          "item": "⁴He is a very famous s _ _ _ _ r from Brazil.",
+          "answer": "singer"
+        },
+        {
+          "item": "⁵The a _ _ _ m has twelve new songs.",
+          "answer": "album"
+        },
+        {
+          "item": "⁶The p _ _ _ _ _ _ t played a beautiful melody.",
+          "answer": "pianist"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹He plays the electric g _ _ _ _ r in a rock band.",
+          "answer": "guitar"
+        },
+        {
+          "item": "²The d _ _ m solo was amazing.",
+          "answer": "drum"
+        },
+        {
+          "item": "³She is learning to play a s _ _ _ _ g instrument, the violin.",
+          "answer": "string"
+        },
+        {
+          "item": "⁴They need a new b _ _ _ _ _ t for their group.",
+          "answer": "bassist"
+        },
+        {
+          "item": "⁵The concert was sold out, so we couldn't get a t _ _ _ _ t.",
+          "answer": "ticket"
+        },
+        {
+          "item": "⁶The c _ _ _ _ sang beautifully during the ceremony.",
+          "answer": "choir"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The s _ _ _ p _ _ _ _ is made of brass and has a curved shape.",
+          "answer": "saxophone"
+        },
+        {
+          "item": "²My favorite a _ _ _ _ t just released a new song.",
+          "answer": "artist"
+        },
+        {
+          "item": "³The band will play on a big s _ _ _ e tonight.",
+          "answer": "stage"
+        },
+        {
+          "item": "⁴He is the c _ _ _ _ _ _ r of a famous symphony orchestra.",
+          "answer": "conductor"
+        },
+        {
+          "item": "⁵I like listening to music on my h _ _ _ _ _ _ _ _ s.",
+          "answer": "headphones"
+        },
+        {
+          "item": "⁶The song has a very catchy t _ _ e.",
+          "answer": "tune"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The f _ _ _ e is a woodwind instrument.",
+          "answer": "flute"
+        },
+        {
+          "item": "²The song's l _ _ _ _ s are very poetic.",
+          "answer": "lyrics"
+        },
+        {
+          "item": "³They are looking for a d _ _ _ _ _ r who can play fast rhythms.",
+          "answer": "drummer"
+        },
+        {
+          "item": "⁴He is a c _ _ _ _ _ _ r who writes music for movies.",
+          "answer": "composer"
+        },
+        {
+          "item": "⁵The symphony o _ _ _ _ _ _ _ _ has many musicians.",
+          "answer": "orchestra"
+        },
+        {
+          "item": "⁶They went to a pop c _ _ _ _ t at the stadium.",
+          "answer": "concert"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The c _ _ _ _ is a large instrument played with a bow.",
+          "answer": "cello"
+        },
+        {
+          "item": "²That song was a number one h _ t last year.",
+          "answer": "hit"
+        },
+        {
+          "item": "³The r _ _ _ _ m of this music makes you want to dance.",
+          "answer": "rhythm"
+        },
+        {
+          "item": "⁴He plays the k _ _ _ _ _ _ d in an 80s tribute band.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "⁵She has a beautiful v _ _ _ e for singing opera.",
+          "answer": "voice"
+        },
+        {
+          "item": "⁶They are going to a jazz f _ _ _ _ _ _ _ l in New Orleans.",
+          "answer": "festival"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹A famous musician is often called a rock s _ _ _.",
+          "answer": "star"
+        },
+        {
+          "item": "²The v _ _ _ _ n is smaller than a cello.",
+          "answer": "violin"
+        },
+        {
+          "item": "³He is a talented c _ _ _ _ _ _ r of movie soundtracks.",
+          "answer": "composer"
+        },
+        {
+          "item": "⁴The b _ _ _ is a small group of musicians.",
+          "answer": "band"
+        },
+        {
+          "item": "⁵The main part of a song that is repeated is the c _ _ _ _ s.",
+          "answer": "chorus"
+        },
+        {
+          "item": "⁶The concert is at the city's new music h _ _ _.",
+          "answer": "hall"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹She plays the t _ _ _ _ _ _ _ _ e in a brass band.",
+          "answer": "trombone"
+        },
+        {
+          "item": "²The s _ _ g is very popular on the radio right now.",
+          "answer": "song"
+        },
+        {
+          "item": "³He needs a new set of s _ _ _ _ _ s for his guitar.",
+          "answer": "strings"
+        },
+        {
+          "item": "⁴The d _ _ _ _ _ r is the heart of the band's rhythm.",
+          "answer": "drummer"
+        },
+        {
+          "item": "⁵They are practicing for the school's music c _ _ _ _ _ t.",
+          "answer": "concert"
+        },
+        {
+          "item": "⁶My favorite music g _ _ _ e is reggae.",
+          "answer": "genre"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The c _ _ _ _ _ _ _ _ r raised his baton to start the music.",
+          "answer": "conductor"
+        },
+        {
+          "item": "²The p _ _ _ _ has black and white keys.",
+          "answer": "piano"
+        },
+        {
+          "item": "³The singer has a powerful v _ _ _ e.",
+          "answer": "voice"
+        },
+        {
+          "item": "⁴He is the b _ _ _ _ _ t for a famous funk group.",
+          "answer": "bassist"
+        },
+        {
+          "item": "⁵The sound of the f _ _ _ e is light and airy.",
+          "answer": "flute"
+        },
+        {
+          "item": "⁶The lyrics of a song are also called its w _ _ _ s.",
+          "answer": "words"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The s _ _ _ p _ _ _ e is a key instrument in jazz.",
+          "answer": "saxophone"
+        },
+        {
+          "item": "²She is a famous a _ _ _ _ t who designs her own album covers.",
+          "answer": "artist"
+        },
+        {
+          "item": "³The o _ _ _ _ _ _ _ _ will perform a symphony by Beethoven.",
+          "answer": "orchestra"
+        },
+        {
+          "item": "⁴You need a t _ _ _ _ t to enter the music festival.",
+          "answer": "ticket"
+        },
+        {
+          "item": "⁵He is the lead g _ _ _ _ _ _ _ t and also sings.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "⁶The song has a simple, beautiful m _ _ _ _ y.",
+          "answer": "melody"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹They are looking for a new d _ _ m kit for the studio.",
+          "answer": "drum"
+        },
+        {
+          "item": "²He plays the electronic k _ _ _ _ _ _ d.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "³The song was a number one h _ t in the 90s.",
+          "answer": "hit"
+        },
+        {
+          "item": "⁴The c _ _ _ _ sings in four-part harmony.",
+          "answer": "choir"
+        },
+        {
+          "item": "⁵They will play on a giant s _ _ _ e at the festival.",
+          "answer": "stage"
+        },
+        {
+          "item": "⁶She is a famous p _ _ _ _ _ t from Poland.",
+          "answer": "pianist"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The lead s _ _ _ _ r of the band has a great voice.",
+          "answer": "singer"
+        },
+        {
+          "item": "²A c _ _ _ _ s is a repeating section of a song with the same music and lyrics.",
+          "answer": "chorus"
+        },
+        {
+          "item": "³The v _ _ _ _ n _ _ _ played a beautiful solo.",
+          "answer": "violinist"
+        },
+        {
+          "item": "⁴They are going to a jazz c _ _ _ _ _ _ tonight.",
+          "answer": "concert"
+        },
+        {
+          "item": "⁵The b _ _ _ guitar provides the low-end rhythm.",
+          "answer": "bass"
+        },
+        {
+          "item": "⁶He is learning to play the t _ _ _ _ _ t.",
+          "answer": "trumpet"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The symphony o _ _ _ _ _ _ _ _ performed last night.",
+          "answer": "orchestra"
+        },
+        {
+          "item": "²She writes the l _ _ _ _ s for all her own songs.",
+          "answer": "lyrics"
+        },
+        {
+          "item": "³He is a very skilled g _ _ _ _ _ _ _ t.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "⁴The d _ _ m beat is very easy to dance to.",
+          "answer": "drum"
+        },
+        {
+          "item": "⁵This song was a big h _ t in the summer of 2005.",
+          "answer": "hit"
+        },
+        {
+          "item": "⁶The c _ _ _ _ is like a very large violin.",
+          "answer": "cello"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹A person who plays the piano is a p _ _ _ _ _ t.",
+          "answer": "pianist"
+        },
+        {
+          "item": "²They formed a rock b _ _ _ when they were in college.",
+          "answer": "band"
+        },
+        {
+          "item": "³The c _ _ _ _ _ _ _ _ r guided the musicians with a baton.",
+          "answer": "conductor"
+        },
+        {
+          "item": "⁴The f _ _ _ e has a very sweet and high-pitched sound.",
+          "answer": "flute"
+        },
+        {
+          "item": "⁵The music f _ _ _ _ _ _ _ l lasts for three days.",
+          "answer": "festival"
+        },
+        {
+          "item": "⁶She has a beautiful v _ _ _ e for singing.",
+          "answer": "voice"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The k _ _ _ _ _ _ d player created a cool electronic sound.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "²My favorite music g _ _ _ e is classical music.",
+          "answer": "genre"
+        },
+        {
+          "item": "³The s _ _ _ p _ _ _ _ solo in this jazz song is famous.",
+          "answer": "saxophone"
+        },
+        {
+          "item": "⁴The band's new a _ _ _ m is their best one yet.",
+          "answer": "album"
+        },
+        {
+          "item": "⁵He is the b _ _ _ _ _ t of the band.",
+          "answer": "bassist"
+        },
+        {
+          "item": "⁶The m _ _ _ _ y of the song is very memorable.",
+          "answer": "melody"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The famous rock s _ _ _ played for a huge audience.",
+          "answer": "star"
+        },
+        {
+          "item": "²She sings in the church c _ _ _ _ every Sunday.",
+          "answer": "choir"
+        },
+        {
+          "item": "³The t _ _ _ _ _ _ _ _ e is a brass instrument.",
+          "answer": "trombone"
+        },
+        {
+          "item": "⁴You play the drums with d _ _ _ _ _ _ _ _ _ s.",
+          "answer": "drumsticks"
+        },
+        {
+          "item": "⁵The song has a very simple r _ _ _ _ m.",
+          "answer": "rhythm"
+        },
+        {
+          "item": "⁶The band will be on s _ _ _ e in five minutes.",
+          "answer": "stage"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹A violin is a type of s _ _ _ _ g instrument.",
+          "answer": "string"
+        },
+        {
+          "item": "²He wrote the m _ _ _ c for a famous film.",
+          "answer": "music"
+        },
+        {
+          "item": "³The v _ _ _ _ _ _ t is the main singer in the group.",
+          "answer": "vocalist"
+        },
+        {
+          "item": "⁴They need a new t _ _ _ _ _ _ _ r for the jazz band.",
+          "answer": "trumpeter"
+        },
+        {
+          "item": "⁵The c _ _ _ _ s of the song is easy to sing along to.",
+          "answer": "chorus"
+        },
+        {
+          "item": "⁶The g _ _ _ _ r is a popular instrument for rock music.",
+          "answer": "guitar"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The band's d _ _ _ _ _ r is known for his fast solos.",
+          "answer": "drummer"
+        },
+        {
+          "item": "²You need a t _ _ _ _ t to see the show.",
+          "answer": "ticket"
+        },
+        {
+          "item": "³The b _ _ _ player keeps the low rhythm.",
+          "answer": "bass"
+        },
+        {
+          "item": "⁴This is my favorite s _ _ g on the album.",
+          "answer": "song"
+        },
+        {
+          "item": "⁵The p _ _ _ _ has 88 black and white keys.",
+          "answer": "piano"
+        },
+        {
+          "item": "⁶The c _ _ _ _ _ _ t plays the cello.",
+          "answer": "cellist"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The c _ _ _ _ _ _ _ _ r guided the orchestra.",
+          "answer": "conductor"
+        },
+        {
+          "item": "²They went to a big music f _ _ _ _ _ _ _ l last weekend.",
+          "answer": "festival"
+        },
+        {
+          "item": "³The t _ _ _ _ _ _ _ _ e player stood up for his solo.",
+          "answer": "trombone"
+        },
+        {
+          "item": "⁴She has a clear and powerful v _ _ _ e.",
+          "answer": "voice"
+        },
+        {
+          "item": "⁵The o _ _ _ _ _ _ _ _ includes strings, brass, and woodwind instruments.",
+          "answer": "orchestra"
+        },
+        {
+          "item": "⁶The s _ _ _ p _ _ _ _ is a popular instrument in blues music.",
+          "answer": "saxophone"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The band's first a _ _ _ m was a huge success.",
+          "answer": "album"
+        },
+        {
+          "item": "²She is a famous pop a _ _ _ _ t.",
+          "answer": "artist"
+        },
+        {
+          "item": "³The l _ _ _ _ s of the song tell a sad story.",
+          "answer": "lyrics"
+        },
+        {
+          "item": "⁴They performed on a circular s _ _ _ e in the middle of the stadium.",
+          "answer": "stage"
+        },
+        {
+          "item": "⁵He is the g _ _ _ _ _ _ _ t and songwriter for the band.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "⁶The f _ _ _ e is a member of the woodwind family.",
+          "answer": "flute"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The c _ _ _ _ meets for practice on Tuesday nights.",
+          "answer": "choir"
+        },
+        {
+          "item": "²He plays the k _ _ _ _ _ _ d and uses many electronic sounds.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "³That song was a number one h _ t around the world.",
+          "answer": "hit"
+        },
+        {
+          "item": "⁴A v _ _ _ _ n _ _ _ plays the violin.",
+          "answer": "violinist"
+        },
+        {
+          "item": "⁵The r _ _ _ _ m of the drums makes me want to tap my feet.",
+          "answer": "rhythm"
+        },
+        {
+          "item": "⁶Classical music is a very old g _ _ _ e.",
+          "answer": "genre"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹A b _ _ d is a group of people who play music together.",
+          "answer": "band"
+        },
+        {
+          "item": "²The p _ _ _ _ _ t played a beautiful classical piece.",
+          "answer": "pianist"
+        },
+        {
+          "item": "³Rock is a popular g _ _ _ e of music.",
+          "answer": "genre"
+        },
+        {
+          "item": "⁴The sound of the c _ _ _ o is deep and rich.",
+          "answer": "cello"
+        },
+        {
+          "item": "⁵The s _ _ _ was a big hit on the radio.",
+          "answer": "song"
+        },
+        {
+          "item": "⁶The t _ _ _ _ _ _ player is part of the brass section.",
+          "answer": "trumpet"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The v _ _ _ _ _ _ _ _ played with great skill and emotion.",
+          "answer": "violinist"
+        },
+        {
+          "item": "²The a _ _ _ m contains ten new tracks.",
+          "answer": "album"
+        },
+        {
+          "item": "³The d _ _ _ _ _ _ set the rhythm for the whole band.",
+          "answer": "drummer"
+        },
+        {
+          "item": "⁴I love the simple m _ _ _ _ y of that folk song.",
+          "answer": "melody"
+        },
+        {
+          "item": "⁵The g _ _ _ _ _ _ _ t had a solo in the middle of the song.",
+          "answer": "guitarist"
+        },
+        {
+          "item": "⁶They went to see their favorite band in c _ _ _ _ _ _.",
+          "answer": "concert"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The s _ _ _ p _ _ _ _ is often used in jazz and blues music.",
+          "answer": "saxophone"
+        },
+        {
+          "item": "²The c _ _ _ _ _ _ _ _ r leads the symphony orchestra.",
+          "answer": "conductor"
+        },
+        {
+          "item": "³She is a famous opera s _ _ _ _ _.",
+          "answer": "singer"
+        },
+        {
+          "item": "⁴The f _ _ _ _ is a woodwind instrument.",
+          "answer": "flute"
+        },
+        {
+          "item": "⁵The b _ _ _ guitarist plays a four-string instrument.",
+          "answer": "bass"
+        },
+        {
+          "item": "⁶The l _ _ _ _ s of the song are very meaningful.",
+          "answer": "lyrics"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The lead singer has a very strong v _ _ _ _.",
+          "answer": "voice"
+        },
+        {
+          "item": "²The t _ _ _ _ _ _ _ _ e is a long, sliding brass instrument.",
+          "answer": "trombone"
+        },
+        {
+          "item": "³The music f _ _ _ _ _ _ _ l attracts thousands of people.",
+          "answer": "festival"
+        },
+        {
+          "item": "⁴A c _ _ _ _ is a group of people who sing together.",
+          "answer": "choir"
+        },
+        {
+          "item": "⁵He is a famous rock s _ _ _.",
+          "answer": "star"
+        },
+        {
+          "item": "⁶The band performed on a big s _ _ _ _ with many lights.",
+          "answer": "stage"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the words.",
+      "example": "Judith plays the piano. She’s a p i a n i s t .",
+      "qa_pairs": [
+        {
+          "item": "¹The o _ _ _ _ _ _ _ _ has musicians playing violins, cellos, and trumpets.",
+          "answer": "orchestra"
+        },
+        {
+          "item": "²A violin is a s _ _ _ _ g instrument.",
+          "answer": "string"
+        },
+        {
+          "item": "³The song has a fast r _ _ _ _ m.",
+          "answer": "rhythm"
+        },
+        {
+          "item": "⁴The k _ _ _ _ _ _ d can make many different sounds.",
+          "answer": "keyboard"
+        },
+        {
+          "item": "⁵She is a talented a _ _ _ _ t who also paints.",
+          "answer": "artist"
+        },
+        {
+          "item": "⁶A song that is very popular is called a h _ _.",
+          "answer": "hit"
+        }
+      ]
+    }
+  ]
+}

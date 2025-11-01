@@ -1,0 +1,395 @@
+{
+  "questions": [
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "Jane is my brothers’ / brother’s wife.",
+      "items": [
+        {"item": "1 That’s my parents / parents’ house.","answer": "parents’"},
+        {"item": "2 He’s my teachers’ / teacher’s husband.","answer": "teacher’s"},
+        {"item": "3 I like James but I don’t like James’s / Jame’s friend.","answer": "James’s"},
+        {"item": "4 Who’s / Whose phone is this?","answer": "Whose"},
+        {"item": "5 It’s Sergio’s / Sergios’ pen.","answer": "Sergio’s"},
+        {"item": "6 These are my children’s / childrens’ books.","answer": "children’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "This is the dog’s / dogs’ favorite toy.",
+      "items": [
+        {"item": "1 My sister’s / sisters’ name is Olivia.","answer": "sister’s"},
+        {"item": "2 The company is proud of its / it’s employees.","answer": "its"},
+        {"item": "3 Are those the boys’ / boy’s bicycles?","answer": "boys’"},
+        {"item": "4 Who’s / Whose going to the cinema tonight?","answer": "Who’s"},
+        {"item": "5 We visited St. Paul’s / St. Pauls’ Cathedral.","answer": "St. Paul’s"},
+        {"item": "6 The men’s / mens’ changing room is over there.","answer": "men’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "Who’s / Whose jacket is this?",
+      "items": [
+        {"item": "1 It’s / Its a lovely day for a walk.","answer": "It’s"},
+        {"item": "2 This is my boss’s / bosses’ new car.","answer": "boss’s"},
+        {"item": "3 The two countries’ / country’s flags are very similar.","answer": "countries’"},
+        {"item": "4 I can’t find the cat; I think its / it’s hiding.","answer": "it’s"},
+        {"item": "5 Is this Beatriz’s / Beatrize’s notebook?","answer": "Beatriz’s"},
+        {"item": "6 The sheep’s / sheeps’ wool is very thick.","answer": "sheep’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "These are the students’ / student’s desks.",
+      "items": [
+        {"item": "1 My doctor’s / doctors’ office is near here.","answer": "doctor’s"},
+        {"item": "2 Who’s / Whose book is on the floor?","answer": "Whose"},
+        {"item": "3 The team’s / teams’ victory was well-deserved.","answer": "team’s"},
+        {"item": "4 Are these the ladies’ / ladie’s hats?","answer": "ladies’"},
+        {"item": "5 I borrowed Chris’s / Chris’ book.","answer": "Chris’s"},
+        {"item": "6 The people’s / peoples’ choice was clear.","answer": "people’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "My son’s / sons’ toys are everywhere.",
+      "items": [
+        {"item": "1 The cat hurt its / it’s paw.","answer": "its"},
+        {"item": "2 That is my friend’s / friends’ new bicycle.","answer": "friend’s"},
+        {"item": "3 Who’s / Whose going to answer the phone?","answer": "Who’s"},
+        {"item": "4 This is my bosses / boss’s chair.","answer": "boss’s"},
+        {"item": "5 All the players’ / player’s uniforms are clean.","answer": "players’"},
+        {"item": "6 The women’s / womens’ meeting is at 3 p.m.","answer": "women’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "Where is the manager’s / managers’ office?",
+      "items": [
+        {"item": "1 It’s / Its time to go home.","answer": "It’s"},
+        {"item": "2 The baby’s / babies’ toys are in the box.","answer": "baby’s"},
+        {"item": "3 Whose / Who’s your favorite actor?","answer": "Who’s"},
+        {"item": "4 My grandparents’ / grandparent’s house is very old.","answer": "grandparents’"},
+        {"item": "5 That was the actress’s / actresses most famous role.","answer": "actress’s"},
+        {"item": "6 I need to fix the table’s / tables’ leg.","answer": "table’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The car’s / cars’ engine is loud.",
+      "items": [
+        {"item": "1 This is Mr. Jones’s / Mr. Jone’s house.","answer": "Mr. Jones’s"},
+        {"item": "2 The horse is swishing its / it’s tail.","answer": "its"},
+        {"item": "3 Who’s / Whose turn is it to wash the dishes?","answer": "Whose"},
+        {"item": "4 My three brothers’ / brother’s room is always messy.","answer": "brothers’"},
+        {"item": "5 It’s / Its not easy to learn a new language.","answer": "It’s"},
+        {"item": "6 The mice’s / mices’ cheese is gone.","answer": "mice’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "This is my wife’s / wifes’ favorite book.",
+      "items": [
+        {"item": "1 The business’s / businesses’ success is remarkable.","answer": "business’s"},
+        {"item": "2 Who’s / Whose ready for an adventure?","answer": "Who’s"},
+        {"item": "3 The girls’ / girl’s laughter filled the room.","answer": "girls’"},
+        {"item": "4 The phone lost its / it’s signal.","answer": "its"},
+        {"item": "5 This is my mother-in-law’s / mother-in-laws’ recipe.","answer": "mother-in-law’s"},
+        {"item": "6 The geese’s / geeses’ migration is a beautiful sight.","answer": "geese’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The city’s / cities’ streets are crowded.",
+      "items": [
+        {"item": "1 It’s / Its amazing how fast time flies.","answer": "It’s"},
+        {"item": "2 We have to respect other people’s / peoples’ opinions.","answer": "people’s"},
+        {"item": "3 Whose / Who’s that person talking to Maria?","answer": "Who’s"},
+        {"item": "4 The witness’s / witnesses’ testimony was crucial.","answer": "witness’s"},
+        {"item": "5 My two cats’ / cat’s toys are all over the floor.","answer": "cats’"},
+        {"item": "6 This is an old photo of my grandpa’s / grandpas’ family.","answer": "grandpa’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "I can’t find my dog’s / dogs’ leash.",
+      "items": [
+        {"item": "1 This is the student’s / students’ lounge.","answer": "students’"},
+        {"item": "2 The book is famous for its / it’s clever plot.","answer": "its"},
+        {"item": "3 Who’s / Whose pencil is this on my desk?","answer": "Whose"},
+        {"item": "4 The princess’s / princesses’ dress was beautiful.","answer": "princess’s"},
+        {"item": "5 It’s / Its a secret, so don’t tell anyone.","answer": "It’s"},
+        {"item": "6 My uncle’s / uncles’ farm is in the countryside.","answer": "uncle’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The children’s / childrens’ laughter is contagious.",
+      "items": [
+        {"item": "1 This is my colleague’s / colleagues’ project.","answer": "colleague’s"},
+        {"item": "2 Who’s / Whose responsible for this mess?","answer": "Who’s"},
+        {"item": "3 The lion protects its / it’s cubs.","answer": "its"},
+        {"item": "4 Both drivers’ / driver’s licenses were checked.","answer": "drivers’"},
+        {"item": "5 I read a book by Dickens’s / Dickens’ last month.","answer": "Dickens’s"},
+        {"item": "6 The woman’s / women’s club meets on Tuesdays.","answer": "women’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "That is my parents’ / parent’s car.",
+      "items": [
+        {"item": "1 It’s / Its my pleasure to help you.","answer": "It’s"},
+        {"item": "2 Whose / Who’s car is parked in the driveway?","answer": "Whose"},
+        {"item": "3 The class’s / classes’ final exam is next week.","answer": "class’s"},
+        {"item": "4 The earth revolves on its / it’s axis.","answer": "its"},
+        {"item": "5 My neighbors’ / neighbor’s dog barks all night.","answer": "neighbor’s"},
+        {"item": "6 The tooth’s / teeth’s enamel is very strong.","answer": "tooth’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The baby’s / babies’ room is painted blue.",
+      "items": [
+        {"item": "1 Who’s / Whose knocking on the door?","answer": "Who’s"},
+        {"item": "2 This is Mr. and Mrs. Smith’s / Smiths’ house.","answer": "Smith’s"},
+        {"item": "3 The tree lost all of its / it’s leaves.","answer": "its"},
+        {"item": "4 The firemen’s / firemens’ bravery is admirable.","answer": "firemen’s"},
+        {"item": "5 My aunt’s / aunts’ garden is beautiful.","answer": "aunt’s"},
+        {"item": "6 The two companies’ / company’s merger was announced yesterday.","answer": "companies’"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "It’s / Its a long way to the city center.",
+      "items": [
+        {"item": "1 Whose / Who’s your best friend?","answer": "Who’s"},
+        {"item": "2 The artist’s / artists’ paintings are famous worldwide.","answer": "artist’s"},
+        {"item": "3 The bird built its / it’s nest in our tree.","answer": "its"},
+        {"item": "4 The bus’s / buses’ schedule has changed.","answer": "bus’s"},
+        {"item": "5 All the secretaries’ / secretary’s desks are organized.","answer": "secretaries’"},
+        {"item": "6 I found someone’s / someones’ wallet on the street.","answer": "someone’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The team’s / teams’ coach is very experienced.",
+      "items": [
+        {"item": "1 Who’s / Whose idea was it to go camping?","answer": "Whose"},
+        {"item": "2 It’s / Its important to be on time.","answer": "It’s"},
+        {"item": "3 The elephant raised its / it’s trunk.","answer": "its"},
+        {"item": "4 This is my brother-in-law’s / brothers-in-law’s car.","answer": "brother-in-law’s"},
+        {"item": "5 The jury’s / juries’ decision was unanimous.","answer": "jury’s"},
+        {"item": "6 The oxen’s / oxens’ yoke was heavy.","answer": "oxen’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "My dog hurt its / it’s leg.",
+      "items": [
+        {"item": "1 Who’s / Whose been eating my porridge?","answer": "Who’s"},
+        {"item": "2 The ship’s / ships’ crew worked hard.","answer": "ship’s"},
+        {"item": "3 My two daughters’ / daughter’s bedroom is pink.","answer": "daughters’"},
+        {"item": "4 The computer restarted on its / it’s own.","answer": "its"},
+        {"item": "5 That is Lucas’s / Lucas’ new guitar.","answer": "Lucas’s"},
+        {"item": "6 The fish’s / fishes’ scales were shiny.","answer": "fish’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The girls’ / girl’s dresses are beautiful.",
+      "items": [
+        {"item": "1 It’s / Its a shame you can’t come.","answer": "It’s"},
+        {"item": "2 This is the baker’s / bakers’ shop.","answer": "baker’s"},
+        {"item": "3 Whose / Who’s that standing by the window?","answer": "Who’s"},
+        {"item": "4 The army’s / armies’ strategy was effective.","answer": "army’s"},
+        {"item": "5 The building lost power in its / it’s main office.","answer": "its"},
+        {"item": "6 The police officer’s / officers’ duty is to protect.","answer": "officer’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "Who’s / Whose keys are these?",
+      "items": [
+        {"item": "1 The library has a large children’s / childrens’ section.","answer": "children’s"},
+        {"item": "2 The planet’s / planets’ atmosphere is thin.","answer": "planet’s"},
+        {"item": "3 It’s / Its not what it looks like.","answer": "It’s"},
+        {"item": "4 The wolf and its / it’s pack hunted together.","answer": "its"},
+        {"item": "5 My parents’ / parent’s wedding anniversary is today.","answer": "parents’"},
+        {"item": "6 This is my friend Luis’s / Luis’ new apartment.","answer": "Luis’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The waitress’s / waitresses’ apron was dirty.",
+      "items": [
+        {"item": "1 Who’s / Whose going to drive us home?","answer": "Who’s"},
+        {"item": "2 The two teams’ / team’s rivalry is famous.","answer": "teams’"},
+        {"item": "3 The government announced its / it’s new policy.","answer": "its"},
+        {"item": "4 The school’s / schools’ rules must be followed.","answer": "school’s"},
+        {"item": "5 It’s / Its a fact that the earth is round.","answer": "It’s"},
+        {"item": "6 The foot’s / feet’s arches support the body.","answer": "foot’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The musicians’ / musician’s instruments were ready.",
+      "items": [
+        {"item": "1 Whose / Who’s book did you borrow?","answer": "Whose"},
+        {"item": "2 The baby bird fell out of its / it’s nest.","answer": "its"},
+        {"item": "3 My cousin’s / cousins’ house is by the lake.","answer": "cousin’s"},
+        {"item": "4 The CEO’s / CEOs’ decision was final.","answer": "CEO’s"},
+        {"item": "5 It’s / Its always cold in this room.","answer": "It’s"},
+        {"item": "6 The deer’s / deers’ antlers are impressive.","answer": "deer’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "This is the captain’s / captains’ chair.",
+      "items": [
+        {"item": "1 Who’s / Whose making all that noise?","answer": "Who’s"},
+        {"item": "2 The flower is losing its / it’s petals.","answer": "its"},
+        {"item": "3 The Joneses’ / Jones’s house is the one with the red door.","answer": "Joneses’"},
+        {"item": "4 The writers’ / writer’s conference is next month.","answer": "writers’"},
+        {"item": "5 It’s / Its a pleasure to meet you.","answer": "It’s"},
+        {"item": "6 The mouse’s / mouses’ tail is very long.","answer": "mouse’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The editor’s / editors’ job is to check for mistakes.",
+      "items": [
+        {"item": "1 Whose / Who’s pencil case is this?","answer": "Whose"},
+        {"item": "2 The restaurant is famous for its / it’s pasta.","answer": "its"},
+        {"item": "3 The pilot’s / pilots’ announcement was reassuring.","answer": "pilot’s"},
+        {"item": "4 It’s / Its too late to apologize.","answer": "It’s"},
+        {"item": "5 The soldiers’ / soldier’s bravery was honored.","answer": "soldiers’"},
+        {"item": "6 This is my sister-in-law’s / sisters-in-law’s new car.","answer": "sister-in-law’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The lion’s / lions’ roar is powerful.",
+      "items": [
+        {"item": "1 Who’s / Whose been using my computer?","answer": "Who’s"},
+        {"item": "2 The hotel prides itself on its / it’s service.","answer": "its"},
+        {"item": "3 The Williamses’ / Williams’s family is very friendly.","answer": "Williamses’"},
+        {"item": "4 The author’s / authors’ new book is a bestseller.","answer": "author’s"},
+        {"item": "5 It’s / Its a good idea to save money.","answer": "It’s"},
+        {"item": "6 The goose’s / gooses’ feathers are white.","answer": "goose’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The lawyers’ / lawyer’s arguments were convincing.",
+      "items": [
+        {"item": "1 Whose / Who’s that singer on the radio?","answer": "Who’s"},
+        {"item": "2 The storm is at its / it’s peak.","answer": "its"},
+        {"item": "3 The dentist’s / dentists’ office is closed on Sundays.","answer": "dentist’s"},
+        {"item": "4 It’s / Its your turn to play.","answer": "It’s"},
+        {"item": "5 The two families’ / family’s houses are next to each other.","answer": "families’"},
+        {"item": "6 I read an article about the prince’s / princes’ life.","answer": "prince’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The country’s / countries’ economy is growing.",
+      "items": [
+        {"item": "1 Whose / Who’s jacket is this on the chair?","answer": "Whose"},
+        {"item": "2 The dog wagged its / it’s tail happily.","answer": "its"},
+        {"item": "3 The president’s / presidents’ speech was broadcast live.","answer": "president’s"},
+        {"item": "4 It’s / Its a long story.","answer": "It’s"},
+        {"item": "5 The factory’s / factories’ workers went on strike.","answer": "factory’s"},
+        {"item": "6 The person’s / people’s belongings were returned.","answer": "person’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The church’s / churches’ bells rang loudly.",
+      "items": [
+        {"item": "1 Who’s / Whose going to help me with this?","answer": "Who’s"},
+        {"item": "2 The board made its / it’s decision this morning.","answer": "its"},
+        {"item": "3 The ladies’ / lady’s restroom is on the right.","answer": "ladies’"},
+        {"item": "4 It’s / Its wonderful to see you again.","answer": "It’s"},
+        {"item": "5 The hero’s / heroes’ journey is a common story theme.","answer": "hero’s"},
+        {"item": "6 My two sons’ / son’s room is upstairs.","answer": "sons’"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The moon’s / moons’ glow lit up the night sky.",
+      "items": [
+        {"item": "1 Whose / Who’s the new student in our class?","answer": "Who’s"},
+        {"item": "2 The orchestra is tuning its / it’s instruments.","answer": "its"},
+        {"item": "3 The witch’s / witches’ cauldron was bubbling.","answer": "witch’s"},
+        {"item": "4 It’s / Its not fair to blame him.","answer": "It’s"},
+        {"item": "5 The photographers’ / photographer’s cameras flashed constantly.","answer": "photographers’"},
+        {"item": "6 This is Mr. Davis’s / Mr. Davises’ office.","answer": "Mr. Davis’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The world’s / worlds’ population is increasing.",
+      "items": [
+        {"item": "1 Whose / Who’s phone keeps ringing?","answer": "Whose"},
+        {"item": "2 The jury has reached its / it’s verdict.","answer": "its"},
+        {"item": "3 The countess’s / countesses’ jewels were stolen.","answer": "countess’s"},
+        {"item": "4 It’s / Its a pity that they lost the game.","answer": "It’s"},
+        {"item": "5 The firefly’s / fireflies’ light is beautiful.","answer": "firefly’s"},
+        {"item": "6 The two attorneys’ / attorney’s arguments were presented.","answer": "attorneys’"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The baker’s / bakers’ bread smells delicious.",
+      "items": [
+        {"item": "1 Who’s / Whose in charge here?","answer": "Who’s"},
+        {"item": "2 The chameleon changes its / it’s color.","answer": "its"},
+        {"item": "3 The duchess’s / duchesses’ arrival was expected.","answer": "duchess’s"},
+        {"item": "4 It’s / Its an honor to be here.","answer": "It’s"},
+        {"item": "5 The puppies’ / puppy’s mother is very protective.","answer": "puppies’"},
+        {"item": "6 This is my commander-in-chief’s / commander-in-chiefs’ order.","answer": "commander-in-chief’s"}
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "example": "The Earth’s / Earths’ rotation causes day and night.",
+      "items": [
+        {"item": "1 Whose / Who’s that man in the black hat?","answer": "Who’s"},
+        {"item": "2 The audience showed its / it’s appreciation with loud applause.","answer": "its"},
+        {"item": "3 The goddess’s / goddesses’ temple is ancient.","answer": "goddess’s"},
+        {"item": "4 It’s / Its a common mistake.","answer": "It’s"},
+        {"item": "5 The janitors’ / janitor’s closet is at the end of the hall.","answer": "janitors’"},
+        {"item": "6 I found the louse’s / lice’s nest in the old clothes.","answer": "louse’s"}
+      ]
+    }
+  ]
+}
+

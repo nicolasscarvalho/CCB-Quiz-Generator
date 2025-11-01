@@ -1,0 +1,1115 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "I’m Chinese. _______ family is from Shanghai.",
+          "answer": "My"
+        },
+        {
+          "item": "They’re teachers. _______ names are Alison and Lucas.",
+          "answer": "Their"
+        },
+        {
+          "item": "Filip’s Polish, but _______ mother is Czech.",
+          "answer": "His"
+        },
+        {
+          "item": "We’re students. _______ teacher is Irish.",
+          "answer": "Our"
+        },
+        {
+          "item": "Nadia, please close _______ book.",
+          "answer": "Your"
+        },
+        {
+          "item": "It’s a hotel. _______ name is The New York Plaza.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "She’s a lawyer. _______ office is in the city center.",
+          "answer": "Her"
+        },
+        {
+          "item": "We live in London. _______ house is very old.",
+          "answer": "Our"
+        },
+        {
+          "item": "This is a cat. _______ name is Felix.",
+          "answer": "Its"
+        },
+        {
+          "item": "He is my friend. What is _______ surname?",
+          "answer": "his"
+        },
+        {
+          "item": "I have a new laptop. _______ color is grey.",
+          "answer": "My"
+        },
+        {
+          "item": "Are you ready? Is _______ bag here?",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "Look at them! _______ car is red and very fast.",
+          "answer": "Their"
+        },
+        {
+          "item": "I am a student. _______ school is near here.",
+          "answer": "My"
+        },
+        {
+          "item": "This is my sister, Anna. _______ hair is long.",
+          "answer": "Her"
+        },
+        {
+          "item": "We are brothers. _______ parents are Italian.",
+          "answer": "Our"
+        },
+        {
+          "item": "Where is the book? _______ cover is torn.",
+          "answer": "Its"
+        },
+        {
+          "item": "Mark is here. What is _______ job?",
+          "answer": "his"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "Are you and Julia ready? Have you got _______ keys?",
+          "answer": "your"
+        },
+        {
+          "item": "The museum is very famous. _______ collection is massive.",
+          "answer": "Its"
+        },
+        {
+          "item": "She likes tea. _______ favourite drink is tea.",
+          "answer": "Her"
+        },
+        {
+          "item": "They study English. _______ teacher is very good.",
+          "answer": "Their"
+        },
+        {
+          "item": "He loves football. _______ favorite team is Liverpool.",
+          "answer": "His"
+        },
+        {
+          "item": "We work together. _______ meeting is at 10 a.m.",
+          "answer": "Our"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "I have two dogs. _______ names are Bella and Max.",
+          "answer": "My"
+        },
+        {
+          "item": "Is Marco from Spain? Is _______ nationality Spanish?",
+          "answer": "his"
+        },
+        {
+          "item": "The students are noisy. Please tell them to close _______ books.",
+          "answer": "their"
+        },
+        {
+          "item": "We love the beach. _______ city is near the sea.",
+          "answer": "Our"
+        },
+        {
+          "item": "Look at Sarah. _______ dress is beautiful.",
+          "answer": "Her"
+        },
+        {
+          "item": "You are a new student. What is _______ address?",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "They are in Rome. _______ holiday is great.",
+          "answer": "Their"
+        },
+        {
+          "item": "I am late. I can't find _______ keys.",
+          "answer": "my"
+        },
+        {
+          "item": "This is Paul. _______ sister is also a student here.",
+          "answer": "His"
+        },
+        {
+          "item": "We are friends. This is _______ favorite restaurant.",
+          "answer": "our"
+        },
+        {
+          "item": "The computer is old. _______ screen is very dark.",
+          "answer": "Its"
+        },
+        {
+          "item": "Maria is nice. _______ email address is maria@mail.com.",
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "We are a big team. _______ project is almost finished.",
+          "answer": "Our"
+        },
+        {
+          "item": "Is this car yours, John? Is this _______ car?",
+          "answer": "your"
+        },
+        {
+          "item": "That is my mother. _______ job is teaching.",
+          "answer": "Her"
+        },
+        {
+          "item": "I bought a bike. _______ tyres are flat.",
+          "answer": "Its"
+        },
+        {
+          "item": "They are Brazilian. _______ home is Rio de Janeiro.",
+          "answer": "Their"
+        },
+        {
+          "item": "I need help with _______ homework.",
+          "answer": "my"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "He is a student. _______ course is difficult.",
+          "answer": "His"
+        },
+        {
+          "item": "We love the city. _______ life here is good.",
+          "answer": "Our"
+        },
+        {
+          "item": "The students are quiet. I can’t hear _______ voices.",
+          "answer": "their"
+        },
+        {
+          "item": "I am tired. _______ eyes are heavy.",
+          "answer": "My"
+        },
+        {
+          "item": "The weather is changing. _______ color is grey.",
+          "answer": "Its"
+        },
+        {
+          "item": "Laura has a new phone. _______ number is 555-1234.",
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "What is your nationality? What is _______ country?",
+          "answer": "your"
+        },
+        {
+          "item": "They bought a new house. _______ garden is big.",
+          "answer": "Their"
+        },
+        {
+          "item": "She’s a good baker. _______ cakes are delicious.",
+          "answer": "Her"
+        },
+        {
+          "item": "We have classes on Monday. Is _______ teacher arriving now?",
+          "answer": "Our"
+        },
+        {
+          "item": "I am working. Please don’t interrupt _______ concentration.",
+          "answer": "my"
+        },
+        {
+          "item": "This is the dog. _______ ball is under the chair.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "He is a photographer. _______ camera is professional.",
+          "answer": "His"
+        },
+        {
+          "item": "The neighbors are loud. _______ music is too loud.",
+          "answer": "Their"
+        },
+        {
+          "item": "I need to check _______ luggage before the flight.",
+          "answer": "my"
+        },
+        {
+          "item": "We study English. _______ textbook is *English File*.",
+          "answer": "Our"
+        },
+        {
+          "item": "The bank is closed. _______ hours are 9 a.m. to 5 p.m.",
+          "answer": "Its"
+        },
+        {
+          "item": "You are reading a poem. What is _______ favorite line?",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "They are arriving late. Is _______ flight delayed?",
+          "answer": "Their"
+        },
+        {
+          "item": "He is running fast. _______ shoes are worn out.",
+          "answer": "His"
+        },
+        {
+          "item": "We are getting coffee. What is _______ order?",
+          "answer": "your"
+        },
+        {
+          "item": "I have a flat tire. _______ wheel needs fixing.",
+          "answer": "My"
+        },
+        {
+          "item": "Sarah is sick. _______ voice is very weak.",
+          "answer": "Her"
+        },
+        {
+          "item": "The country is small. _______ capital is tiny.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "We are moving. _______ new flat is near the station.",
+          "answer": "Our"
+        },
+        {
+          "item": "Is this your car, sir? Where are _______ keys?",
+          "answer": "your"
+        },
+        {
+          "item": "The children are playing. _______ toys are everywhere.",
+          "answer": "Their"
+        },
+        {
+          "item": "She writes books. _______ novels are popular.",
+          "answer": "Her"
+        },
+        {
+          "item": "The movie is long. _______ ending is sad.",
+          "answer": "Its"
+        },
+        {
+          "item": "He studies history. _______ professor is from Oxford.",
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "I am working on an article. _______ deadline is tomorrow.",
+          "answer": "My"
+        },
+        {
+          "item": "We are tired. _______ journey was long.",
+          "answer": "Our"
+        },
+        {
+          "item": "They have two children. _______ names are Tom and Lucy.",
+          "answer": "Their"
+        },
+        {
+          "item": "She lives next door. _______ apartment is small.",
+          "answer": "Her"
+        },
+        {
+          "item": "The building is very tall. _______ roof is red.",
+          "answer": "Its"
+        },
+        {
+          "item": "This is Ahmed. _______ brother is a doctor.",
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "You need to finish the exercise. Where is _______ pen?",
+          "answer": "your"
+        },
+        {
+          "item": "I want to introduce you to _______ family.",
+          "answer": "my"
+        },
+        {
+          "item": "The company is big. _______ headquarters are in Tokyo.",
+          "answer": "Its"
+        },
+        {
+          "item": "They are talking loudly. What is _______ problem?",
+          "answer": "their"
+        },
+        {
+          "item": "We are having a party. _______ guests are arriving soon.",
+          "answer": "Our"
+        },
+        {
+          "item": "He plays tennis. _______ racket is expensive.",
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "This is Maria. _______ age is 35.",
+          "answer": "Her"
+        },
+        {
+          "item": "I have a new job. _______ salary is good.",
+          "answer": "My"
+        },
+        {
+          "item": "The dogs are running. _______ tails are wagging.",
+          "answer": "Their"
+        },
+        {
+          "item": "We should go now. This is _______ last chance.",
+          "answer": "Our"
+        },
+        {
+          "item": "Is the airport far? What is _______ distance from here?",
+          "answer": "Its"
+        },
+        {
+          "item": "This is John. _______ house is white.",
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "You are a runner. What is _______ best time?",
+          "answer": "your"
+        },
+        {
+          "item": "He is an actor. _______ movies are famous.",
+          "answer": "His"
+        },
+        {
+          "item": "We are tired. _______ clothes are dirty.",
+          "answer": "Our"
+        },
+        {
+          "item": "I am studying. _______ concentration is important.",
+          "answer": "My"
+        },
+        {
+          "item": "They speak Spanish. _______ language is beautiful.",
+          "answer": "Their"
+        },
+        {
+          "item": "The lesson is over. _______ duration was one hour.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "She’s a traveler. _______ passport is expired.",
+          "answer": "Her"
+        },
+        {
+          "item": "We are going on holiday. _______ destination is Italy.",
+          "answer": "Our"
+        },
+        {
+          "item": "I need to confirm _______ flight reservation.",
+          "answer": "my"
+        },
+        {
+          "item": "The children are happy. _______ laughter is loud.",
+          "answer": "Their"
+        },
+        {
+          "item": "This is Tom. _______ favorite hobby is chess.",
+          "answer": "His"
+        },
+        {
+          "item": "Please close the window. _______ handle is broken.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "Look at the students. _______ uniforms are green.",
+          "answer": "Their"
+        },
+        {
+          "item": "This is Ms. Smith. _______ class is starting now.",
+          "answer": "Her"
+        },
+        {
+          "item": "I am eating lunch. This is _______ sandwich.",
+          "answer": "my"
+        },
+        {
+          "item": "He is a manager. _______ team is small.",
+          "answer": "His"
+        },
+        {
+          "item": "We are ready. _______ bags are packed.",
+          "answer": "Our"
+        },
+        {
+          "item": "Is that your brother? What is _______ name?",
+          "answer": "your"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "The city is famous. _______ buildings are very old.",
+          "answer": "Its"
+        },
+        {
+          "item": "They have a new TV. _______ screen is huge.",
+          "answer": "Their"
+        },
+        {
+          "item": "I am wearing a coat. _______ color is black.",
+          "answer": "My"
+        },
+        {
+          "item": "We live here. This is _______ address.",
+          "answer": "Our"
+        },
+        {
+          "item": "She has a cold. _______ nose is red.",
+          "answer": "Her"
+        },
+        {
+          "item": "He is doing an exam. _______ results are important.",
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "You look tired. Close _______ eyes for a moment.",
+          "answer": "your"
+        },
+        {
+          "item": "The team won. _______ victory was celebrated.",
+          "answer": "Its"
+        },
+        {
+          "item": "They are going home. _______ train leaves at six.",
+          "answer": "Their"
+        },
+        {
+          "item": "He needs a pen. Where is _______ pen?",
+          "answer": "his"
+        },
+        {
+          "item": "We are studying. _______ exam is next week.",
+          "answer": "Our"
+        },
+        {
+          "item": "I like this shop. _______ prices are reasonable.",
+          "answer": "My"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "This is Laura. _______ phone is on the desk.",
+          "answer": "Her"
+        },
+        {
+          "item": "I need help with this question. I can't find _______ answer.",
+          "answer": "its"
+        },
+        {
+          "item": "They are artists. _______ paintings are beautiful.",
+          "answer": "Their"
+        },
+        {
+          "item": "You are a good cook. What is _______ recipe?",
+          "answer": "your"
+        },
+        {
+          "item": "We are tired. Let’s go to _______ beds.",
+          "answer": "our"
+        },
+        {
+          "item": "I have a flight. _______ gate number is 23.",
+          "answer": "My"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "This is Mr. Jones. _______ wife is a musician.",
+          "answer": "His"
+        },
+        {
+          "item": "She has a dog. _______ name is Bruno.",
+          "answer": "Her"
+        },
+        {
+          "item": "We live near the sea. _______ window has a view of the ocean.",
+          "answer": "Our"
+        },
+        {
+          "item": "I am thirsty. Where is _______ water bottle?",
+          "answer": "my"
+        },
+        {
+          "item": "The government made a decision. _______ policy is new.",
+          "answer": "Its"
+        },
+        {
+          "item": "They are engineers. _______ work is very technical.",
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "You are a tourist. I need to see _______ identification.",
+          "answer": "your"
+        },
+        {
+          "item": "The band is playing. _______ music is loud.",
+          "answer": "Its"
+        },
+        {
+          "item": "He is a student. _______ school is quite far.",
+          "answer": "His"
+        },
+        {
+          "item": "I have a new idea. _______ concept is very simple.",
+          "answer": "My"
+        },
+        {
+          "item": "They are busy. _______ meeting starts at two.",
+          "answer": "Their"
+        },
+        {
+          "item": "She is here. Where is _______ coat?",
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "We are happy with the results. _______ scores are excellent.",
+          "answer": "Our"
+        },
+        {
+          "item": "I am taking notes. _______ notebook is full.",
+          "answer": "My"
+        },
+        {
+          "item": "She is a good speaker. _______ accent is clear.",
+          "answer": "Her"
+        },
+        {
+          "item": "He lost his wallet. Where is _______ money?",
+          "answer": "his"
+        },
+        {
+          "item": "They are singers. _______ concerts are popular.",
+          "answer": "Their"
+        },
+        {
+          "item": "The weather is hot. _______ temperature is high.",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "The plane arrived late. _______ delay was 30 minutes.",
+          "answer": "Its"
+        },
+        {
+          "item": "You are moving. When is _______ moving date?",
+          "answer": "your"
+        },
+        {
+          "item": "I need to fix the computer. _______ screen is broken.",
+          "answer": "My"
+        },
+        {
+          "item": "We are tired. Let’s finish _______ work tomorrow.",
+          "answer": "our"
+        },
+        {
+          "item": "She is a journalist. _______ articles are famous.",
+          "answer": "Her"
+        },
+        {
+          "item": "They are tired. _______ journey was long.",
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "He is a tourist. _______ luggage is heavy.",
+          "answer": "His"
+        },
+        {
+          "item": "I am making dinner. _______ specialty is pasta.",
+          "answer": "My"
+        },
+        {
+          "item": "You are a doctor. What is _______ diagnosis?",
+          "answer": "your"
+        },
+        {
+          "item": "We are married. _______ anniversary is next month.",
+          "answer": "Our"
+        },
+        {
+          "item": "The restaurant is great. _______ food is delicious.",
+          "answer": "Its"
+        },
+        {
+          "item": "She is running a marathon. _______ legs are tired.",
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "They are neighbors. _______ dog barks every morning.",
+          "answer": "Their"
+        },
+        {
+          "item": "I love the color blue. It is _______ favorite color.",
+          "answer": "my"
+        },
+        {
+          "item": "He has a meeting. _______ client is waiting.",
+          "answer": "His"
+        },
+        {
+          "item": "We are a football club. _______ coach is new.",
+          "answer": "Our"
+        },
+        {
+          "item": "She needs a break. _______ hours are too long.",
+          "answer": "Her"
+        },
+        {
+          "item": "The phone is ringing. What is _______ number?",
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "Is this your car? Where are _______ keys?",
+          "answer": "your"
+        },
+        {
+          "item": "The police are here. _______ uniforms are blue.",
+          "answer": "Their"
+        },
+        {
+          "item": "He lives in Canada. _______ home is in Toronto.",
+          "answer": "His"
+        },
+        {
+          "item": "I need to confirm _______ flight.",
+          "answer": "my"
+        },
+        {
+          "item": "We are classmates. This is _______ class schedule.",
+          "answer": "Our"
+        },
+        {
+          "item": "She is a scientist. _______ research is important.",
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "The cat is happy. _______ tail is up.",
+          "answer": "Its"
+        },
+        {
+          "item": "We are busy today. _______ agenda is full.",
+          "answer": "Our"
+        },
+        {
+          "item": "I feel ill. _______ head hurts.",
+          "answer": "My"
+        },
+        {
+          "item": "They are students. _______ university is far.",
+          "answer": "Their"
+        },
+        {
+          "item": "She lives alone. _______ apartment is quiet.",
+          "answer": "Her"
+        },
+        {
+          "item": "This is John. _______ birthday is in July.",
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": ["1C"],
+      "instructions": "Complete the sentences with the correct word.",
+      "example": {
+        "item": "Her name is Josefina. She’s a student. He His Her",
+        "answer": "Her"
+      },
+      "type": "select_correct_possessive_adjective",
+      "qa_pair": [
+        {
+          "item": "Are you ready for the test? Write _______ name on the paper.",
+          "answer": "your"
+        },
+        {
+          "item": "He is a singer. _______ songs are famous.",
+          "answer": "His"
+        },
+        {
+          "item": "The company is big. _______ profits are high.",
+          "answer": "Its"
+        },
+        {
+          "item": "We love this city. _______ parks are beautiful.",
+          "answer": "Our"
+        },
+        {
+          "item": "I need to clean _______ glasses.",
+          "answer": "my"
+        },
+        {
+          "item": "They are friends. _______ parents know each other.",
+          "answer": "Their"
+        }
+      ]
+    }
+  ]
+}
+

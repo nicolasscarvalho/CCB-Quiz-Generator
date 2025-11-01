@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "Read the magazines / scissors.",
+          "answer": "magazines"
+        },
+        {
+          "item": "Write with a purse / pen.",
+          "answer": "pen"
+        },
+        {
+          "item": "Marco has coins in his wallet / notebook.",
+          "answer": "wallet"
+        },
+        {
+          "item": "This is the key / umbrella for the door.",
+          "answer": "key"
+        },
+        {
+          "item": "They’re the tissues / headphones for my phone.",
+          "answer": "headphones"
+        },
+        {
+          "item": "My photo / file is on my identity card.",
+          "answer": "photo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need a pen / key to write this note.",
+          "answer": "pen"
+        },
+        {
+          "item": "She keeps her money in her file / purse.",
+          "answer": "purse"
+        },
+        {
+          "item": "Put the documents in the tissues / file.",
+          "answer": "file"
+        },
+        {
+          "item": "It’s raining; I need my wallet / umbrella.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I cut the paper with scissors / headphones.",
+          "answer": "scissors"
+        },
+        {
+          "item": "My credit card is in my wallet / key.",
+          "answer": "wallet"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "The photo / tissue is on my desk.",
+          "answer": "photo"
+        },
+        {
+          "item": "I use my key / identity card to open the locker.",
+          "answer": "key"
+        },
+        {
+          "item": "I wear my headphones / umbrella to listen to music.",
+          "answer": "headphones"
+        },
+        {
+          "item": "She put the money in her file / purse.",
+          "answer": "purse"
+        },
+        {
+          "item": "I need a pen / scissors to sign the contract.",
+          "answer": "pen"
+        },
+        {
+          "item": "My wallet / tissues is in my back pocket.",
+          "answer": "wallet"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please pass me a tissue / key for my nose.",
+          "answer": "tissue"
+        },
+        {
+          "item": "We need an identity card / file to cross the border.",
+          "answer": "identity card"
+        },
+        {
+          "item": "The document is inside the file / umbrella.",
+          "answer": "file"
+        },
+        {
+          "item": "I use my pen / scissors to cut the ribbon.",
+          "answer": "scissors"
+        },
+        {
+          "item": "My keys are in my wallet / purse.",
+          "answer": "purse"
+        },
+        {
+          "item": "He needs his umbrella / photo because it’s sunny.",
+          "answer": "photo"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I found a charger / key to open the door.",
+          "answer": "key"
+        },
+        {
+          "item": "I keep all my change in my wallet / photo.",
+          "answer": "wallet"
+        },
+        {
+          "item": "We need scissors / pen to draw the picture.",
+          "answer": "pen"
+        },
+        {
+          "item": "I listen to podcasts with my file / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "I use a tissue / umbrella when it rains.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I need my identity card / key to prove who I am.",
+          "answer": "identity card"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I cut the material with scissors / purse.",
+          "answer": "scissors"
+        },
+        {
+          "item": "My money is in my file / wallet.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I need a pen / key to write down the number.",
+          "answer": "pen"
+        },
+        {
+          "item": "Take the paper out of the umbrella / file.",
+          "answer": "file"
+        },
+        {
+          "item": "I keep my documents in my identity card / purse.",
+          "answer": "purse"
+        },
+        {
+          "item": "Look at the photo / tissues of my grandmother.",
+          "answer": "photo"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my key / umbrella because it is pouring.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I listen to the teacher with my purse / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "He needs his identity card / file for identification.",
+          "answer": "identity card"
+        },
+        {
+          "item": "Use the pen / scissors to cut along the line.",
+          "answer": "scissors"
+        },
+        {
+          "item": "I have coins in my wallet / key.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I use a tissue / photo when I sneeze.",
+          "answer": "tissue"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I keep my papers in a file / pen.",
+          "answer": "file"
+        },
+        {
+          "item": "Where is the photo / key for the front door?",
+          "answer": "key"
+        },
+        {
+          "item": "I need my purse / headphones to hear the music.",
+          "answer": "headphones"
+        },
+        {
+          "item": "Write your name with a pen / wallet.",
+          "answer": "pen"
+        },
+        {
+          "item": "I use scissors / tissues to wipe my hands.",
+          "answer": "tissues"
+        },
+        {
+          "item": "I carry my bus ticket in my wallet / umbrella.",
+          "answer": "wallet"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "The document is inside the file / purse.",
+          "answer": "file"
+        },
+        {
+          "item": "I keep my keys / identity card in my bag.",
+          "answer": "keys"
+        },
+        {
+          "item": "Please write your name with a photo / pen.",
+          "answer": "pen"
+        },
+        {
+          "item": "I need my scissors / umbrella because the sun is strong.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "The coins are in his wallet / headphones.",
+          "answer": "wallet"
+        },
+        {
+          "item": "Use the scissors / tissues to cut the birthday cake string.",
+          "answer": "scissors"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I use scissors / tissues to clean the table.",
+          "answer": "tissues"
+        },
+        {
+          "item": "My bank card is in my identity card / wallet.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I use a pen / key to write the address.",
+          "answer": "pen"
+        },
+        {
+          "item": "She uses an umbrella / file when she goes to the beach.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "My passport photo / key is old.",
+          "answer": "photo"
+        },
+        {
+          "item": "I need my headphones / purse to pay for the coffee.",
+          "answer": "purse"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my key / file to open the safe.",
+          "answer": "key"
+        },
+        {
+          "item": "I use scissors / tissues to cut the roses.",
+          "answer": "scissors"
+        },
+        {
+          "item": "The headphones / purse are expensive.",
+          "answer": "headphones"
+        },
+        {
+          "item": "I keep my license in my identity card / wallet.",
+          "answer": "identity card"
+        },
+        {
+          "item": "He has a photo / pen of his children.",
+          "answer": "photo"
+        },
+        {
+          "item": "The documents are in the wallet / file.",
+          "answer": "file"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "The pen / tissues are on the table.",
+          "answer": "tissues"
+        },
+        {
+          "item": "I use my umbrella / key when I go out in the rain.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "She uses a purse / pen to write her diary.",
+          "answer": "pen"
+        },
+        {
+          "item": "The money is in my wallet / file.",
+          "answer": "wallet"
+        },
+        {
+          "item": "Where is the photo / scissors to cut the ribbon?",
+          "answer": "scissors"
+        },
+        {
+          "item": "I need my headphones / identity card to travel.",
+          "answer": "identity card"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I use a pen / key to lock the bedroom.",
+          "answer": "key"
+        },
+        {
+          "item": "I listen to music with my purse / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "The important papers are in the identity card / file.",
+          "answer": "file"
+        },
+        {
+          "item": "She keeps her coins in her wallet / photo.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I need tissues / umbrella because it is sunny.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I use scissors / tissues to clean my glasses.",
+          "answer": "tissues"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "My identity card / key is in my wallet.",
+          "answer": "identity card"
+        },
+        {
+          "item": "Please write with your purse / pen.",
+          "answer": "pen"
+        },
+        {
+          "item": "The tickets are in my file / photo.",
+          "answer": "file"
+        },
+        {
+          "item": "I need my umbrella / scissors to cut the paper.",
+          "answer": "scissors"
+        },
+        {
+          "item": "I carry my money in my wallet / key.",
+          "answer": "wallet"
+        },
+        {
+          "item": "The weather is bad, take your tissues / umbrella.",
+          "answer": "umbrella"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I use my headphones / pen to listen to the conversation.",
+          "answer": "headphones"
+        },
+        {
+          "item": "I need my key / photo to unlock the car.",
+          "answer": "key"
+        },
+        {
+          "item": "I keep my ID in my purse / tissues.",
+          "answer": "purse"
+        },
+        {
+          "item": "The document is inside the file / umbrella.",
+          "answer": "file"
+        },
+        {
+          "item": "She has a beautiful photo / scissors of her trip.",
+          "answer": "photo"
+        },
+        {
+          "item": "I carry my bank card in my wallet / pen.",
+          "answer": "wallet"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need a tissue / key to wipe my glasses.",
+          "answer": "tissue"
+        },
+        {
+          "item": "The umbrella / file is in the corner of the room.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "Please use a pen / scissors to sign here.",
+          "answer": "pen"
+        },
+        {
+          "item": "My identity card / purse is empty.",
+          "answer": "identity card"
+        },
+        {
+          "item": "I listen to audiobooks with my wallet / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "Where are the keys / photos for the new car?",
+          "answer": "keys"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I cut the rope with scissors / pen.",
+          "answer": "scissors"
+        },
+        {
+          "item": "I need a photo / tissue to cover my mouth.",
+          "answer": "tissue"
+        },
+        {
+          "item": "The documents are in the wallet / file.",
+          "answer": "file"
+        },
+        {
+          "item": "Where is the key / umbrella to protect me from the sun?",
+          "answer": "umbrella"
+        },
+        {
+          "item": "My credit card is in my identity card / purse.",
+          "answer": "purse"
+        },
+        {
+          "item": "I keep my money in my headphones / wallet.",
+          "answer": "wallet"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my identity card / pen to register.",
+          "answer": "identity card"
+        },
+        {
+          "item": "I listen to the radio with my wallet / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "He needs a photo / key to see the image.",
+          "answer": "photo"
+        },
+        {
+          "item": "The documents are in the file / tissues.",
+          "answer": "file"
+        },
+        {
+          "item": "I use my pen / scissors to write down the notes.",
+          "answer": "pen"
+        },
+        {
+          "item": "I carry my bus pass in my purse / umbrella.",
+          "answer": "purse"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "She keeps her money in her wallet / key.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I use my scissors / tissues to dry my eyes.",
+          "answer": "tissues"
+        },
+        {
+          "item": "I need an umbrella / identity card to travel abroad.",
+          "answer": "identity card"
+        },
+        {
+          "item": "The papers are in the file / purse.",
+          "answer": "file"
+        },
+        {
+          "item": "I need my pen / scissors to cut this fabric.",
+          "answer": "scissors"
+        },
+        {
+          "item": "Where is the photo / key to the apartment?",
+          "answer": "key"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I use my headphones / pen to watch the movie quietly.",
+          "answer": "headphones"
+        },
+        {
+          "item": "I need my umbrella / photo because it’s sunny.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "She keeps her money in her purse / pen.",
+          "answer": "purse"
+        },
+        {
+          "item": "I carry my license in my wallet / key.",
+          "answer": "wallet"
+        },
+        {
+          "item": "He needs a pen / scissors to cut the coupon.",
+          "answer": "scissors"
+        },
+        {
+          "item": "My identity card / tissues is missing.",
+          "answer": "identity card"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my key / file to open the door.",
+          "answer": "key"
+        },
+        {
+          "item": "I use a tissue / photo when I have a cold.",
+          "answer": "tissue"
+        },
+        {
+          "item": "She needs her headphones / purse to listen to the lecture.",
+          "answer": "headphones"
+        },
+        {
+          "item": "Please write your name with a pen / wallet.",
+          "answer": "pen"
+        },
+        {
+          "item": "The document is inside the umbrella / file.",
+          "answer": "file"
+        },
+        {
+          "item": "My money is in my identity card / wallet.",
+          "answer": "wallet"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need scissors / pen to cut the wires.",
+          "answer": "scissors"
+        },
+        {
+          "item": "Where is the photo / key of the famous castle?",
+          "answer": "photo"
+        },
+        {
+          "item": "I carry my bus pass in my purse / identity card.",
+          "answer": "purse"
+        },
+        {
+          "item": "I need my umbrella / tissues because it is raining heavily.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "My bank notes are in my wallet / key.",
+          "answer": "wallet"
+        },
+        {
+          "item": "The papers are in the file / pen.",
+          "answer": "file"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need a key / pen to sign the delivery.",
+          "answer": "pen"
+        },
+        {
+          "item": "I use my headphones / tissues to listen to the news.",
+          "answer": "headphones"
+        },
+        {
+          "item": "The passport is inside my wallet / key.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I need my identity card / umbrella for identification.",
+          "answer": "identity card"
+        },
+        {
+          "item": "Please take the paper out of the file / purse.",
+          "answer": "file"
+        },
+        {
+          "item": "Use scissors / tissues to cut the hedge.",
+          "answer": "scissors"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I carry my money in my purse / photo.",
+          "answer": "purse"
+        },
+        {
+          "item": "I need a tissue / key for the front door.",
+          "answer": "key"
+        },
+        {
+          "item": "The umbrella / file is in my car.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I use my pen / scissors to cut the wrapping paper.",
+          "answer": "scissors"
+        },
+        {
+          "item": "Where is my wallet / headphones?",
+          "answer": "wallet"
+        },
+        {
+          "item": "The picture is a photo / tissue of my family.",
+          "answer": "photo"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my identity card / pen to write the letter.",
+          "answer": "pen"
+        },
+        {
+          "item": "I keep my money in my purse / tissues.",
+          "answer": "purse"
+        },
+        {
+          "item": "I listen to music with my wallet / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "The important papers are in the file / key.",
+          "answer": "file"
+        },
+        {
+          "item": "I need my umbrella / photo because it’s raining.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I use scissors / tissues to clean my nose.",
+          "answer": "tissues"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my key / file to open the office.",
+          "answer": "key"
+        },
+        {
+          "item": "I use a pen / scissors to cut the fringe.",
+          "answer": "scissors"
+        },
+        {
+          "item": "My driving license is in my identity card / wallet.",
+          "answer": "identity card"
+        },
+        {
+          "item": "The photo / tissues is for my passport.",
+          "answer": "photo"
+        },
+        {
+          "item": "I keep my credit card in my purse / pen.",
+          "answer": "purse"
+        },
+        {
+          "item": "I use my headphones / umbrella when it snows.",
+          "answer": "umbrella"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "The coins are in my wallet / tissues.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I need a pen / key to write a short message.",
+          "answer": "pen"
+        },
+        {
+          "item": "I use my purse / headphones to hear the music clearly.",
+          "answer": "headphones"
+        },
+        {
+          "item": "The document is inside the file / photo.",
+          "answer": "file"
+        },
+        {
+          "item": "She needs her scissors / umbrella because it is raining.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I need my identity card / key to prove my age.",
+          "answer": "identity card"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I use scissors / tissues to cut the hair.",
+          "answer": "scissors"
+        },
+        {
+          "item": "I need a key / photo for the apartment building.",
+          "answer": "key"
+        },
+        {
+          "item": "My bank card is in my wallet / purse.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I need my file / pen to sign this form.",
+          "answer": "pen"
+        },
+        {
+          "item": "The papers are in the file / umbrella.",
+          "answer": "file"
+        },
+        {
+          "item": "I need my photo / identity card to show my face.",
+          "answer": "photo"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I use a tissue / key when I have a runny nose.",
+          "answer": "tissue"
+        },
+        {
+          "item": "The documents are in the file / pen.",
+          "answer": "file"
+        },
+        {
+          "item": "She keeps her money in her wallet / identity card.",
+          "answer": "wallet"
+        },
+        {
+          "item": "I listen to music with my scissors / headphones.",
+          "answer": "headphones"
+        },
+        {
+          "item": "I need my purse / umbrella because of the storm.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I carry my license in my identity card / photo.",
+          "answer": "identity card"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "2A"
+      ],
+      "type": "underline_correct_word",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "It’s my ticket / identity card for the bus.",
+        "answer": "ticket"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need my key / photo to start the ignition.",
+          "answer": "key"
+        },
+        {
+          "item": "I use a pen / scissors to cut the small cable.",
+          "answer": "scissors"
+        },
+        {
+          "item": "My money is in my purse / tissues.",
+          "answer": "purse"
+        },
+        {
+          "item": "I need my umbrella / file because the sun is strong.",
+          "answer": "umbrella"
+        },
+        {
+          "item": "I use my pen / wallet to write the phone number.",
+          "answer": "pen"
+        },
+        {
+          "item": "I need my identity card / headphones to fly.",
+          "answer": "identity card"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always / usually finish work at 5 p.m., but on Fridays I finish at 7 p.m.",
+          "answer": "always"
+        },
+        {
+          "item": "Mason hardly never / ever cleans his flat.",
+          "answer": "ever"
+        },
+        {
+          "item": "They have English classes twice / three times a week.",
+          "answer": "twice"
+        },
+        {
+          "item": "I never / always read magazines. I don’t like them.",
+          "answer": "never"
+        },
+        {
+          "item": "We don’t work every day / week. On Saturday and Sunday we relax.",
+          "answer": "day"
+        },
+        {
+          "item": "‘How many weeks / months are there in a year?’ ‘Twelve.’",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "She is always / never late. She is very punctual.",
+          "answer": "never"
+        },
+        {
+          "item": "We play football three times / twice a month.",
+          "answer": "three times"
+        },
+        {
+          "item": "I often / hardly ever eat fast food. Maybe once a year.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "I visit my parents every week / year.",
+          "answer": "week"
+        },
+        {
+          "item": "He usually / never calls his mother on Sundays.",
+          "answer": "usually"
+        },
+        {
+          "item": "How many days / weeks are there in a fortnight?",
+          "answer": "weeks"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They watch TV every day / month.",
+          "answer": "day"
+        },
+        {
+          "item": "We eat pizza once / four times a week. We love it.",
+          "answer": "four times"
+        },
+        {
+          "item": "She always / never drinks coffee. She hates it.",
+          "answer": "never"
+        },
+        {
+          "item": "I hardly ever / often go to the gym. I am very fit.",
+          "answer": "often"
+        },
+        {
+          "item": "He is sometimes / never tired after work.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "The concert happens twice / three times a year.",
+          "answer": "twice"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My sister usually / hardly ever drives. She prefers the bus.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "They visit us once / four times a year. They live far away.",
+          "answer": "once"
+        },
+        {
+          "item": "I am never / always late for meetings. I am usually on time.",
+          "answer": "never"
+        },
+        {
+          "item": "We go to the beach every week / summer.",
+          "answer": "summer"
+        },
+        {
+          "item": "He often / never forgets his keys.",
+          "answer": "often"
+        },
+        {
+          "item": "How many days / months are there in a week?",
+          "answer": "days"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "She usually / always eats vegetables. She has a healthy diet.",
+          "answer": "always"
+        },
+        {
+          "item": "I travel abroad twice / once a year.",
+          "answer": "twice"
+        },
+        {
+          "item": "The weather is sometimes / hardly ever cold in July.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "We go dancing every week / day.",
+          "answer": "week"
+        },
+        {
+          "item": "He never / sometimes listens to classical music.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "My birthday is in the first / second half of the year.",
+          "answer": "first"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I drink milk often / hardly ever. I prefer water.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "They watch movies four / three times a week.",
+          "answer": "three times"
+        },
+        {
+          "item": "She is never / usually happy. She smiles all the time.",
+          "answer": "always"
+        },
+        {
+          "item": "We argue every day / week.",
+          "answer": "day"
+        },
+        {
+          "item": "He always / often misses the bus, but not every day.",
+          "answer": "often"
+        },
+        {
+          "item": "‘How many months / weeks are there in two years?’ ‘Twenty-four.’",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss is usually / never late. It happens once in a blue moon.",
+          "answer": "never"
+        },
+        {
+          "item": "I exercise once / twice a month. It’s not enough.",
+          "answer": "once"
+        },
+        {
+          "item": "We sometimes / always go to the beach in winter. It depends on the weather.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "She reads books every day / year.",
+          "answer": "day"
+        },
+        {
+          "item": "He hardly never / ever eats meat.",
+          "answer": "ever"
+        },
+        {
+          "item": "I visit my dentist three times / four times a year.",
+          "answer": "three times"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They usually / always drink tea in the morning.",
+          "answer": "usually"
+        },
+        {
+          "item": "We go skiing once / twice a year in the winter.",
+          "answer": "once"
+        },
+        {
+          "item": "She never / often calls me. We talk almost every day.",
+          "answer": "often"
+        },
+        {
+          "item": "I study English every week / month.",
+          "answer": "week"
+        },
+        {
+          "item": "He is hardly ever / always tired. He sleeps eight hours.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "How many days / weeks are there in two months?",
+          "answer": "weeks"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually / never forget my birthday. (It's impossible to forget)",
+          "answer": "never"
+        },
+        {
+          "item": "They eat out twice / four times a month. Every weekend.",
+          "answer": "four times"
+        },
+        {
+          "item": "We sometimes / always work on Saturday. Only if we have a deadline.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "She goes shopping every month / week.",
+          "answer": "week"
+        },
+        {
+          "item": "He hardly ever / often watches TV. Maybe once a week.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "I go to the dentist three times / twice a year.",
+          "answer": "twice"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "We are never / usually happy to see our friends.",
+          "answer": "always"
+        },
+        {
+          "item": "She changes her car once / three times a year.",
+          "answer": "once"
+        },
+        {
+          "item": "I often / hardly ever take photos. My phone is full of pictures.",
+          "answer": "often"
+        },
+        {
+          "item": "He exercises every day / week. He is very fit.",
+          "answer": "day"
+        },
+        {
+          "item": "They usually / never go to bed early. They prefer to stay up late.",
+          "answer": "never"
+        },
+        {
+          "item": "‘How many weeks / months are there in a quarter (3 months)?’ ‘Three.’",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss always / sometimes checks my work. Not every time.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "We go abroad twice / four times a year. We travel a lot.",
+          "answer": "four times"
+        },
+        {
+          "item": "She hardly never / ever eats fish. She hates seafood.",
+          "answer": "ever"
+        },
+        {
+          "item": "I visit my grandmother every month / day.",
+          "answer": "month"
+        },
+        {
+          "item": "He never / usually listens to the radio in the car.",
+          "answer": "usually"
+        },
+        {
+          "item": "How many days / weeks are there in a year?",
+          "answer": "days"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They are often / always tired, but not every day.",
+          "answer": "often"
+        },
+        {
+          "item": "I cook dinner once / three times a week.",
+          "answer": "three times"
+        },
+        {
+          "item": "She never / always smiles when she talks to me.",
+          "answer": "always"
+        },
+        {
+          "item": "We go to the park every day / year.",
+          "answer": "day"
+        },
+        {
+          "item": "He hardly ever / never argues with his wife. (They argue sometimes)",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "The festival happens twice / once a year.",
+          "answer": "once"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My parents sometimes / never go out on weekdays.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "We visit our cousins twice / four times a month.",
+          "answer": "twice"
+        },
+        {
+          "item": "She hardly never / ever eats chocolate. She loves sweets.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "I travel every week / year.",
+          "answer": "year"
+        },
+        {
+          "item": "He often / never remembers my name.",
+          "answer": "often"
+        },
+        {
+          "item": "How many months / weeks are there in six months?",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I am never / usually tired in the morning. I sleep well.",
+          "answer": "never"
+        },
+        {
+          "item": "They go shopping three times / once a month.",
+          "answer": "three times"
+        },
+        {
+          "item": "She always / never drinks alcohol. She prefers water.",
+          "answer": "never"
+        },
+        {
+          "item": "We meet friends every week / day.",
+          "answer": "week"
+        },
+        {
+          "item": "He sometimes / always arrives early. Not always, but often.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "The course ends in eight weeks / days.",
+          "answer": "weeks"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My dog is usually / hardly ever quiet. It barks a lot.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "I read books twice / four times a month. Every Saturday.",
+          "answer": "four times"
+        },
+        {
+          "item": "She often / never goes to the cinema. She doesn’t like films.",
+          "answer": "never"
+        },
+        {
+          "item": "We take the train every day / month.",
+          "answer": "day"
+        },
+        {
+          "item": "He usually / always takes a shower in the morning.",
+          "answer": "always"
+        },
+        {
+          "item": "The semester lasts six months / days.",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I sometimes / never eat fast food. I avoid it completely.",
+          "answer": "never"
+        },
+        {
+          "item": "They see a doctor once / twice a year.",
+          "answer": "twice"
+        },
+        {
+          "item": "She is often / hardly ever ill. She is very healthy.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "We play tennis every week / day.",
+          "answer": "week"
+        },
+        {
+          "item": "He usually / always eats lunch at the office. (It’s his routine)",
+          "answer": "usually"
+        },
+        {
+          "item": "How many days / weeks are there in 96 hours?",
+          "answer": "days"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My friend always / sometimes forgets my name.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "I go jogging once / three times a week.",
+          "answer": "three times"
+        },
+        {
+          "item": "We often / never watch TV in the morning.",
+          "answer": "never"
+        },
+        {
+          "item": "She works every month / day.",
+          "answer": "day"
+        },
+        {
+          "item": "He is never / usually at home on Sundays.",
+          "answer": "usually"
+        },
+        {
+          "item": "The project takes two weeks / days to finish.",
+          "answer": "weeks"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They hardly ever / often travel for work. Maybe once a year.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "We have a party once / four times a year.",
+          "answer": "once"
+        },
+        {
+          "item": "She always / never drinks milk. She is allergic.",
+          "answer": "never"
+        },
+        {
+          "item": "I read the newspaper every week / day.",
+          "answer": "day"
+        },
+        {
+          "item": "He sometimes / usually plays video games. Only after work.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "How many weeks / days are there in a month?",
+          "answer": "days"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss is often / always stressed. Sometimes he is relaxed.",
+          "answer": "often"
+        },
+        {
+          "item": "We change the office layout twice / three times a month.",
+          "answer": "twice"
+        },
+        {
+          "item": "She usually / never smiles. She is always very cheerful.",
+          "answer": "always"
+        },
+        {
+          "item": "I check my email every month / day.",
+          "answer": "day"
+        },
+        {
+          "item": "He hardly never / ever eats sweets. He is on a diet.",
+          "answer": "ever"
+        },
+        {
+          "item": "I visit my parents every year / week.",
+          "answer": "week"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They never / usually go out on Tuesdays.",
+          "answer": "usually"
+        },
+        {
+          "item": "We go abroad three times / once a year. We prefer staycations.",
+          "answer": "once"
+        },
+        {
+          "item": "She is sometimes / always busy. It depends on the time of year.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "He goes to the gym every month / week.",
+          "answer": "week"
+        },
+        {
+          "item": "I often / never read books. I read a lot.",
+          "answer": "often"
+        },
+        {
+          "item": "How many months / weeks are there in two years?",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My sister usually / always drinks water. She never drinks soda.",
+          "answer": "always"
+        },
+        {
+          "item": "I go running twice / four times a week.",
+          "answer": "four times"
+        },
+        {
+          "item": "We hardly ever / often argue. We have a good relationship.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "She eats vegetables every day / year.",
+          "answer": "day"
+        },
+        {
+          "item": "He is never / usually tired after running. He has good stamina.",
+          "answer": "never"
+        },
+        {
+          "item": "The holidays last three weeks / days.",
+          "answer": "weeks"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They sometimes / never visit new cities. They prefer the countryside.",
+          "answer": "never"
+        },
+        {
+          "item": "We have coffee once / twice a day.",
+          "answer": "twice"
+        },
+        {
+          "item": "She always / usually helps her friends. She is a very good friend.",
+          "answer": "always"
+        },
+        {
+          "item": "I clean my car every month / day.",
+          "answer": "month"
+        },
+        {
+          "item": "He often / never forgets his wallet. (It happens sometimes)",
+          "answer": "often"
+        },
+        {
+          "item": "How many days / months are there in 365 days?",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I usually / never start work before 8 a.m. (It's my routine)",
+          "answer": "usually"
+        },
+        {
+          "item": "They play cards once / three times a week.",
+          "answer": "three times"
+        },
+        {
+          "item": "We hardly never / ever eat out. We prefer cooking at home.",
+          "answer": "ever"
+        },
+        {
+          "item": "She goes abroad every year / month.",
+          "answer": "year"
+        },
+        {
+          "item": "He sometimes / always stays home on Sundays. Not every week.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "My boss takes two months / days of holiday a year.",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "He is always / never right. He often makes mistakes.",
+          "answer": "never"
+        },
+        {
+          "item": "I go to the museum four / once a month.",
+          "answer": "once"
+        },
+        {
+          "item": "We often / hardly ever drive. We usually take the bus.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "She reads magazines every day / week.",
+          "answer": "week"
+        },
+        {
+          "item": "They usually / sometimes eat dinner late. (It’s their habit)",
+          "answer": "usually"
+        },
+        {
+          "item": "How many weeks / days are there in 72 hours?",
+          "answer": "days"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My sister sometimes / never calls me. We talk every day.",
+          "answer": "always"
+        },
+        {
+          "item": "We eat sushi twice / four times a year.",
+          "answer": "twice"
+        },
+        {
+          "item": "She often / rarely watches reality TV. She prefers documentaries.",
+          "answer": "rarely"
+        },
+        {
+          "item": "I drink water every day / month.",
+          "answer": "day"
+        },
+        {
+          "item": "He usually / sometimes goes to bed late. (Not always)",
+          "answer": "usually"
+        },
+        {
+          "item": "The contract is valid for two years / days.",
+          "answer": "years"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I sometimes / always wake up late. Only on Sundays.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "They meet once / four times a month. Every Thursday.",
+          "answer": "four times"
+        },
+        {
+          "item": "She is hardly never / ever stressed. She is very calm.",
+          "answer": "ever"
+        },
+        {
+          "item": "We go abroad every month / year.",
+          "answer": "year"
+        },
+        {
+          "item": "He often / never drives to work. He lives too far away.",
+          "answer": "never"
+        },
+        {
+          "item": "How many months / weeks are there in half a year?",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "I always / usually have breakfast. It’s the most important meal.",
+          "answer": "always"
+        },
+        {
+          "item": "She visits her parents twice / three times a week.",
+          "answer": "twice"
+        },
+        {
+          "item": "We sometimes / never go out in the rain.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "He calls his friend every day / week.",
+          "answer": "day"
+        },
+        {
+          "item": "They hardly ever / often eat meat. They are vegetarian.",
+          "answer": "never"
+        },
+        {
+          "item": "I study three days / weeks before a test.",
+          "answer": "weeks"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "He is often / always busy at work. Sometimes he has free time.",
+          "answer": "often"
+        },
+        {
+          "item": "We go running once / three times a month.",
+          "answer": "three times"
+        },
+        {
+          "item": "She never / usually cooks dinner. (It's her routine)",
+          "answer": "usually"
+        },
+        {
+          "item": "I read articles every month / day.",
+          "answer": "day"
+        },
+        {
+          "item": "They hardly never / ever eat fish. They hate it.",
+          "answer": "ever"
+        },
+        {
+          "item": "The season lasts three months / weeks.",
+          "answer": "months"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss is never / always late. He arrives late every day.",
+          "answer": "always"
+        },
+        {
+          "item": "I take a vacation twice / once a year.",
+          "answer": "twice"
+        },
+        {
+          "item": "We sometimes / hardly ever forget people's names.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "She studies English every week / day.",
+          "answer": "week"
+        },
+        {
+          "item": "He often / never argues with his friends.",
+          "answer": "never"
+        },
+        {
+          "item": "How many days / weeks are there in two years?",
+          "answer": "days"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "4C"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word.",
+      "example": {
+        "item": "He goes to the cinema four / once a month.",
+        "answer": "once"
+      },
+      "qa_pairs": [
+        {
+          "item": "They usually / never play games. (It's their main hobby)",
+          "answer": "usually"
+        },
+        {
+          "item": "We go dancing once / four times a week. Every Saturday.",
+          "answer": "once"
+        },
+        {
+          "item": "She hardly ever / often cooks complex meals.",
+          "answer": "hardly ever"
+        },
+        {
+          "item": "He goes shopping every month / day.",
+          "answer": "month"
+        },
+        {
+          "item": "I sometimes / always watch sports on TV. Only if my team is playing.",
+          "answer": "sometimes"
+        },
+        {
+          "item": "The new year starts in January (first month / week).",
+          "answer": "month"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1295 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "fast",
+          "answer": "slow"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "old",
+          "answer": "new"
+        },
+        {
+          "item": "hot",
+          "answer": "cold"
+        },
+        {
+          "item": "big",
+          "answer": "small"
+        },
+        {
+          "item": "short (length)",
+          "answer": "long"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "light (weight)",
+          "answer": "heavy"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "fast",
+          "answer": "slow"
+        },
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "sad",
+          "answer": "happy"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "big",
+          "answer": "small"
+        },
+        {
+          "item": "bad",
+          "answer": "good"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "clean",
+          "answer": "dirty"
+        },
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "hot",
+          "answer": "cold"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "fast",
+          "answer": "slow"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "beautiful",
+          "answer": "ugly"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "low",
+          "answer": "high"
+        },
+        {
+          "item": "bad",
+          "answer": "good"
+        },
+        {
+          "item": "long",
+          "answer": "short"
+        },
+        {
+          "item": "heavy",
+          "answer": "light"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "old",
+          "answer": "new"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "empty",
+          "answer": "full"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "happy",
+          "answer": "sad"
+        },
+        {
+          "item": "fantastic",
+          "answer": "terrible"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "cold",
+          "answer": "hot"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        },
+        {
+          "item": "fast",
+          "answer": "slow"
+        },
+        {
+          "item": "ugly",
+          "answer": "beautiful"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        },
+        {
+          "item": "bad",
+          "answer": "good"
+        },
+        {
+          "item": "light (colour)",
+          "answer": "dark"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "sad",
+          "answer": "happy"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "fantastic",
+          "answer": "terrible"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        },
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "old",
+          "answer": "new"
+        },
+        {
+          "item": "heavy",
+          "answer": "light"
+        },
+        {
+          "item": "short (distance)",
+          "answer": "long"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "cold",
+          "answer": "hot"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "big",
+          "answer": "small"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "happy",
+          "answer": "sad"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        },
+        {
+          "item": "light (weight)",
+          "answer": "heavy"
+        },
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "short (time)",
+          "answer": "long"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "fantastic",
+          "answer": "terrible"
+        },
+        {
+          "item": "big",
+          "answer": "small"
+        },
+        {
+          "item": "dirty",
+          "answer": "clean"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        },
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "old",
+          "answer": "new"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "cold",
+          "answer": "hot"
+        },
+        {
+          "item": "light (weight)",
+          "answer": "heavy"
+        },
+        {
+          "item": "long",
+          "answer": "short"
+        },
+        {
+          "item": "happy",
+          "answer": "sad"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "bad",
+          "answer": "good"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "fast",
+          "answer": "slow"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "old",
+          "answer": "new"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "big",
+          "answer": "small"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        },
+        {
+          "item": "long",
+          "answer": "short"
+        },
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "happy",
+          "answer": "sad"
+        },
+        {
+          "item": "light (colour)",
+          "answer": "dark"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "bad",
+          "answer": "good"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "fast",
+          "answer": "slow"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "ugly",
+          "answer": "beautiful"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "old",
+          "answer": "new"
+        },
+        {
+          "item": "hot",
+          "answer": "cold"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "heavy",
+          "answer": "light"
+        },
+        {
+          "item": "sad",
+          "answer": "happy"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "long",
+          "answer": "short"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        },
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "cold",
+          "answer": "hot"
+        },
+        {
+          "item": "ugly",
+          "answer": "beautiful"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "fantastic",
+          "answer": "terrible"
+        },
+        {
+          "item": "heavy",
+          "answer": "light"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "empty",
+          "answer": "full"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "fast",
+          "answer": "slow"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "bad",
+          "answer": "good"
+        },
+        {
+          "item": "new",
+          "answer": "old"
+        },
+        {
+          "item": "happy",
+          "answer": "sad"
+        },
+        {
+          "item": "short (distance)",
+          "answer": "long"
+        },
+        {
+          "item": "big",
+          "answer": "small"
+        },
+        {
+          "item": "light (weight)",
+          "answer": "heavy"
+        },
+        {
+          "item": "cold",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "easy",
+          "answer": "difficult"
+        },
+        {
+          "item": "cheap",
+          "answer": "expensive"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "strong",
+          "answer": "weak"
+        },
+        {
+          "item": "terrible",
+          "answer": "fantastic"
+        },
+        {
+          "item": "safe",
+          "answer": "dangerous"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "old",
+          "answer": "new"
+        },
+        {
+          "item": "difficult",
+          "answer": "easy"
+        },
+        {
+          "item": "small",
+          "answer": "big"
+        },
+        {
+          "item": "expensive",
+          "answer": "cheap"
+        },
+        {
+          "item": "dangerous",
+          "answer": "safe"
+        },
+        {
+          "item": "good",
+          "answer": "bad"
+        },
+        {
+          "item": "weak",
+          "answer": "strong"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B"
+      ],
+      "type": "short_answer",
+      "instructions": "Write the opposites. Use the words from the list: slow, dangerous, strong, easy, expensive, full, fantastic, beautiful, good, bad, happy, cold, small, new, long, light, old, dirty, high.",
+      "example": {
+        "item": "ugly",
+        "answer": "beautiful"
+      },
+      "qa_pairs": [
+        {
+          "item": "fantastic",
+          "answer": "terrible"
+        },
+        {
+          "item": "full",
+          "answer": "empty"
+        },
+        {
+          "item": "slow",
+          "answer": "fast"
+        },
+        {
+          "item": "cold",
+          "answer": "hot"
+        },
+        {
+          "item": "heavy",
+          "answer": "light"
+        },
+        {
+          "item": "long",
+          "answer": "short"
+        },
+        {
+          "item": "happy",
+          "answer": "sad"
+        }
+      ]
+    }
+  ]
+}
+

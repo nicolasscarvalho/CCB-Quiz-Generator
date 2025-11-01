@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can’t see the road because it’s f__________. Drive slowly!",
+          "answer": "foggy"
+        },
+        {
+          "item": "It’s very c__________ outside. Put on your thickest coat.",
+          "answer": "cold"
+        },
+        {
+          "item": "The sun is s__________ brightly. It's a lovely day.",
+          "answer": "shining"
+        },
+        {
+          "item": "We need an umbrella, as it’s r__________ heavily.",
+          "answer": "raining"
+        },
+        {
+          "item": "It’s c__________; the sky is grey and full of clouds.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The wind is w__________ today. Be careful with your hat.",
+          "answer": "windy"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s s__________ outside. The whole garden is white now.",
+          "answer": "snowing"
+        },
+        {
+          "item": "I feel h__________. I wish I was at the beach.",
+          "answer": "hot"
+        },
+        {
+          "item": "The visibility is low because it’s f__________. ",
+          "answer": "foggy"
+        },
+        {
+          "item": "When the sky is blue and s__________, I feel happy.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The sun is s__________ now, so we can go out.",
+          "answer": "shining"
+        },
+        {
+          "item": "The washing machine is outside. I hope it doesn't s__________ soon.",
+          "answer": "snow"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The trees are moving a lot because it’s w__________. ",
+          "answer": "windy"
+        },
+        {
+          "item": "It was c__________ yesterday, but today the sun is out.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "Please take your umbrella, it is r__________ again.",
+          "answer": "raining"
+        },
+        {
+          "item": "I love the summer when it’s h__________ and dry.",
+          "answer": "hot"
+        },
+        {
+          "item": "It’s s__________ now; it must be very cold outside.",
+          "answer": "snowing"
+        },
+        {
+          "item": "I hate the mornings when it is f__________ and damp.",
+          "answer": "foggy"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "We can see the moon. The stars are s__________ in the sky.",
+          "answer": "shining"
+        },
+        {
+          "item": "It’s getting c__________, please close the door.",
+          "answer": "cold"
+        },
+        {
+          "item": "It’s a perfect s__________ day for the beach.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The sky is full of dark clouds, so it’s c__________.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The visibility is almost zero due to the heavy f__________.",
+          "answer": "fog"
+        },
+        {
+          "item": "The roof is very wet. I think it was r__________ all night.",
+          "answer": "raining"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s so h__________ in here. I need air conditioning.",
+          "answer": "hot"
+        },
+        {
+          "item": "The weather is very w__________, the sea is rough.",
+          "answer": "windy"
+        },
+        {
+          "item": "I can’t see the top of the tower, it’s too f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "When it’s s__________, the temperature drops quickly.",
+          "answer": "snowing"
+        },
+        {
+          "item": "It’s c__________ and grey, but at least it’s not raining.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "My phone screen is s__________ because of the sun.",
+          "answer": "shining"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I feel c__________, can you turn up the heating?",
+          "answer": "cold"
+        },
+        {
+          "item": "I love days that are bright and s__________.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The rain is really heavy, it is r__________ hard.",
+          "answer": "raining"
+        },
+        {
+          "item": "The weather is so w__________ that the umbrella turned inside out.",
+          "answer": "windy"
+        },
+        {
+          "item": "When it’s f__________, the flights are usually delayed.",
+          "answer": "foggy"
+        },
+        {
+          "item": "The streetlights are s__________ onto the wet road.",
+          "answer": "shining"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The weather is c__________, I need my thick sweater.",
+          "answer": "cold"
+        },
+        {
+          "item": "It’s s__________ and slippery today, be careful walking.",
+          "answer": "snowing"
+        },
+        {
+          "item": "The sun is h__________ and I want to swim.",
+          "answer": "hot"
+        },
+        {
+          "item": "The sky is c__________ and gray, it looks like rain.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "When the sun is s__________, we should wear sunglasses.",
+          "answer": "shining"
+        },
+        {
+          "item": "I hate having to drive when it's r__________.",
+          "answer": "raining"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s f__________ at the airport. All flights are delayed.",
+          "answer": "foggy"
+        },
+        {
+          "item": "It's a beautiful s__________ morning for a walk.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The wind is very w__________, I can hear it whistling.",
+          "answer": "windy"
+        },
+        {
+          "item": "When the lights are s__________, I can't see properly.",
+          "answer": "shining"
+        },
+        {
+          "item": "The mountains are covered in s__________ in December.",
+          "answer": "snow"
+        },
+        {
+          "item": "I feel h__________, let's get some ice cream.",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The sky is completely c__________, it’s very dark.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "It’s r__________ heavily. I forgot my waterproof coat.",
+          "answer": "raining"
+        },
+        {
+          "item": "I hate the w__________ because my hair gets messy.",
+          "answer": "windy"
+        },
+        {
+          "item": "It’s so c__________ I can see my breath.",
+          "answer": "cold"
+        },
+        {
+          "item": "The sun is finally s__________ after three days of rain.",
+          "answer": "shining"
+        },
+        {
+          "item": "I hope it doesn't s__________ during our hike.",
+          "answer": "snow"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s h__________ in the summer, usually 35 degrees.",
+          "answer": "hot"
+        },
+        {
+          "item": "The roads are dangerous when it’s f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "It was s__________ all morning, but now it has stopped.",
+          "answer": "snowing"
+        },
+        {
+          "item": "Let’s go for a picnic, it’s a beautiful s__________ day.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The weather is w__________, the waves are huge.",
+          "answer": "windy"
+        },
+        {
+          "item": "The sky is c__________ and depressing today.",
+          "answer": "cloudy"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s c__________; put on a sweater and a jacket.",
+          "answer": "cold"
+        },
+        {
+          "item": "The headlights are s__________ directly into my eyes.",
+          "answer": "shining"
+        },
+        {
+          "item": "We can't go hiking because it’s r__________.",
+          "answer": "raining"
+        },
+        {
+          "item": "I love the summer when it’s s__________ and warm.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The snow is s__________ gently now.",
+          "answer": "snowing"
+        },
+        {
+          "item": "It is so h__________ I can barely breathe.",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The whole town is covered in a thick f__________.",
+          "answer": "fog"
+        },
+        {
+          "item": "It’s a beautiful day, the sun is s__________ brightly.",
+          "answer": "shining"
+        },
+        {
+          "item": "I hate travelling when it’s w__________.",
+          "answer": "windy"
+        },
+        {
+          "item": "The sky is c__________, and there's no sun visible.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "It’s r__________ so hard that the streets are flooded.",
+          "answer": "raining"
+        },
+        {
+          "item": "The temperature is below zero, it's very c__________.",
+          "answer": "cold"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I love the beach when it's s__________ and calm.",
+          "answer": "sunny"
+        },
+        {
+          "item": "It's so h__________ I feel exhausted.",
+          "answer": "hot"
+        },
+        {
+          "item": "The traffic moves slowly when it’s f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "I need boots because it is s__________ outside.",
+          "answer": "snowing"
+        },
+        {
+          "item": "The clouds are dark. I think it will r__________ soon.",
+          "answer": "rain"
+        },
+        {
+          "item": "It’s so w__________ the electricity pole fell down.",
+          "answer": "windy"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can’t see the sun because it’s c__________.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The reflection of the streetlights is s__________ on the pavement.",
+          "answer": "shining"
+        },
+        {
+          "item": "It’s very c__________. My fingers are frozen.",
+          "answer": "cold"
+        },
+        {
+          "item": "We can’t go out, it's r__________ continuously.",
+          "answer": "raining"
+        },
+        {
+          "item": "The weather forecast said it would be s__________ this weekend.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The temperature is h__________ today, reaching 30°C.",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "Be careful, the ground is slippy because it’s s__________.",
+          "answer": "snowy"
+        },
+        {
+          "item": "The mountains disappear in the morning f__________.",
+          "answer": "fog"
+        },
+        {
+          "item": "It’s so w__________ that the trash cans fell over.",
+          "answer": "windy"
+        },
+        {
+          "item": "When the sun is s__________, everything looks brighter.",
+          "answer": "shining"
+        },
+        {
+          "item": "The children love playing outside when it’s s__________.",
+          "answer": "sunny"
+        },
+        {
+          "item": "I hate travelling when it's r__________ because of the traffic.",
+          "answer": "raining"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s a perfect s__________ day for a barbecue.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The sky is c__________ and gray, it’s not sunny at all.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "I feel too h__________ to exercise.",
+          "answer": "hot"
+        },
+        {
+          "item": "The temperatures are dropping, so it’s getting c__________.",
+          "answer": "cold"
+        },
+        {
+          "item": "It’s s__________ outside. We should wear winter boots.",
+          "answer": "snowy"
+        },
+        {
+          "item": "The airplane was delayed due to the morning f__________.",
+          "answer": "fog"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s r__________ so hard. The river is rising.",
+          "answer": "raining"
+        },
+        {
+          "item": "The streetlights are s__________ onto the road.",
+          "answer": "shining"
+        },
+        {
+          "item": "The trees are bending because it’s so w__________.",
+          "answer": "windy"
+        },
+        {
+          "item": "It’s freezing c__________, don't forget your gloves.",
+          "answer": "cold"
+        },
+        {
+          "item": "I hate driving when it’s f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "The weather is s__________ and bright this morning.",
+          "answer": "sunny"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The mountain is covered in s__________ in January.",
+          "answer": "snow"
+        },
+        {
+          "item": "I feel h__________ and sticky, I need a cold shower.",
+          "answer": "hot"
+        },
+        {
+          "item": "The sky is c__________ and looks like a storm is coming.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The moon is s__________ on the water tonight.",
+          "answer": "shining"
+        },
+        {
+          "item": "We stayed inside because it was r__________ all day.",
+          "answer": "raining"
+        },
+        {
+          "item": "It's a lovely s__________ day for a picnic.",
+          "answer": "sunny"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It is so c__________ I can barely feel my toes.",
+          "answer": "cold"
+        },
+        {
+          "item": "The morning f__________ made it impossible to see the road.",
+          "answer": "fog"
+        },
+        {
+          "item": "It’s s__________ outside, but the children are still playing.",
+          "answer": "snowing"
+        },
+        {
+          "item": "I hate days that are w__________ and grey.",
+          "answer": "windy"
+        },
+        {
+          "item": "The sun is s__________ after the storm passed.",
+          "answer": "shining"
+        },
+        {
+          "item": "I love going for a walk when it’s s__________.",
+          "answer": "sunny"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The sky is completely c__________, I miss the sun.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "It’s so h__________ I feel exhausted just sitting here.",
+          "answer": "hot"
+        },
+        {
+          "item": "Remember your umbrella, it’s r__________.",
+          "answer": "raining"
+        },
+        {
+          "item": "The mountain tops are s__________ because of the reflection.",
+          "answer": "shining"
+        },
+        {
+          "item": "It’s very w__________, the sea waves are huge.",
+          "answer": "windy"
+        },
+        {
+          "item": "I don't like driving when it’s s__________.",
+          "answer": "snowing"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can’t see the car in front because of the f__________.",
+          "answer": "fog"
+        },
+        {
+          "item": "It's so c__________ I need a hot drink.",
+          "answer": "cold"
+        },
+        {
+          "item": "It’s a perfect s__________ day for the beach.",
+          "answer": "sunny"
+        },
+        {
+          "item": "We must bring an umbrella in case it r__________.",
+          "answer": "rains"
+        },
+        {
+          "item": "The weather is very w__________ today.",
+          "answer": "windy"
+        },
+        {
+          "item": "The sun is s__________ on the white snow.",
+          "answer": "shining"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s s__________ gently. The air is peaceful.",
+          "answer": "snowing"
+        },
+        {
+          "item": "The sky is completely c__________ and grey.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "I feel h__________ and exhausted after the run.",
+          "answer": "hot"
+        },
+        {
+          "item": "The visibility is very low because it’s f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "We love going out when the weather is c__________ and crisp.",
+          "answer": "cold"
+        },
+        {
+          "item": "It’s a beautiful s__________ day, perfect for cycling.",
+          "answer": "sunny"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate it when it's r__________ and cold.",
+          "answer": "raining"
+        },
+        {
+          "item": "The sun is s__________ directly through the window.",
+          "answer": "shining"
+        },
+        {
+          "item": "It’s w__________ outside. Close the windows tightly.",
+          "answer": "windy"
+        },
+        {
+          "item": "The mountains look beautiful when they are covered in s__________.",
+          "answer": "snow"
+        },
+        {
+          "item": "It’s very c__________. We should go indoors.",
+          "answer": "cold"
+        },
+        {
+          "item": "I feel too h__________ to wear a jacket.",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s a beautiful s__________ day for a stroll in the park.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The sky is c__________ and gray, but dry.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The lights are s__________ on the wet pavement.",
+          "answer": "shining"
+        },
+        {
+          "item": "I can’t drive fast because it’s f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "The storm is strong. It's r__________ very heavily.",
+          "answer": "raining"
+        },
+        {
+          "item": "It’s s__________ a little bit this afternoon.",
+          "answer": "snowing"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "I hate when it’s w__________ because it breaks my umbrella.",
+          "answer": "windy"
+        },
+        {
+          "item": "I need to turn on the heating, I feel c__________.",
+          "answer": "cold"
+        },
+        {
+          "item": "When it’s s__________, we stay indoors and watch TV.",
+          "answer": "snowing"
+        },
+        {
+          "item": "The sun is h__________ and bright, let’s go to the pool.",
+          "answer": "hot"
+        },
+        {
+          "item": "It’s a perfect s__________ day for a trip to the countryside.",
+          "answer": "sunny"
+        },
+        {
+          "item": "The sky is c__________ today. No sun is visible.",
+          "answer": "cloudy"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "The weather is very f__________, so drive slowly.",
+          "answer": "foggy"
+        },
+        {
+          "item": "I’m h__________ from walking in the sun.",
+          "answer": "hot"
+        },
+        {
+          "item": "It’s r__________ slightly now, but it might stop soon.",
+          "answer": "raining"
+        },
+        {
+          "item": "The stars are s__________ like diamonds tonight.",
+          "answer": "shining"
+        },
+        {
+          "item": "I feel c__________ and shivery; I need a blanket.",
+          "answer": "cold"
+        },
+        {
+          "item": "The day is s__________ and bright. A good start!",
+          "answer": "sunny"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It's a very w__________ day, the branches are breaking.",
+          "answer": "windy"
+        },
+        {
+          "item": "The sky is completely c__________ from east to west.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The whole city is covered in thick s__________.",
+          "answer": "snow"
+        },
+        {
+          "item": "I love the mountains when the sun is s__________.",
+          "answer": "shining"
+        },
+        {
+          "item": "It’s f__________ and wet outside.",
+          "answer": "foggy"
+        },
+        {
+          "item": "We should go to the park as it’s a beautiful s__________ day.",
+          "answer": "sunny"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s s__________ now. The roads are getting blocked.",
+          "answer": "snowing"
+        },
+        {
+          "item": "I feel c__________ even though I am wearing five layers.",
+          "answer": "cold"
+        },
+        {
+          "item": "The rain is p__________ down. It’s r__________ constantly.",
+          "answer": "raining"
+        },
+        {
+          "item": "It’s a very h__________ day, perfect for staying near the fan.",
+          "answer": "hot"
+        },
+        {
+          "item": "The weather is incredibly w__________, I can't stand up straight.",
+          "answer": "windy"
+        },
+        {
+          "item": "I wish the sun was s__________ instead of all these clouds.",
+          "answer": "shining"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It's a beautiful s__________ day, let's play tennis.",
+          "answer": "sunny"
+        },
+        {
+          "item": "I can’t see the mountains because of the f__________.",
+          "answer": "fog"
+        },
+        {
+          "item": "It’s c__________; the clouds are moving fast.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "The weather is too h__________ for hiking today.",
+          "answer": "hot"
+        },
+        {
+          "item": "It’s r__________ slightly, so take a light jacket.",
+          "answer": "raining"
+        },
+        {
+          "item": "The leaves are blowing everywhere, it’s w__________.",
+          "answer": "windy"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "5C"
+      ],
+      "type": "fill_in_the_blanks_word",
+      "instructions": "Complete the weather words.",
+      "example": {
+        "item": "It’s hot and s__________ today. Let’s go to the park.",
+        "answer": "sunny"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s so c__________ that the lake is starting to freeze.",
+          "answer": "cold"
+        },
+        {
+          "item": "The sky is c__________ and gray; it looks like a winter day.",
+          "answer": "cloudy"
+        },
+        {
+          "item": "I can’t see the top of the bridge because it’s f__________.",
+          "answer": "foggy"
+        },
+        {
+          "item": "I love days where the sun is s__________ all day.",
+          "answer": "shining"
+        },
+        {
+          "item": "The forecast predicts s__________ for Christmas Day.",
+          "answer": "snow"
+        },
+        {
+          "item": "It’s a perfect s__________ day for flying a kite.",
+          "answer": "sunny"
+        }
+      ]
+    }
+  ]
+}
+
