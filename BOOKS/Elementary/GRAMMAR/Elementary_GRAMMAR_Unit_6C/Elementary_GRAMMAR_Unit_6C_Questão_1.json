@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Why are / do you running so fast? We have plenty of time.",
+          "answer": "are"
+        },
+        {
+          "item": "²Does / Is your brother working at the new restaurant downtown?",
+          "answer": "Is"
+        },
+        {
+          "item": "³He doesn't / isn't using his computer right now; he's on the phone.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁴She doesn't / isn't watching the movie; she's sleeping on the sofa.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁵Do / Are they generally need to make a reservation at that café?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁶What is / does he doing over there by the window?",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹I 'm not / don't going to the party tonight because I feel tired.",
+          "answer": "'m not"
+        },
+        {
+          "item": "²What kind of music are / do you usually listen to?",
+          "answer": "do"
+        },
+        {
+          "item": "³They aren't / don't making so much noise; the baby is awake now.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁴He doesn't / isn't like romantic movies at all.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵Are / Do you have any pets at home?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁶What are / do the children studying in school this semester?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹You aren't / don't need to pay to enter; admission is free today.",
+          "answer": "don't"
+        },
+        {
+          "item": "²Where is / does she normally keep her car keys?",
+          "answer": "does"
+        },
+        {
+          "item": "³He is / does seeing a doctor this afternoon about his knee.",
+          "answer": "is"
+        },
+        {
+          "item": "⁴The students aren't / don't playing in the gym; they are in the library.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵Do / Are we need to bring anything for the barbecue?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁶My sister doesn't / isn't living in Canada anymore.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹She doesn't / isn't need any help with her project this weekend.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "²Is / Does that your new jacket hanging on the chair?",
+          "answer": "Is"
+        },
+        {
+          "item": "³Why are / do you looking at me like that?",
+          "answer": "are"
+        },
+        {
+          "item": "⁴They aren't / don't know the correct answer to the teacher's question.",
+          "answer": "don't"
+        },
+        {
+          "item": "⁵What is / does your best friend do on the weekends?",
+          "answer": "does"
+        },
+        {
+          "item": "⁶My father doesn't / isn't working at the moment; he is on vacation.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹He is / does waking up early tomorrow for his flight.",
+          "answer": "is"
+        },
+        {
+          "item": "²My grandparents don't / aren't living in that house anymore.",
+          "answer": "aren't"
+        },
+        {
+          "item": "³Does / Is the local supermarket open on Sundays?",
+          "answer": "Is"
+        },
+        {
+          "item": "⁴We aren't / don't leaving yet; the movie hasn't finished.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵She doesn't / isn't coming to the meeting because she feels unwell.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁶What time are / do you usually have dinner?",
+          "answer": "do"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹I don't / 'm not feeling very energetic today.",
+          "answer": "'m not"
+        },
+        {
+          "item": "²Does / Is your friend know how to cook Italian food?",
+          "answer": "Does"
+        },
+        {
+          "item": "³Why are / do those children shouting? Is everything okay?",
+          "answer": "are"
+        },
+        {
+          "item": "⁴We don't / aren't watching this show; we are just talking.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵They don't / aren't like the hot weather in the summer.",
+          "answer": "don't"
+        },
+        {
+          "item": "⁶Are / Do you paying attention to what I'm saying?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹She is / does practicing the violin for her concert next week.",
+          "answer": "is"
+        },
+        {
+          "item": "²Why are / do you look so happy today?",
+          "answer": "do"
+        },
+        {
+          "item": "³You don't / aren't cleaning your room now; you are watching TV.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁴He doesn't / isn't have a car, so he uses the bus.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵The bakery doesn't / isn't open yet; it opens at 9 a.m.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁶What are / do we having for dinner tonight?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹What are / do you doing with that camera?",
+          "answer": "are"
+        },
+        {
+          "item": "²My phone doesn't / isn't work very well when the battery is low.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "³Are / Do they usually travel during the winter?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁴We aren't / don't taking photos in here; it's not allowed.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵He isn't / doesn't working today; it's his day off.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁶She is / does calling her brother to wish him a happy birthday.",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹I don't / 'm not working on Saturdays, so I can relax.",
+          "answer": "don't"
+        },
+        {
+          "item": "²What is / does that beautiful noise? Is someone playing the piano?",
+          "answer": "is"
+        },
+        {
+          "item": "³You are / do being very quiet. Is everything alright?",
+          "answer": "are"
+        },
+        {
+          "item": "⁴They don't / aren't going to the cinema this evening.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵Does / Is your colleague speak any other languages?",
+          "answer": "Does"
+        },
+        {
+          "item": "⁶She is / does wearing her new glasses for reading.",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹We don't / aren't buying a present; we are just giving him a card.",
+          "answer": "aren't"
+        },
+        {
+          "item": "²He doesn't / isn't enjoy listening to loud music.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "³Are / Do you need some help carrying those boxes?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁴The new intern doesn't / isn't seem very happy with his tasks.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵The cafe doesn't / isn't serving breakfast anymore; it's past 11 a.m.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁶They are / do studying very hard for their exams.",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹You aren't / don't need to wash the car; I am doing it now.",
+          "answer": "don't"
+        },
+        {
+          "item": "²Is / Does it snowing outside right now?",
+          "answer": "Is"
+        },
+        {
+          "item": "³He is / does taking this medicine every morning.",
+          "answer": "is"
+        },
+        {
+          "item": "⁴She doesn't / isn't know the way to the post office.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵What time are / do the museums in this city usually close?",
+          "answer": "do"
+        },
+        {
+          "item": "⁶We aren't / don't forgetting to thank them; we have a card ready.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹I 'm not / don't agree with his decision on this issue.",
+          "answer": "don't"
+        },
+        {
+          "item": "²Does / Is that man a professor at this college?",
+          "answer": "Is"
+        },
+        {
+          "item": "³Why are / do you wearing a helmet inside the house?",
+          "answer": "are"
+        },
+        {
+          "item": "⁴They don't / aren't interested in modern art.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵She is / does attending a mandatory meeting tomorrow morning.",
+          "answer": "is"
+        },
+        {
+          "item": "⁶You don't / aren't listening to me, are you?",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹He doesn't / isn't understand what the teacher is explaining.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "²Why are / do you learning Japanese?",
+          "answer": "are"
+        },
+        {
+          "item": "³We aren't / don't parking here; look at the no-parking sign.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁴She doesn't / isn't having to cook tonight; it's my turn.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁵Do / Are your parents know that you are here?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁶What are / do you doing after you finish this task?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹You don't / aren't coming with us if you don't feel like it.",
+          "answer": "aren't"
+        },
+        {
+          "item": "²This new app doesn't / isn't work on my old phone.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "³Is / Does she wearing the blue coat she bought last week?",
+          "answer": "Is"
+        },
+        {
+          "item": "⁴He is / does getting a visa to travel to Australia next month.",
+          "answer": "is"
+        },
+        {
+          "item": "⁵They aren't / don't live in this city anymore.",
+          "answer": "don't"
+        },
+        {
+          "item": "⁶Why are / do you touching that? It looks dangerous.",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹I am / do going now, or I will miss my bus.",
+          "answer": "am"
+        },
+        {
+          "item": "²He doesn't / isn't playing video games; he's studying.",
+          "answer": "isn't"
+        },
+        {
+          "item": "³You aren't / don't telling lies to me, are you?",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁴Are / Do your kids go to the local primary school?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁵We are / do bringing our own snacks to the picnic.",
+          "answer": "are"
+        },
+        {
+          "item": "⁶She doesn't / isn't normally eat meat.",
+          "answer": "doesn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Does / Is your father know the way to the airport?",
+          "answer": "Does"
+        },
+        {
+          "item": "²Why are / do you shouting? The baby is sleeping.",
+          "answer": "are"
+        },
+        {
+          "item": "³She is / does working extra hours tonight to finish the project.",
+          "answer": "is"
+        },
+        {
+          "item": "⁴I don't / 'm not watching this horror film; it's too frightening.",
+          "answer": "'m not"
+        },
+        {
+          "item": "⁵He doesn't / isn't feel well, so he's staying in bed.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁶They don't / aren't have a new car; that's a rental.",
+          "answer": "don't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹We are / do booking the hotel room before we leave.",
+          "answer": "are"
+        },
+        {
+          "item": "²She doesn't / isn't wearing her glasses, so she can't see far.",
+          "answer": "isn't"
+        },
+        {
+          "item": "³Do / Are you enjoy your new course at the university?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁴He doesn't / isn't have to be at the meeting if he is busy.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵What are / do you currently reading?",
+          "answer": "are"
+        },
+        {
+          "item": "⁶They aren't / don't using the kitchen at the moment.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹You don't / aren't eating all the food on your plate, are you?",
+          "answer": "aren't"
+        },
+        {
+          "item": "²He doesn't / isn't speak French very fluently.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "³Is / Does your sister a veterinarian?",
+          "answer": "Is"
+        },
+        {
+          "item": "⁴The passengers are / do turning off their phones for takeoff.",
+          "answer": "are"
+        },
+        {
+          "item": "⁵We don't / aren't going to the park today because of the rain.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁶What is / does making that strange noise?",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹She is / does being more careful after she broke the last vase.",
+          "answer": "is"
+        },
+        {
+          "item": "²They don't / aren't play chess very often.",
+          "answer": "don't"
+        },
+        {
+          "item": "³Are / Do you coming to my graduation party next month?",
+          "answer": "Are"
+        },
+        {
+          "item": "⁴He isn't / doesn't need to wear a uniform on casual Fridays.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵We are / do buying a new television because this one is broken.",
+          "answer": "are"
+        },
+        {
+          "item": "⁶Why doesn't / isn't he answering his phone?",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹You are / do being very professional for your appointment.",
+          "answer": "are"
+        },
+        {
+          "item": "²I 'm not / don't know the correct time.",
+          "answer": "don't"
+        },
+        {
+          "item": "³Does / Is she listening to music on her headphones?",
+          "answer": "Is"
+        },
+        {
+          "item": "⁴He is / does studying for his final exams all this week.",
+          "answer": "is"
+        },
+        {
+          "item": "⁵They don't / aren't need any assistance with their luggage.",
+          "answer": "don't"
+        },
+        {
+          "item": "⁶The children aren't / don't watching cartoons; they are reading.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹She is / does getting her roof repaired this week.",
+          "answer": "is"
+        },
+        {
+          "item": "²He doesn't / isn't want to go out; he's feeling tired.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "³What are / do you thinking about so seriously?",
+          "answer": "are"
+        },
+        {
+          "item": "⁴Do / Are they need to reserve a table for dinner?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁵We aren't / don't making any mistakes in this report; we're checking it twice.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁶Why are / do the dogs barking?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹You don't / aren't worrying, are you? Everything is fine.",
+          "answer": "aren't"
+        },
+        {
+          "item": "²Where is / does your best friend from?",
+          "answer": "is"
+        },
+        {
+          "item": "³He is / does being at the airport two hours before every flight.",
+          "answer": "is"
+        },
+        {
+          "item": "⁴She isn't / doesn't coming with us to the cinema.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁵Do / Are you usually have to work on weekends?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁶The children are / do respecting their teacher's instructions.",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹I am / do trying to remember to buy milk on my way home.",
+          "answer": "am"
+        },
+        {
+          "item": "²He doesn't / isn't usually stay up this late.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "³They are / do building a new bridge over the river.",
+          "answer": "are"
+        },
+        {
+          "item": "⁴We are / do following the recipe very carefully.",
+          "answer": "are"
+        },
+        {
+          "item": "⁵She doesn't / isn't have to join the call if she's in a meeting.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁶What book is / does she reading at the moment?",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Look! The cat doesn't / isn't sleeping in its bed.",
+          "answer": "isn't"
+        },
+        {
+          "item": "²Why are / do you walking on the grass in this park?",
+          "answer": "are"
+        },
+        {
+          "item": "³Does / Is your brother still live with your parents?",
+          "answer": "Does"
+        },
+        {
+          "item": "⁴We don't / aren't cooking tonight; we are ordering a pizza.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵She is / does wearing her formal clothes for the job interview.",
+          "answer": "is"
+        },
+        {
+          "item": "⁶He doesn't / isn't know how to fix the computer.",
+          "answer": "doesn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹He is / does paying the rent online right now.",
+          "answer": "is"
+        },
+        {
+          "item": "²I don't / 'm not understand what you are trying to say.",
+          "answer": "don't"
+        },
+        {
+          "item": "³Are / Do you want another slice of cake?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁴They don't / aren't need to get up early tomorrow; it's Sunday.",
+          "answer": "don't"
+        },
+        {
+          "item": "⁵She doesn't / isn't like flying, so she always travels by train.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁶The team is / does practicing for the big game on Saturday.",
+          "answer": "is"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Does / Is your new puppy bite people?",
+          "answer": "Does"
+        },
+        {
+          "item": "²He is / does checking his emails every morning when he arrives.",
+          "answer": "is"
+        },
+        {
+          "item": "³We don't / aren't having a meeting this afternoon.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁴She doesn't / isn't a lawyer; she's a paralegal.",
+          "answer": "isn't"
+        },
+        {
+          "item": "⁵What are / do you doing later this evening?",
+          "answer": "are"
+        },
+        {
+          "item": "⁶My computer isn't / doesn't running well; I think it has a virus.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹We are / do trying to find a solution to this issue.",
+          "answer": "are"
+        },
+        {
+          "item": "²She doesn't / isn't working from the office today; she's at home.",
+          "answer": "isn't"
+        },
+        {
+          "item": "³Do / Are you like to listen to podcasts while you drive?",
+          "answer": "Do"
+        },
+        {
+          "item": "⁴He doesn't / isn't need to pay for the tickets; they are free for him.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵What are / do you cooking? It smells wonderful.",
+          "answer": "are"
+        },
+        {
+          "item": "⁶I don't / 'm not believing what I'm seeing!",
+          "answer": "'m not"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹My cousin doesn't / isn't live in Portugal; he lives in Spain.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "²Is / Does that your final decision?",
+          "answer": "Is"
+        },
+        {
+          "item": "³The employees are / do washing their hands before returning to the kitchen.",
+          "answer": "are"
+        },
+        {
+          "item": "⁴We don't / aren't going to the festival because we are busy.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵She is / does telling me the bad news now.",
+          "answer": "is"
+        },
+        {
+          "item": "⁶What song are / do they playing on the radio?",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹She is / does finishing this important assignment right now.",
+          "answer": "is"
+        },
+        {
+          "item": "²They don't / aren't speak Russian very well.",
+          "answer": "don't"
+        },
+        {
+          "item": "³Are / Do you going to the gym later today?",
+          "answer": "Are"
+        },
+        {
+          "item": "⁴He doesn't / isn't need to get a new passport; his is still valid.",
+          "answer": "doesn't"
+        },
+        {
+          "item": "⁵We are / do being very patient and waiting for our results.",
+          "answer": "are"
+        },
+        {
+          "item": "⁶Why doesn't / isn't this machine working?",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "type": "underline_correct_option",
+      "instructions": "Underline the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹This cake is / does taste delicious! You have to try it.",
+          "answer": "does"
+        },
+        {
+          "item": "²The printer doesn't / isn't working, so I can't print my report.",
+          "answer": "isn't"
+        },
+        {
+          "item": "³Does / Is your train leaving from this platform?",
+          "answer": "Is"
+        },
+        {
+          "item": "⁴We don't / aren't making a reservation; we are just going to show up.",
+          "answer": "aren't"
+        },
+        {
+          "item": "⁵She is / does wearing safety glasses in the science lab.",
+          "answer": "is"
+        },
+        {
+          "item": "⁶What are / do you thinking about for your next vacation?",
+          "answer": "are"
+        }
+      ]
+    }
+  ]
+}

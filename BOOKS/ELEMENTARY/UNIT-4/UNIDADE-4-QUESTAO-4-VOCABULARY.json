@@ -1,0 +1,1313 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Heitor is Artur’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Mônica is Cláudia’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Daniel is Bruno’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Pedro is Vítor’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Lara is Mônica’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Beatriz is Bruno’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Artur and Cláudia are Lara’s ____________.",
+          "answer": "grandparents"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Mônica is Beatriz’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Pedro is Mônica’s ____________.",
+          "answer": "husband"
+        },
+        {
+          "item": "Daniel is Artur’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Beatriz is Heitor’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Lara is Vítor’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Heitor is Daniel’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Sofia is Daniel’s ____________.",
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur is Mônica’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Mônica is Pedro’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Heitor is Bruno’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Lara and Vítor are Mônica’s ____________.",
+          "answer": "children"
+        },
+        {
+          "item": "Vítor is Heitor’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Beatriz is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Cláudia is Lara’s ____________.",
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Vítor is Daniel’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Artur is Daniel’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Lara is Cláudia’s ____________.",
+          "answer": "granddaughter"
+        },
+        {
+          "item": "Pedro is Heitor’s ____________.",
+          "answer": "brother-in-law"
+        },
+        {
+          "item": "Bruno and Mônica are Artur and Cláudia’s ____________.",
+          "answer": "children"
+        },
+        {
+          "item": "Beatriz is Artur and Cláudia’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Heitor is Beatriz’s ____________.",
+          "answer": "brother"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Lara is Daniel’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Sofia is Mônica’s ____________.",
+          "answer": "sister-in-law"
+        },
+        {
+          "item": "Mônica is Vítor’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Heitor is Lara’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Bruno is Artur and Cláudia’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Pedro is Lara’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Cláudia is Artur’s ____________.",
+          "answer": "wife"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur is Lara and Vítor’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Vítor is Mônica’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Beatriz is Artur and Cláudia’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Heitor is Bruno’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Sofia is Heitor’s ____________.",
+          "answer": "sister-in-law"
+        },
+        {
+          "item": "Bruno is Daniel’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Cláudia is Heitor’s ____________.",
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Daniel is Lara and Vítor’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Lara is Mônica’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Artur and Cláudia are Daniel’s ____________.",
+          "answer": "grandparents"
+        },
+        {
+          "item": "Beatriz is Bruno’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Mônica is Bruno’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Pedro is Daniel’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Heitor is Lara’s ____________.",
+          "answer": "uncle"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Cláudia is Artur’s ____________.",
+          "answer": "partner"
+        },
+        {
+          "item": "Bruno is Mônica’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Beatriz is Daniel’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Lara is Daniel’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Pedro is Mônica’s ____________.",
+          "answer": "husband"
+        },
+        {
+          "item": "Daniel is Artur and Cláudia’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Heitor is Vítor’s ____________.",
+          "answer": "uncle"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur is Bruno’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Beatriz is Cláudia’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Sofia is Heitor’s ____________.",
+          "answer": "sister-in-law"
+        },
+        {
+          "item": "Vítor is Mônica’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Daniel and Vítor are ____________.",
+          "answer": "cousins"
+        },
+        {
+          "item": "Pedro is Lara’s ____________.",
+          "answer": "parent"
+        },
+        {
+          "item": "Mônica is Heitor’s ____________.",
+          "answer": "sister"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Lara is Heitor’s ____________.",
+          "answer": "niece"
+        },
+        {
+          "item": "Heitor is Bruno’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Beatriz is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Pedro is Artur and Cláudia’s ____________.",
+          "answer": "son-in-law"
+        },
+        {
+          "item": "Bruno is Mônica’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Vítor is Cláudia’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Cláudia is Artur’s ____________.",
+          "answer": "wife"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Daniel is Bruno’s and Sofia’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Mônica is Heitor’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Pedro is Vítor’s ____________.",
+          "answer": "parent"
+        },
+        {
+          "item": "Lara and Vítor are Daniel’s ____________.",
+          "answer": "cousins"
+        },
+        {
+          "item": "Artur is Cláudia’s ____________.",
+          "answer": "husband"
+        },
+        {
+          "item": "Beatriz is Heitor’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Heitor is Artur’s and Cláudia’s ____________.",
+          "answer": "son"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\n                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Cláudia is Bruno’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Bruno is Heitor’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Sofia is Daniel’s ____________.",
+          "answer": "parent"
+        },
+        {
+          "item": "Pedro is Vítor’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Mônica is Beatriz’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Daniel is Vítor’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Lara is Mônica’s ____________.",
+          "answer": "daughter"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Heitor is Mônica’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Artur and Cláudia are Lara and Vítor’s ____________.",
+          "answer": "grandparents"
+        },
+        {
+          "item": "Bruno is Pedro’s ____________.",
+          "answer": "brother-in-law"
+        },
+        {
+          "item": "Beatriz is Artur’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Vítor is Mônica’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Sofia is Heitor’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Daniel is Mônica’s ____________.",
+          "answer": "nephew"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Heitor is Vítor’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Mônica is Bruno’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Lara is Bruno’s ____________.",
+          "answer": "niece"
+        },
+        {
+          "item": "Artur is Daniel’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Vítor is Lara’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Sofia is Cláudia’s ____________.",
+          "answer": "daughter-in-law"
+        },
+        {
+          "item": "Beatriz is Mônica’s ____________.",
+          "answer": "sister"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Lara and Vítor are Pedro’s ____________.",
+          "answer": "children"
+        },
+        {
+          "item": "Cláudia is Bruno’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Bruno is Beatriz’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Daniel is Mônica’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Pedro is Artur’s ____________.",
+          "answer": "son-in-law"
+        },
+        {
+          "item": "Beatriz is Lara’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Heitor is Artur and Cláudia’s ____________.",
+          "answer": "child"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Bruno is Cláudia’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Mônica is Pedro’s ____________.",
+          "answer": "partner"
+        },
+        {
+          "item": "Vítor is Bruno’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Daniel is Beatriz’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Lara is Heitor’s ____________.",
+          "answer": "niece"
+        },
+        {
+          "item": "Heitor is Mônica’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Sofia is Daniel’s ____________.",
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur and Cláudia are Lara’s ____________.",
+          "answer": "grandparents"
+        },
+        {
+          "item": "Bruno is Mônica’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Beatriz is Lara’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Pedro is Mônica’s ____________.",
+          "answer": "husband"
+        },
+        {
+          "item": "Daniel is Lara’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Vítor is Artur’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Heitor is Cláudia’s ____________.",
+          "answer": "child"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Mônica is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Beatriz is Bruno’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Cláudia is Artur’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Heitor is Mônica’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Pedro is Vítor’s ____________.",
+          "answer": "parent"
+        },
+        {
+          "item": "Lara and Vítor are Heitor’s ____________.",
+          "answer": "niece"
+        },
+        {
+          "item": "Sofia is Artur’s ____________.",
+          "answer": "daughter-in-law"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur is Heitor’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Cláudia is Bruno’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Bruno is Mônica’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Beatriz is Artur and Cláudia’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Daniel is Mônica’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Pedro is Lara’s ____________.",
+          "answer": "husband"
+        },
+        {
+          "item": "Sofia is Daniel’s ____________.",
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Vítor is Daniel’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Lara is Vítor’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Bruno is Artur’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Beatriz is Cláudia’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Heitor is Bruno’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Mônica is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Artur and Cláudia are Vítor’s ____________.",
+          "answer": "grandparents"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Pedro is Lara and Vítor’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Mônica is Artur and Cláudia’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Daniel is Heitor’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Sofia is Bruno’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Beatriz is Lara’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Artur is Daniel’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Vítor is Mônica’s ____________.",
+          "answer": "son"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Bruno is Heitor’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Pedro is Mônica’s ____________.",
+          "answer": "partner"
+        },
+        {
+          "item": "Cláudia is Lara’s ____________.",
+          "answer": "grandmother"
+        },
+        {
+          "item": "Lara is Heitor’s ____________.",
+          "answer": "niece"
+        },
+        {
+          "item": "Beatriz is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Heitor is Bruno’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Daniel and Vítor are ____________.",
+          "answer": "cousins"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Mônica is Heitor’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Vítor is Mônica’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Sofia is Pedro’s ____________.",
+          "answer": "sister-in-law"
+        },
+        {
+          "item": "Artur is Cláudia’s ____________.",
+          "answer": "husband"
+        },
+        {
+          "item": "Lara is Bruno’s ____________.",
+          "answer": "niece"
+        },
+        {
+          "item": "Daniel is Artur and Cláudia’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Beatriz is Heitor’s ____________.",
+          "answer": "aunt"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Heitor is Lara’s ____________.",
+          "answer": "uncle"
+        },
+        {
+          "item": "Bruno is Beatriz’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Mônica is Pedro’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Cláudia is Vítor’s ____________.",
+          "answer": "grandmother"
+        },
+        {
+          "item": "Daniel is Bruno’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Pedro is Bruno’s ____________.",
+          "answer": "brother-in-law"
+        },
+        {
+          "item": "Lara is Artur’s ____________.",
+          "answer": "granddaughter"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Beatriz is Heitor’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Mônica is Artur’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Vítor is Lara’s ____________.",
+          "answer": "brother"
+        },
+        {
+          "item": "Artur is Daniel’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Sofia is Mônica’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Pedro is Cláudia’s ____________.",
+          "answer": "son-in-law"
+        },
+        {
+          "item": "Daniel is Bruno’s ____________.",
+          "answer": "child"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur is Lara’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Cláudia is Heitor’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Bruno is Beatriz’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Daniel is Artur and Cláudia’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Vítor is Daniel’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Mônica is Bruno’s ____________.",
+          "answer": "sister"
+        },
+        {
+          "item": "Pedro is Lara’s ____________.",
+          "answer": "husband"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Lara and Vítor are Mônica’s ____________.",
+          "answer": "children"
+        },
+        {
+          "item": "Artur is Cláudia’s ____________.",
+          "answer": "partner"
+        },
+        {
+          "item": "Sofia is Heitor’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Beatriz is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Pedro is Artur’s ____________.",
+          "answer": "in-law"
+        },
+        {
+          "item": "Daniel is Vítor’s ____________.",
+          "answer": "cousin"
+        },
+        {
+          "item": "Mônica is Bruno’s ____________.",
+          "answer": "sister"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Vítor is Heitor’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Cláudia is Daniel’s ____________.",
+          "answer": "grandmother"
+        },
+        {
+          "item": "Mônica is Lara’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Bruno is Artur’s ____________.",
+          "answer": "child"
+        },
+        {
+          "item": "Beatriz is Cláudia’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Daniel is Bruno’s ____________.",
+          "answer": "son"
+        },
+        {
+          "item": "Pedro is Daniel’s ____________.",
+          "answer": "uncle"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Artur is Lara and Vítor’s ____________.",
+          "answer": "grandfather"
+        },
+        {
+          "item": "Heitor is Bruno’s ____________.",
+          "answer": "sibling"
+        },
+        {
+          "item": "Lara is Mônica’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Pedro is Vítor’s ____________.",
+          "answer": "father"
+        },
+        {
+          "item": "Beatriz is Daniel’s ____________.",
+          "answer": "aunt"
+        },
+        {
+          "item": "Sofia is Cláudia’s ____________.",
+          "answer": "daughter-in-law"
+        },
+        {
+          "item": "Mônica is Heitor’s ____________.",
+          "answer": "sister"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "4A"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences about the family tree.\n\n                                       .--- Daniel\n                                      /\n                 .-----[ Bruno = Sofia ]------ Beatriz\n                /\n               /\n[Artur = Cláudia]----------[ Heitor ]\n              \\\n               \\                       .--- Lara\n                \\                     /\n                 '----[ Mônica = Pedro ]-\n                                       \\\
+                                        '--- Vítor",
+      "example": {
+        "item": "Sofia is Bruno’s wife.",
+        "answer": "wife"
+      },
+      "qa_pairs": [
+        {
+          "item": "Cláudia is Bruno’s ____________.",
+          "answer": "mother"
+        },
+        {
+          "item": "Pedro is Lara’s ____________.",
+          "answer": "parent"
+        },
+        {
+          "item": "Daniel is Mônica’s ____________.",
+          "answer": "nephew"
+        },
+        {
+          "item": "Beatriz is Artur’s ____________.",
+          "answer": "daughter"
+        },
+        {
+          "item": "Vítor is Cláudia’s ____________.",
+          "answer": "grandson"
+        },
+        {
+          "item": "Sofia is Bruno’s ____________.",
+          "answer": "wife"
+        },
+        {
+          "item": "Heitor is Lara’s ____________.",
+          "answer": "uncle"
+        }
+      ]
+    }
+  ]
+}
+

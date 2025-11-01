@@ -1,0 +1,1415 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ in groups of three.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ to page 8.",
+          "answer": "GO"
+        },
+        {
+          "item": "How do you ___________ your surname?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Don’t ___________ the door, it’s cold!",
+          "answer": "OPEN"
+        },
+        {
+          "item": "Please ___________ to the teacher’s instructions.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "___________ Exercise 3 in your book.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ your book now.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the questions at the end of the text.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ in pairs.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ to the Vocabulary Bank.",
+          "answer": "GO"
+        },
+        {
+          "item": "___________ to the audio file.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don’t ___________ talking!",
+          "answer": "STOP"
+        },
+        {
+          "item": "How do you ___________ 'Wednesday'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ the window.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ your homework.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ my question.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your camera on the computer.",
+          "answer": "TURN"
+        },
+        {
+          "item": "We need to ___________ the exercise now.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to the dialogue.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don’t ___________ talking during the test!",
+          "answer": "STOP"
+        },
+        {
+          "item": "Can you ___________ your email address?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ back to the main topic.",
+          "answer": "GO"
+        },
+        {
+          "item": "Let’s ___________ on the project together.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Make sure you ___________ the phone.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We must ___________ quickly to finish the task.",
+          "answer": "WORK"
+        },
+        {
+          "item": "I don't know the word. How do you ___________ it?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Don't ___________ the window; it's cold outside.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the lights before you leave.",
+          "answer": "TURN"
+        },
+        {
+          "item": "You need to ___________ the instructions carefully.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Please ___________ to the next page.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ the text in silence.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ the question, please.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the door, please.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "Don’t ___________ arguing!",
+          "answer": "STOP"
+        },
+        {
+          "item": "Can you ___________ number 8?",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "We need to ___________ in the library today.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ to the end of the chapter.",
+          "answer": "GO"
+        },
+        {
+          "item": "How do you ___________ the word 'schedule'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ the task right now.",
+          "answer": "DO"
+        },
+        {
+          "item": "The volume is too loud. ___________ it down.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ in pairs.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ to page 15.",
+          "answer": "GO"
+        },
+        {
+          "item": "___________ and repeat.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don’t ___________ talking!",
+          "answer": "STOP"
+        },
+        {
+          "item": "How do you ___________ it?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ your book to page 20.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the questions.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "___________ Exercise 1.",
+          "answer": "DO"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the heating up.",
+          "answer": "TURN"
+        },
+        {
+          "item": "We need to ___________ the vocabulary exercise.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to the instructions carefully.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don't ___________ the video before the end.",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ in your groups of four.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ back to the previous chapter.",
+          "answer": "GO"
+        },
+        {
+          "item": "Can you ___________ your name for the register?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ the question on the board.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "I don't know the word. How do you ___________ it?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "___________ to the Grammar Bank.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ your notebook.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We have ten minutes to ___________ on this activity.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the question in full sentences.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don't ___________ before the bell rings.",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ the lights off.",
+          "answer": "TURN"
+        },
+        {
+          "item": "We must ___________ the first exercise now.",
+          "answer": "DO"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ the sound down.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Please ___________ carefully to the tape.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don’t ___________ asking difficult questions!",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ Exercise 1 and 2.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to page 50.",
+          "answer": "GO"
+        },
+        {
+          "item": "___________ in pairs on the dialogue.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Can you ___________ the missing word?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "___________ the student's question.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "You must ___________ the form completely.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ your windows for fresh air.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ to the instructions.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don’t ___________ talking; we are recording.",
+          "answer": "STOP"
+        },
+        {
+          "item": "We need to ___________ together for the test.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the question on the board.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "___________ back to the Grammar Bank, please.",
+          "answer": "GO"
+        },
+        {
+          "item": "Can you ___________ the name 'Ozgur'?",
+          "answer": "SPELL"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ to the second paragraph.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ your file on the desktop.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "Don’t ___________ the music!",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ the question with a complete sentence.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "You need to ___________ harder on your pronunciation.",
+          "answer": "WORK"
+        },
+        {
+          "item": "How do you ___________ your first name?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ the activity quickly.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ the air conditioning off.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We should ___________ quickly; the bus is here.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ and repeat after me.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "I need you to ___________ the entire worksheet.",
+          "answer": "DO"
+        },
+        {
+          "item": "Don’t ___________ the lecture; it's important.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Please ___________ your documents for the class.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the TV down.",
+          "answer": "TURN"
+        },
+        {
+          "item": "We need to ___________ the teacher's comment.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Let’s ___________ on this project until 3 p.m.",
+          "answer": "WORK"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "Can you ___________ your last name?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Don’t ___________ before checking your work.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Please ___________ the window if you are hot.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the volume up!",
+          "answer": "TURN"
+        },
+        {
+          "item": "We need to ___________ the homework tonight.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to the dialogue on the CD.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "It’s time to ___________ home.",
+          "answer": "GO"
+        },
+        {
+          "item": "Let’s ___________ together on the presentation.",
+          "answer": "WORK"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We must ___________ quickly to meet the deadline.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the riddle.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don't ___________ the lesson now.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Please ___________ to the teacher when she is speaking.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "We need to ___________ the second part of the activity.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ to the blackboard.",
+          "answer": "GO"
+        },
+        {
+          "item": "How do you ___________ 'eighteen'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ your files on the computer.",
+          "answer": "OPEN"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your volume up if you can’t hear.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Please ___________ to the explanation again.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "You need to ___________ exercise 4 in pairs.",
+          "answer": "DO"
+        },
+        {
+          "item": "We need to ___________ to the end of the unit.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ the window.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "Don’t ___________ studying; the test is tomorrow.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Can you ___________ your e-mail?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ the teacher in English.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please ___________ the question on the test paper.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "We must ___________ to the next page.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ your documents.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "Don’t ___________ before the break.",
+          "answer": "STOP"
+        },
+        {
+          "item": "How do you ___________ 'address'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "We must ___________ in groups today.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the task completely.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ the volume down, it's too loud.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We must ___________ on this difficult problem.",
+          "answer": "WORK"
+        },
+        {
+          "item": "___________ the pages back to page 1.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Don’t ___________ until you find the solution.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Please ___________ the door.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ to the pronunciation key.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "We need to ___________ Exercise 5.",
+          "answer": "DO"
+        },
+        {
+          "item": "Can you ___________ 'forty'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ to the Grammar Bank for help.",
+          "answer": "GO"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ and repeat the dialogue.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Please ___________ the question loudly.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don’t ___________ the recording.",
+          "answer": "STOP"
+        },
+        {
+          "item": "We must ___________ on the project all day.",
+          "answer": "WORK"
+        },
+        {
+          "item": "How do you ___________ 'Scottish'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ your dictionary.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We need to ___________ the activity now.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ the light on.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please ___________ back to the beginning.",
+          "answer": "GO"
+        },
+        {
+          "item": "We need to ___________ together to finish the work.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the correct answer.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don’t ___________ asking for help.",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ the paper over.",
+          "answer": "TURN"
+        },
+        {
+          "item": "How do you ___________ the word 'Tuesday'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "We should ___________ the exercise now.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ the door if you leave.",
+          "answer": "OPEN"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We need to ___________ to the next unit.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ the correct option in the quiz.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don’t ___________ reading the book.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Please ___________ your materials on the desk.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We must ___________ our best on the final essay.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to the new teacher.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "How do you ___________ 'computer'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "We should ___________ in groups of three.",
+          "answer": "WORK"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your volume up.",
+          "answer": "TURN"
+        },
+        {
+          "item": "We must ___________ hard to pass the course.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ your bag.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "Don’t ___________ before the break time.",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ the question correctly.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "How do you ___________ 'Portuguese'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "We need to ___________ the activity on page 10.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to the recording one more time.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ back and check your answers.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ your file on the laptop.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We must ___________ in a team.",
+          "answer": "WORK"
+        },
+        {
+          "item": "How do you ___________ 'dictionary'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Don’t ___________ talking; pay attention!",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ the assignment right now.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ the question correctly.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "___________ the light off before leaving.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please ___________ to the explanation.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "Don’t ___________ the music!",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ the door now.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We need to ___________ in pairs.",
+          "answer": "WORK"
+        },
+        {
+          "item": "___________ the first two sections.",
+          "answer": "DO"
+        },
+        {
+          "item": "How do you ___________ 'address'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ back to the first exercise.",
+          "answer": "GO"
+        },
+        {
+          "item": "___________ the query from the student.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We must ___________ hard to improve our grades.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ to the pronunciation.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "___________ off the screen.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Don’t ___________ the meeting.",
+          "answer": "STOP"
+        },
+        {
+          "item": "How do you ___________ 'student'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ the box on the floor.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We need to ___________ the assignment by Friday.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ the question quickly.",
+          "answer": "ANSWER"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your textbook to the first page.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We must ___________ to the end of the line.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ the problem.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don’t ___________ reading the book.",
+          "answer": "STOP"
+        },
+        {
+          "item": "How do you ___________ 'teacher'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "We need to ___________ on the next activity.",
+          "answer": "WORK"
+        },
+        {
+          "item": "___________ the task now.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ to the new rules.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your computer off.",
+          "answer": "TURN"
+        },
+        {
+          "item": "We need to ___________ the whole document.",
+          "answer": "DO"
+        },
+        {
+          "item": "Please ___________ the question from the book.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don’t ___________ until I tell you to.",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ in small groups.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the box with the materials.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "How do you ___________ 'London'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ to the audio.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please ___________ the window if it's hot.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We must ___________ quickly to finish the task.",
+          "answer": "WORK"
+        },
+        {
+          "item": "___________ the first two paragraphs.",
+          "answer": "DO"
+        },
+        {
+          "item": "How do you ___________ the word 'eleven'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Don’t ___________ reading before the end.",
+          "answer": "STOP"
+        },
+        {
+          "item": "Please ___________ to the explanation again.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "___________ the page over.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Please ___________ back to the first page.",
+          "answer": "GO"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "___________ your volume up.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Please ___________ the teacher's question.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "We need to ___________ to page 35.",
+          "answer": "GO"
+        },
+        {
+          "item": "Don’t ___________ studying the grammar.",
+          "answer": "STOP"
+        },
+        {
+          "item": "How do you ___________ 'Brazil'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "We should ___________ in groups of four.",
+          "answer": "WORK"
+        },
+        {
+          "item": "Please ___________ the exercise now.",
+          "answer": "DO"
+        },
+        {
+          "item": "___________ to the new word pronunciation.",
+          "answer": "LISTEN"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "Please ___________ the correct option.",
+          "answer": "ANSWER"
+        },
+        {
+          "item": "Don’t ___________ before the break.",
+          "answer": "STOP"
+        },
+        {
+          "item": "___________ your textbook to the reading.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "We need to ___________ the task completely.",
+          "answer": "DO"
+        },
+        {
+          "item": "How do you ___________ the word 'yesterday'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "___________ to the new song.",
+          "answer": "LISTEN"
+        },
+        {
+          "item": "We must ___________ on this report all afternoon.",
+          "answer": "WORK"
+        },
+        {
+          "item": "___________ the page over to see the answers.",
+          "answer": "TURN"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct verbs from the box: spell, go, Listen, stop, open, Do, Work, Answer, Turn.",
+      "example": {
+        "item": "Turn off your mobile.",
+        "answer": "TURN"
+      },
+      "qa_pairs": [
+        {
+          "item": "We need to ___________ to the Vocabulary Bank now.",
+          "answer": "GO"
+        },
+        {
+          "item": "Please ___________ your book to page 45.",
+          "answer": "OPEN"
+        },
+        {
+          "item": "___________ the lights off.",
+          "answer": "TURN"
+        },
+        {
+          "item": "Don’t ___________ writing!",
+          "answer": "STOP"
+        },
+        {
+          "item": "We must ___________ together in this activity.",
+          "answer": "WORK"
+        },
+        {
+          "item": "___________ Exercise 1 and 2.",
+          "answer": "DO"
+        },
+        {
+          "item": "How do you ___________ 'umbrella'?",
+          "answer": "SPELL"
+        },
+        {
+          "item": "Please ___________ my question.",
+          "answer": "ANSWER"
+        }
+      ]
+    }
+  ]
+}
+

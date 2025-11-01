@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "uniform"
+        },
+        {
+          "item": "drink __________",
+          "answer": "tea"
+        },
+        {
+          "item": "do __________",
+          "answer": "housework"
+        },
+        {
+          "item": "take an __________",
+          "answer": "umbrella"
+        },
+        {
+          "item": "say __________",
+          "answer": "sorry"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "music"
+        },
+        {
+          "item": "have a __________",
+          "answer": "shower"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "cook __________",
+          "answer": "dinner"
+        },
+        {
+          "item": "read a __________",
+          "answer": "newspaper"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "house"
+        },
+        {
+          "item": "go __________",
+          "answer": "shopping"
+        },
+        {
+          "item": "have __________",
+          "answer": "breakfast"
+        },
+        {
+          "item": "do __________",
+          "answer": "exercise"
+        },
+        {
+          "item": "take a __________",
+          "answer": "bus"
+        },
+        {
+          "item": "say __________",
+          "answer": "hello"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear __________",
+          "answer": "glasses"
+        },
+        {
+          "item": "listen to the __________",
+          "answer": "radio"
+        },
+        {
+          "item": "take a __________",
+          "answer": "photo"
+        },
+        {
+          "item": "speak __________",
+          "answer": "German"
+        },
+        {
+          "item": "have a __________",
+          "answer": "dog"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "city"
+        },
+        {
+          "item": "do __________",
+          "answer": "homework"
+        },
+        {
+          "item": "say __________",
+          "answer": "bye"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "drink __________",
+          "answer": "water"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "taxi"
+        },
+        {
+          "item": "wear __________",
+          "answer": "boots"
+        },
+        {
+          "item": "have __________",
+          "answer": "dinner"
+        },
+        {
+          "item": "read __________",
+          "answer": "emails"
+        },
+        {
+          "item": "live in the __________",
+          "answer": "countryside"
+        },
+        {
+          "item": "do the __________ up",
+          "answer": "washing"
+        },
+        {
+          "item": "take a __________",
+          "answer": "break"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'thank __________'",
+          "answer": "you"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "pop"
+        },
+        {
+          "item": "wear __________",
+          "answer": "trainers"
+        },
+        {
+          "item": "cook a __________",
+          "answer": "meal"
+        },
+        {
+          "item": "have __________",
+          "answer": "lunch"
+        },
+        {
+          "item": "do __________",
+          "answer": "yoga"
+        },
+        {
+          "item": "live in an __________",
+          "answer": "apartment"
+        },
+        {
+          "item": "take a __________",
+          "answer": "shower"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "tie"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "truck"
+        },
+        {
+          "item": "do __________",
+          "answer": "housework"
+        },
+        {
+          "item": "take the __________",
+          "answer": "subway"
+        },
+        {
+          "item": "speak __________",
+          "answer": "French"
+        },
+        {
+          "item": "have __________",
+          "answer": "coffee"
+        },
+        {
+          "item": "read __________",
+          "answer": "magazines"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "flat"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'good __________'",
+          "answer": "morning"
+        },
+        {
+          "item": "listen to the __________",
+          "answer": "news"
+        },
+        {
+          "item": "do the __________",
+          "answer": "dishes"
+        },
+        {
+          "item": "take the __________ to work",
+          "answer": "train"
+        },
+        {
+          "item": "wear __________",
+          "answer": "jeans"
+        },
+        {
+          "item": "cook __________",
+          "answer": "breakfast"
+        },
+        {
+          "item": "have a __________",
+          "answer": "drink"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "drive an __________",
+          "answer": "ambulance"
+        },
+        {
+          "item": "read a __________",
+          "answer": "book"
+        },
+        {
+          "item": "live on the __________ floor",
+          "answer": "ground"
+        },
+        {
+          "item": "do __________",
+          "answer": "laundry"
+        },
+        {
+          "item": "take a __________",
+          "answer": "selfie"
+        },
+        {
+          "item": "wear a __________",
+          "answer": "hat"
+        },
+        {
+          "item": "have a __________",
+          "answer": "meeting"
+        },
+        {
+          "item": "say 'I __________'",
+          "answer": "love"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "cook __________",
+          "answer": "pasta"
+        },
+        {
+          "item": "drink __________",
+          "answer": "juice"
+        },
+        {
+          "item": "do __________",
+          "answer": "exercise"
+        },
+        {
+          "item": "take a __________",
+          "answer": "vacation"
+        },
+        {
+          "item": "say 'thank __________'",
+          "answer": "you"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "podcasts"
+        },
+        {
+          "item": "have a __________",
+          "answer": "rest"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "scarf"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "bus"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "village"
+        },
+        {
+          "item": "read __________",
+          "answer": "novels"
+        },
+        {
+          "item": "do the __________",
+          "answer": "dishes"
+        },
+        {
+          "item": "take a __________",
+          "answer": "nap"
+        },
+        {
+          "item": "say 'come __________'",
+          "answer": "in"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "opera"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "cook __________",
+          "answer": "rice"
+        },
+        {
+          "item": "drink __________",
+          "answer": "milk"
+        },
+        {
+          "item": "do __________",
+          "answer": "housework"
+        },
+        {
+          "item": "take a __________",
+          "answer": "photo"
+        },
+        {
+          "item": "say 'excuse __________'",
+          "answer": "me"
+        },
+        {
+          "item": "live in a small __________",
+          "answer": "town"
+        },
+        {
+          "item": "have a __________",
+          "answer": "walk"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Chinese"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "uniform"
+        },
+        {
+          "item": "drive an __________",
+          "answer": "old"
+        },
+        {
+          "item": "read the __________",
+          "answer": "contract"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "pop"
+        },
+        {
+          "item": "do __________",
+          "answer": "laundry"
+        },
+        {
+          "item": "take a __________",
+          "answer": "taxi"
+        },
+        {
+          "item": "have a __________",
+          "answer": "break"
+        },
+        {
+          "item": "live in the __________ centre",
+          "answer": "city"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'see you __________'",
+          "answer": "later"
+        },
+        {
+          "item": "cook __________",
+          "answer": "meat"
+        },
+        {
+          "item": "drink __________",
+          "answer": "soda"
+        },
+        {
+          "item": "do the __________",
+          "answer": "dishes"
+        },
+        {
+          "item": "take an __________",
+          "answer": "umbrella"
+        },
+        {
+          "item": "wear a __________",
+          "answer": "jacket"
+        },
+        {
+          "item": "have a __________",
+          "answer": "coffee"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "live in the __________",
+          "answer": "mountains"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "minibus"
+        },
+        {
+          "item": "read __________",
+          "answer": "science"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "jazz"
+        },
+        {
+          "item": "do the __________",
+          "answer": "shopping"
+        },
+        {
+          "item": "take a __________",
+          "answer": "train"
+        },
+        {
+          "item": "wear __________",
+          "answer": "sandals"
+        },
+        {
+          "item": "have a __________",
+          "answer": "pizza"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "speak __________",
+          "answer": "Arabic"
+        },
+        {
+          "item": "cook __________",
+          "answer": "soup"
+        },
+        {
+          "item": "drink __________",
+          "answer": "tea"
+        },
+        {
+          "item": "do __________",
+          "answer": "exercise"
+        },
+        {
+          "item": "take a __________",
+          "answer": "bus"
+        },
+        {
+          "item": "say 'good __________'",
+          "answer": "night"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "house"
+        },
+        {
+          "item": "have a __________",
+          "answer": "shower"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "suit"
+        },
+        {
+          "item": "drive __________",
+          "answer": "slowly"
+        },
+        {
+          "item": "read a __________",
+          "answer": "book"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "rock"
+        },
+        {
+          "item": "do the __________ up",
+          "answer": "washing"
+        },
+        {
+          "item": "take a __________",
+          "answer": "break"
+        },
+        {
+          "item": "have __________",
+          "answer": "dinner"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "flat"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'I __________ late'",
+          "answer": "am"
+        },
+        {
+          "item": "cook __________",
+          "answer": "fish"
+        },
+        {
+          "item": "drink __________",
+          "answer": "wine"
+        },
+        {
+          "item": "do __________",
+          "answer": "yoga"
+        },
+        {
+          "item": "take __________",
+          "answer": "notes"
+        },
+        {
+          "item": "wear __________",
+          "answer": "shoes"
+        },
+        {
+          "item": "have a __________",
+          "answer": "coffee"
+        },
+        {
+          "item": "speak __________",
+          "answer": "English"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "live in a __________",
+          "answer": "tower"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "car"
+        },
+        {
+          "item": "read __________",
+          "answer": "emails"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "classical"
+        },
+        {
+          "item": "do __________",
+          "answer": "homework"
+        },
+        {
+          "item": "take a __________",
+          "answer": "walk"
+        },
+        {
+          "item": "wear __________",
+          "answer": "jeans"
+        },
+        {
+          "item": "have __________",
+          "answer": "breakfast"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "speak __________",
+          "answer": "Russian"
+        },
+        {
+          "item": "cook __________",
+          "answer": "pizza"
+        },
+        {
+          "item": "drink __________",
+          "answer": "tea"
+        },
+        {
+          "item": "do __________",
+          "answer": "laundry"
+        },
+        {
+          "item": "take a __________",
+          "answer": "bus"
+        },
+        {
+          "item": "say 'I __________'",
+          "answer": "don't"
+        },
+        {
+          "item": "have a __________",
+          "answer": "sandwich"
+        },
+        {
+          "item": "wear a __________",
+          "answer": "skirt"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "live in the __________",
+          "answer": "suburbs"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "jeep"
+        },
+        {
+          "item": "read __________",
+          "answer": "magazines"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "music"
+        },
+        {
+          "item": "do the __________",
+          "answer": "shopping"
+        },
+        {
+          "item": "take __________",
+          "answer": "photos"
+        },
+        {
+          "item": "wear a __________",
+          "answer": "jacket"
+        },
+        {
+          "item": "have a __________",
+          "answer": "bath"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "cook __________",
+          "answer": "vegetables"
+        },
+        {
+          "item": "drink __________",
+          "answer": "water"
+        },
+        {
+          "item": "do __________",
+          "answer": "homework"
+        },
+        {
+          "item": "take a __________",
+          "answer": "break"
+        },
+        {
+          "item": "say 'good __________'",
+          "answer": "morning"
+        },
+        {
+          "item": "listen to the __________",
+          "answer": "news"
+        },
+        {
+          "item": "have a __________",
+          "answer": "shower"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "hat"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "van"
+        },
+        {
+          "item": "read a __________",
+          "answer": "comic"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "farm"
+        },
+        {
+          "item": "do __________",
+          "answer": "yoga"
+        },
+        {
+          "item": "take the __________",
+          "answer": "subway"
+        },
+        {
+          "item": "have __________",
+          "answer": "lunch"
+        },
+        {
+          "item": "speak __________",
+          "answer": "English"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'excuse __________'",
+          "answer": "me"
+        },
+        {
+          "item": "cook a __________",
+          "answer": "stew"
+        },
+        {
+          "item": "drink __________",
+          "answer": "beer"
+        },
+        {
+          "item": "do the __________",
+          "answer": "laundry"
+        },
+        {
+          "item": "take a __________",
+          "answer": "nap"
+        },
+        {
+          "item": "wear __________",
+          "answer": "boots"
+        },
+        {
+          "item": "have __________",
+          "answer": "dinner"
+        },
+        {
+          "item": "live in an __________",
+          "answer": "apartment"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "speak __________",
+          "answer": "Turkish"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "sports"
+        },
+        {
+          "item": "read the __________",
+          "answer": "newspaper"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "classical"
+        },
+        {
+          "item": "do __________",
+          "answer": "housework"
+        },
+        {
+          "item": "take a __________",
+          "answer": "shower"
+        },
+        {
+          "item": "wear a __________",
+          "answer": "tie"
+        },
+        {
+          "item": "have __________",
+          "answer": "breakfast"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'come __________'",
+          "answer": "back"
+        },
+        {
+          "item": "cook __________",
+          "answer": "pasta"
+        },
+        {
+          "item": "drink __________",
+          "answer": "juice"
+        },
+        {
+          "item": "do __________",
+          "answer": "shopping"
+        },
+        {
+          "item": "take a __________",
+          "answer": "taxi"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "flat"
+        },
+        {
+          "item": "have a __________",
+          "answer": "walk"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "uniform"
+        },
+        {
+          "item": "drive __________",
+          "answer": "slowly"
+        },
+        {
+          "item": "read __________",
+          "answer": "books"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "rock"
+        },
+        {
+          "item": "do __________",
+          "answer": "exercise"
+        },
+        {
+          "item": "take __________",
+          "answer": "photos"
+        },
+        {
+          "item": "have a __________",
+          "answer": "drink"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "city"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "cook __________",
+          "answer": "dinner"
+        },
+        {
+          "item": "drink __________",
+          "answer": "coffee"
+        },
+        {
+          "item": "do the __________ up",
+          "answer": "washing"
+        },
+        {
+          "item": "take an __________",
+          "answer": "umbrella"
+        },
+        {
+          "item": "say 'I __________'",
+          "answer": "do"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "jazz"
+        },
+        {
+          "item": "have a __________",
+          "answer": "break"
+        },
+        {
+          "item": "speak __________",
+          "answer": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "wear a __________",
+          "answer": "coat"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "jeep"
+        },
+        {
+          "item": "read a __________",
+          "answer": "magazine"
+        },
+        {
+          "item": "live in the __________",
+          "answer": "countryside"
+        },
+        {
+          "item": "do __________",
+          "answer": "laundry"
+        },
+        {
+          "item": "take a __________",
+          "answer": "taxi"
+        },
+        {
+          "item": "have __________",
+          "answer": "lunch"
+        },
+        {
+          "item": "say 'thank __________'",
+          "answer": "you"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "speak __________",
+          "answer": "German"
+        },
+        {
+          "item": "cook __________",
+          "answer": "breakfast"
+        },
+        {
+          "item": "drink __________",
+          "answer": "milk"
+        },
+        {
+          "item": "do __________",
+          "answer": "yoga"
+        },
+        {
+          "item": "take the __________",
+          "answer": "bus"
+        },
+        {
+          "item": "live in a __________",
+          "answer": "house"
+        },
+        {
+          "item": "have a __________",
+          "answer": "shower"
+        },
+        {
+          "item": "wear __________",
+          "answer": "glasses"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "3A",
+        "1C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the phrases with the correct word. Use words related to daily routine and habits.",
+      "example": {
+        "item": "eat hot dogs",
+        "answer": "eat hot dogs"
+      },
+      "qa_pairs": [
+        {
+          "item": "say 'I'm __________'",
+          "answer": "sorry"
+        },
+        {
+          "item": "drive a __________",
+          "answer": "car"
+        },
+        {
+          "item": "read a __________",
+          "answer": "novel"
+        },
+        {
+          "item": "listen to __________",
+          "answer": "music"
+        },
+        {
+          "item": "do __________",
+          "answer": "housework"
+        },
+        {
+          "item": "take a __________",
+          "answer": "photo"
+        },
+        {
+          "item": "have a __________",
+          "answer": "meeting"
+        },
+        {
+          "item": "wear a __________",
+          "answer": "uniform"
+        }
+      ]
+    }
+  ]
+}

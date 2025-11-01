@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "We can to sing / sing very well.",
+          "answer": "sing"
+        },
+        {
+          "item": "Can / Do you can tell me the time?",
+          "answer": "Can"
+        },
+        {
+          "item": "I’m sorry. You can’t / no can’t park here.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can he speaks / speak Spanish?",
+          "answer": "speak"
+        },
+        {
+          "item": "She can’t find / to find her keys.",
+          "answer": "find"
+        },
+        {
+          "item": "'Can they dance?' 'Yes, they can / can dance.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss can drives / drive a truck.",
+          "answer": "drive"
+        },
+        {
+          "item": "Do you can / Can you come to the party tonight?",
+          "answer": "Can you"
+        },
+        {
+          "item": "It’s too noisy. I can / can’t hear you.",
+          "answer": "can’t"
+        },
+        {
+          "item": "He can reads / read music.",
+          "answer": "read"
+        },
+        {
+          "item": "They can’t to stay / stay up late.",
+          "answer": "stay"
+        },
+        {
+          "item": "'Can your brother swim?' 'No, he can’t / he cannot.'",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "She can to cook / cook very well.",
+          "answer": "cook"
+        },
+        {
+          "item": "Can / Do we can leave now?",
+          "answer": "Can"
+        },
+        {
+          "item": "My phone is broken. I can’t / I not can call a taxi.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can she play / plays the piano?",
+          "answer": "play"
+        },
+        {
+          "item": "We can’t understand / to understand this film.",
+          "answer": "understand"
+        },
+        {
+          "item": "The baby can / can’t walk yet.",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can speaks / speak three languages.",
+          "answer": "speak"
+        },
+        {
+          "item": "Do you can / Can you give me a lift?",
+          "answer": "Can you"
+        },
+        {
+          "item": "You can / can’t take photos in the museum.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can you to listen / listen to me?",
+          "answer": "listen"
+        },
+        {
+          "item": "We can finishes / finish this job quickly.",
+          "answer": "finish"
+        },
+        {
+          "item": "'Can he run a marathon?' 'Yes, he can / can run.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "My parents can to use / use the internet.",
+          "answer": "use"
+        },
+        {
+          "item": "Can / Do you can open the window?",
+          "answer": "Can"
+        },
+        {
+          "item": "I am sorry, but I can’t / no can’t find the ticket.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can the dog swim / to swim?",
+          "answer": "swim"
+        },
+        {
+          "item": "The children can speaks / speak French.",
+          "answer": "speak"
+        },
+        {
+          "item": "'Can she cook?' 'No, she can’t / cannot cook.'",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "She can’t come / to come to the cinema.",
+          "answer": "come"
+        },
+        {
+          "item": "Can they / They can finish the project today?",
+          "answer": "Can they"
+        },
+        {
+          "item": "We can’t read / reading very well without light.",
+          "answer": "read"
+        },
+        {
+          "item": "He can to draw / draw excellent pictures.",
+          "answer": "draw"
+        },
+        {
+          "item": "I can’t / I cannot open this door. It's locked.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can you / Do you can meet us tomorrow?",
+          "answer": "Can you"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can remember / remembering my password.",
+          "answer": "remember"
+        },
+        {
+          "item": "Do your colleagues can / Can your colleagues help?",
+          "answer": "Can your colleagues"
+        },
+        {
+          "item": "We cannot / don’t can afford a new car.",
+          "answer": "cannot"
+        },
+        {
+          "item": "Can she write / writes short stories?",
+          "answer": "write"
+        },
+        {
+          "item": "He can’t to fix / fix the computer by himself.",
+          "answer": "fix"
+        },
+        {
+          "item": "'Can you ride a bike?' 'Yes, I can / can ride.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "They can to meet / meet us at the station.",
+          "answer": "meet"
+        },
+        {
+          "item": "Can / Do you can hear that noise?",
+          "answer": "Can"
+        },
+        {
+          "item": "I can’t run / running a marathon.",
+          "answer": "run"
+        },
+        {
+          "item": "He can dance / dances very well.",
+          "answer": "dance"
+        },
+        {
+          "item": "She can’t to stop / stop laughing.",
+          "answer": "stop"
+        },
+        {
+          "item": "Can your sister / Does your sister can cook dinner?",
+          "answer": "Can your sister"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "We can listen / listening to loud music.",
+          "answer": "listen"
+        },
+        {
+          "item": "Can / Do I can leave my bags here?",
+          "answer": "Can"
+        },
+        {
+          "item": "He can’t / no can’t swim in cold water.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can the students helps / help us?",
+          "answer": "help"
+        },
+        {
+          "item": "I can’t to walk / walk because of my leg.",
+          "answer": "walk"
+        },
+        {
+          "item": "'Can you read fast?' 'Yes, I can / I can read.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can to speak / speak a little German.",
+          "answer": "speak"
+        },
+        {
+          "item": "Can / Do you can help me tomorrow morning?",
+          "answer": "Can"
+        },
+        {
+          "item": "She can’t / cannot finishes her work on time.",
+          "answer": "cannot"
+        },
+        {
+          "item": "Can they take / to take a photo here?",
+          "answer": "take"
+        },
+        {
+          "item": "We can to hear / hear the noise from outside.",
+          "answer": "hear"
+        },
+        {
+          "item": "He can’t / can’t he eat nuts.",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can to play / play the guitar.",
+          "answer": "play"
+        },
+        {
+          "item": "Can the kids / Do the kids can watch TV now?",
+          "answer": "Can the kids"
+        },
+        {
+          "item": "I can’t / I not can remember her name.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can she drives / drive a motorbike?",
+          "answer": "drive"
+        },
+        {
+          "item": "We can’t to stop / stop the machine.",
+          "answer": "stop"
+        },
+        {
+          "item": "'Can you paint?' 'No, I can't / I cannot paint.'",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "She can understand / to understand me perfectly.",
+          "answer": "understand"
+        },
+        {
+          "item": "Do you can / Can you come with us to the beach?",
+          "answer": "Can you"
+        },
+        {
+          "item": "The lift is broken. We can / can’t use it.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can he runs / run fast?",
+          "answer": "run"
+        },
+        {
+          "item": "They can’t to see / see the board from here.",
+          "answer": "see"
+        },
+        {
+          "item": "We can’t / We cannot open the package.",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can to help / help you with your homework.",
+          "answer": "help"
+        },
+        {
+          "item": "Can / Do you can drive a bus?",
+          "answer": "Can"
+        },
+        {
+          "item": "He can’t remember / to remember the answer.",
+          "answer": "remember"
+        },
+        {
+          "item": "Can the tourists visit / visits the palace today?",
+          "answer": "visit"
+        },
+        {
+          "item": "The music is too loud, I cannot / can’t concentrate.",
+          "answer": "can’t"
+        },
+        {
+          "item": "'Can you hear me?' 'Yes, I can / can hear.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "She can’t to find / find her mobile phone.",
+          "answer": "find"
+        },
+        {
+          "item": "Can they / Do they can go to the gym later?",
+          "answer": "Can they"
+        },
+        {
+          "item": "You can / can’t park here, it's reserved.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can you call / to call a taxi, please?",
+          "answer": "call"
+        },
+        {
+          "item": "I can plays / play the violin very well.",
+          "answer": "play"
+        },
+        {
+          "item": "They can’t / no can’t speak Russian.",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "We can to arrive / arrive early if we take a taxi.",
+          "answer": "arrive"
+        },
+        {
+          "item": "Can / Do you can meet us outside the theatre?",
+          "answer": "Can"
+        },
+        {
+          "item": "He can’t / He cannot help you with that problem.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can they use / uses the company car?",
+          "answer": "use"
+        },
+        {
+          "item": "The baby can’t talk / to talk yet.",
+          "answer": "talk"
+        },
+        {
+          "item": "'Can she run?' 'Yes, she can / she can runs.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can’t to understand / understand this accent.",
+          "answer": "understand"
+        },
+        {
+          "item": "Can / Do you can see the mountains from here?",
+          "answer": "Can"
+        },
+        {
+          "item": "The students can / can’t use phones in the exam.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can he open / opens this window?",
+          "answer": "open"
+        },
+        {
+          "item": "We can’t / We cannot find a solution right now.",
+          "answer": "can’t"
+        },
+        {
+          "item": "He can helps / help us with the baggage.",
+          "answer": "help"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "She can draw / to draw beautiful flowers.",
+          "answer": "draw"
+        },
+        {
+          "item": "Can the professor / Does the professor can give us an extension?",
+          "answer": "Can the professor"
+        },
+        {
+          "item": "I can’t / I no can remember the address.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can we sits / sit here for a moment?",
+          "answer": "sit"
+        },
+        {
+          "item": "They can to meet / meet us later tonight.",
+          "answer": "meet"
+        },
+        {
+          "item": "'Can you come?' 'No, I can't / can't come.'",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "You can’t / You cannot smoke in this building.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can / Do you can bring the documents tomorrow?",
+          "answer": "Can"
+        },
+        {
+          "item": "He can to find / find a new job easily.",
+          "answer": "find"
+        },
+        {
+          "item": "Can your friend speaks / speak German?",
+          "answer": "speak"
+        },
+        {
+          "item": "We can’t to wait / wait any longer.",
+          "answer": "wait"
+        },
+        {
+          "item": "She can run / runs a race.",
+          "answer": "run"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can’t to sleep / sleep when it’s hot.",
+          "answer": "sleep"
+        },
+        {
+          "item": "Can the child / Does the child can understand me?",
+          "answer": "Can the child"
+        },
+        {
+          "item": "They can finish / finishing the report by tomorrow.",
+          "answer": "finish"
+        },
+        {
+          "item": "Can you to show / show me your ticket?",
+          "answer": "show"
+        },
+        {
+          "item": "She can / can’t see the stage from here.",
+          "answer": "can’t"
+        },
+        {
+          "item": "'Can he cook Chinese food?' 'Yes, he can / he can cook.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "We can’t / no can’t open the gate.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Do you can / Can you hear the music playing?",
+          "answer": "Can you"
+        },
+        {
+          "item": "I can to run / run 10 kilometres easily.",
+          "answer": "run"
+        },
+        {
+          "item": "Can your brother / Does your brother can play chess?",
+          "answer": "Can your brother"
+        },
+        {
+          "item": "He can’t to remember / remember her birthday.",
+          "answer": "remember"
+        },
+        {
+          "item": "She can speaks / speak Spanish very fast.",
+          "answer": "speak"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can to fix / fix anything in the house.",
+          "answer": "fix"
+        },
+        {
+          "item": "Can / Do we can sit here?",
+          "answer": "Can"
+        },
+        {
+          "item": "I can’t / I cannot finish this meal.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can she drives / drive in the city?",
+          "answer": "drive"
+        },
+        {
+          "item": "We can understand / to understand your accent.",
+          "answer": "understand"
+        },
+        {
+          "item": "'Can they help?' 'No, they can’t / cannot help.'",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "They can to hear / hear the conversation clearly.",
+          "answer": "hear"
+        },
+        {
+          "item": "Can you to give / give me directions to the station?",
+          "answer": "give"
+        },
+        {
+          "item": "I can’t / I no can help you today.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can the children uses / use the pool?",
+          "answer": "use"
+        },
+        {
+          "item": "She can reads / read minds.",
+          "answer": "read"
+        },
+        {
+          "item": "Do you can / Can you play a musical instrument?",
+          "answer": "Can you"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can dance / to dance salsa very well.",
+          "answer": "dance"
+        },
+        {
+          "item": "Can / Do I can leave my coat here?",
+          "answer": "Can"
+        },
+        {
+          "item": "The lift is broken. We can / can’t go upstairs.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can your sister draw / draws portraits?",
+          "answer": "draw"
+        },
+        {
+          "item": "I can’t to sleep / sleep with the window open.",
+          "answer": "sleep"
+        },
+        {
+          "item": "'Can he swim?' 'Yes, he can / can swim.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "She can to remember / remember all the names.",
+          "answer": "remember"
+        },
+        {
+          "item": "Can they / Do they can play golf?",
+          "answer": "Can they"
+        },
+        {
+          "item": "I can’t / I cannot see anything in the dark.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can you take / to take a picture of us?",
+          "answer": "take"
+        },
+        {
+          "item": "We can finishes / finish this job before lunch.",
+          "answer": "finish"
+        },
+        {
+          "item": "He can’t / no can’t come today because he’s ill.",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can’t to find / find my keys anywhere.",
+          "answer": "find"
+        },
+        {
+          "item": "Can / Do you can speak Japanese?",
+          "answer": "Can"
+        },
+        {
+          "item": "The door is locked. We can’t / cannot enter.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can he help / helps with the cleaning?",
+          "answer": "help"
+        },
+        {
+          "item": "She can to run / run very fast.",
+          "answer": "run"
+        },
+        {
+          "item": "'Can you drive?' 'Yes, I can / can drive.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can’t understand / to understand the technical terms.",
+          "answer": "understand"
+        },
+        {
+          "item": "Can / Do we can buy the tickets online?",
+          "answer": "Can"
+        },
+        {
+          "item": "I can read / reading music notes.",
+          "answer": "read"
+        },
+        {
+          "item": "Can the teacher to start / start the lesson now?",
+          "answer": "start"
+        },
+        {
+          "item": "They can’t / I no can help you right now.",
+          "answer": "can’t"
+        },
+        {
+          "item": "She can plays / play the cello.",
+          "answer": "play"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "I can to hear / hear you clearly.",
+          "answer": "hear"
+        },
+        {
+          "item": "Can / Do you can speak to the manager?",
+          "answer": "Can"
+        },
+        {
+          "item": "We can’t / We cannot lift this box; it’s too heavy.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can he come / comes to the meeting?",
+          "answer": "come"
+        },
+        {
+          "item": "She can’t to remember / remember the phone number.",
+          "answer": "remember"
+        },
+        {
+          "item": "I can’t / I not can leave the premises yet.",
+          "answer": "can’t"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "He can dance / dances ballet professionally.",
+          "answer": "dance"
+        },
+        {
+          "item": "Can they / Do they can use the credit card?",
+          "answer": "Can they"
+        },
+        {
+          "item": "You can’t / no can’t park on the double yellow lines.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can you to give / give me advice on this issue?",
+          "answer": "give"
+        },
+        {
+          "item": "I can finishes / finish this article by tomorrow.",
+          "answer": "finish"
+        },
+        {
+          "item": "'Can she cook pizza?' 'Yes, she can / she can cook.'",
+          "answer": "can"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "We can to arrive / arrive before the store closes.",
+          "answer": "arrive"
+        },
+        {
+          "item": "Can / Do I can borrow your notes?",
+          "answer": "Can"
+        },
+        {
+          "item": "She can’t / I not can remember what happened.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can he speaks / speak fluent Italian?",
+          "answer": "speak"
+        },
+        {
+          "item": "I can’t to find / find my car in the parking lot.",
+          "answer": "find"
+        },
+        {
+          "item": "They can helps / help us move the furniture.",
+          "answer": "help"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "5A"
+      ],
+      "type": "underline_correct_word_or_phrase",
+      "instructions": "Underline the correct word or phrase.",
+      "example": {
+        "item": "They can / Can they go to bed late?",
+        "answer": "Can they"
+      },
+      "qa_pairs": [
+        {
+          "item": "My cousin can draws / draw realistic figures.",
+          "answer": "draw"
+        },
+        {
+          "item": "Do you can / Can you explain the rule again?",
+          "answer": "Can you"
+        },
+        {
+          "item": "The children can’t / We cannot be quiet.",
+          "answer": "can’t"
+        },
+        {
+          "item": "Can she to cook / cook complex dishes?",
+          "answer": "cook"
+        },
+        {
+          "item": "I can to run / run fast, but not far.",
+          "answer": "run"
+        },
+        {
+          "item": "'Can you hear me?' 'No, I can't / I cannot hear.'",
+          "answer": "can’t"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1175 @@
+{
+  "questions": [
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Australian",
+          "answer": "Australia"
+        },
+        {
+          "item": "2 China ___________",
+          "answer": "Chinese"
+        },
+        {
+          "item": "3 Chile ___________",
+          "answer": "Chilean"
+        },
+        {
+          "item": "4 Norway ___________",
+          "answer": "Norwegian"
+        },
+        {
+          "item": "5 ___________ American",
+          "answer": "United States"
+        },
+        {
+          "item": "6 Nigeria ___________",
+          "answer": "Nigerian"
+        },
+        {
+          "item": "7 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "8 ___________ Canadian",
+          "answer": "Canada"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ German",
+          "answer": "Germany"
+        },
+        {
+          "item": "2 ___________ Nigerian",
+          "answer": "Nigeria"
+        },
+        {
+          "item": "3 ___________ Cuban",
+          "answer": "Cuba"
+        },
+        {
+          "item": "4 Belgium ___________",
+          "answer": "Belgian"
+        },
+        {
+          "item": "5 Turkey ___________",
+          "answer": "Turkish"
+        },
+        {
+          "item": "6 ___________ Colombian",
+          "answer": "Colombia"
+        },
+        {
+          "item": "7 ___________ Chilean",
+          "answer": "Chile"
+        },
+        {
+          "item": "8 Morocco ___________",
+          "answer": "Moroccan"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Philippines ___________",
+          "answer": "Filipino"
+        },
+        {
+          "item": "2 ___________ Korean",
+          "answer": "South Korea"
+        },
+        {
+          "item": "3 Sweden ___________",
+          "answer": "Swedish"
+        },
+        {
+          "item": "4 ___________ Danish",
+          "answer": "Denmark"
+        },
+        {
+          "item": "5 ___________ Italian",
+          "answer": "Italy"
+        },
+        {
+          "item": "6 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "7 ___________ Swiss",
+          "answer": "Switzerland"
+        },
+        {
+          "item": "8 ___________ Australian",
+          "answer": "Australia"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ American",
+          "answer": "United States"
+        },
+        {
+          "item": "2 ___________ Swiss",
+          "answer": "Switzerland"
+        },
+        {
+          "item": "3 ___________ Peruvian",
+          "answer": "Peru"
+        },
+        {
+          "item": "4 Sweden ___________",
+          "answer": "Swedish"
+        },
+        {
+          "item": "5 ___________ Filipino",
+          "answer": "Philippines"
+        },
+        {
+          "item": "6 ___________ Italian",
+          "answer": "Italy"
+        },
+        {
+          "item": "7 India ___________",
+          "answer": "Indian"
+        },
+        {
+          "item": "8 Canada ___________",
+          "answer": "Canadian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ South African",
+          "answer": "South Africa"
+        },
+        {
+          "item": "2 ___________ Greek",
+          "answer": "Greece"
+        },
+        {
+          "item": "3 ___________ Polish",
+          "answer": "Poland"
+        },
+        {
+          "item": "4 China ___________",
+          "answer": "Chinese"
+        },
+        {
+          "item": "5 Mexico ___________",
+          "answer": "Mexican"
+        },
+        {
+          "item": "6 ___________ Chilean",
+          "answer": "Chile"
+        },
+        {
+          "item": "7 ___________ Spanish",
+          "answer": "Spain"
+        },
+        {
+          "item": "8 United States ___________",
+          "answer": "American"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Poland ___________",
+          "answer": "Polish"
+        },
+        {
+          "item": "2 Greece ___________",
+          "answer": "Greek"
+        },
+        {
+          "item": "3 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "4 India ___________",
+          "answer": "Indian"
+        },
+        {
+          "item": "5 Turkey ___________",
+          "answer": "Turkish"
+        },
+        {
+          "item": "6 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "7 ___________ Norwegian",
+          "answer": "Norway"
+        },
+        {
+          "item": "8 Mexico ___________",
+          "answer": "Mexican"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Russian",
+          "answer": "Russia"
+        },
+        {
+          "item": "2 ___________ Italian",
+          "answer": "Italy"
+        },
+        {
+          "item": "3 Australia ___________",
+          "answer": "Australian"
+        },
+        {
+          "item": "4 Norway ___________",
+          "answer": "Norwegian"
+        },
+        {
+          "item": "5 ___________ Indonesian",
+          "answer": "Indonesia"
+        },
+        {
+          "item": "6 ___________ Brazilian",
+          "answer": "Brazil"
+        },
+        {
+          "item": "7 ___________ Argentinian",
+          "answer": "Argentina"
+        },
+        {
+          "item": "8 ___________ Danish",
+          "answer": "Denmark"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Korean",
+          "answer": "South Korea"
+        },
+        {
+          "item": "2 ___________ Nigerian",
+          "answer": "Nigeria"
+        },
+        {
+          "item": "3 Indonesia ___________",
+          "answer": "Indonesian"
+        },
+        {
+          "item": "4 Philippines ___________",
+          "answer": "Filipino"
+        },
+        {
+          "item": "5 Turkey ___________",
+          "answer": "Turkish"
+        },
+        {
+          "item": "6 Mexico ___________",
+          "answer": "Mexican"
+        },
+        {
+          "item": "7 ___________ Swedish",
+          "answer": "Sweden"
+        },
+        {
+          "item": "8 Belgium ___________",
+          "answer": "Belgian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Japanese",
+          "answer": "Japan"
+        },
+        {
+          "item": "2 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "3 ___________ Italian",
+          "answer": "Italy"
+        },
+        {
+          "item": "4 ___________ Finnish",
+          "answer": "Finland"
+        },
+        {
+          "item": "5 ___________ German",
+          "answer": "Germany"
+        },
+        {
+          "item": "6 ___________ Chilean",
+          "answer": "Chile"
+        },
+        {
+          "item": "7 ___________ Thai",
+          "answer": "Thailand"
+        },
+        {
+          "item": "8 ___________ Danish",
+          "answer": "Denmark"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Argentina ___________",
+          "answer": "Argentinian"
+        },
+        {
+          "item": "2 ___________ Finnish",
+          "answer": "Finland"
+        },
+        {
+          "item": "3 Morocco ___________",
+          "answer": "Moroccan"
+        },
+        {
+          "item": "4 ___________ American",
+          "answer": "United States"
+        },
+        {
+          "item": "5 ___________ Filipino",
+          "answer": "Philippines"
+        },
+        {
+          "item": "6 ___________ Colombian",
+          "answer": "Colombia"
+        },
+        {
+          "item": "7 Italy ___________",
+          "answer": "Italian"
+        },
+        {
+          "item": "8 Nigeria ___________",
+          "answer": "Nigerian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Argentina ___________",
+          "answer": "Argentinian"
+        },
+        {
+          "item": "2 ___________ Danish",
+          "answer": "Denmark"
+        },
+        {
+          "item": "3 Brazil ___________",
+          "answer": "Brazilian"
+        },
+        {
+          "item": "4 ___________ Japanese",
+          "answer": "Japan"
+        },
+        {
+          "item": "5 ___________ Canadian",
+          "answer": "Canada"
+        },
+        {
+          "item": "6 ___________ Korean",
+          "answer": "South Korea"
+        },
+        {
+          "item": "7 Switzerland ___________",
+          "answer": "Swiss"
+        },
+        {
+          "item": "8 ___________ Nigerian",
+          "answer": "Nigeria"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Chile ___________",
+          "answer": "Chilean"
+        },
+        {
+          "item": "2 ___________ Russian",
+          "answer": "Russia"
+        },
+        {
+          "item": "3 ___________ Vietnamese",
+          "answer": "Vietnam"
+        },
+        {
+          "item": "4 ___________ Peruvian",
+          "answer": "Peru"
+        },
+        {
+          "item": "5 ___________ Spanish",
+          "answer": "Spain"
+        },
+        {
+          "item": "6 Norway ___________",
+          "answer": "Norwegian"
+        },
+        {
+          "item": "7 ___________ Indian",
+          "answer": "India"
+        },
+        {
+          "item": "8 ___________ Portuguese",
+          "answer": "Portugal"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Canada ___________",
+          "answer": "Canadian"
+        },
+        {
+          "item": "2 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "3 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "4 ___________ Australian",
+          "answer": "Australia"
+        },
+        {
+          "item": "5 United States ___________",
+          "answer": "American"
+        },
+        {
+          "item": "6 China ___________",
+          "answer": "Chinese"
+        },
+        {
+          "item": "7 Finland ___________",
+          "answer": "Finnish"
+        },
+        {
+          "item": "8 Peru ___________",
+          "answer": "Peruvian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Morocco ___________",
+          "answer": "Moroccan"
+        },
+        {
+          "item": "2 ___________ Portuguese",
+          "answer": "Portugal"
+        },
+        {
+          "item": "3 Japan ___________",
+          "answer": "Japanese"
+        },
+        {
+          "item": "4 Argentina ___________",
+          "answer": "Argentinian"
+        },
+        {
+          "item": "5 ___________ Greek",
+          "answer": "Greece"
+        },
+        {
+          "item": "6 ___________ Indonesian",
+          "answer": "Indonesia"
+        },
+        {
+          "item": "7 ___________ Filipino",
+          "answer": "Philippines"
+        },
+        {
+          "item": "8 ___________ Nigerian",
+          "answer": "Nigeria"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 China ___________",
+          "answer": "Chinese"
+        },
+        {
+          "item": "2 Philippines ___________",
+          "answer": "Filipino"
+        },
+        {
+          "item": "3 Canada ___________",
+          "answer": "Canadian"
+        },
+        {
+          "item": "4 ___________ Argentinian",
+          "answer": "Argentina"
+        },
+        {
+          "item": "5 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "6 Indonesia ___________",
+          "answer": "Indonesian"
+        },
+        {
+          "item": "7 Mexico ___________",
+          "answer": "Mexican"
+        },
+        {
+          "item": "8 Greece ___________",
+          "answer": "Greek"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Australian",
+          "answer": "Australia"
+        },
+        {
+          "item": "2 Sweden ___________",
+          "answer": "Swedish"
+        },
+        {
+          "item": "3 Thailand ___________",
+          "answer": "Thai"
+        },
+        {
+          "item": "4 ___________ Italian",
+          "answer": "Italy"
+        },
+        {
+          "item": "5 ___________ Danish",
+          "answer": "Denmark"
+        },
+        {
+          "item": "6 Poland ___________",
+          "answer": "Polish"
+        },
+        {
+          "item": "7 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "8 Colombia ___________",
+          "answer": "Colombian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Greece ___________",
+          "answer": "Greek"
+        },
+        {
+          "item": "2 ___________ Nigerian",
+          "answer": "Nigeria"
+        },
+        {
+          "item": "3 ___________ Chinese",
+          "answer": "China"
+        },
+        {
+          "item": "4 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "5 ___________ Australian",
+          "answer": "Australia"
+        },
+        {
+          "item": "6 ___________ Turkish",
+          "answer": "Turkey"
+        },
+        {
+          "item": "7 South Korea ___________",
+          "answer": "Korean"
+        },
+        {
+          "item": "8 ___________ Danish",
+          "answer": "Denmark"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Vietnamese",
+          "answer": "Vietnam"
+        },
+        {
+          "item": "2 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "3 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "4 ___________ Polish",
+          "answer": "Poland"
+        },
+        {
+          "item": "5 ___________ German",
+          "answer": "Germany"
+        },
+        {
+          "item": "6 ___________ Egyptian",
+          "answer": "Egypt"
+        },
+        {
+          "item": "7 ___________ Russian",
+          "answer": "Russia"
+        },
+        {
+          "item": "8 Australia ___________",
+          "answer": "Australian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Indonesian",
+          "answer": "Indonesia"
+        },
+        {
+          "item": "2 ___________ Belgian",
+          "answer": "Belgium"
+        },
+        {
+          "item": "3 ___________ Danish",
+          "answer": "Denmark"
+        },
+        {
+          "item": "4 France ___________",
+          "answer": "French"
+        },
+        {
+          "item": "5 ___________ Nigerian",
+          "answer": "Nigeria"
+        },
+        {
+          "item": "6 ___________ American",
+          "answer": "United States"
+        },
+        {
+          "item": "7 ___________ Thai",
+          "answer": "Thailand"
+        },
+        {
+          "item": "8 ___________ Portuguese",
+          "answer": "Portugal"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Chilean",
+          "answer": "Chile"
+        },
+        {
+          "item": "2 Belgium ___________",
+          "answer": "Belgian"
+        },
+        {
+          "item": "3 ___________ Polish",
+          "answer": "Poland"
+        },
+        {
+          "item": "4 Egypt ___________",
+          "answer": "Egyptian"
+        },
+        {
+          "item": "5 France ___________",
+          "answer": "French"
+        },
+        {
+          "item": "6 Denmark ___________",
+          "answer": "Danish"
+        },
+        {
+          "item": "7 Mexico ___________",
+          "answer": "Mexican"
+        },
+        {
+          "item": "8 Canada ___________",
+          "answer": "Canadian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Spanish",
+          "answer": "Spain"
+        },
+        {
+          "item": "2 Norway ___________",
+          "answer": "Norwegian"
+        },
+        {
+          "item": "3 Germany ___________",
+          "answer": "German"
+        },
+        {
+          "item": "4 ___________ Danish",
+          "answer": "Denmark"
+        },
+        {
+          "item": "5 ___________ Filipino",
+          "answer": "Philippines"
+        },
+        {
+          "item": "6 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "7 ___________ Peruvian",
+          "answer": "Peru"
+        },
+        {
+          "item": "8 ___________ Russian",
+          "answer": "Russia"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Argentinian",
+          "answer": "Argentina"
+        },
+        {
+          "item": "2 Peru ___________",
+          "answer": "Peruvian"
+        },
+        {
+          "item": "3 Chile ___________",
+          "answer": "Chilean"
+        },
+        {
+          "item": "4 ___________ Chinese",
+          "answer": "China"
+        },
+        {
+          "item": "5 ___________ Greek",
+          "answer": "Greece"
+        },
+        {
+          "item": "6 Denmark ___________",
+          "answer": "Danish"
+        },
+        {
+          "item": "7 Thailand ___________",
+          "answer": "Thai"
+        },
+        {
+          "item": "8 ___________ German",
+          "answer": "Germany"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 France ___________",
+          "answer": "French"
+        },
+        {
+          "item": "2 Vietnam ___________",
+          "answer": "Vietnamese"
+        },
+        {
+          "item": "3 Switzerland ___________",
+          "answer": "Swiss"
+        },
+        {
+          "item": "4 Argentina ___________",
+          "answer": "Argentinian"
+        },
+        {
+          "item": "5 ___________ Turkish",
+          "answer": "Turkey"
+        },
+        {
+          "item": "6 ___________ Finnish",
+          "answer": "Finland"
+        },
+        {
+          "item": "7 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "8 ___________ Australian",
+          "answer": "Australia"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Canadian",
+          "answer": "Canada"
+        },
+        {
+          "item": "2 ___________ Belgian",
+          "answer": "Belgium"
+        },
+        {
+          "item": "3 Egypt ___________",
+          "answer": "Egyptian"
+        },
+        {
+          "item": "4 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "5 ___________ South African",
+          "answer": "South Africa"
+        },
+        {
+          "item": "6 ___________ Chilean",
+          "answer": "Chile"
+        },
+        {
+          "item": "7 ___________ Indian",
+          "answer": "India"
+        },
+        {
+          "item": "8 ___________ Thai",
+          "answer": "Thailand"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Norway ___________",
+          "answer": "Norwegian"
+        },
+        {
+          "item": "2 ___________ German",
+          "answer": "Germany"
+        },
+        {
+          "item": "3 Indonesia ___________",
+          "answer": "Indonesian"
+        },
+        {
+          "item": "4 ___________ Chinese",
+          "answer": "China"
+        },
+        {
+          "item": "5 ___________ French",
+          "answer": "France"
+        },
+        {
+          "item": "6 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "7 ___________ Polish",
+          "answer": "Poland"
+        },
+        {
+          "item": "8 ___________ South African",
+          "answer": "South Africa"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ South African",
+          "answer": "South Africa"
+        },
+        {
+          "item": "2 Nigeria ___________",
+          "answer": "Nigerian"
+        },
+        {
+          "item": "3 ___________ Finnish",
+          "answer": "Finland"
+        },
+        {
+          "item": "4 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "5 Peru ___________",
+          "answer": "Peruvian"
+        },
+        {
+          "item": "6 ___________ Colombian",
+          "answer": "Colombia"
+        },
+        {
+          "item": "7 ___________ French",
+          "answer": "France"
+        },
+        {
+          "item": "8 Brazil ___________",
+          "answer": "Brazilian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Colombia ___________",
+          "answer": "Colombian"
+        },
+        {
+          "item": "2 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "3 ___________ German",
+          "answer": "Germany"
+        },
+        {
+          "item": "4 Canada ___________",
+          "answer": "Canadian"
+        },
+        {
+          "item": "5 France ___________",
+          "answer": "French"
+        },
+        {
+          "item": "6 ___________ Egyptian",
+          "answer": "Egypt"
+        },
+        {
+          "item": "7 ___________ Chinese",
+          "answer": "China"
+        },
+        {
+          "item": "8 Belgium ___________",
+          "answer": "Belgian"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Argentinian",
+          "answer": "Argentina"
+        },
+        {
+          "item": "2 ___________ Greek",
+          "answer": "Greece"
+        },
+        {
+          "item": "3 ___________ South African",
+          "answer": "South Africa"
+        },
+        {
+          "item": "4 ___________ Polish",
+          "answer": "Poland"
+        },
+        {
+          "item": "5 ___________ Spanish",
+          "answer": "Spain"
+        },
+        {
+          "item": "6 Chile ___________",
+          "answer": "Chilean"
+        },
+        {
+          "item": "7 ___________ Colombian",
+          "answer": "Colombia"
+        },
+        {
+          "item": "8 United States ___________",
+          "answer": "American"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 Australia ___________",
+          "answer": "Australian"
+        },
+        {
+          "item": "2 ___________ Danish",
+          "answer": "Denmark"
+        },
+        {
+          "item": "3 Portugal ___________",
+          "answer": "Portuguese"
+        },
+        {
+          "item": "4 ___________ Moroccan",
+          "answer": "Morocco"
+        },
+        {
+          "item": "5 Spain ___________",
+          "answer": "Spanish"
+        },
+        {
+          "item": "6 ___________ Japanese",
+          "answer": "Japan"
+        },
+        {
+          "item": "7 ___________ Nigerian",
+          "answer": "Nigeria"
+        },
+        {
+          "item": "8 ___________ Turkish",
+          "answer": "Turkey"
+        }
+      ]
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the chart.",
+      "example": "Example: Germany German",
+      "qa_pairs": [
+        {
+          "item": "1 ___________ Argentinian",
+          "answer": "Argentina"
+        },
+        {
+          "item": "2 ___________ American",
+          "answer": "United States"
+        },
+        {
+          "item": "3 ___________ Korean",
+          "answer": "South Korea"
+        },
+        {
+          "item": "4 ___________ Greek",
+          "answer": "Greece"
+        },
+        {
+          "item": "5 ___________ Vietnamese",
+          "answer": "Vietnam"
+        },
+        {
+          "item": "6 Nigeria ___________",
+          "answer": "Nigerian"
+        },
+        {
+          "item": "7 China ___________",
+          "answer": "Chinese"
+        },
+        {
+          "item": "8 Philippines ___________",
+          "answer": "Filipino"
+        }
+      ]
+    }
+  ]
+}
+

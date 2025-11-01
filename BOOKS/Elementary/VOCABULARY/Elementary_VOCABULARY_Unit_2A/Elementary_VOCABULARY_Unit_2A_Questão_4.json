@@ -1,0 +1,305 @@
+{
+  "questions": [
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The sun __________ in the east. (sets / rises / hides)\n²I need to buy a __________ of bread from the bakery. (bottle / loaf / carton)\n³She is very __________ and always helps people in need. (selfish / kind / mean)\n⁴Can you __________ the music? It's too loud. (turn down / turn on / turn up)\n⁵My appointment is __________ 10:30 AM. (on / at / in)\n⁶This is the __________ movie I have ever seen. I loved it! (best / worse / bad)\n⁷I don't have __________ money with me right now. (many / a lot / much)",
+          "answer": "¹rises, ²loaf, ³kind, ⁴turn down, ⁵at, ⁶best, ⁷much"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ is a place where you can see historical artifacts. (cinema / library / museum)\n²He felt __________ after running a marathon. (energized / exhausted / awake)\n³This diamond is beautiful, but it's completely __________. (worthless / valuable / cheap)\n⁴Don't forget to __________ your coat; it's cold outside. (take off / bring / wear)\n⁵What's the __________ today? Is it the 15th? (time / day / date)\n⁶The children are playing __________ in the garden. (sadly / happily / angrily)\n⁷She __________ to the gym three times a week. (goes / is going / went)",
+          "answer": "¹museum, ²exhausted, ³worthless, ⁴wear, ⁵date, ⁶happily, ⁷goes"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The opposite of 'deep' is __________. (wide / high / shallow)\n²I'm __________ to peanuts; I can't eat them. (allergic / immune / open)\n³He is __________ for the meeting. We should start without him. (early / on time / late)\n⁴My flight __________ at 8 PM tonight. (arrives / departed / departs)\n⁵Would you like __________ cup of tea? (other / another / some)\n⁶She speaks English very __________. (fluent / fluently / good)\n⁷He is very __________. He never wants to work. (hardworking / active / lazy)",
+          "answer": "¹shallow, ²allergic, ³late, ⁴departs, ⁵another, ⁶fluently, ⁷lazy"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A year has twelve __________. (weeks / months / days)\n²The food was __________. I don't recommend that restaurant. (delicious / awful / tasty)\n³The water is boiling. You can put the __________ in now. (pasta / ice / salad)\n⁴Please put the books back on the __________ when you're finished. (table / shelf / floor)\n⁵I need to __________ an important phone call. (do / make / give)\n⁶She is wearing a __________ red dress. (lovely / ugly / old)\n⁷He is __________ than his older brother. (short / shorter / shortest)",
+          "answer": "¹months, ²awful, ³pasta, ⁴shelf, ⁵make, ⁶lovely, ⁷shorter"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹I have an __________ for my final exam tomorrow. (interview / exam / appointment)\n²The library is a very __________ place for studying. (noisy / quiet / chaotic)\n³This knife is not sharp enough to __________ the tomato. (cut / break / cook)\n⁴A __________ person is someone who makes you laugh. (serious / comedian / teacher)\n⁵She is __________ about winning the competition. (pessimistic / optimistic / sad)\n⁶You __________ drink and drive. It's illegal. (should / can / mustn't)\n⁷He is an __________ at fixing computers. (amateur / expert / apprentice)",
+          "answer": "¹exam, ²quiet, ³cut, ⁴comedian, ⁵optimistic, ⁶mustn't, ⁷expert"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The train travels on a railway __________. (road / track / path)\n²Her hair is not straight, it's __________. (long / curly / short)\n³He was __________ because his team lost the game. (delighted / pleased / disappointed)\n⁴My birthday is __________ August. (at / on / in)\n⁵This is my favorite __________ of shoes. (pair / piece / set)\n⁶The problem was __________ difficult, so I asked for help. (quite / easy / a bit)\n⁷The opposite of 'polite' is __________. (kind / rude / friendly)",
+          "answer": "¹track, ²curly, ³disappointed, ⁴in, ⁵pair, ⁶quite, ⁷rude"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹Can you please __________ the door? (open / eat / sit)\n²He is __________ a blue T-shirt and jeans today. (wearing / using / having)\n³The film was so __________ that I fell asleep. (exciting / interesting / boring)\n⁴If it __________, we will have the picnic inside. (snows / rains / shines)\n⁵She is the __________ intelligent student in the class. (more / much / most)\n⁶I don't like __________ food; it's too hot for me. (mild / sweet / spicy)\n⁷A __________ is a person who flies an airplane. (doctor / pilot / driver)",
+          "answer": "¹open, ²wearing, ³boring, ⁴rains, ⁵most, ⁶spicy, ⁷pilot"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹He is __________ to his work and always does a good job. (dedicated / indifferent / lazy)\n²My car is old, so I need to buy a __________ one. (new / used / ancient)\n³I have to __________ up early tomorrow for my flight. (stay / wake / sleep)\n⁴We live in a small apartment on the third __________. (level / ground / floor)\n⁵This coffee is too __________. It needs sugar. (sweet / bitter / sour)\n⁶They have __________ to Paris several times. (be / been / being)\n⁷He is not very __________. He doesn't like parties. (shy / sociable / quiet)",
+          "answer": "¹dedicated, ²new, ³wake, ⁴floor, ⁵bitter, ⁶been, ⁷sociable"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A vegetarian is someone who doesn't eat __________. (vegetables / fruit / meat)\n²The box is __________; there is nothing inside it. (heavy / full / empty)\n³She is very __________ and always has a smile on her face. (miserable / cheerful / serious)\n⁴I need to __________ my homework before I can watch TV. (make / do / go)\n⁵This is a __________ area. You must not smoke here. (smoking / non-smoking / free)\n⁶The opposite of 'beautiful' is __________. (lovely / pretty / ugly)\n⁷I __________ that movie last week. (saw / seen / see)",
+          "answer": "¹meat, ²empty, ³cheerful, ⁴do, ⁵non-smoking, ⁶ugly, ⁷saw"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹He works as a __________ in a famous restaurant. (chef / waiter / customer)\n²The weather is __________ and sunny, a perfect day for the beach. (cold / warm / stormy)\n³I am __________ in learning how to play the guitar. (interesting / bored / interested)\n⁴Please be __________ in the library. (loud / quiet / noisy)\n⁵She is a very __________ person; she can lift heavy boxes. (weak / strong / small)\n⁶There isn't __________ milk left in the carton. (any / some / many)\n⁷He is __________ about the future of his company. (worried / calm / excited)",
+          "answer": "¹chef, ²warm, ³interested, ⁴quiet, ⁵strong, ⁶any, ⁷worried"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ is an animal that barks. (cat / horse / dog)\n²He is always __________ for work, never late. (behind / on time / after)\n³The surface of the old table was __________, not smooth. (soft / rough / flat)\n⁴I need to __________ an email to my boss. (read / write / listen)\n⁵The opposite of 'brave' is __________. (strong / fearless / cowardly)\n⁶She has a __________ collection of rare stamps. (valuable / worthless / common)\n⁷He is __________ of spiders. (fond / happy / afraid)",
+          "answer": "¹dog, ²on time, ³rough, ⁴write, ⁵cowardly, ⁶valuable, ⁷afraid"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹London is the __________ of the United Kingdom. (country / capital / continent)\n²This medicine has a very __________ taste. (delicious / unpleasant / sweet)\n³You should be __________ to your elders. (disrespectful / rude / respectful)\n⁴I __________ my keys and can't find them anywhere. (have lost / did lose / was losing)\n⁵This chair is not very __________. My back hurts. (hard / comfortable / soft)\n⁶The classroom was __________ with students. (crowded / empty / spacious)\n⁷A __________ person gives a lot of money to charity. (stingy / generous / poor)",
+          "answer": "¹capital, ²unpleasant, ³respectful, ⁴have lost, ⁵comfortable, ⁶crowded, ⁷generous"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The Earth __________ around the Sun. (spins / rotates / revolves)\n²This exercise is too __________ for me. I can't do it. (simple / easy / difficult)\n³She felt very __________ before her big presentation. (calm / nervous / bored)\n⁴My brother is a __________ in the army. (doctor / soldier / teacher)\n⁵The __________ of the desert is very dry. (forest / climate / ocean)\n⁶The opposite of 'ancient' is __________. (old / modern / historic)\n⁷He __________ me a secret and told me not to tell anyone. (said / told / spoke)",
+          "answer": "¹revolves, ²difficult, ³nervous, ⁴soldier, ⁵climate, ⁶modern, ⁷told"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ helps sick animals. (dentist / veterinarian / surgeon)\n²The room was __________ dark, so I turned on the lights. (pitch / very / a bit)\n³He is a very __________ worker and is often promoted. (lazy / efficient / slow)\n⁴I need to __________ some money from the ATM. (deposit / withdraw / save)\n⁵This story is not true; it's __________. (factual / real / fictional)\n⁶She is wearing a beautiful __________ around her neck. (bracelet / ring / necklace)\n⁷The test was surprisingly __________, and everyone passed. (hard / easy / tricky)",
+          "answer": "¹veterinarian, ²pitch, ³efficient, ⁴withdraw, ⁵fictional, ⁶necklace, ⁷easy"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹You use a __________ to write on a blackboard. (pen / pencil / chalk)\n²The soup is cold. Can you please __________ it up? (cool / heat / freeze)\n³He is very __________. He talks all the time. (quiet / talkative / shy)\n⁴The opposite of 'success' is __________. (victory / achievement / failure)\n⁵I have been waiting for you __________ two hours. (since / for / at)\n⁶The __________ of the mountain offers a fantastic view. (base / summit / side)\n⁷She is __________ to finish the project by Friday. (expected / expecting / expects)",
+          "answer": "¹chalk, ²heat, ³talkative, ⁴failure, ⁵for, ⁶summit, ⁷expected"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The Pacific is the largest __________ on Earth. (river / lake / ocean)\n²This fabric is very __________. It feels nice against the skin. (rough / coarse / soft)\n³He is a very __________ person and can be trusted. (dishonest / unreliable / reliable)\n⁴You need a __________ to open this locked door. (key / hammer / card)\n⁵I am not __________ with the results of the experiment. (satisfied / satisfying / satisfy)\n⁶The play was so __________ that the audience gave a standing ovation. (terrible / mediocre / captivating)\n⁷The opposite of 'temporary' is __________. (short-term / permanent / brief)",
+          "answer": "¹ocean, ²soft, ³reliable, ⁴key, ⁵satisfied, ⁶captivating, ⁷permanent"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ has a long trunk and big ears. (giraffe / monkey / elephant)\n²The instructions were __________, and I got lost. (clear / simple / confusing)\n³She is very __________. She gets angry easily. (calm / patient / short-tempered)\n⁴He decided to __________ his old car and buy a new one. (keep / sell / repair)\n⁵It is __________ to see a rainbow after it rains. (rare / common / impossible)\n⁶The steak was __________ and hard to chew. (tender / tough / soft)\n⁷They live in a __________ cottage in the countryside. (huge / modern / charming)",
+          "answer": "¹elephant, ²confusing, ³short-tempered, ⁴sell, ⁵common, ⁶tough, ⁷charming"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The opposite of 'entrance' is __________. (exit / door / gate)\n²This puzzle is __________. I can't figure it out. (easy / perplexing / obvious)\n³He is __________ about his appearance and always looks smart. (careless / meticulous / messy)\n⁴A __________ is used for measuring temperature. (ruler / thermometer / watch)\n⁵She has a __________ voice, perfect for singing opera. (weak / powerful / quiet)\n⁶I need to __________ my phone. The battery is low. (break / charge / throw)\n⁷The company made a __________ profit last year. (huge / small / tiny)",
+          "answer": "¹exit, ²perplexing, ³meticulous, ⁴thermometer, ⁵powerful, ⁶charge, ⁷huge"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹He is the __________ of the local newspaper. (writer / editor / reader)\n²The opposite of 'wise' is __________. (intelligent / smart / foolish)\n³The mirror has a crack, but it is still __________. (broken / usable / useless)\n⁴She felt a great sense of __________ after finishing her degree. (sadness / relief / stress)\n⁵The __________ on that mountain is very steep. (slope / peak / base)\n⁶His excuse for being late was not __________. (believable / true / false)\n⁷The garden is full of __________ flowers. (dull / colorful / ugly)",
+          "answer": "¹editor, ²foolish, ³usable, ⁴relief, ⁵slope, ⁶believable, ⁷colorful"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The __________ is the joint that bends in the middle of your leg. (elbow / wrist / knee)\n²He is very __________ and always considers other people's feelings. (thoughtless / inconsiderate / thoughtful)\n³The city is known for its __________ nightlife. (boring / quiet / vibrant)\n⁴Please __________ from touching the exhibits in the museum. (continue / refrain / start)\n⁵The opposite of 'victory' is __________. (success / triumph / defeat)\n⁶Her performance was __________. There were no mistakes. (flawless / flawed / average)\n⁷The old castle is now a popular tourist __________. (trap / attraction / spot)",
+          "answer": "¹knee, ²thoughtful, ³vibrant, ⁴refrain, ⁵defeat, ⁶flawless, ⁷attraction"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ is a large body of salt water, smaller than an ocean. (river / sea / pond)\n²His handwriting is almost __________. I can't read it. (legible / neat / illegible)\n³She is __________ to accept the job offer. (hesitant / certain / sure)\n⁴The opposite of 'courage' is __________. (bravery / valor / cowardice)\n⁵The new law will be __________ starting next month. (effective / ineffective / useless)\n⁶This is a __________ document. Please handle it with care. (public / common / confidential)\n⁷He gave a __________ sigh of disappointment. (loud / deep / small)",
+          "answer": "¹sea, ²illegible, ³hesitant, ⁴cowardice, ⁵effective, ⁶confidential, ⁷deep"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The __________ of the tree provides shade. (leaves / roots / trunk)\n²He is __________ of speaking five languages. (able / capable / skilled)\n³The opposite of 'compulsory' is __________. (required / mandatory / voluntary)\n⁴The antique vase is extremely __________. (fragile / strong / sturdy)\n⁵The evidence against him was __________. (weak / overwhelming / scarce)\n⁶She has a __________ memory for details. (poor / remarkable / bad)\n⁷The debate became quite __________ as they disagreed. (calm / peaceful / heated)",
+          "answer": "¹leaves, ²capable, ³voluntary, ⁴fragile, ⁵overwhelming, ⁶remarkable, ⁷heated"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The __________ is the red liquid that circulates in the body. (water / blood / sweat)\n²His decision was __________ and not based on logic. (rational / arbitrary / sensible)\n³The opposite of 'abundant' is __________. (plentiful / ample / scarce)\n⁴The defendant was found __________ by the jury. (innocent / guilty / correct)\n⁵The politician's speech was very __________. (boring / persuasive / weak)\n⁶She is known for her __________ sense of style. (impeccable / terrible / poor)\n⁷The project requires a __________ amount of work. (considerable / minor / small)",
+          "answer": "¹blood, ²arbitrary, ³scarce, ⁴innocent, ⁵persuasive, ⁶impeccable, ⁷considerable"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The __________ system connects all the computers in the office. (solar / network / road)\n²The opposite of 'transparent' is __________. (clear / see-through / opaque)\n³He made a __________ attempt to fix the problem, but failed. (successful / futile / strong)\n⁴The twins are so __________ it's hard to tell them apart. (different / opposite / identical)\n⁵The company is facing __________ competition from its rivals. (friendly / fierce / weak)\n⁶Her contribution to the team was __________. (invaluable / worthless / minor)\n⁷The storm caused __________ damage to the coastal towns. (minimal / extensive / slight)",
+          "answer": "¹network, ²opaque, ³futile, ⁴identical, ⁵fierce, ⁶invaluable, ⁷extensive"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The __________ is the outer layer of the Earth. (core / mantle / crust)\n²The opposite of 'native' is __________. (local / indigenous / foreign)\n³His alibi was __________ and confirmed by two witnesses. (shaky / weak / solid)\n⁴The new discovery was a major __________ in the field of medicine. (setback / breakthrough / problem)\n⁵She is a __________ supporter of environmental protection. (staunch / weak / wavering)\n⁶The details of the plan are still __________. (clear / final / tentative)\n⁷He has a __________ talent for music. (mediocre / prodigious / average)",
+          "answer": "¹crust, ²foreign, ³solid, ⁴breakthrough, ⁵staunch, ⁶tentative, ⁷prodigious"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ is a period of ten years. (century / millennium / decade)\n²The opposite of 'flexible' is __________. (adaptable / pliable / rigid)\n³The witness gave a __________ account of the events. (vague / precise / unclear)\n⁴The negotiations between the two countries reached a __________. (stalemate / agreement / conclusion)\n⁵He is known for his __________ and witty remarks. (dull / boring / sarcastic)\n⁶The __________ of the city are concerned about pollution. (visitors / tourists / inhabitants)\n⁷Her knowledge of the subject is __________. (superficial / deep / basic)",
+          "answer": "¹decade, ²rigid, ³vague, ⁴stalemate, ⁵sarcastic, ⁶inhabitants, ⁷superficial"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The doctor gave her a __________ for her illness. (receipt / prescription / note)\n²The opposite of 'humble' is __________. (modest / meek / arrogant)\n³The artist's work is highly __________ and original. (derivative / conventional / innovative)\n⁴The soldier showed great __________ in the face of danger. (fear / cowardice / valor)\n⁵The meeting has been __________ until next week. (advanced / postponed / cancelled)\n⁶His speech had a __________ effect on the audience. (profound / minor / negligible)\n⁷The evidence was __________ and led to a conviction. (inconclusive / conclusive / weak)",
+          "answer": "¹prescription, ²arrogant, ³innovative, ⁴valor, ⁵postponed, ⁶profound, ⁷conclusive"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ is a person who is fleeing their country. (tourist / refugee / expatriate)\n²The opposite of 'cautious' is __________. (careful / prudent / reckless)\n³The painting was a __________ of a famous masterpiece. (forgery / original / print)\n⁴There is a __________ of skilled workers in the industry. (surplus / shortage / plenty)\n⁵His comments were __________ and not relevant to the topic. (pertinent / extraneous / central)\n⁶The two companies decided to __________ and form a larger one. (split / merge / compete)\n⁷The government's response to the crisis was widely __________. (praised / criticized / ignored)",
+          "answer": "¹refugee, ²reckless, ³forgery, ⁴shortage, ⁵extraneous, ⁶merge, ⁷criticized"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹The study of the stars and planets is called __________. (geology / astrology / astronomy)\n²The opposite of 'benign' is __________. (kind / harmless / malignant)\n³The peace treaty was __________ after months of negotiation. (broken / ratified / discussed)\n⁴She has an __________ ability to learn languages. (ordinary / uncanny / average)\n⁵The atmosphere in the room was __________ with tension. (calm / relaxed / fraught)\n⁶The lawyer found a __________ in the contract. (strength / loophole / clause)\n⁷The problem is __________ and affects the entire community. (isolated / personal / widespread)",
+          "answer": "¹astronomy, ²malignant, ³ratified, ⁴uncanny, ⁵fraught, ⁶loophole, ⁷widespread"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "qa_pairs": [
+        {
+          "item": "¹A __________ is a book written by someone about their own life. (biography / novel / autobiography)\n²The opposite of 'ephemeral' is __________. (transient / fleeting / everlasting)\n³The team's morale was __________ after the unexpected defeat. (high / boosted / low)\n⁴He is known for his __________ and fair judgments. (biased / partial / impartial)\n⁵The old traditions are beginning to __________. (thrive / flourish / fade away)\n⁶The __________ between the two events is not a coincidence. (correlation / difference / separation)\n⁷The situation requires __________ action. (delayed / immediate / postponed)",
+          "answer": "¹autobiography, ²everlasting, ³low, ⁴impartial, ⁵fade away, ⁶correlation, ⁷immediate"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1295 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "What / you / watch / on TV ?",
+          "answer": "What are you watching on TV?"
+        },
+        {
+          "item": "My sister / study / for her exam",
+          "answer": "My sister’s studying for her exam."
+        },
+        {
+          "item": "They / not listen / to the teacher",
+          "answer": "They aren’t listening to the teacher."
+        },
+        {
+          "item": "We / have / dinner / right now",
+          "answer": "We’re having dinner right now."
+        },
+        {
+          "item": "It / not snow / outside / today",
+          "answer": "It isn’t snowing outside today."
+        },
+        {
+          "item": "Isabella / talk / to her boss ?",
+          "answer": "Is Isabella talking to her boss?"
+        },
+        {
+          "item": "Why / he / wear / a coat ?",
+          "answer": "Why is he wearing a coat?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "She / not use / her phone / currently",
+          "answer": "She isn’t using her phone currently."
+        },
+        {
+          "item": "Where / they / go / this weekend ?",
+          "answer": "Where are they going this weekend?"
+        },
+        {
+          "item": "My parents / sit / in the living room",
+          "answer": "My parents are sitting in the living room."
+        },
+        {
+          "item": "You / drive / to work / this morning ?",
+          "answer": "Are you driving to work this morning?"
+        },
+        {
+          "item": "I / not drink / coffee / at the moment",
+          "answer": "I’m not drinking coffee at the moment."
+        },
+        {
+          "item": "The train / arrive / late / again",
+          "answer": "The train’s arriving late again."
+        },
+        {
+          "item": "What / Jane / read / right now ?",
+          "answer": "What is Jane reading right now?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "He / work / from home / today",
+          "answer": "He’s working from home today."
+        },
+        {
+          "item": "We / not go / to the party / tonight",
+          "answer": "We aren’t going to the party tonight."
+        },
+        {
+          "item": "Why / the children / play / outside ?",
+          "answer": "Why are the children playing outside?"
+        },
+        {
+          "item": "The dogs / run / in the garden",
+          "answer": "The dogs are running in the garden."
+        },
+        {
+          "item": "You / feel / better / today ?",
+          "answer": "Are you feeling better today?"
+        },
+        {
+          "item": "My boss / not travel / this week",
+          "answer": "My boss isn’t travelling this week."
+        },
+        {
+          "item": "Who / wait / for the doctor ?",
+          "answer": "Who is waiting for the doctor?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "They / not have / lunch / yet",
+          "answer": "They aren’t having lunch yet."
+        },
+        {
+          "item": "What / I / do / wrong ?",
+          "answer": "What am I doing wrong?"
+        },
+        {
+          "item": "The sun / shine / very brightly",
+          "answer": "The sun’s shining very brightly."
+        },
+        {
+          "item": "Your friend / wait / outside ?",
+          "answer": "Is your friend waiting outside?"
+        },
+        {
+          "item": "We / paint / the kitchen / this month",
+          "answer": "We’re painting the kitchen this month."
+        },
+        {
+          "item": "He / not talk / on the phone / now",
+          "answer": "He isn’t talking on the phone now."
+        },
+        {
+          "item": "Where / she / sit / in the class ?",
+          "answer": "Where is she sitting in the class?"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "I / look / for / my keys",
+          "answer": "I’m looking for my keys."
+        },
+        {
+          "item": "Why / you / smile / like that ?",
+          "answer": "Why are you smiling like that?"
+        },
+        {
+          "item": "Our team / not play / very well / today",
+          "answer": "Our team isn’t playing very well today."
+        },
+        {
+          "item": "The baby / sleep / in its cot",
+          "answer": "The baby’s sleeping in its cot."
+        },
+        {
+          "item": "He / wear / a new jacket / today ?",
+          "answer": "Is he wearing a new jacket today?"
+        },
+        {
+          "item": "We / not watch / the news / at the moment",
+          "answer": "We aren’t watching the news at the moment."
+        },
+        {
+          "item": "What / the students / discuss / now ?",
+          "answer": "What are the students discussing now?"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "I / not wait / for anybody",
+          "answer": "I’m not waiting for anybody."
+        },
+        {
+          "item": "Where / John / travel / this summer ?",
+          "answer": "Where is John travelling this summer?"
+        },
+        {
+          "item": "She / sit / on the bus",
+          "answer": "She’s sitting on the bus."
+        },
+        {
+          "item": "It / rain / outside / right now ?",
+          "answer": "Is it raining outside right now?"
+        },
+        {
+          "item": "They / listen / to loud music",
+          "answer": "They’re listening to loud music."
+        },
+        {
+          "item": "The children / not play / video games",
+          "answer": "The children aren’t playing video games."
+        },
+        {
+          "item": "Why / you / stand / on the chair ?",
+          "answer": "Why are you standing on the chair?"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "He / watch / a football match",
+          "answer": "He’s watching a football match."
+        },
+        {
+          "item": "You / not study / enough / lately",
+          "answer": "You aren’t studying enough lately."
+        },
+        {
+          "item": "What / the dog / chase / in the park ?",
+          "answer": "What is the dog chasing in the park?"
+        },
+        {
+          "item": "We / not work / on that project / this month",
+          "answer": "We aren’t working on that project this month."
+        },
+        {
+          "item": "They / argue / about the meeting ?",
+          "answer": "Are they arguing about the meeting?"
+        },
+        {
+          "item": "The weather / get / colder / now",
+          "answer": "The weather’s getting colder now."
+        },
+        {
+          "item": "Who / Maria / talk / to / on the phone ?",
+          "answer": "Who is Maria talking to on the phone?"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "I / not feel / very well / today",
+          "answer": "I’m not feeling very well today."
+        },
+        {
+          "item": "Where / the manager / eat / lunch ?",
+          "answer": "Where is the manager eating lunch?"
+        },
+        {
+          "item": "She / wear / a nice dress / tonight",
+          "answer": "She’s wearing a nice dress tonight."
+        },
+        {
+          "item": "You / listen / to the music / playing ?",
+          "answer": "Are you listening to the music playing?"
+        },
+        {
+          "item": "The students / write / an essay",
+          "answer": "The students are writing an essay."
+        },
+        {
+          "item": "We / not drive / fast / right now",
+          "answer": "We aren’t driving fast right now."
+        },
+        {
+          "item": "Why / the plane / fly / so low ?",
+          "answer": "Why is the plane flying so low?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "What / they / look / at / on the internet ?",
+          "answer": "What are they looking at on the internet?"
+        },
+        {
+          "item": "My father / repair / the washing machine",
+          "answer": "My father’s repairing the washing machine."
+        },
+        {
+          "item": "I / not wait / for you / anymore",
+          "answer": "I’m not waiting for you anymore."
+        },
+        {
+          "item": "The company / hire / new staff / this year",
+          "answer": "The company’s hiring new staff this year."
+        },
+        {
+          "item": "You / use / this chair ?",
+          "answer": "Are you using this chair?"
+        },
+        {
+          "item": "He / not sleep / because of the noise",
+          "answer": "He isn’t sleeping because of the noise."
+        },
+        {
+          "item": "Where / we / go / next ?",
+          "answer": "Where are we going next?"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "We / travel / to London / tomorrow",
+          "answer": "We’re travelling to London tomorrow."
+        },
+        {
+          "item": "Why / the baby / laugh ?",
+          "answer": "Why is the baby laughing?"
+        },
+        {
+          "item": "The shops / not close / until 9 p.m.",
+          "answer": "The shops aren’t closing until 9 p.m."
+        },
+        {
+          "item": "She / listen / to the radio",
+          "answer": "She’s listening to the radio."
+        },
+        {
+          "item": "The dog / bark / loudly ?",
+          "answer": "Is the dog barking loudly?"
+        },
+        {
+          "item": "I / not read / that long book / anymore",
+          "answer": "I’m not reading that long book anymore."
+        },
+        {
+          "item": "What / Peter / eat / for breakfast ?",
+          "answer": "What is Peter eating for breakfast?"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "They / watch / a documentary / now",
+          "answer": "They’re watching a documentary now."
+        },
+        {
+          "item": "You / not study / at the library / today",
+          "answer": "You aren’t studying at the library today."
+        },
+        {
+          "item": "Where / your brother / work / this summer ?",
+          "answer": "Where is your brother working this summer?"
+        },
+        {
+          "item": "The woman / sing / a beautiful song",
+          "answer": "The woman’s singing a beautiful song."
+        },
+        {
+          "item": "He / call / a taxi / right now ?",
+          "answer": "Is he calling a taxi right now?"
+        },
+        {
+          "item": "It / not get / dark / yet",
+          "answer": "It isn’t getting dark yet."
+        },
+        {
+          "item": "What / we / talk / about / now ?",
+          "answer": "What are we talking about now?"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "I / drink / water / because I’m thirsty",
+          "answer": "I’m drinking water because I’m thirsty."
+        },
+        {
+          "item": "She / not look / for a new flat / currently",
+          "answer": "She isn’t looking for a new flat currently."
+        },
+        {
+          "item": "The children / do / their homework",
+          "answer": "The children are doing their homework."
+        },
+        {
+          "item": "Why / the teacher / shout ?",
+          "answer": "Why is the teacher shouting?"
+        },
+        {
+          "item": "The cat / sleep / on the sofa ?",
+          "answer": "Is the cat sleeping on the sofa?"
+        },
+        {
+          "item": "You / not wear / your glasses / today",
+          "answer": "You aren’t wearing your glasses today."
+        },
+        {
+          "item": "Where / the tourists / stay / this week ?",
+          "answer": "Where are the tourists staying this week?"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "What / the birds / eat / in the garden ?",
+          "answer": "What are the birds eating in the garden?"
+        },
+        {
+          "item": "We / drive / to the coast / right now",
+          "answer": "We’re driving to the coast right now."
+        },
+        {
+          "item": "My boss / not take / a vacation / this year",
+          "answer": "My boss isn’t taking a vacation this year."
+        },
+        {
+          "item": "He / run / late / for his appointment",
+          "answer": "He’s running late for his appointment."
+        },
+        {
+          "item": "The weather / get / better / now ?",
+          "answer": "Is the weather getting better now?"
+        },
+        {
+          "item": "I / not watch / that series / anymore",
+          "answer": "I’m not watching that series anymore."
+        },
+        {
+          "item": "Who / you / wait / for / outside ?",
+          "answer": "Who are you waiting for outside?"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "The computer / make / a strange noise",
+          "answer": "The computer’s making a strange noise."
+        },
+        {
+          "item": "Why / they / look / so worried ?",
+          "answer": "Why are they looking so worried?"
+        },
+        {
+          "item": "We / not have / an English class / today",
+          "answer": "We aren’t having an English class today."
+        },
+        {
+          "item": "I / write / a long email / to my client",
+          "answer": "I’m writing a long email to my client."
+        },
+        {
+          "item": "Your mother / cook / dinner ?",
+          "answer": "Is your mother cooking dinner?"
+        },
+        {
+          "item": "She / not travel / with us / next month",
+          "answer": "She isn’t travelling with us next month."
+        },
+        {
+          "item": "What / the woman / hold / in her hand ?",
+          "answer": "What is the woman holding in her hand?"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "They / argue / about money / again",
+          "answer": "They’re arguing about money again."
+        },
+        {
+          "item": "I / not listen / to this boring lecture",
+          "answer": "I’m not listening to this boring lecture."
+        },
+        {
+          "item": "Where / you / live / this semester ?",
+          "answer": "Where are you living this semester?"
+        },
+        {
+          "item": "The children / watch / a cartoon / now",
+          "answer": "The children are watching a cartoon now."
+        },
+        {
+          "item": "He / work / on Sunday ?",
+          "answer": "Is he working on Sunday?"
+        },
+        {
+          "item": "She / not take / the bus / today",
+          "answer": "She isn’t taking the bus today."
+        },
+        {
+          "item": "What / we / do / after class ?",
+          "answer": "What are we doing after class?"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "The singer / perform / her new song",
+          "answer": "The singer’s performing her new song."
+        },
+        {
+          "item": "We / not talk / about politics / now",
+          "answer": "We aren’t talking about politics now."
+        },
+        {
+          "item": "Why / the client / wait / for us ?",
+          "answer": "Why is the client waiting for us?"
+        },
+        {
+          "item": "The weather / not improve / yet",
+          "answer": "The weather isn’t improving yet."
+        },
+        {
+          "item": "You / drive / very fast ?",
+          "answer": "Are you driving very fast?"
+        },
+        {
+          "item": "I / finish / my homework / tonight",
+          "answer": "I’m finishing my homework tonight."
+        },
+        {
+          "item": "Where / the dog / hide / the bone ?",
+          "answer": "Where is the dog hiding the bone?"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "He / not watch / TV / this evening",
+          "answer": "He isn’t watching TV this evening."
+        },
+        {
+          "item": "What / your teacher / explain / now ?",
+          "answer": "What is your teacher explaining now?"
+        },
+        {
+          "item": "I / wait / for the metro",
+          "answer": "I’m waiting for the metro."
+        },
+        {
+          "item": "They / help / their neighbour / today",
+          "answer": "They’re helping their neighbour today."
+        },
+        {
+          "item": "We / plan / a trip / to Italy ?",
+          "answer": "Are we planning a trip to Italy?"
+        },
+        {
+          "item": "The baby / not cry / anymore",
+          "answer": "The baby isn’t crying anymore."
+        },
+        {
+          "item": "Who / you / meet / for lunch ?",
+          "answer": "Who are you meeting for lunch?"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "She / talk / on the phone / with her client",
+          "answer": "She’s talking on the phone with her client."
+        },
+        {
+          "item": "Where / the tourists / take / photos ?",
+          "answer": "Where are the tourists taking photos?"
+        },
+        {
+          "item": "The car / not start / correctly",
+          "answer": "The car isn’t starting correctly."
+        },
+        {
+          "item": "You / drive / to the coast / tomorrow ?",
+          "answer": "Are you driving to the coast tomorrow?"
+        },
+        {
+          "item": "I / not work / this weekend",
+          "answer": "I’m not working this weekend."
+        },
+        {
+          "item": "We / study / hard / for the exam",
+          "answer": "We’re studying hard for the exam."
+        },
+        {
+          "item": "Why / the lights / flash ?",
+          "answer": "Why are the lights flashing?"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "The students / not listen / to the podcast",
+          "answer": "The students aren’t listening to the podcast."
+        },
+        {
+          "item": "What / your neighbours / complain / about ?",
+          "answer": "What are your neighbours complaining about?"
+        },
+        {
+          "item": "My flatmate / clean / the kitchen",
+          "answer": "My flatmate’s cleaning the kitchen."
+        },
+        {
+          "item": "He / run / a marathon / next month",
+          "answer": "He’s running a marathon next month."
+        },
+        {
+          "item": "You / stay / at home / tonight ?",
+          "answer": "Are you staying at home tonight?"
+        },
+        {
+          "item": "I / not wear / a tie / today",
+          "answer": "I’m not wearing a tie today."
+        },
+        {
+          "item": "Where / the cat / hide / now ?",
+          "answer": "Where is the cat hiding now?"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "We / have / a big party / next week",
+          "answer": "We’re having a big party next week."
+        },
+        {
+          "item": "Why / the dog / bark / at the door ?",
+          "answer": "Why is the dog barking at the door?"
+        },
+        {
+          "item": "She / not read / any books / this holiday",
+          "answer": "She isn’t reading any books this holiday."
+        },
+        {
+          "item": "He / wear / sunglasses / because of the sun",
+          "answer": "He’s wearing sunglasses because of the sun."
+        },
+        {
+          "item": "They / listen / to music / quietly ?",
+          "answer": "Are they listening to music quietly?"
+        },
+        {
+          "item": "I / not talk / about work / today",
+          "answer": "I’m not talking about work today."
+        },
+        {
+          "item": "What / you / look / at / right now ?",
+          "answer": "What are you looking at right now?"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "The workers / fix / the road / outside",
+          "answer": "The workers are fixing the road outside."
+        },
+        {
+          "item": "Where / the children / play / now ?",
+          "answer": "Where are the children playing now?"
+        },
+        {
+          "item": "I / not wait / for the bus / anymore",
+          "answer": "I’m not waiting for the bus anymore."
+        },
+        {
+          "item": "She / talk / on the phone",
+          "answer": "She’s talking on the phone."
+        },
+        {
+          "item": "We / travel / to Paris / next month ?",
+          "answer": "Are we travelling to Paris next month?"
+        },
+        {
+          "item": "The film / not start / yet",
+          "answer": "The film isn’t starting yet."
+        },
+        {
+          "item": "What / your brother / eat / at the cafe ?",
+          "answer": "What is your brother eating at the cafe?"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "He / run / very fast",
+          "answer": "He’s running very fast."
+        },
+        {
+          "item": "You / not feel / cold / right now",
+          "answer": "You aren’t feeling cold right now."
+        },
+        {
+          "item": "Why / the baby / sleep / downstairs ?",
+          "answer": "Why is the baby sleeping downstairs?"
+        },
+        {
+          "item": "The students / not listen / to the music",
+          "answer": "The students aren’t listening to the music."
+        },
+        {
+          "item": "We / drive / to the airport ?",
+          "answer": "Are we driving to the airport?"
+        },
+        {
+          "item": "I / read / a good novel / this week",
+          "answer": "I’m reading a good novel this week."
+        },
+        {
+          "item": "What / the weather / do / now ?",
+          "answer": "What is the weather doing now?"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "I / not have / a good time / at the party",
+          "answer": "I’m not having a good time at the party."
+        },
+        {
+          "item": "Where / the taxi / wait / for us ?",
+          "answer": "Where is the taxi waiting for us?"
+        },
+        {
+          "item": "She / wear / a long coat / because it’s cold",
+          "answer": "She’s wearing a long coat because it’s cold."
+        },
+        {
+          "item": "They / argue / about the news",
+          "answer": "They’re arguing about the news."
+        },
+        {
+          "item": "He / listen / to the teacher ?",
+          "answer": "Is he listening to the teacher?"
+        },
+        {
+          "item": "We / not work / on weekends / anymore",
+          "answer": "We aren’t working on weekends anymore."
+        },
+        {
+          "item": "Why / you / look / at the picture ?",
+          "answer": "Why are you looking at the picture?"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "What / your friend / say / to the manager ?",
+          "answer": "What is your friend saying to the manager?"
+        },
+        {
+          "item": "I / wait / for the interview / to start",
+          "answer": "I’m waiting for the interview to start."
+        },
+        {
+          "item": "The weather / not change / yet",
+          "answer": "The weather isn’t changing yet."
+        },
+        {
+          "item": "We / have / a quiet evening / at home",
+          "answer": "We’re having a quiet evening at home."
+        },
+        {
+          "item": "The phone / ring / loudly ?",
+          "answer": "Is the phone ringing loudly?"
+        },
+        {
+          "item": "They / not drive / to the coast / this holiday",
+          "answer": "They aren’t driving to the coast this holiday."
+        },
+        {
+          "item": "Who / you / visit / this afternoon ?",
+          "answer": "Who are you visiting this afternoon?"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "The woman / draw / a portrait",
+          "answer": "The woman’s drawing a portrait."
+        },
+        {
+          "item": "Why / the children / scream ?",
+          "answer": "Why are the children screaming?"
+        },
+        {
+          "item": "I / not think / about the problem / now",
+          "answer": "I’m not thinking about the problem now."
+        },
+        {
+          "item": "She / not finish / her assignment / today",
+          "answer": "She isn’t finishing her assignment today."
+        },
+        {
+          "item": "You / work / on the computer ?",
+          "answer": "Are you working on the computer?"
+        },
+        {
+          "item": "We / look / for a new house / this year",
+          "answer": "We’re looking for a new house this year."
+        },
+        {
+          "item": "Where / the manager / wait / for the train ?",
+          "answer": "Where is the manager waiting for the train?"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "He / run / on the beach",
+          "answer": "He’s running on the beach."
+        },
+        {
+          "item": "We / not listen / to music / currently",
+          "answer": "We aren’t listening to music currently."
+        },
+        {
+          "item": "What / I / cook / for dinner ?",
+          "answer": "What am I cooking for dinner?"
+        },
+        {
+          "item": "The students / take / notes / in the class",
+          "answer": "The students are taking notes in the class."
+        },
+        {
+          "item": "The sun / shine / now ?",
+          "answer": "Is the sun shining now?"
+        },
+        {
+          "item": "She / not drive / to work / this week",
+          "answer": "She isn’t driving to work this week."
+        },
+        {
+          "item": "Why / the film / start / late ?",
+          "answer": "Why is the film starting late?"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "I / not watch / TV / because I’m busy",
+          "answer": "I’m not watching TV because I’m busy."
+        },
+        {
+          "item": "Where / your father / park / the car ?",
+          "answer": "Where is your father parking the car?"
+        },
+        {
+          "item": "They / listen / to a podcast",
+          "answer": "They’re listening to a podcast."
+        },
+        {
+          "item": "We / meet / outside the office / now ?",
+          "answer": "Are we meeting outside the office now?"
+        },
+        {
+          "item": "The bus / arrive / late / again",
+          "answer": "The bus is arriving late again."
+        },
+        {
+          "item": "He / not wear / a jacket / today",
+          "answer": "He isn’t wearing a jacket today."
+        },
+        {
+          "item": "What / the mechanic / fix / in the car ?",
+          "answer": "What is the mechanic fixing in the car?"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "She / look / for her phone / in her bag",
+          "answer": "She’s looking for her phone in her bag."
+        },
+        {
+          "item": "Why / you / hurry / so much ?",
+          "answer": "Why are you hurrying so much?"
+        },
+        {
+          "item": "The weather / not look / very good",
+          "answer": "The weather isn’t looking very good."
+        },
+        {
+          "item": "We / wait / for the manager",
+          "answer": "We’re waiting for the manager."
+        },
+        {
+          "item": "I / call / a taxi / now ?",
+          "answer": "Am I calling a taxi now?"
+        },
+        {
+          "item": "He / not talk / to the press / today",
+          "answer": "He isn’t talking to the press today."
+        },
+        {
+          "item": "What / your sister / cook / for the party ?",
+          "answer": "What is your sister cooking for the party?"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "My parents / have / a quiet night / at home",
+          "answer": "My parents are having a quiet night at home."
+        },
+        {
+          "item": "Where / the dog / sleep / now ?",
+          "answer": "Where is the dog sleeping now?"
+        },
+        {
+          "item": "I / not finish / my essay / this week",
+          "answer": "I’m not finishing my essay this week."
+        },
+        {
+          "item": "She / study / hard / for her medical test",
+          "answer": "She’s studying hard for her medical test."
+        },
+        {
+          "item": "They / listen / to the band ?",
+          "answer": "Are they listening to the band?"
+        },
+        {
+          "item": "We / not argue / about the bill",
+          "answer": "We aren’t arguing about the bill."
+        },
+        {
+          "item": "Why / you / change / your clothes ?",
+          "answer": "Why are you changing your clothes?"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "5B"
+      ],
+      "type": "create_sentence_from_prompts",
+      "instructions": "Make present continuous sentences and questions (positive and negative). Use contractions where possible.",
+      "example": {
+        "item": "I / not wear / a sweater today",
+        "answer": "I’m not wearing a sweater today."
+      },
+      "qa_pairs": [
+        {
+          "item": "The team / not play / well / tonight",
+          "answer": "The team isn’t playing well tonight."
+        },
+        {
+          "item": "What / the baby / drink / in the bottle ?",
+          "answer": "What is the baby drinking in the bottle?"
+        },
+        {
+          "item": "I / talk / to my brother / on the phone",
+          "answer": "I’m talking to my brother on the phone."
+        },
+        {
+          "item": "She / have / a party / next weekend",
+          "answer": "She’s having a party next weekend."
+        },
+        {
+          "item": "He / work / late / tonight ?",
+          "answer": "Is he working late tonight?"
+        },
+        {
+          "item": "We / not drive / because of the traffic",
+          "answer": "We aren’t driving because of the traffic."
+        },
+        {
+          "item": "Where / they / meet / their friends ?",
+          "answer": "Where are they meeting their friends?"
+        }
+      ]
+    }
+  ]
+}
+

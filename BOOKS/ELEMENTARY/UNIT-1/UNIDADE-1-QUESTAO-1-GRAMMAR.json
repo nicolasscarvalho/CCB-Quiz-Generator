@@ -1,0 +1,1354 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "I _______ a new student here.",
+          "answer": "'m"
+        },
+        {
+          "item": "'Are _______ in our class?' 'No, I'm not.'",
+          "answer": "you"
+        },
+        {
+          "item": "We _______ happy about the result.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She _______ from Italy. She's German.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Where _______ the computers?",
+          "answer": "are"
+        },
+        {
+          "item": "Yes, they _______ . (Short answer)",
+          "answer": "are"
+        },
+        {
+          "item": "It _______ Friday today. It's Thursday.",
+          "answer": "isn't"
+        },
+        {
+          "item": "What _______ your name?",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "No, I _______ . (Short answer)",
+          "answer": "'m not"
+        },
+        {
+          "item": "They _______ in the classroom.",
+          "answer": "'re"
+        },
+        {
+          "item": "My best friend _______ a doctor.",
+          "answer": "'s"
+        },
+        {
+          "item": "_______ you a student?",
+          "answer": "Are"
+        },
+        {
+          "item": "We _______ late for the lesson.",
+          "answer": "'re"
+        },
+        {
+          "item": "This book _______ mine. It belongs to Sarah.",
+          "answer": "isn't"
+        },
+        {
+          "item": "Where _______ we?",
+          "answer": "are"
+        },
+        {
+          "item": "He _______ Brazilian. He's Argentinian.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The food isn't Italian. _______'s Spanish.",
+          "answer": "It"
+        },
+        {
+          "item": "_______ she ready?",
+          "answer": "Is"
+        },
+        {
+          "item": "You and I _______ on holiday.",
+          "answer": "'re"
+        },
+        {
+          "item": "They _______ teachers. They are students.",
+          "answer": "aren't"
+        },
+        {
+          "item": "My name's Ozgur. I _______ from Turkey.",
+          "answer": "'m"
+        },
+        {
+          "item": "'Is Anita Hungarian?' 'Yes, _______ is.'",
+          "answer": "she"
+        },
+        {
+          "item": "When _______ the class?",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ English. We're Scottish.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "It _______ a difficult job.",
+          "answer": "isn't"
+        },
+        {
+          "item": "We _______ ready to start.",
+          "answer": "'re"
+        },
+        {
+          "item": "_______ he a student?",
+          "answer": "Is"
+        },
+        {
+          "item": "No, he _______ . (Short answer)",
+          "answer": "isn't"
+        },
+        {
+          "item": "You _______ a tall person.",
+          "answer": "'re"
+        },
+        {
+          "item": "They _______ here right now.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Who _______ your best friend?",
+          "answer": "'s"
+        },
+        {
+          "item": "My jacket _______ very expensive.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The trains _______ always late.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I _______ thirsty. I need water.",
+          "answer": "'m"
+        },
+        {
+          "item": "Yes, I _______ . (Short answer)",
+          "answer": "am"
+        },
+        {
+          "item": "Where are _______ from? 'We're from Egypt.'",
+          "answer": "you"
+        },
+        {
+          "item": "The weather today _______ cold.",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ tired.",
+          "answer": "'re"
+        },
+        {
+          "item": "He _______ a good boss.",
+          "answer": "'s"
+        },
+        {
+          "item": "It _______ an easy language.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "I _______ not from the USA.",
+          "answer": "'m"
+        },
+        {
+          "item": "The books _______ on the desk.",
+          "answer": "'re"
+        },
+        {
+          "item": "_______ she English?",
+          "answer": "Is"
+        },
+        {
+          "item": "No, we _______ . (Short answer)",
+          "answer": "aren't"
+        },
+        {
+          "item": "You and he _______ colleagues.",
+          "answer": "'re"
+        },
+        {
+          "item": "This chair _______ comfortable.",
+          "answer": "isn't"
+        },
+        {
+          "item": "What time _______ it?",
+          "answer": "'s"
+        },
+        {
+          "item": "They _______ in London.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "We _______ busy right now.",
+          "answer": "aren't"
+        },
+        {
+          "item": "This place _______ great.",
+          "answer": "'s"
+        },
+        {
+          "item": "The children _______ outside.",
+          "answer": "'re"
+        },
+        {
+          "item": "Who _______ that man?",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ tired, I'm energetic.",
+          "answer": "'m not"
+        },
+        {
+          "item": "Yes, I _______ . (Are you...?)",
+          "answer": "am"
+        },
+        {
+          "item": "They _______ from Australia? No, they aren't.",
+          "answer": "Are"
+        },
+        {
+          "item": "He _______ my brother.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The shoes _______ cheap.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I _______ ready for the test.",
+          "answer": "'m"
+        },
+        {
+          "item": "_______ this your bag?",
+          "answer": "Is"
+        },
+        {
+          "item": "We _______ American. We're Canadian.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Where _______ they now?",
+          "answer": "are"
+        },
+        {
+          "item": "He _______ a student at this university.",
+          "answer": "'s"
+        },
+        {
+          "item": "No, it _______ . (Is it...?)",
+          "answer": "isn't"
+        },
+        {
+          "item": "You _______ correct.",
+          "answer": "'re"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "They _______ not Polish.",
+          "answer": "aren't"
+        },
+        {
+          "item": "It _______ a big problem.",
+          "answer": "isn't"
+        },
+        {
+          "item": "What _______ their nationality?",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ the champions.",
+          "answer": "'re"
+        },
+        {
+          "item": "He _______ tall.",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ happy to see you.",
+          "answer": "'m"
+        },
+        {
+          "item": "_______ they from Germany?",
+          "answer": "Are"
+        },
+        {
+          "item": "The weather _______ great today.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The house _______ old.",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ not ready.",
+          "answer": "'m"
+        },
+        {
+          "item": "_______ the door open?",
+          "answer": "Is"
+        },
+        {
+          "item": "You and I _______ a team.",
+          "answer": "'re"
+        },
+        {
+          "item": "They _______ fast runners.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Yes, she _______ . (Is she...?)",
+          "answer": "is"
+        },
+        {
+          "item": "Where _______ your keys?",
+          "answer": "are"
+        },
+        {
+          "item": "It _______ very hot outside.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "_______ they excited?",
+          "answer": "Are"
+        },
+        {
+          "item": "I _______ cold. Please close the window.",
+          "answer": "'m"
+        },
+        {
+          "item": "The chairs _______ comfortable.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She _______ a nice person.",
+          "answer": "'s"
+        },
+        {
+          "item": "What _______ your address?",
+          "answer": "'s"
+        },
+        {
+          "item": "No, they _______ . (Are they...?)",
+          "answer": "aren't"
+        },
+        {
+          "item": "We _______ busy today.",
+          "answer": "aren't"
+        },
+        {
+          "item": "He _______ here now.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "We _______ from Spain.",
+          "answer": "'re"
+        },
+        {
+          "item": "I _______ not a journalist.",
+          "answer": "'m"
+        },
+        {
+          "item": "The lesson _______ finished.",
+          "answer": "isn't"
+        },
+        {
+          "item": "_______ you and John friends?",
+          "answer": "Are"
+        },
+        {
+          "item": "Yes, he _______ . (Is he...?)",
+          "answer": "is"
+        },
+        {
+          "item": "They _______ very fast.",
+          "answer": "aren't"
+        },
+        {
+          "item": "It _______ a big city.",
+          "answer": "isn't"
+        },
+        {
+          "item": "My teacher _______ kind.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "Where _______ she from?",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ late, sorry!",
+          "answer": "'m"
+        },
+        {
+          "item": "The weather _______ good.",
+          "answer": "'s"
+        },
+        {
+          "item": "They _______ students at the school.",
+          "answer": "'re"
+        },
+        {
+          "item": "We _______ in class 2.",
+          "answer": "aren't"
+        },
+        {
+          "item": "No, I _______ . (Am I...?)",
+          "answer": "'m not"
+        },
+        {
+          "item": "_______ that correct?",
+          "answer": "Is"
+        },
+        {
+          "item": "It _______ a mistake.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "You _______ right.",
+          "answer": "'re"
+        },
+        {
+          "item": "I _______ not English, I'm Irish.",
+          "answer": "'m"
+        },
+        {
+          "item": "The keys _______ on the table.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Where _______ he now?",
+          "answer": "'s"
+        },
+        {
+          "item": "He _______ a teacher.",
+          "answer": "'s"
+        },
+        {
+          "item": "No, it _______ . (Short answer)",
+          "answer": "isn't"
+        },
+        {
+          "item": "We _______ at the cinema.",
+          "answer": "'re"
+        },
+        {
+          "item": "_______ you happy?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "They _______ my friends.",
+          "answer": "'re"
+        },
+        {
+          "item": "I _______ from China.",
+          "answer": "'m"
+        },
+        {
+          "item": "The class _______ boring.",
+          "answer": "isn't"
+        },
+        {
+          "item": "_______ the chairs blue?",
+          "answer": "Are"
+        },
+        {
+          "item": "Yes, they _______ . (Short answer)",
+          "answer": "are"
+        },
+        {
+          "item": "What _______ your father's name?",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ Spanish, we're Italian.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She _______ here.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "He _______ not American.",
+          "answer": "isn't"
+        },
+        {
+          "item": "I _______ tired after work.",
+          "answer": "'m"
+        },
+        {
+          "item": "Where _______ my phone?",
+          "answer": "'s"
+        },
+        {
+          "item": "They _______ on holiday.",
+          "answer": "'re"
+        },
+        {
+          "item": "We _______ colleagues.",
+          "answer": "aren't"
+        },
+        {
+          "item": "_______ it cold today?",
+          "answer": "Is"
+        },
+        {
+          "item": "No, she _______ . (Is she...?)",
+          "answer": "isn't"
+        },
+        {
+          "item": "You _______ in the wrong room.",
+          "answer": "'re"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "It _______ late.",
+          "answer": "'s"
+        },
+        {
+          "item": "They _______ in Paris.",
+          "answer": "'re"
+        },
+        {
+          "item": "I _______ not from Europe.",
+          "answer": "'m"
+        },
+        {
+          "item": "_______ we ready?",
+          "answer": "Are"
+        },
+        {
+          "item": "No, they _______ . (Are they...?)",
+          "answer": "aren't"
+        },
+        {
+          "item": "She _______ very tall.",
+          "answer": "'s"
+        },
+        {
+          "item": "He _______ a student.",
+          "answer": "isn't"
+        },
+        {
+          "item": "The lights _______ on.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "What country _______ it?",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ busy.",
+          "answer": "'re"
+        },
+        {
+          "item": "He _______ here today.",
+          "answer": "isn't"
+        },
+        {
+          "item": "I _______ hungry.",
+          "answer": "'m"
+        },
+        {
+          "item": "You _______ a good friend.",
+          "answer": "'re"
+        },
+        {
+          "item": "They _______ at the party.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Yes, it _______ . (Is it...?)",
+          "answer": "is"
+        },
+        {
+          "item": "_______ he married?",
+          "answer": "Is"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The answers _______ correct.",
+          "answer": "aren't"
+        },
+        {
+          "item": "She _______ tall.",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ happy.",
+          "answer": "'m"
+        },
+        {
+          "item": "Where _______ they from?",
+          "answer": "are"
+        },
+        {
+          "item": "We _______ colleagues.",
+          "answer": "'re"
+        },
+        {
+          "item": "He _______ here.",
+          "answer": "isn't"
+        },
+        {
+          "item": "_______ I in the right class?",
+          "answer": "Am"
+        },
+        {
+          "item": "No, we _______ . (Short answer)",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The car _______ red.",
+          "answer": "'s"
+        },
+        {
+          "item": "They _______ from Mexico.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I _______ cold.",
+          "answer": "'m"
+        },
+        {
+          "item": "_______ the books new?",
+          "answer": "Are"
+        },
+        {
+          "item": "You _______ late.",
+          "answer": "'re"
+        },
+        {
+          "item": "What _______ your job?",
+          "answer": "'s"
+        },
+        {
+          "item": "Yes, I _______ . (Short answer)",
+          "answer": "am"
+        },
+        {
+          "item": "She _______ a doctor.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "We _______ not at work.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I _______ in the park.",
+          "answer": "'m"
+        },
+        {
+          "item": "It _______ dark yet.",
+          "answer": "isn't"
+        },
+        {
+          "item": "_______ he married?",
+          "answer": "Is"
+        },
+        {
+          "item": "They _______ very kind.",
+          "answer": "'re"
+        },
+        {
+          "item": "Where _______ the train station?",
+          "answer": "'s"
+        },
+        {
+          "item": "You _______ early.",
+          "answer": "'re"
+        },
+        {
+          "item": "Yes, they _______ . (Short answer)",
+          "answer": "are"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "He _______ my cousin.",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ not sad.",
+          "answer": "'m"
+        },
+        {
+          "item": "The students _______ quiet.",
+          "answer": "aren't"
+        },
+        {
+          "item": "_______ we late?",
+          "answer": "Are"
+        },
+        {
+          "item": "We _______ at the restaurant.",
+          "answer": "'re"
+        },
+        {
+          "item": "What _______ her name?",
+          "answer": "'s"
+        },
+        {
+          "item": "It _______ a rainy day.",
+          "answer": "'s"
+        },
+        {
+          "item": "No, I _______ . (Am I...?)",
+          "answer": "'m not"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The movie _______ interesting.",
+          "answer": "isn't"
+        },
+        {
+          "item": "I _______ a little cold.",
+          "answer": "'m"
+        },
+        {
+          "item": "Where _______ the children?",
+          "answer": "are"
+        },
+        {
+          "item": "They _______ in class 2.",
+          "answer": "'re"
+        },
+        {
+          "item": "We _______ ready yet.",
+          "answer": "aren't"
+        },
+        {
+          "item": "Yes, he _______ . (Short answer)",
+          "answer": "is"
+        },
+        {
+          "item": "He _______ a good student.",
+          "answer": "'s"
+        },
+        {
+          "item": "_______ that your sister?",
+          "answer": "Is"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The tables _______ clean.",
+          "answer": "aren't"
+        },
+        {
+          "item": "You _______ a fast learner.",
+          "answer": "'re"
+        },
+        {
+          "item": "What _______ your email address?",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ busy today.",
+          "answer": "'m"
+        },
+        {
+          "item": "No, it _______ . (Is it...?)",
+          "answer": "isn't"
+        },
+        {
+          "item": "She _______ a nice teacher.",
+          "answer": "'s"
+        },
+        {
+          "item": "_______ they at work?",
+          "answer": "Are"
+        },
+        {
+          "item": "We _______ from the UK.",
+          "answer": "'re"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The books _______ heavy.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I _______ ready.",
+          "answer": "'m"
+        },
+        {
+          "item": "Where _______ your school?",
+          "answer": "'s"
+        },
+        {
+          "item": "He _______ a good singer.",
+          "answer": "'s"
+        },
+        {
+          "item": "Yes, we _______ . (Are we...?)",
+          "answer": "are"
+        },
+        {
+          "item": "It _______ a big city.",
+          "answer": "isn't"
+        },
+        {
+          "item": "We _______ the winners.",
+          "answer": "'re"
+        },
+        {
+          "item": "_______ the students here?",
+          "answer": "Are"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "She _______ not here.",
+          "answer": "isn't"
+        },
+        {
+          "item": "I _______ the person for the job.",
+          "answer": "'m"
+        },
+        {
+          "item": "_______ he late?",
+          "answer": "Is"
+        },
+        {
+          "item": "The dogs _______ small.",
+          "answer": "'re"
+        },
+        {
+          "item": "No, they _______ . (Are they...?)",
+          "answer": "aren't"
+        },
+        {
+          "item": "You _______ smart.",
+          "answer": "'re"
+        },
+        {
+          "item": "What _______ the time?",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ not at home.",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The weather _______ awful.",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ not a doctor.",
+          "answer": "'m"
+        },
+        {
+          "item": "We _______ tired.",
+          "answer": "aren't"
+        },
+        {
+          "item": "They _______ new students.",
+          "answer": "'re"
+        },
+        {
+          "item": "_______ she from Turkey?",
+          "answer": "Is"
+        },
+        {
+          "item": "No, he _______ . (Short answer)",
+          "answer": "isn't"
+        },
+        {
+          "item": "What _______ his name?",
+          "answer": "'s"
+        },
+        {
+          "item": "It _______ open.",
+          "answer": "'s"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "He _______ not happy.",
+          "answer": "isn't"
+        },
+        {
+          "item": "We _______ finished.",
+          "answer": "'re"
+        },
+        {
+          "item": "I _______ fine, thank you.",
+          "answer": "'m"
+        },
+        {
+          "item": "They _______ at the party.",
+          "answer": "aren't"
+        },
+        {
+          "item": "_______ you a teacher?",
+          "answer": "Are"
+        },
+        {
+          "item": "What _______ your nationality?",
+          "answer": "'s"
+        },
+        {
+          "item": "Yes, it _______ . (Short answer)",
+          "answer": "is"
+        },
+        {
+          "item": "It _______ an easy question.",
+          "answer": "isn't"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The lights _______ bright.",
+          "answer": "aren't"
+        },
+        {
+          "item": "I _______ in the office.",
+          "answer": "'m"
+        },
+        {
+          "item": "Where _______ the book?",
+          "answer": "'s"
+        },
+        {
+          "item": "You _______ a good driver.",
+          "answer": "'re"
+        },
+        {
+          "item": "She _______ from France.",
+          "answer": "'s"
+        },
+        {
+          "item": "We _______ tired.",
+          "answer": "aren't"
+        },
+        {
+          "item": "_______ the test easy?",
+          "answer": "Is"
+        },
+        {
+          "item": "No, they _______ . (Short answer)",
+          "answer": "aren't"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the sentences with the verb To Be. Use contractions where possible.",
+      "example": {
+        "item": "He ___ from Tokyo.",
+        "answer": "’s"
+      },
+      "type": "fill_in_the_blanks_verb_be",
+      "qa_pair": [
+        {
+          "item": "The capital of Russia _______ Moscow.",
+          "answer": "'s"
+        },
+        {
+          "item": "I _______ not a mechanic.",
+          "answer": "'m"
+        },
+        {
+          "item": "We _______ at the meeting.",
+          "answer": "'re"
+        },
+        {
+          "item": "They _______ very serious.",
+          "answer": "aren't"
+        },
+        {
+          "item": "_______ you and him related?",
+          "answer": "Are"
+        },
+        {
+          "item": "What _______ her address?",
+          "answer": "'s"
+        },
+        {
+          "item": "Yes, I _______ . (Short answer)",
+          "answer": "am"
+        },
+        {
+          "item": "He _______ late today.",
+          "answer": "isn't"
+        }
+      ]
+    }
+  ]
+}

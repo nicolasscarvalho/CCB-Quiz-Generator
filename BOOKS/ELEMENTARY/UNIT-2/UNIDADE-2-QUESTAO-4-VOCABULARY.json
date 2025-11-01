@@ -1,0 +1,1325 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My father has a __________ laptop. young    easy    new",
+          "answer": "new"
+        },
+        {
+          "item": "Where are the sandwiches? I’m __________. worried    hungry    hot",
+          "answer": "hungry"
+        },
+        {
+          "item": "Can you close the windows? We’re __________. really cold    quite tired    very hot",
+          "answer": "really cold"
+        },
+        {
+          "item": "Celia’s __________ old. She’s 103 this year. lot      very    strong",
+          "answer": "very"
+        },
+        {
+          "item": "The opposite of empty is __________. dangerous    full     low",
+          "answer": "full"
+        },
+        {
+          "item": "Her job is difficult and she’s very __________. wrong    happy    stressed",
+          "answer": "stressed"
+        },
+        {
+          "item": "Alma’s __________ tired. high    really    big",
+          "answer": "really"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "It’s a very ___________ question. difficult    old    cheap",
+          "answer": "difficult"
+        },
+        {
+          "item": "I can’t sleep. I’m really __________. tired    stressed    sleepy",
+          "answer": "tired"
+        },
+        {
+          "item": "The glass is __________. Can you fill it? full    safe    empty",
+          "answer": "empty"
+        },
+        {
+          "item": "The opposite of terrible is __________. strong    easy    fantastic",
+          "answer": "fantastic"
+        },
+        {
+          "item": "It's 30 degrees. I’m __________. cold    thirsty    hungry",
+          "answer": "thirsty"
+        },
+        {
+          "item": "The car is __________ fast. very    quite    lot",
+          "answer": "very"
+        },
+        {
+          "item": "The food was __________. very good    good very    goods very",
+          "answer": "very good"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My shoes are very __________. new    big    fast",
+          "answer": "new"
+        },
+        {
+          "item": "The exercise is really __________. easy    difficult    small",
+          "answer": "easy"
+        },
+        {
+          "item": "I haven't eaten all day. I’m __________. tired    hungry    cold",
+          "answer": "hungry"
+        },
+        {
+          "item": "The opposite of weak is __________. cheap    strong    expensive",
+          "answer": "strong"
+        },
+        {
+          "item": "The teacher is __________ worried. big    quite    low",
+          "answer": "quite"
+        },
+        {
+          "item": "The cinema is __________. very cold    cold very    cold quite",
+          "answer": "very cold"
+        },
+        {
+          "item": "That is a __________ old house. really    lot    quite a",
+          "answer": "really"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The opposite of slow is __________. fast    easy    difficult",
+          "answer": "fast"
+        },
+        {
+          "item": "I need a blanket. I’m so __________. hot    tired    cold",
+          "answer": "cold"
+        },
+        {
+          "item": "The homework was __________. cheap    expensive    difficult",
+          "answer": "difficult"
+        },
+        {
+          "item": "The city centre is __________ dangerous. really    lot    big",
+          "answer": "really"
+        },
+        {
+          "item": "The coffee is __________. quite hot    hot quite    very tired",
+          "answer": "quite hot"
+        },
+        {
+          "item": "I can’t find my keys. I’m __________. happy    stressed    hungry",
+          "answer": "stressed"
+        },
+        {
+          "item": "The house is quite __________. big    bigs    expensive",
+          "answer": "big"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The bag is really __________. full    hungry    empty",
+          "answer": "full"
+        },
+        {
+          "item": "My laptop is __________. I need a new one. young    old    happy",
+          "answer": "old"
+        },
+        {
+          "item": "I worked all night. I’m very __________. tired    hot    safe",
+          "answer": "tired"
+        },
+        {
+          "item": "The opposite of safe is __________. wrong    dangerous    strong",
+          "answer": "dangerous"
+        },
+        {
+          "item": "The price is __________ expensive. very    lot    quite",
+          "answer": "quite"
+        },
+        {
+          "item": "It’s a __________ small house. really    high    very big",
+          "answer": "really"
+        },
+        {
+          "item": "The boxes are __________. cheap    cheaps    expensive",
+          "answer": "cheap"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The water is __________. I need a drink. cold    thirsty    hungry",
+          "answer": "thirsty"
+        },
+        {
+          "item": "This is a __________ big dog. really    low    cheap",
+          "answer": "really"
+        },
+        {
+          "item": "The film was __________. wonderful    terrible    wrong",
+          "answer": "wonderful"
+        },
+        {
+          "item": "The opposite of cheap is __________. difficult    expensive    full",
+          "answer": "expensive"
+        },
+        {
+          "item": "The class is __________ easy. very    lot    quite",
+          "answer": "quite"
+        },
+        {
+          "item": "I am feeling __________. very sad    sad very    sads very",
+          "answer": "very sad"
+        },
+        {
+          "item": "The traffic is very __________. fast    slow    strong",
+          "answer": "slow"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The car is really __________. fast    slow    old",
+          "answer": "fast"
+        },
+        {
+          "item": "The box is completely __________. full    empty    cheap",
+          "answer": "empty"
+        },
+        {
+          "item": "My exam results were __________. terrible    happy    stressed",
+          "answer": "terrible"
+        },
+        {
+          "item": "The opposite of difficult is __________. easy    strong    long",
+          "answer": "easy"
+        },
+        {
+          "item": "We are __________ cold. quite    lot    big",
+          "answer": "quite"
+        },
+        {
+          "item": "The coffee is __________ hot. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "The child is very __________. tired    stressed    young",
+          "answer": "young"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "I need to eat. I’m very __________. tired    hungry    stressed",
+          "answer": "hungry"
+        },
+        {
+          "item": "The opposite of new is __________. full    old    expensive",
+          "answer": "old"
+        },
+        {
+          "item": "The bag is __________. very heavy    heavy very    heavies very",
+          "answer": "very heavy"
+        },
+        {
+          "item": "She is __________ worried about the party. lot    really    low",
+          "answer": "really"
+        },
+        {
+          "item": "Please don't touch that wire, it’s __________. safe    dangerous    easy",
+          "answer": "dangerous"
+        },
+        {
+          "item": "The price is quite __________. cheap    expensive    strong",
+          "answer": "cheap"
+        },
+        {
+          "item": "Are you __________? hot    quite    tired",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "I cannot lift this box. It’s too __________. light    weak    heavy",
+          "answer": "heavy"
+        },
+        {
+          "item": "I'm very __________. I need coffee. tired    hungry    happy",
+          "answer": "tired"
+        },
+        {
+          "item": "The opposite of strong is __________. easy    weak    slow",
+          "answer": "weak"
+        },
+        {
+          "item": "The car is quite __________. fast    slow    safe",
+          "answer": "safe"
+        },
+        {
+          "item": "The film was __________. really good    good really    good very",
+          "answer": "really good"
+        },
+        {
+          "item": "She is __________ happy. quite    very    lot",
+          "answer": "very"
+        },
+        {
+          "item": "The clothes are very __________. expensive    expensives    cheap",
+          "answer": "expensive"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My wallet is completely __________. full    empty    old",
+          "answer": "empty"
+        },
+        {
+          "item": "The train is very __________. fast    slow    safe",
+          "answer": "fast"
+        },
+        {
+          "item": "The opposite of safe is __________. dangerous    easy    difficult",
+          "answer": "dangerous"
+        },
+        {
+          "item": "I need water. I’m quite __________. tired    thirsty    hungry",
+          "answer": "thirsty"
+        },
+        {
+          "item": "The movie was __________ terrible. high    really    big",
+          "answer": "really"
+        },
+        {
+          "item": "The computers are very __________. cheap    expensive    new",
+          "answer": "expensive"
+        },
+        {
+          "item": "He is a man very __________. quite old    old quite    quite easy",
+          "answer": "quite old"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The weather is very __________. difficult    bad    full",
+          "answer": "bad"
+        },
+        {
+          "item": "The opposite of big is __________. small    long    strong",
+          "answer": "small"
+        },
+        {
+          "item": "I'm not eating. I'm quite __________. cold    hungry    full",
+          "answer": "full"
+        },
+        {
+          "item": "She is __________ worried about the baby. lot    very    strong",
+          "answer": "very"
+        },
+        {
+          "item": "The trip was __________. fantastic    terrible    dangerous",
+          "answer": "fantastic"
+        },
+        {
+          "item": "My keys are __________. really lost    lost really    lost quite",
+          "answer": "really lost"
+        },
+        {
+          "item": "The rules are very __________. easy    difficult    cheap",
+          "answer": "easy"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The box is quite __________. heavy    light    strong",
+          "answer": "heavy"
+        },
+        {
+          "item": "The opposite of good is __________. bad    cheap    strong",
+          "answer": "bad"
+        },
+        {
+          "item": "The city is really __________. big    small    cheap",
+          "answer": "big"
+        },
+        {
+          "item": "I feel cold. I’m quite __________. hot    tired    cold",
+          "answer": "cold"
+        },
+        {
+          "item": "He is a man quite __________. old quite    quite old    really old",
+          "answer": "quite old"
+        },
+        {
+          "item": "I’m very __________. I need to rest. thirsty    tired    happy",
+          "answer": "tired"
+        },
+        {
+          "item": "The tickets are __________ expensive. very    lot    quite",
+          "answer": "quite"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The house is very __________. new    easy    big",
+          "answer": "big"
+        },
+        {
+          "item": "The opposite of expensive is __________. cheap    safe    full",
+          "answer": "cheap"
+        },
+        {
+          "item": "We are __________ cold. really    lot    big",
+          "answer": "really"
+        },
+        {
+          "item": "The food was __________. terrible    fantastic    good",
+          "answer": "good"
+        },
+        {
+          "item": "I am so __________. I need a drink now. cold    hot    thirsty",
+          "answer": "thirsty"
+        },
+        {
+          "item": "The problem is quite __________. easy    difficult    strong",
+          "answer": "difficult"
+        },
+        {
+          "item": "The movie was __________ bad. quite    very    lot",
+          "answer": "very"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My phone is quite __________. old    young    fast",
+          "answer": "old"
+        },
+        {
+          "item": "The opposite of happy is __________. sad    easy    safe",
+          "answer": "sad"
+        },
+        {
+          "item": "I’m very __________. I want to sleep. hungry    tired    stressed",
+          "answer": "tired"
+        },
+        {
+          "item": "The car is really __________. small    big    slow",
+          "answer": "slow"
+        },
+        {
+          "item": "She is __________ quiet. really    lot    big",
+          "answer": "really"
+        },
+        {
+          "item": "The exercise is very __________. easy    difficult    cheap",
+          "answer": "easy"
+        },
+        {
+          "item": "I feel __________. very hot    hot very    hot quite",
+          "answer": "very hot"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The laptop is very __________. old    young    expensive",
+          "answer": "expensive"
+        },
+        {
+          "item": "The opposite of full is __________. cheap    empty    strong",
+          "answer": "empty"
+        },
+        {
+          "item": "The room is quite __________. full    empty    cheap",
+          "answer": "empty"
+        },
+        {
+          "item": "I am really __________. I need food. tired    thirsty    hungry",
+          "answer": "hungry"
+        },
+        {
+          "item": "The problem is __________ easy. very    lot    quite",
+          "answer": "quite"
+        },
+        {
+          "item": "He is feeling __________. very sad    sad very    sads very",
+          "answer": "very sad"
+        },
+        {
+          "item": "The movie was __________ long. really    high    very big",
+          "answer": "really"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My keys are really __________. lost    safe    fast",
+          "answer": "lost"
+        },
+        {
+          "item": "The opposite of bad is __________. good    easy    difficult",
+          "answer": "good"
+        },
+        {
+          "item": "I’m very __________. I need to calm down. cold    worried    happy",
+          "answer": "worried"
+        },
+        {
+          "item": "The street is quite __________. dangerous    safe    easy",
+          "answer": "safe"
+        },
+        {
+          "item": "The tea is __________ hot. really    high    very cold",
+          "answer": "really"
+        },
+        {
+          "item": "The traffic is __________ slow. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The movie was very __________. terrible    fantastic    easy",
+          "answer": "terrible"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The car is very __________. small    big    expensive",
+          "answer": "small"
+        },
+        {
+          "item": "The opposite of slow is __________. fast    easy    difficult",
+          "answer": "fast"
+        },
+        {
+          "item": "She feels __________. very happy    happy very    happy quite",
+          "answer": "very happy"
+        },
+        {
+          "item": "I’m very __________. I need a hot drink. tired    cold    hungry",
+          "answer": "cold"
+        },
+        {
+          "item": "The problem is quite __________. easy    difficult    strong",
+          "answer": "difficult"
+        },
+        {
+          "item": "The food was __________ good. quite    very    lot",
+          "answer": "very"
+        },
+        {
+          "item": "He is a __________ student. really new    new really    new quite",
+          "answer": "really new"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The exercise is very __________. easy    difficult    cheap",
+          "answer": "easy"
+        },
+        {
+          "item": "The opposite of terrible is __________. strong    easy    fantastic",
+          "answer": "fantastic"
+        },
+        {
+          "item": "I am so __________. I need to go to sleep. cold    thirsty    tired",
+          "answer": "tired"
+        },
+        {
+          "item": "The street is quite __________. safe    dangerous    easy",
+          "answer": "dangerous"
+        },
+        {
+          "item": "The price is __________ cheap. very    lot    quite",
+          "answer": "quite"
+        },
+        {
+          "item": "He is really __________. tired    happy    strong",
+          "answer": "tired"
+        },
+        {
+          "item": "The tea is __________ hot. really    high    very tired",
+          "answer": "really"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The box is really __________. full    empty    old",
+          "answer": "full"
+        },
+        {
+          "item": "The opposite of difficult is __________. easy    strong    long",
+          "answer": "easy"
+        },
+        {
+          "item": "I’m very __________. I want to relax. cold    stressed    hungry",
+          "answer": "stressed"
+        },
+        {
+          "item": "The computer is quite __________. expensive    cheap    small",
+          "answer": "expensive"
+        },
+        {
+          "item": "She is __________ worried. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The weather is __________. really bad    bad really    bad quite",
+          "answer": "really bad"
+        },
+        {
+          "item": "The car is very __________. new    old    slow",
+          "answer": "new"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My bag is quite __________. heavy    light    weak",
+          "answer": "heavy"
+        },
+        {
+          "item": "The opposite of dangerous is __________. safe    easy    slow",
+          "answer": "safe"
+        },
+        {
+          "item": "I’m so __________. I need juice. cold    thirsty    hungry",
+          "answer": "thirsty"
+        },
+        {
+          "item": "The house is quite __________. small    big    expensive",
+          "answer": "big"
+        },
+        {
+          "item": "The coffee is __________ cold. really    high    very cold",
+          "answer": "really"
+        },
+        {
+          "item": "The traffic is __________ slow. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The food was very __________. terrible    fantastic    bad",
+          "answer": "fantastic"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The weather is very __________. bad    good    safe",
+          "answer": "bad"
+        },
+        {
+          "item": "The opposite of small is __________. big    long    young",
+          "answer": "big"
+        },
+        {
+          "item": "I feel __________. very cold    cold very    cold quite",
+          "answer": "very cold"
+        },
+        {
+          "item": "She is __________ happy. quite    very    lot",
+          "answer": "quite"
+        },
+        {
+          "item": "The rules are very __________. difficult    easy    strong",
+          "answer": "difficult"
+        },
+        {
+          "item": "The price is __________ expensive. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "My computer is very __________. old    new    easy",
+          "answer": "old"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The car is really __________. slow    fast    old",
+          "answer": "fast"
+        },
+        {
+          "item": "The opposite of full is __________. cheap    empty    strong",
+          "answer": "empty"
+        },
+        {
+          "item": "I’m very __________. I want to eat. cold    thirsty    hungry",
+          "answer": "hungry"
+        },
+        {
+          "item": "The test was quite __________. easy    difficult    strong",
+          "answer": "difficult"
+        },
+        {
+          "item": "He is a student really __________. young    very    lot",
+          "answer": "young"
+        },
+        {
+          "item": "She is __________ tired. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The wine is very __________. expensive    cheap    strong",
+          "answer": "expensive"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The film was very __________. good    bad    safe",
+          "answer": "good"
+        },
+        {
+          "item": "The opposite of young is __________. new    old    strong",
+          "answer": "old"
+        },
+        {
+          "item": "I am so __________. I need to rest. stressed    tired    thirsty",
+          "answer": "tired"
+        },
+        {
+          "item": "The house is quite __________. small    big    expensive",
+          "answer": "small"
+        },
+        {
+          "item": "The problem is __________ difficult. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "The coffee is __________ cold. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "He is feeling __________. very happy    sad very    sads very",
+          "answer": "very happy"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The bag is quite __________. light    heavy    weak",
+          "answer": "light"
+        },
+        {
+          "item": "The opposite of weak is __________. cheap    strong    expensive",
+          "answer": "strong"
+        },
+        {
+          "item": "I need to drink. I’m very __________. cold    thirsty    hungry",
+          "answer": "thirsty"
+        },
+        {
+          "item": "The phone is quite __________. old    new    fast",
+          "answer": "fast"
+        },
+        {
+          "item": "She is __________ nervous. very    lot    quite",
+          "answer": "quite"
+        },
+        {
+          "item": "The road is very __________. safe    dangerous    easy",
+          "answer": "dangerous"
+        },
+        {
+          "item": "The meeting was __________ terrible. really    high    very big",
+          "answer": "really"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The book is really __________. boring    easy    new",
+          "answer": "boring"
+        },
+        {
+          "item": "The opposite of cheap is __________. difficult    expensive    full",
+          "answer": "expensive"
+        },
+        {
+          "item": "I’m very __________. I want to sleep. hungry    tired    stressed",
+          "answer": "tired"
+        },
+        {
+          "item": "The house is quite __________. cheap    expensive    small",
+          "answer": "small"
+        },
+        {
+          "item": "The weather is __________ nice. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The coffee is __________ hot. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "He is a man quite __________. young    old    happy",
+          "answer": "old"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The car is quite __________. slow    fast    old",
+          "answer": "slow"
+        },
+        {
+          "item": "The opposite of small is __________. big    long    strong",
+          "answer": "big"
+        },
+        {
+          "item": "I feel __________. very hot    hot very    hot quite",
+          "answer": "very hot"
+        },
+        {
+          "item": "She is __________ worried. quite    very    lot",
+          "answer": "quite"
+        },
+        {
+          "item": "The problem is very __________. easy    difficult    cheap",
+          "answer": "difficult"
+        },
+        {
+          "item": "The shoes are __________ expensive. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "I’m very __________. I need food now. cold    thirsty    hungry",
+          "answer": "hungry"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The box is completely __________. full    empty    cheap",
+          "answer": "empty"
+        },
+        {
+          "item": "The opposite of bad is __________. good    easy    difficult",
+          "answer": "good"
+        },
+        {
+          "item": "I’m so __________. I need to rest. cold    stressed    tired",
+          "answer": "tired"
+        },
+        {
+          "item": "The teacher is quite __________. young    old    happy",
+          "answer": "young"
+        },
+        {
+          "item": "The weather is __________ bad. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "The ticket is __________ cheap. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The coffee is quite __________. hot    tired    safe",
+          "answer": "hot"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "My new phone is very __________. cheap    expensive    small",
+          "answer": "expensive"
+        },
+        {
+          "item": "The opposite of fast is __________. big    slow    easy",
+          "answer": "slow"
+        },
+        {
+          "item": "I’m very __________. I need a glass of water. cold    thirsty    hungry",
+          "answer": "thirsty"
+        },
+        {
+          "item": "The job is quite __________. easy    difficult    strong",
+          "answer": "difficult"
+        },
+        {
+          "item": "The room is __________ full. really    high    very big",
+          "answer": "really"
+        },
+        {
+          "item": "The dog is __________ big. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The party was really __________. terrible    fantastic    easy",
+          "answer": "fantastic"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The car is really __________. old    new    slow",
+          "answer": "old"
+        },
+        {
+          "item": "The opposite of dangerous is __________. safe    easy    slow",
+          "answer": "safe"
+        },
+        {
+          "item": "She feels __________. very stressed    happy very    happy quite",
+          "answer": "very stressed"
+        },
+        {
+          "item": "The house is quite __________. big    small    cheap",
+          "answer": "big"
+        },
+        {
+          "item": "The prices are __________ cheap. very    lot    quite",
+          "answer": "quite"
+        },
+        {
+          "item": "The problem is __________ easy. really    high    very old",
+          "answer": "really"
+        },
+        {
+          "item": "We are very __________. tired    happy    strong",
+          "answer": "tired"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "2B",
+        "2C"
+      ],
+      "type": "fill_in_the_blanks_one_word",
+      "instructions": "Complete the sentences with the correct word(s).",
+      "example": {
+        "item": "‘What colour is your bike?’ ‘It’s __________. blue    new    old",
+        "answer": "blue"
+      },
+      "qa_pairs": [
+        {
+          "item": "The boxes are very __________. heavy    light    weak",
+          "answer": "heavy"
+        },
+        {
+          "item": "The opposite of fantastic is __________. safe    terrible    easy",
+          "answer": "terrible"
+        },
+        {
+          "item": "I feel cold. I’m very __________. hot    tired    cold",
+          "answer": "cold"
+        },
+        {
+          "item": "The exercise is quite __________. easy    difficult    strong",
+          "answer": "easy"
+        },
+        {
+          "item": "The tickets are __________ expensive. very    lot    quite",
+          "answer": "very"
+        },
+        {
+          "item": "The food was __________ good. really    high    very big",
+          "answer": "really"
+        },
+        {
+          "item": "The car is quite __________. new    old    slow",
+          "answer": "new"
+        }
+      ]
+    }
+  ]
+}
+

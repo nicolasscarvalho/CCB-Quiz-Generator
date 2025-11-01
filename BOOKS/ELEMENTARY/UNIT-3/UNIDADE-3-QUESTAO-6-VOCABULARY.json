@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: In the afternoon, Because I like it, Jazz, I’m an administrator, In a shop, 27 years old, Green tea.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "When do you study English?",
+          "answer": "In the afternoon"
+        },
+        {
+          "item": "Why do you play football?",
+          "answer": "Because I like it"
+        },
+        {
+          "item": "What kind of music do you like?",
+          "answer": "Jazz"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m an administrator"
+        },
+        {
+          "item": "Where do you work?",
+          "answer": "In a shop"
+        },
+        {
+          "item": "How old are you?",
+          "answer": "27 years old"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: A small black car, Near the river, Two sisters, At 9 o'clock, Maria, Because I can't see well, Next week.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What kind of car does she drive?",
+          "answer": "A small black car"
+        },
+        {
+          "item": "Where do they live?",
+          "answer": "Near the river"
+        },
+        {
+          "item": "How many sisters does he have?",
+          "answer": "Two sisters"
+        },
+        {
+          "item": "When does the class start?",
+          "answer": "At 9 o'clock"
+        },
+        {
+          "item": "Who is your best friend?",
+          "answer": "Maria"
+        },
+        {
+          "item": "Why do you wear glasses?",
+          "answer": "Because I can't see well"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: 19, A difficult job, In the office, I'm a teacher, On the first Sunday of the month, Because he doesn't have a car, In Brazil.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How old is your brother?",
+          "answer": "19"
+        },
+        {
+          "item": "What kind of job does she have?",
+          "answer": "A difficult job"
+        },
+        {
+          "item": "Where do you eat lunch?",
+          "answer": "In the office"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I'm a teacher"
+        },
+        {
+          "item": "When do your parents visit?",
+          "answer": "On the first Sunday of the month"
+        },
+        {
+          "item": "Why does he take the bus?",
+          "answer": "Because he doesn't have a car"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Horror films, In different cities, In the evening, after work, About ten a year, I’m a pilot, The chef and the waiter, My mother.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What kind of film do you like?",
+          "answer": "Horror films"
+        },
+        {
+          "item": "Where do your friends live?",
+          "answer": "In different cities"
+        },
+        {
+          "item": "When do you go to the gym?",
+          "answer": "In the evening, after work"
+        },
+        {
+          "item": "How many books do you read?",
+          "answer": "About ten a year"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m a pilot"
+        },
+        {
+          "item": "Who works in the restaurant?",
+          "answer": "The chef and the waiter"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Because the weather is warm, They are retired, In the city centre, At 6:30 p.m., Very old, 100 years, Juice or water, Five months ago.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Why do you like Spain?",
+          "answer": "Because the weather is warm"
+        },
+        {
+          "item": "What do your parents do?",
+          "answer": "They are retired"
+        },
+        {
+          "item": "Where does your boss live?",
+          "answer": "In the city centre"
+        },
+        {
+          "item": "When does the library close?",
+          "answer": "At 6:30 p.m."
+        },
+        {
+          "item": "How old is your house?",
+          "answer": "Very old, 100 years"
+        },
+        {
+          "item": "What kind of drink do you prefer?",
+          "answer": "Juice or water"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I study in Bristol, Casual clothes, Her sister and brother, In the evening, before bed, Only four rooms, Because my family is from Rome, Black coffee.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Where do you go to university?",
+          "answer": "I study in Bristol"
+        },
+        {
+          "item": "What kind of clothes do you wear?",
+          "answer": "Casual clothes"
+        },
+        {
+          "item": "Who does she live with?",
+          "answer": "Her sister and brother"
+        },
+        {
+          "item": "When do you watch TV?",
+          "answer": "In the evening, before bed"
+        },
+        {
+          "item": "How many rooms are in your flat?",
+          "answer": "Only four rooms"
+        },
+        {
+          "item": "Why do you learn Italian?",
+          "answer": "Because my family is from Rome"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I’m a receptionist, 35 years old, In a big hotel, On Saturday mornings, Because of his job, Rock music, Blue.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I’m a receptionist"
+        },
+        {
+          "item": "How old are you?",
+          "answer": "35 years old"
+        },
+        {
+          "item": "Where does she work?",
+          "answer": "In a big hotel"
+        },
+        {
+          "item": "When do you go shopping?",
+          "answer": "On Saturday mornings"
+        },
+        {
+          "item": "Why does he travel so much?",
+          "answer": "Because of his job"
+        },
+        {
+          "item": "What kind of music do they listen to?",
+          "answer": "Rock music"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Mr. Stevens, An Italian restaurant, In a small shop, At 3 o'clock, Only five, Because it’s cold, Five glasses.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Who is your boss?",
+          "answer": "Mr. Stevens"
+        },
+        {
+          "item": "What kind of restaurant is this?",
+          "answer": "An Italian restaurant"
+        },
+        {
+          "item": "Where do you buy your clothes?",
+          "answer": "In a small shop"
+        },
+        {
+          "item": "When does the school finish?",
+          "answer": "At 3 o'clock"
+        },
+        {
+          "item": "How many chairs are in the room?",
+          "answer": "Only five"
+        },
+        {
+          "item": "Why do you drink so much tea?",
+          "answer": "Because it’s cold"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: To the coast, Science fiction, Just six months, I’m an engineer, Every morning, Because it is interesting, Next year.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Where do they go for holidays?",
+          "answer": "To the coast"
+        },
+        {
+          "item": "What kind of books does he read?",
+          "answer": "Science fiction"
+        },
+        {
+          "item": "How old is your phone?",
+          "answer": "Just six months"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m an engineer"
+        },
+        {
+          "item": "When do you exercise?",
+          "answer": "Every morning"
+        },
+        {
+          "item": "Why do you like your job?",
+          "answer": "Because it is interesting"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: About seven hours, Around 11 p.m., At home, in my room, Italian food, Mr. Jones, Because it is cheap, My friend.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How many hours do you sleep?",
+          "answer": "About seven hours"
+        },
+        {
+          "item": "When do you usually go to bed?",
+          "answer": "Around 11 p.m."
+        },
+        {
+          "item": "Where do you study?",
+          "answer": "At home, in my room"
+        },
+        {
+          "item": "What kind of food do you cook?",
+          "answer": "Italian food"
+        },
+        {
+          "item": "Who is your teacher?",
+          "answer": "Mr. Jones"
+        },
+        {
+          "item": "Why do you live in a flat?",
+          "answer": "Because it is cheap"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: A Samsung, In my jacket pocket, Just two, I’m a journalist, At 10 a.m., Because she needs to know what is happening, My car.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What kind of phone do you have?",
+          "answer": "A Samsung"
+        },
+        {
+          "item": "Where do you keep your keys?",
+          "answer": "In my jacket pocket"
+        },
+        {
+          "item": "How many languages do you speak?",
+          "answer": "Just two"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m a journalist"
+        },
+        {
+          "item": "When does the library open?",
+          "answer": "At 10 a.m."
+        },
+        {
+          "item": "Why does she read the news?",
+          "answer": "Because she needs to know what is happening"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: She's 20, They are lawyers, My father, Only in summer, Near the entrance, Big black boots, Yellow.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How old is your sister?",
+          "answer": "She's 20"
+        },
+        {
+          "item": "What do they do?",
+          "answer": "They are lawyers"
+        },
+        {
+          "item": "Who takes the dog for a walk?",
+          "answer": "My father"
+        },
+        {
+          "item": "When do you go to the beach?",
+          "answer": "Only in summer"
+        },
+        {
+          "item": "Where does the taxi stop?",
+          "answer": "Near the entrance"
+        },
+        {
+          "item": "What kind of shoes does he wear?",
+          "answer": "Big black boots"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: It is relaxing, Tennis, In a hospital, Nine hours, In the morning, Dr. Smith, My teacher.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Why do you like classical music?",
+          "answer": "It is relaxing"
+        },
+        {
+          "item": "What kind of sport do you play?",
+          "answer": "Tennis"
+        },
+        {
+          "item": "Where does your friend work?",
+          "answer": "In a hospital"
+        },
+        {
+          "item": "How many hours does she work a day?",
+          "answer": "Nine hours"
+        },
+        {
+          "item": "When do you drink coffee?",
+          "answer": "In the morning"
+        },
+        {
+          "item": "Who is your doctor?",
+          "answer": "Dr. Smith"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I’m a hairdresser, Two years old, In the suburbs, Around 7:30 p.m., Because of her company, A small flat, In the city.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I’m a hairdresser"
+        },
+        {
+          "item": "How old is your car?",
+          "answer": "Two years old"
+        },
+        {
+          "item": "Where does he live?",
+          "answer": "In the suburbs"
+        },
+        {
+          "item": "When do you eat dinner?",
+          "answer": "Around 7:30 p.m."
+        },
+        {
+          "item": "Why does she travel a lot?",
+          "answer": "Because of her company"
+        },
+        {
+          "item": "What kind of flat do you have?",
+          "answer": "A small flat"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Four, To the park, At 5:00 p.m., Vegetarian food, My boss, Because they work all day, Every week.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How many sisters do you have?",
+          "answer": "Four"
+        },
+        {
+          "item": "Where does she go on Sundays?",
+          "answer": "To the park"
+        },
+        {
+          "item": "When does your work finish?",
+          "answer": "At 5:00 p.m."
+        },
+        {
+          "item": "What kind of food does she cook?",
+          "answer": "Vegetarian food"
+        },
+        {
+          "item": "Who is that woman?",
+          "answer": "My boss"
+        },
+        {
+          "item": "Why do they study at night?",
+          "answer": "Because they work all day"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I’m a cook, Three years old, In the kitchen, When I travel, Because it’s cold outside, History books, My dad.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I’m a cook"
+        },
+        {
+          "item": "How old is your dog?",
+          "answer": "Three years old"
+        },
+        {
+          "item": "Where do you have breakfast?",
+          "answer": "In the kitchen"
+        },
+        {
+          "item": "When do you take photos?",
+          "answer": "When I travel"
+        },
+        {
+          "item": "Why do you need a jacket?",
+          "answer": "Because it’s cold outside"
+        },
+        {
+          "item": "What kind of books does he like?",
+          "answer": "History books"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: In the city centre, English and German, Over 50 years old, At 4:45 p.m., My sister is a teacher, Due to renovation, On Tuesdays.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Where do they work?",
+          "answer": "In the city centre"
+        },
+        {
+          "item": "What kind of languages do you speak?",
+          "answer": "English and German"
+        },
+        {
+          "item": "How old is your university?",
+          "answer": "Over 50 years old"
+        },
+        {
+          "item": "When does the plane arrive?",
+          "answer": "At 4:45 p.m."
+        },
+        {
+          "item": "Who works in the school?",
+          "answer": "My sister is a teacher"
+        },
+        {
+          "item": "Why does the company close?",
+          "answer": "Due to renovation"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I’m a musician, A lot, maybe 20, In a big apartment, Usually at 8 p.m., Because I love films, A uniform, My mother.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I’m a musician"
+        },
+        {
+          "item": "How many cousins do you have?",
+          "answer": "A lot, maybe 20"
+        },
+        {
+          "item": "Where do you live?",
+          "answer": "In a big apartment"
+        },
+        {
+          "item": "When do you have dinner?",
+          "answer": "Usually at 8 p.m."
+        },
+        {
+          "item": "Why do you go to the cinema?",
+          "answer": "Because I love films"
+        },
+        {
+          "item": "What kind of clothes do you wear?",
+          "answer": "A uniform"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: My flatmate, He is 65, In the street, From Monday to Friday, Because he is from Mexico, A small house, Last week.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Who cleans the house?",
+          "answer": "My flatmate"
+        },
+        {
+          "item": "How old is your father?",
+          "answer": "He is 65"
+        },
+        {
+          "item": "Where do you park your car?",
+          "answer": "In the street"
+        },
+        {
+          "item": "When do you work?",
+          "answer": "From Monday to Friday"
+        },
+        {
+          "item": "Why does he speak Spanish?",
+          "answer": "Because he is from Mexico"
+        },
+        {
+          "item": "What kind of house does she live in?",
+          "answer": "A small house"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I’m a nurse, To the airport, Late, around midnight, Two phones, Because she is thirsty, An Apple laptop, My friend.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I’m a nurse"
+        },
+        {
+          "item": "Where does the bus go?",
+          "answer": "To the airport"
+        },
+        {
+          "item": "When do you go to bed?",
+          "answer": "Late, around midnight"
+        },
+        {
+          "item": "How many phones do you have?",
+          "answer": "Two phones"
+        },
+        {
+          "item": "Why does she drink water?",
+          "answer": "Because she is thirsty"
+        },
+        {
+          "item": "What kind of computer do you use?",
+          "answer": "An Apple laptop"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: 42, A dangerous job, At the office cafeteria, Every day, The woman in the red dress, Because I want to buy a ticket, Three.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How old are you?",
+          "answer": "42"
+        },
+        {
+          "item": "What kind of job does he have?",
+          "answer": "A dangerous job"
+        },
+        {
+          "item": "Where do you eat breakfast?",
+          "answer": "At the office cafeteria"
+        },
+        {
+          "item": "When does the doctor work?",
+          "answer": "Every day"
+        },
+        {
+          "item": "Who is your friend?",
+          "answer": "The woman in the red dress"
+        },
+        {
+          "item": "Why do you need money?",
+          "answer": "Because I want to buy a ticket"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I’m an architect, In the countryside, In the morning on the train, No children, Only a cat, Because it's very quiet, My mother.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I’m an architect"
+        },
+        {
+          "item": "Where do you live?",
+          "answer": "In the countryside"
+        },
+        {
+          "item": "When do you read?",
+          "answer": "In the morning on the train"
+        },
+        {
+          "item": "How many children do they have?",
+          "answer": "No children"
+        },
+        {
+          "item": "What kind of pets does she have?",
+          "answer": "Only a cat"
+        },
+        {
+          "item": "Why do you like your house?",
+          "answer": "Because it's very quiet"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: 20 years old, Next to the window, I’m a programmer, Once a month, The gardener, They have a problem, Every night.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How old is the company?",
+          "answer": "20 years old"
+        },
+        {
+          "item": "Where does the manager sit?",
+          "answer": "Next to the window"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m a programmer"
+        },
+        {
+          "item": "When does she go to the cinema?",
+          "answer": "Once a month"
+        },
+        {
+          "item": "Who works in the garden?",
+          "answer": "The gardener"
+        },
+        {
+          "item": "Why do they need a lawyer?",
+          "answer": "They have a problem"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Relaxing holidays, To the mountains, After dinner, Too many books, I’m a writer, Madonna, Tomorrow.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What kind of holiday do you like?",
+          "answer": "Relaxing holidays"
+        },
+        {
+          "item": "Where do you go in winter?",
+          "answer": "To the mountains"
+        },
+        {
+          "item": "When do you do your homework?",
+          "answer": "After dinner"
+        },
+        {
+          "item": "How many books do they have?",
+          "answer": "Too many books"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m a writer"
+        },
+        {
+          "item": "Who is your mother's favourite singer?",
+          "answer": "Madonna"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Because I work in Germany, An old one, At Platform 4, Next Monday, 25, My brother, My father.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Why do you learn German?",
+          "answer": "Because I work in Germany"
+        },
+        {
+          "item": "What kind of phone does he have?",
+          "answer": "An old one"
+        },
+        {
+          "item": "Where does the train arrive?",
+          "answer": "At Platform 4"
+        },
+        {
+          "item": "When do you go to the dentist?",
+          "answer": "Next Monday"
+        },
+        {
+          "item": "How old is your sister?",
+          "answer": "25"
+        },
+        {
+          "item": "Who works in the bank?",
+          "answer": "My brother"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: A fast sports car, To the park, At 6:00 a.m., I’m a manager, Eight glasses a day, He is a little deaf, My sister.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What kind of car do you prefer?",
+          "answer": "A fast sports car"
+        },
+        {
+          "item": "Where does she take her dog?",
+          "answer": "To the park"
+        },
+        {
+          "item": "When do you wake up?",
+          "answer": "At 6:00 a.m."
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m a manager"
+        },
+        {
+          "item": "How many glasses of water do you drink?",
+          "answer": "Eight glasses a day"
+        },
+        {
+          "item": "Why does he speak loud?",
+          "answer": "He is a little deaf"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Federer, I’m a receptionist, Only four hours, In a big house, At 10:30 a.m., Healthy food, My dad.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Who is your favourite tennis player?",
+          "answer": "Federer"
+        },
+        {
+          "item": "What do you do?",
+          "answer": "I’m a receptionist"
+        },
+        {
+          "item": "How many hours do you work on Saturdays?",
+          "answer": "Only four hours"
+        },
+        {
+          "item": "Where does your teacher live?",
+          "answer": "In a big house"
+        },
+        {
+          "item": "When do you have a break?",
+          "answer": "At 10:30 a.m."
+        },
+        {
+          "item": "What kind of food does she eat?",
+          "answer": "Healthy food"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Because it is new, A modern one, In a big office, In ten minutes, Just a few months, Their mother, My friend.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "Why does the car cost so much?",
+          "answer": "Because it is new"
+        },
+        {
+          "item": "What kind of house do you prefer?",
+          "answer": "A modern one"
+        },
+        {
+          "item": "Where do you work?",
+          "answer": "In a big office"
+        },
+        {
+          "item": "When does the game start?",
+          "answer": "In ten minutes"
+        },
+        {
+          "item": "How old is your sister's baby?",
+          "answer": "Just a few months"
+        },
+        {
+          "item": "Who drives the children to school?",
+          "answer": "Their mother"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: I'm a journalist, In a flat, At 7:00 p.m., Three TVs, Pop, Because it makes me happy, My friend.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "What do you do?",
+          "answer": "I'm a journalist"
+        },
+        {
+          "item": "Where does she live?",
+          "answer": "In a flat"
+        },
+        {
+          "item": "When do you have dinner?",
+          "answer": "At 7:00 p.m."
+        },
+        {
+          "item": "How many TVs do you have?",
+          "answer": "Three TVs"
+        },
+        {
+          "item": "What kind of music do you like?",
+          "answer": "Pop"
+        },
+        {
+          "item": "Why do you like running?",
+          "answer": "Because it makes me happy"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": [
+        "3C",
+        "3B"
+      ],
+      "type": "match_question_answer",
+      "instructions": "Match the questions and the answers. Choose from: Very old, At the coffee shop, When I am tired, A new phone, The woman next door, Because it's cheaper, Six.",
+      "example": {
+        "item": "Who is your favourite actor?",
+        "answer": "Brad Pitt"
+      },
+      "qa_pairs": [
+        {
+          "item": "How old is the city centre?",
+          "answer": "Very old"
+        },
+        {
+          "item": "Where do they usually meet?",
+          "answer": "At the coffee shop"
+        },
+        {
+          "item": "When do you go to bed?",
+          "answer": "When I am tired"
+        },
+        {
+          "item": "What kind of phone does he use?",
+          "answer": "A new phone"
+        },
+        {
+          "item": "Who is your neighbour?",
+          "answer": "The woman next door"
+        },
+        {
+          "item": "Why does she cook at home?",
+          "answer": "Because it's cheaper"
+        }
+      ]
+    }
+  ]
+}

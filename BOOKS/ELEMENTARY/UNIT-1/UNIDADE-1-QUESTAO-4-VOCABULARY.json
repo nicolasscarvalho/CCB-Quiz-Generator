@@ -1,0 +1,1115 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "ten, nine, eight, _______.",
+          "answer": "seven"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "ten, twenty, thirty, _______.",
+          "answer": "forty"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "sixty-one, sixty-two, sixty-three, _______.",
+          "answer": "sixty-four"
+        },
+        {
+          "item": "two, four, six, _______.",
+          "answer": "eight"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "zero, one, two, _______.",
+          "answer": "three"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "five, fifteen, twenty-five, _______.",
+          "answer": "thirty-five"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "ninety, eighty, seventy, _______.",
+          "answer": "sixty"
+        },
+        {
+          "item": "six, seven, eight, _______.",
+          "answer": "nine"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "eleven, twelve, thirteen, _______.",
+          "answer": "fourteen"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "twenty-two, twenty-four, twenty-six, _______.",
+          "answer": "twenty-eight"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "forty-five, fifty, fifty-five, _______.",
+          "answer": "sixty"
+        },
+        {
+          "item": "three, two, one, _______.",
+          "answer": "zero"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "four, five, six, _______.",
+          "answer": "seven"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "fifty, fifty-two, fifty-four, _______.",
+          "answer": "fifty-six"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "ninety-five, ninety-six, ninety-seven, _______.",
+          "answer": "ninety-eight"
+        },
+        {
+          "item": "hundred, ninety, eighty, _______.",
+          "answer": "seventy"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "one, two, three, _______.",
+          "answer": "four"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "ten, twenty, forty, _______.",
+          "answer": "sixty"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "seventy-five, eighty, eighty-five, _______.",
+          "answer": "ninety"
+        },
+        {
+          "item": "fourteen, thirteen, twelve, _______.",
+          "answer": "eleven"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "five, six, seven, _______.",
+          "answer": "eight"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "thirty, thirty-five, forty, _______.",
+          "answer": "forty-five"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "ten, twelve, fourteen, _______.",
+          "answer": "sixteen"
+        },
+        {
+          "item": "eighty-two, eighty-three, eighty-four, _______.",
+          "answer": "eighty-five"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "fifteen, sixteen, seventeen, _______.",
+          "answer": "eighteen"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "forty, fifty, sixty, _______.",
+          "answer": "seventy"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "three, six, nine, _______.",
+          "answer": "twelve"
+        },
+        {
+          "item": "sixty-nine, sixty-eight, sixty-seven, _______.",
+          "answer": "sixty-six"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "nineteen, twenty, twenty-one, _______.",
+          "answer": "twenty-two"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "eighty, seventy, sixty, _______.",
+          "answer": "fifty"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "eight, ten, twelve, _______.",
+          "answer": "fourteen"
+        },
+        {
+          "item": "one hundred, ninety-nine, ninety-eight, _______.",
+          "answer": "ninety-seven"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "seven, eight, nine, _______.",
+          "answer": "ten"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "thirty-two, thirty-four, thirty-six, _______.",
+          "answer": "thirty-eight"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "fifty-five, sixty, sixty-five, _______.",
+          "answer": "seventy"
+        },
+        {
+          "item": "nineteen, seventeen, fifteen, _______.",
+          "answer": "thirteen"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "one, three, five, _______.",
+          "answer": "seven"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "one hundred, fifty, twenty, _______.",
+          "answer": "ten"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "eighty, eighty-five, ninety, _______.",
+          "answer": "ninety-five"
+        },
+        {
+          "item": "five, four, three, _______.",
+          "answer": "two"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "twelve, ten, eight, _______.",
+          "answer": "six"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "twenty-five, thirty, thirty-five, _______.",
+          "answer": "forty"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "ninety-two, ninety-four, ninety-six, _______.",
+          "answer": "ninety-eight"
+        },
+        {
+          "item": "zero, three, six, _______.",
+          "answer": "nine"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "two, three, four, _______.",
+          "answer": "five"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "sixty-three, sixty-four, sixty-five, _______.",
+          "answer": "sixty-six"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "fifty, forty, thirty, _______.",
+          "answer": "twenty"
+        },
+        {
+          "item": "eleven, nine, seven, _______.",
+          "answer": "five"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "sixteen, seventeen, eighteen, _______.",
+          "answer": "nineteen"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "forty-seven, forty-eight, forty-nine, _______.",
+          "answer": "fifty"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "twenty, twenty-five, thirty, _______.",
+          "answer": "thirty-five"
+        },
+        {
+          "item": "eighteen, sixteen, fourteen, _______.",
+          "answer": "twelve"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "ten, eleven, twelve, _______.",
+          "answer": "thirteen"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "seventy, seventy-five, eighty, _______.",
+          "answer": "eighty-five"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "one, three, five, _______.",
+          "answer": "seven"
+        },
+        {
+          "item": "one hundred, ninety, eighty, _______.",
+          "answer": "seventy"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "ninety-seven, ninety-eight, ninety-nine, _______.",
+          "answer": "one hundred"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "fifteen, twenty, twenty-five, _______.",
+          "answer": "thirty"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "eighty, seventy, sixty, _______.",
+          "answer": "fifty"
+        },
+        {
+          "item": "two, six, ten, _______.",
+          "answer": "fourteen"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "zero, two, four, _______.",
+          "answer": "six"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "forty-three, forty-two, forty-one, _______.",
+          "answer": "forty"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "ten, seven, four, _______.",
+          "answer": "one"
+        },
+        {
+          "item": "seven, eight, nine, _______.",
+          "answer": "ten"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "five, ten, fifteen, _______.",
+          "answer": "twenty"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "thirty, forty, fifty, _______.",
+          "answer": "sixty"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "eight, nine, ten, _______.",
+          "answer": "eleven"
+        },
+        {
+          "item": "fifty-two, fifty-four, fifty-six, _______.",
+          "answer": "fifty-eight"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "three, four, five, _______.",
+          "answer": "six"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "ninety-five, ninety, eighty-five, _______.",
+          "answer": "eighty"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "thirty-five, forty, forty-five, _______.",
+          "answer": "fifty"
+        },
+        {
+          "item": "one, two, three, _______.",
+          "answer": "four"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "eleven, twelve, thirteen, _______.",
+          "answer": "fourteen"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "sixty, seventy, eighty, _______.",
+          "answer": "ninety"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "ten, seven, four, _______.",
+          "answer": "one"
+        },
+        {
+          "item": "fifty-nine, sixty, sixty-one, _______.",
+          "answer": "sixty-two"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "twenty-seven, twenty-eight, twenty-nine, _______.",
+          "answer": "thirty"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "fifteen, ten, five, _______.",
+          "answer": "zero"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "four, six, eight, _______.",
+          "answer": "ten"
+        },
+        {
+          "item": "one hundred, ninety-five, ninety, _______.",
+          "answer": "eighty-five"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "six, five, four, _______.",
+          "answer": "three"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "seventy-four, seventy-five, seventy-six, _______.",
+          "answer": "seventy-seven"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "nineteen, seventeen, fifteen, _______.",
+          "answer": "thirteen"
+        },
+        {
+          "item": "ten, fifteen, twenty, _______.",
+          "answer": "twenty-five"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "zero, five, ten, _______.",
+          "answer": "fifteen"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "eighty-eight, eighty-nine, ninety, _______.",
+          "answer": "ninety-one"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "twelve, nine, six, _______.",
+          "answer": "three"
+        },
+        {
+          "item": "one, two, three, _______.",
+          "answer": "four"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "fourteen, fifteen, sixteen, _______.",
+          "answer": "seventeen"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "thirty, sixty, ninety, _______.",
+          "answer": "one hundred twenty"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "twenty-five, thirty, thirty-five, _______.",
+          "answer": "forty"
+        },
+        {
+          "item": "one hundred, ninety-seven, ninety-four, _______.",
+          "answer": "ninety-one"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "thirteen, eleven, nine, _______.",
+          "answer": "seven"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "two, four, six, _______.",
+          "answer": "eight"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "eighty, seventy-nine, seventy-eight, _______.",
+          "answer": "seventy-seven"
+        },
+        {
+          "item": "zero, ten, twenty, _______.",
+          "answer": "thirty"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "eight, seven, six, _______.",
+          "answer": "five"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "forty-one, forty-two, forty-three, _______.",
+          "answer": "forty-four"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "twenty, twenty-two, twenty-four, _______.",
+          "answer": "twenty-six"
+        },
+        {
+          "item": "one hundred, ninety, eighty, _______.",
+          "answer": "seventy"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "nineteen, eighteen, seventeen, _______.",
+          "answer": "sixteen"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "fifty-five, sixty-five, seventy-five, _______.",
+          "answer": "eighty-five"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "zero, four, eight, _______.",
+          "answer": "twelve"
+        },
+        {
+          "item": "ten, nine, eight, _______.",
+          "answer": "seven"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "one, three, five, _______.",
+          "answer": "seven"
+        },
+        {
+          "item": "Saturday, Sunday, Monday, _______.",
+          "answer": "Tuesday"
+        },
+        {
+          "item": "twenty, twenty-five, thirty, _______.",
+          "answer": "thirty-five"
+        },
+        {
+          "item": "Sunday, Monday, Tuesday, _______.",
+          "answer": "Wednesday"
+        },
+        {
+          "item": "seventy, seventy-three, seventy-six, _______.",
+          "answer": "seventy-nine"
+        },
+        {
+          "item": "five, six, seven, _______.",
+          "answer": "eight"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "twelve, thirteen, fourteen, _______.",
+          "answer": "fifteen"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "sixty-six, sixty-eight, seventy, _______.",
+          "answer": "seventy-two"
+        },
+        {
+          "item": "Monday, Tuesday, Wednesday, _______.",
+          "answer": "Thursday"
+        },
+        {
+          "item": "one hundred, eighty, sixty, _______.",
+          "answer": "forty"
+        },
+        {
+          "item": "three, six, nine, _______.",
+          "answer": "twelve"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "fifty-one, fifty-two, fifty-three, _______.",
+          "answer": "fifty-four"
+        },
+        {
+          "item": "Friday, Saturday, Sunday, _______.",
+          "answer": "Monday"
+        },
+        {
+          "item": "nineteen, twenty, twenty-one, _______.",
+          "answer": "twenty-two"
+        },
+        {
+          "item": "Thursday, Friday, Saturday, _______.",
+          "answer": "Sunday"
+        },
+        {
+          "item": "ten, eight, six, _______.",
+          "answer": "four"
+        },
+        {
+          "item": "ten, twenty, thirty, _______.",
+          "answer": "forty"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "VOCABULARY",
+      "topic": ["1A", "1B"],
+      "instructions": "Complete the lists with the correct word.",
+      "example": {
+        "item": "five, ten, fifteen, twenty. fifteen twenty-five fifty",
+        "answer": "twenty"
+      },
+      "type": "complete_the_lists_numbers_days",
+      "qa_pair": [
+        {
+          "item": "zero, one, two, _______.",
+          "answer": "three"
+        },
+        {
+          "item": "Wednesday, Thursday, Friday, _______.",
+          "answer": "Saturday"
+        },
+        {
+          "item": "eighty, seventy, sixty, _______.",
+          "answer": "fifty"
+        },
+        {
+          "item": "Tuesday, Wednesday, Thursday, _______.",
+          "answer": "Friday"
+        },
+        {
+          "item": "thirty-three, thirty-four, thirty-five, _______.",
+          "answer": "thirty-six"
+        },
+        {
+          "item": "fifteen, ten, five, _______.",
+          "answer": "zero"
+        }
+      ]
+    }
+  ]
+}
+

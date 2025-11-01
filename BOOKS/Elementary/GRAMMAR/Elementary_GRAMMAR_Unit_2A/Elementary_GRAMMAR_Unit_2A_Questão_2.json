@@ -1,0 +1,305 @@
+{
+  "questions": [
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹__________ careful! (Be / Are / You)\n²Please __________ late for class. (no be / don’t be / not be)\n³__________ go to the park. (Let’s / Let us to / Let)\n⁴__________ my cake! (Eat not / No eat / Don’t eat)\n⁵I’m tired. __________ sit down. (Let’s / We / Don’t)\n⁶__________ to your teacher. (You are listen / Listen you / Listen)",
+          "answer": "¹Be, ²don’t be, ³Let’s, ⁴Don’t eat, ⁵Let’s, ⁶Listen"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ early tomorrow. (arrives / arriving / arrive)\n²__________ start the project today. (Let / Let to / Let’s)\n³__________ noise in the library! (Make not / Don’t make / No making)\n⁴__________ your shoes before bed. (Removing / Remove / Removes)\n⁵__________ finish this later. (We / Don’t / Let’s)\n⁶Please __________ in the form. (fill / fills / filling)",
+          "answer": "¹arrive, ²Let’s, ³Don’t make, ⁴Remove, ⁵Let’s, ⁶fill"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your phone when entering the room. (silences / silence / silencing)\n²__________ take a photo together. (Let is / Let’s / Let us to)\n³__________ food in the lab! (No eating / Eat not / Don’t eat)\n⁴__________ the trash out tonight. (Takes / Taking / Take)\n⁵__________ study for the test now. (Let’s / Don’t / We)\n⁶Please __________ the books on the shelf. (put / puts / putting)",
+          "answer": "¹silence, ²Let’s, ³Don’t eat, ⁴Take, ⁵Let’s, ⁶put"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ attention to the signs. (pays / pay / paying)\n²__________ visit them this weekend. (Let’s / Let is / Let)\n³__________ the dog alone! (No leave / Leave not / Don’t leave)\n⁴__________ your tasks before noon. (Complete / Completing / Completes)\n⁵__________ read this together. (We / Don’t / Let’s)\n⁶Please __________ your hands dry. (keeps / keep / keeping)",
+          "answer": "¹pay, ²Let’s, ³Don’t leave, ⁴Complete, ⁵Let’s, ⁶keep"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the gate when you leave. (locking / locks / lock)\n²__________ go for a walk. (Let / Let’s / Let us to)\n³__________ near the edge! (Stand not / Don’t stand / No stand)\n⁴__________ the files on the table. (Leaving / Leaves / Leave)\n⁵__________ check the answer again. (Don’t / Let’s / We)\n⁶Please __________ your coat inside. (hanging / hang / hangs)",
+          "answer": "¹lock, ²Let’s, ³Don’t stand, ⁴Leave, ⁵Let’s, ⁶hang"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your hands. (washes / wash / washing)\n²__________ nice to the new student. (Be / Are / Be you)\n³__________ have a picnic. (Let’s / Let are / Let us to)\n⁴__________ your shoes here. (Leave not / Don’t leave / No leave)\n⁵I’m sleepy. __________ take a nap. (We / Let’s / Don’t)\n⁶__________ your name on the paper. (Writting / Write / Writes)",
+          "answer": "¹wash, ²Be, ³Let’s, ⁴Don’t leave, ⁵Let’s, ⁶Write"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your books. (opening / opens / open)\n²__________ patient with others. (Is / Be / Are)\n³__________ listen to music. (Let / Let’s / Let us to)\n⁴__________ my chocolate! (No take / Don’t take / Take not)\n⁵It’s raining. __________ bring an umbrella. (We / Let’s / Don’t)\n⁶__________ your room. (Clean / Cleaning / Cleans)",
+          "answer": "¹open, ²Be, ³Let’s, ⁴Don’t take, ⁵Let’s, ⁶Clean"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your shoes before entering. (remove / removes / removing)\n²__________ turn the page. (Let us to / Let’s / Let)\n³__________ music here! (No play / Don’t play / Play not)\n⁴__________ your pencil case. (Opens / Open / Opening)\n⁵__________ answer this question. (Don’t / Shall we / Let’s)\n⁶Please __________ your phone on silent. (puts / put / putting)",
+          "answer": "¹remove, ²Let’s, ³Don’t play, ⁴Open, ⁵Let’s, ⁶put"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the dog for a walk. (take / takes / taking)\n²Please __________ the project by Friday. (submits / submit / submitting)\n³__________ your clothes on the bed! (Throw not / Don’t throw / No throw)\n⁴__________ your glasses. (Wears / Wear / Wearing)\n⁵__________ speak to her now. (Let’s / May we / Don’t)\n⁶__________ ask the teacher for help. (Let’s / Let are / Let us to)",
+          "answer": "¹take, ²submit, ³Don’t throw, ⁴Wear, ⁵Let’s, ⁶Let’s"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the light when you leave. (switch off / switches off / switching off)\n²__________ bake a cake. (Let us to / Let’s / Let is)\n³__________ my keyboard! (Touch not / Don’t touch / No touch)\n⁴__________ your hands clean. (Keep / Keeping / Keeps)\n⁵__________ take a different route. (Should we / Don’t / Let’s)\n⁶Please __________ your passport ready. (have / has / having)",
+          "answer": "¹switch off, ²Let’s, ³Don’t touch, ⁴Keep, ⁵Let’s, ⁶have"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the alarm clock. (sets / set / setting)\n²__________ your room before guests arrive. (Cleaning / Cleans / Clean)\n³__________ your sister’s things! (Don’t move / Move not / No move)\n⁴__________ go outside now. (Let are / Let’s / Let us to)\n⁵__________ call the doctor. (Let’s / Don’t / Must we)\n⁶Please __________ in the waiting area. (sitting / sit / sits)",
+          "answer": "¹set, ²Clean, ³Don’t move, ⁴Let’s, ⁵Let’s, ⁶sit"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the test carefully. (reading / reads / read)\n²__________ noise during class! (Don’t make / Make not / No make)\n³__________ the letter in the mailbox. (Drops / Drop / Dropping)\n⁴__________ the floor, it’s wet! (Watching / Watches / Watch)\n⁵Please __________ the chairs before leaving. (stacks / stack / stacking)\n⁶__________ your friend later. (Calls / Calling / Call)",
+          "answer": "¹read, ²Don’t make, ³Drop, ⁴Watch, ⁵stack, ⁶Call"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ this form. (complete / completes / completing)\n²__________ food into the lab! (No bring / Don’t bring / Bring not)\n³__________ the map before you go. (Check / Checking / Checks)\n⁴__________ on the fresh paint! (Lean not / Don’t lean / No leaning)\n⁵Please __________ after your pets. (looks / look / looking)\n⁶__________ your project on time. (Delivering / Deliver / Delivers)",
+          "answer": "¹complete, ²Don’t bring, ³Check, ⁴Don’t lean, ⁵look, ⁶Deliver"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your desk organized. (keeping / keeps / keep)\n²__________ attention to the signs! (Pays / Pay / Paying)\n³__________ your books at home! (No forget / Don’t forget / Forget not)\n⁴__________ this message to your boss. (Forward / Forwards / Forwarding)\n⁵Please __________ your ID at the entrance. (shows / show / showing)\n⁶__________ everything before submitting. (Reviewing / Reviews / Review)",
+          "answer": "¹keep, ²Pay, ³Don’t forget, ⁴Forward, ⁵show, ⁶Review"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the documents by category. (sorts / sort / sorting)\n²__________ in the hallway! (Run not / Don’t run / No running)\n³__________ the ingredients before cooking. (Measures / Measuring / Measure)\n⁴__________ your hands before dinner. (Wash / Washing / Washes)\n⁵Please __________ the plants once a week. (waters / water / watering)\n⁶__________ the password with anyone. (No share / Don’t share / Share not)",
+          "answer": "¹sort, ²Don’t run, ³Measure, ⁴Wash, ⁵water, ⁶Don’t share"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the volume. (lowering / lowers / lower)\n²__________ on that bench, it’s wet! (Sit not / Don’t sit / No sitting)\n³__________ your screen during the call. (Share / Shares / Sharing)\n⁴__________ your voice in the library. (Lowering / Lower / Lowers)\n⁵Please __________ your location via GPS. (sending / sends / send)\n⁶__________ the board before the next class. (Erases / Erase / Erasing)",
+          "answer": "¹lower, ²Don’t sit, ³Share, ⁴Lower, ⁵send, ⁶Erase"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your homework now. (starting / starts / start)\n²__________ in line, please! (Stands / Stand / Standing)\n³__________ this button twice. (Press / Presses / Pressing)\n⁴__________ your phone during the movie! (Use not / Don’t use / No using)\n⁵Please __________ the papers by group. (arranging / arranges / arrange)\n⁶__________ your time wisely. (Managing / Manage / Manages)",
+          "answer": "¹start, ²Stand, ³Press, ⁴Don’t use, ⁵arrange, ⁶Manage"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the curtains when it’s dark. (closes / close / closing)\n²__________ near the construction site! (No walking / Walk not / Don’t walk)\n³__________ your work before you submit it. (Double-check / Double-checks / Double-checking)\n⁴__________ quietly when entering the room. (Speaks / Speak / Speaking)\n⁵Please __________ the candles before bed. (blowing out / blows out / blow out)\n⁶__________ your shoes under the bed. (Places / Placing / Place)",
+          "answer": "¹close, ²Don’t walk, ³Double-check, ⁴Speak, ⁵blow out, ⁶Place"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your bags at the front desk. (leaving / leaves / leave)\n²__________ your water bottle here! (No forget / Forget not / Don’t forget)\n³__________ a photo with your team. (Taking / Takes / Take)\n⁴__________ the classroom clean. (Keep / Keeps / Keeping)\n⁵Please __________ the lights before leaving. (turns off / turn off / turning off)\n⁶__________ your lunch quietly. (Eat / Eating / Eats)",
+          "answer": "¹leave, ²Don’t forget, ³Take, ⁴Keep, ⁵turn off, ⁶Eat"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the answer on the board. (writes / write / writing)\n²__________ on your phone during the test! (Don’t text / Text not / No texting)\n³__________ the documents in order. (Files / File / Filing)\n⁴__________ up the mess you made. (Clean / Cleans / Cleaning)\n⁵Please __________ the baby gently. (holding / holds / hold)\n⁶__________ to the instructions. (Listen / Listens / Listening)",
+          "answer": "¹write, ²Don’t text, ³File, ⁴Clean, ⁵hold, ⁶Listen"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ in the correct box. (ticking / ticks / tick)\n²__________ your hands after touching that. (No forget to wash / Don’t forget to wash / Forget not to wash)\n³__________ quietly at your desk. (Sit / Sits / Sitting)\n⁴__________ help if you need it. (Asks for / Ask for / Asking for)\n⁵Please __________ the app before class. (installing / installs / install)\n⁶__________ others while they are speaking. (Interrupt not / Don’t interrupt / No interrupt)",
+          "answer": "¹tick, ²Don’t forget to wash, ³Sit, ⁴Ask for, ⁵install, ⁶Don’t interrupt"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your shoes by the door. (leaving / leaves / leave)\n²__________ that document without permission! (Don’t print / Print not / No print)\n³__________ the classroom windows. (Opens / Open / Opening)\n⁴__________ quietly during the movie. (Whispers / Whisper / Whispering)\n⁵Please __________ the report before 5 p.m. (send / sends / sending)\n⁶__________ your goals clearly. (Defining / Defines / Define)",
+          "answer": "¹leave, ²Don’t print, ³Open, ⁴Whisper, ⁵send, ⁶Define"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your coat on the hanger. (hang / hangs / hanging)\n²__________ too fast in the hallway! (No running / Don’t run / Run not)\n³__________ your progress daily. (Tracking / Track / Tracks)\n⁴__________ the meeting notes now. (Types / Typing / Type)\n⁵Please __________ your mistakes carefully. (corrects / correct / correcting)\n⁶__________ others while they’re talking. (Respect / Respects / Respecting)",
+          "answer": "¹hang, ²Don’t run, ³Track, ⁴Type, ⁵correct, ⁶Respect"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your mobile data. (activates / activate / activating)\n²__________ the exit door! (No block / Block not / Don’t block)\n³__________ the screen to zoom in. (Tap / Taps / Tapping)\n⁴__________ your progress in this folder. (Saves / Saving / Save)\n⁵Please __________ your jacket if you're cold. (wearing / wears / wear)\n⁶__________ the old version of the file. (Delete / Deleting / Deletes)",
+          "answer": "¹activate, ²Don’t block, ³Tap, ⁴Save, ⁵wear, ⁶Delete"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the answer sheet carefully. (checking / checks / check)\n²__________ on wet surfaces! (Slip not / Don’t slip / No slipping)\n³__________ this QR code to register. (Scans / Scanning / Scan)\n⁴__________ your hands dry. (Keeps / Keep / Keeping)\n⁵Please __________ the lights when done. (switches off / switch off / switching off)\n⁶__________ your name on each page. (Writing / Writes / Write)",
+          "answer": "¹check, ²Don’t slip, ³Scan, ⁴Keep, ⁵switch off, ⁶Write"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your ideas on the flipchart. (presenting / presents / present)\n²__________ negative comments! (Make not / Don’t make / No making)\n³__________ these icons to access the menu. (Clicking / Clicks / Click)\n⁴__________ the floor with this mop. (Cleans / Clean / Cleaning)\n⁵Please __________ the email with urgency. (replies / reply / replying)\n⁶__________ your seat before the show starts. (Find / Finding / Finds)",
+          "answer": "¹present, ²Don’t make, ³Click, ⁴Clean, ⁵reply, ⁶Find"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ the cables before use. (untangling / untangles / untangle)\n²__________ drinks near the computer! (Don’t place / Place not / No placing)\n³__________ the red button in an emergency. (Presses / Press / Pressing)\n⁴__________ your desk after class. (Organizes / Organizing / Organize)\n⁵Please __________ the presentation slides. (downloads / download / downloading)\n⁶__________ quietly in the library. (Reading / Reads / Read)",
+          "answer": "¹untangle, ²Don’t place, ³Press, ⁴Organize, ⁵download, ⁶Read"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your microphone before joining. (muting / mutes / mute)\n²__________ your lunch on someone else’s desk! (Don’t leave / Leave not / No leave)\n³__________ the file as a PDF. (Saves / Save / Saving)\n⁴__________ your turn politely. (Waiting for / Wait for / Waits for)\n⁵Please __________ the summary in 100 words. (writing / writes / write)\n⁶__________ the printer tray carefully. (Pull / Pulling / Pulls)",
+          "answer": "¹mute, ²Don’t leave, ³Save, ⁴Wait for, ⁵write, ⁶Pull"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your files before shutting down. (saves / save / saving)\n²__________ your fingers in the door! (Don’t trap / Trap not / No trap)\n³__________ your badge at reception. (Scans / Scan / Scanning)\n⁴__________ up your desk after eating. (Tidying / Tidies / Tidy)\n⁵Please __________ the alarm if there’s danger. (activates / activate / activating)\n⁶__________ attention to the warning signs. (Pay / Pays / Paying)",
+          "answer": "¹save, ²Don’t trap, ³Scan, ⁴Tidy, ⁵activate, ⁶Pay"
+        }
+      ]
+    },
+    {
+      "type": "choose_correct_option",
+      "instructions": "Complete the sentences with the correct word or phrase.",
+      "qa_pairs": [
+        {
+          "item": "¹Please __________ your name clearly. (printing / prints / print)\n²__________ your feet on the chair! (No putting / Don’t put / Put not)\n³__________ your password strong. (Makes / Make / Making)\n⁴__________ noise during the exam. (Avoiding / Avoids / Avoid)\n⁵Please __________ the pages neatly. (staples / staple / stapling)\n⁶__________ your backpack under your seat. (Storing / Stores / Store)",
+          "answer": "¹print, ²Don’t put, ³Make, ⁴Avoid, ⁵staple, ⁶Store"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1415 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "He _______________ (work) as a journalist.",
+          "answer": "works"
+        },
+        {
+          "item": "We _______________ (not drink) coffee after 4 p.m.",
+          "answer": "don't drink"
+        },
+        {
+          "item": "My flatmate _______________ (have) a shower every morning.",
+          "answer": "has"
+        },
+        {
+          "item": "They _______________ (live) in a big city centre.",
+          "answer": "live"
+        },
+        {
+          "item": "I _______________ (not like) classical music.",
+          "answer": "don't like"
+        },
+        {
+          "item": "The cat _______________ (eat) fish every day.",
+          "answer": "eats"
+        },
+        {
+          "item": "You _______________ (go) to the gym twice a week.",
+          "answer": "go"
+        },
+        {
+          "item": "Sarah _______________ (not study) French.",
+          "answer": "doesn't study"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "My sister _______________ (read) novels in her free time.",
+          "answer": "reads"
+        },
+        {
+          "item": "I _______________ (not cook) dinner on Fridays.",
+          "answer": "don't cook"
+        },
+        {
+          "item": "The train _______________ (arrive) at 8:00 a.m.",
+          "answer": "arrives"
+        },
+        {
+          "item": "We _______________ (wear) blue uniforms at work.",
+          "answer": "wear"
+        },
+        {
+          "item": "Peter _______________ (not smoke).",
+          "answer": "doesn't smoke"
+        },
+        {
+          "item": "They _______________ (listen) to music in the car.",
+          "answer": "listen"
+        },
+        {
+          "item": "She _______________ (go) out with friends every weekend.",
+          "answer": "goes"
+        },
+        {
+          "item": "My parents _______________ (not live) near the coast.",
+          "answer": "don't live"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (watch) TV in the evenings.",
+          "answer": "watch"
+        },
+        {
+          "item": "He _______________ (not have) a credit card.",
+          "answer": "doesn't have"
+        },
+        {
+          "item": "My friends _______________ (like) Italian food.",
+          "answer": "like"
+        },
+        {
+          "item": "The company _______________ (close) at 6 p.m.",
+          "answer": "closes"
+        },
+        {
+          "item": "You _______________ (not wear) glasses.",
+          "answer": "don't wear"
+        },
+        {
+          "item": "She _______________ (speak) Spanish and Italian.",
+          "answer": "speaks"
+        },
+        {
+          "item": "We _______________ (do) housework on Saturdays.",
+          "answer": "do"
+        },
+        {
+          "item": "My boss _______________ (not travel) much for work.",
+          "answer": "doesn't travel"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "My wife _______________ (not work) on Sundays.",
+          "answer": "doesn't work"
+        },
+        {
+          "item": "We _______________ (have) breakfast at 7 a.m.",
+          "answer": "have"
+        },
+        {
+          "item": "I _______________ (say) 'sorry' when I'm late.",
+          "answer": "say"
+        },
+        {
+          "item": "This shop _______________ (sell) cheap shoes.",
+          "answer": "sells"
+        },
+        {
+          "item": "My brother _______________ (not drive) a fast car.",
+          "answer": "doesn't drive"
+        },
+        {
+          "item": "They _______________ (listen) to the news every night.",
+          "answer": "listen"
+        },
+        {
+          "item": "The film _______________ (start) in five minutes.",
+          "answer": "starts"
+        },
+        {
+          "item": "You _______________ (not live) in a flat.",
+          "answer": "don't live"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "He _______________ (cook) dinner every night.",
+          "answer": "cooks"
+        },
+        {
+          "item": "I _______________ (not go) out during the week.",
+          "answer": "don't go"
+        },
+        {
+          "item": "My children _______________ (like) watching cartoons.",
+          "answer": "like"
+        },
+        {
+          "item": "The dog _______________ (not eat) tomatoes.",
+          "answer": "doesn't eat"
+        },
+        {
+          "item": "We _______________ (speak) English at work.",
+          "answer": "speak"
+        },
+        {
+          "item": "She _______________ (read) books about history.",
+          "answer": "reads"
+        },
+        {
+          "item": "They _______________ (wear) jackets in winter.",
+          "answer": "wear"
+        },
+        {
+          "item": "This phone _______________ (not work) well.",
+          "answer": "doesn't work"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "My mum _______________ (not watch) horror films.",
+          "answer": "doesn't watch"
+        },
+        {
+          "item": "I _______________ (live) in a flat near the university.",
+          "answer": "live"
+        },
+        {
+          "item": "He _______________ (take) the bus to work.",
+          "answer": "takes"
+        },
+        {
+          "item": "We _______________ (not read) the newspaper.",
+          "answer": "don't read"
+        },
+        {
+          "item": "The weather _______________ (change) quickly here.",
+          "answer": "changes"
+        },
+        {
+          "item": "You _______________ (listen) to music when you study.",
+          "answer": "listen"
+        },
+        {
+          "item": "They _______________ (do) exercise every morning.",
+          "answer": "do"
+        },
+        {
+          "item": "My wife _______________ (not play) tennis.",
+          "answer": "doesn't play"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "She _______________ (not wear) formal clothes.",
+          "answer": "doesn't wear"
+        },
+        {
+          "item": "I _______________ (speak) two languages fluently.",
+          "answer": "speak"
+        },
+        {
+          "item": "We _______________ (not have) classes on Friday.",
+          "answer": "don't have"
+        },
+        {
+          "item": "The company _______________ (sell) products online.",
+          "answer": "sells"
+        },
+        {
+          "item": "They _______________ (take) a taxi to the airport.",
+          "answer": "take"
+        },
+        {
+          "item": "My friend _______________ (not like) watching TV.",
+          "answer": "doesn't like"
+        },
+        {
+          "item": "You _______________ (go) to bed late.",
+          "answer": "go"
+        },
+        {
+          "item": "He _______________ (work) near the stadium.",
+          "answer": "works"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The shop _______________ (not open) on Mondays.",
+          "answer": "doesn't open"
+        },
+        {
+          "item": "I _______________ (cook) pasta twice a week.",
+          "answer": "cook"
+        },
+        {
+          "item": "She _______________ (drink) tea in the morning.",
+          "answer": "drinks"
+        },
+        {
+          "item": "We _______________ (say) hello to our neighbours.",
+          "answer": "say"
+        },
+        {
+          "item": "My children _______________ (not do) their homework immediately.",
+          "answer": "don't do"
+        },
+        {
+          "item": "He _______________ (take) his dog for a walk every day.",
+          "answer": "takes"
+        },
+        {
+          "item": "They _______________ (live) in a quiet town.",
+          "answer": "live"
+        },
+        {
+          "item": "The movie _______________ (not start) at 7 p.m.",
+          "answer": "doesn't start"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "My boss _______________ (wear) a tie.",
+          "answer": "wears"
+        },
+        {
+          "item": "I _______________ (not go) to the beach in winter.",
+          "answer": "don't go"
+        },
+        {
+          "item": "The school _______________ (not finish) early.",
+          "answer": "doesn't finish"
+        },
+        {
+          "item": "We _______________ (read) all the emails in the morning.",
+          "answer": "read"
+        },
+        {
+          "item": "She _______________ (drive) a red car.",
+          "answer": "drives"
+        },
+        {
+          "item": "My friends _______________ (not work) in a hospital.",
+          "answer": "don't work"
+        },
+        {
+          "item": "He _______________ (have) lunch at 1 p.m.",
+          "answer": "has"
+        },
+        {
+          "item": "The cat _______________ (not sleep) on the bed.",
+          "answer": "doesn't sleep"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "We _______________ (not speak) German.",
+          "answer": "don't speak"
+        },
+        {
+          "item": "The doctor _______________ (work) long hours.",
+          "answer": "works"
+        },
+        {
+          "item": "I _______________ (do) yoga on Tuesdays.",
+          "answer": "do"
+        },
+        {
+          "item": "They _______________ (not like) the cold weather.",
+          "answer": "don't like"
+        },
+        {
+          "item": "My teacher _______________ (read) many books.",
+          "answer": "reads"
+        },
+        {
+          "item": "She _______________ (not have) a large family.",
+          "answer": "doesn't have"
+        },
+        {
+          "item": "The children _______________ (go) to school by bus.",
+          "answer": "go"
+        },
+        {
+          "item": "The computer _______________ (not work) fast.",
+          "answer": "doesn't work"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "He _______________ (take) an umbrella when it rains.",
+          "answer": "takes"
+        },
+        {
+          "item": "I _______________ (not wear) sunglasses inside.",
+          "answer": "don't wear"
+        },
+        {
+          "item": "The restaurant _______________ (close) late.",
+          "answer": "closes"
+        },
+        {
+          "item": "We _______________ (live) in a house with a garden.",
+          "answer": "live"
+        },
+        {
+          "item": "My friend _______________ (not drive) to work.",
+          "answer": "doesn't drive"
+        },
+        {
+          "item": "They _______________ (say) goodbye at the door.",
+          "answer": "say"
+        },
+        {
+          "item": "She _______________ (have) a lot of free time.",
+          "answer": "has"
+        },
+        {
+          "item": "You _______________ (not study) on weekends.",
+          "answer": "don't study"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The coffee shop _______________ (open) at 7 a.m.",
+          "answer": "opens"
+        },
+        {
+          "item": "I _______________ (not do) the laundry on Mondays.",
+          "answer": "don't do"
+        },
+        {
+          "item": "We _______________ (wear) T-shirts in summer.",
+          "answer": "wear"
+        },
+        {
+          "item": "He _______________ (not read) the sports section.",
+          "answer": "doesn't read"
+        },
+        {
+          "item": "My parents _______________ (like) walking in the park.",
+          "answer": "like"
+        },
+        {
+          "item": "She _______________ (speak) very fast.",
+          "answer": "speaks"
+        },
+        {
+          "item": "The car _______________ (not stop) at the traffic light.",
+          "answer": "doesn't stop"
+        },
+        {
+          "item": "They _______________ (have) dinner late.",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "My cousin _______________ (live) in Canada.",
+          "answer": "lives"
+        },
+        {
+          "item": "I _______________ (not watch) the news.",
+          "answer": "don't watch"
+        },
+        {
+          "item": "She _______________ (take) photos of the city.",
+          "answer": "takes"
+        },
+        {
+          "item": "We _______________ (not work) on Saturdays.",
+          "answer": "don't work"
+        },
+        {
+          "item": "The weather _______________ (not get) cold in autumn.",
+          "answer": "doesn't get"
+        },
+        {
+          "item": "He _______________ (drink) hot chocolate.",
+          "answer": "drinks"
+        },
+        {
+          "item": "They _______________ (read) magazines.",
+          "answer": "read"
+        },
+        {
+          "item": "The dog _______________ (not like) the rain.",
+          "answer": "doesn't like"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (wear) comfortable shoes.",
+          "answer": "wear"
+        },
+        {
+          "item": "The movie _______________ (not finish) late.",
+          "answer": "doesn't finish"
+        },
+        {
+          "item": "She _______________ (say) 'excuse me' in public.",
+          "answer": "says"
+        },
+        {
+          "item": "We _______________ (not watch) TV every night.",
+          "answer": "don't watch"
+        },
+        {
+          "item": "My sister _______________ (study) medicine.",
+          "answer": "studies"
+        },
+        {
+          "item": "You _______________ (go) home early today.",
+          "answer": "go"
+        },
+        {
+          "item": "The baby _______________ (not sleep) much during the day.",
+          "answer": "doesn't sleep"
+        },
+        {
+          "item": "They _______________ (have) two cars.",
+          "answer": "have"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "He _______________ (not listen) to rock music.",
+          "answer": "doesn't listen"
+        },
+        {
+          "item": "I _______________ (cook) simple meals.",
+          "answer": "cook"
+        },
+        {
+          "item": "My friend _______________ (work) near the stadium.",
+          "answer": "works"
+        },
+        {
+          "item": "We _______________ (not go) shopping often.",
+          "answer": "don't go"
+        },
+        {
+          "item": "The coffee _______________ (taste) bitter.",
+          "answer": "tastes"
+        },
+        {
+          "item": "They _______________ (do) their homework after school.",
+          "answer": "do"
+        },
+        {
+          "item": "She _______________ (live) in a big apartment.",
+          "answer": "lives"
+        },
+        {
+          "item": "You _______________ (not speak) Chinese.",
+          "answer": "don't speak"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (have) a big dog.",
+          "answer": "have"
+        },
+        {
+          "item": "The bus _______________ (not leave) until 10 a.m.",
+          "answer": "doesn't leave"
+        },
+        {
+          "item": "She _______________ (drink) water, not juice.",
+          "answer": "drinks"
+        },
+        {
+          "item": "We _______________ (not read) the political news.",
+          "answer": "don't read"
+        },
+        {
+          "item": "My boss _______________ (wear) a suit every day.",
+          "answer": "wears"
+        },
+        {
+          "item": "They _______________ (go) to the cinema on Tuesdays.",
+          "answer": "go"
+        },
+        {
+          "item": "He _______________ (not work) in the bank.",
+          "answer": "doesn't work"
+        },
+        {
+          "item": "You _______________ (take) photos with your mobile.",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The restaurant _______________ (cook) delicious Italian food.",
+          "answer": "cooks"
+        },
+        {
+          "item": "I _______________ (not take) a taxi to work.",
+          "answer": "don't take"
+        },
+        {
+          "item": "We _______________ (live) near the park.",
+          "answer": "live"
+        },
+        {
+          "item": "She _______________ (not like) the rain.",
+          "answer": "doesn't like"
+        },
+        {
+          "item": "My children _______________ (have) school every weekday.",
+          "answer": "have"
+        },
+        {
+          "item": "He _______________ (read) the financial newspaper.",
+          "answer": "reads"
+        },
+        {
+          "item": "They _______________ (wear) trainers for exercise.",
+          "answer": "wear"
+        },
+        {
+          "item": "The computer _______________ (not have) a fast processor.",
+          "answer": "doesn't have"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "You _______________ (not drink) tea.",
+          "answer": "don't drink"
+        },
+        {
+          "item": "I _______________ (wear) a coat in winter.",
+          "answer": "wear"
+        },
+        {
+          "item": "My boss _______________ (not do) the administrative work.",
+          "answer": "doesn't do"
+        },
+        {
+          "item": "We _______________ (take) the train to the beach.",
+          "answer": "take"
+        },
+        {
+          "item": "She _______________ (work) in a big corporation.",
+          "answer": "works"
+        },
+        {
+          "item": "They _______________ (not listen) to classical music.",
+          "answer": "don't listen"
+        },
+        {
+          "item": "He _______________ (have) a lot of friends.",
+          "answer": "has"
+        },
+        {
+          "item": "The baby _______________ (cry) when it is hungry.",
+          "answer": "cries"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The museum _______________ (close) at 5 p.m.",
+          "answer": "closes"
+        },
+        {
+          "item": "I _______________ (not go) to work on Sundays.",
+          "answer": "don't go"
+        },
+        {
+          "item": "We _______________ (like) watching sports.",
+          "answer": "like"
+        },
+        {
+          "item": "He _______________ (say) thank you when he leaves.",
+          "answer": "says"
+        },
+        {
+          "item": "My brother _______________ (not work) at the airport.",
+          "answer": "doesn't work"
+        },
+        {
+          "item": "They _______________ (have) dinner together every night.",
+          "answer": "have"
+        },
+        {
+          "item": "She _______________ (drink) orange juice for breakfast.",
+          "answer": "drinks"
+        },
+        {
+          "item": "The computer _______________ (not start) quickly.",
+          "answer": "doesn't start"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (do) the shopping on Mondays.",
+          "answer": "do"
+        },
+        {
+          "item": "She _______________ (not like) noisy places.",
+          "answer": "doesn't like"
+        },
+        {
+          "item": "My parents _______________ (not work) in the city.",
+          "answer": "don't work"
+        },
+        {
+          "item": "He _______________ (take) a long shower.",
+          "answer": "takes"
+        },
+        {
+          "item": "We _______________ (wear) masks in public.",
+          "answer": "wear"
+        },
+        {
+          "item": "The train _______________ (arrive) on time.",
+          "answer": "arrives"
+        },
+        {
+          "item": "They _______________ (not have) a swimming pool.",
+          "answer": "don't have"
+        },
+        {
+          "item": "The movie _______________ (not start) at 9 p.m.",
+          "answer": "doesn't start"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "You _______________ (read) the contract carefully.",
+          "answer": "read"
+        },
+        {
+          "item": "My husband _______________ (not cook) pasta.",
+          "answer": "doesn't cook"
+        },
+        {
+          "item": "I _______________ (not live) in the countryside.",
+          "answer": "don't live"
+        },
+        {
+          "item": "She _______________ (speak) three languages.",
+          "answer": "speaks"
+        },
+        {
+          "item": "The office _______________ (open) late on Wednesdays.",
+          "answer": "opens"
+        },
+        {
+          "item": "We _______________ (have) dinner at 8 p.m.",
+          "answer": "have"
+        },
+        {
+          "item": "They _______________ (not watch) the news.",
+          "answer": "don't watch"
+        },
+        {
+          "item": "He _______________ (wear) glasses for reading.",
+          "answer": "wears"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The bus _______________ (not go) to the beach.",
+          "answer": "doesn't go"
+        },
+        {
+          "item": "I _______________ (listen) to podcasts on the way to work.",
+          "answer": "listen"
+        },
+        {
+          "item": "She _______________ (do) yoga on Saturdays.",
+          "answer": "does"
+        },
+        {
+          "item": "We _______________ (not have) classes in the afternoon.",
+          "answer": "don't have"
+        },
+        {
+          "item": "My parents _______________ (take) the children to school.",
+          "answer": "take"
+        },
+        {
+          "item": "He _______________ (read) books before sleeping.",
+          "answer": "reads"
+        },
+        {
+          "item": "They _______________ (not like) noisy neighbours.",
+          "answer": "don't like"
+        },
+        {
+          "item": "The project _______________ (start) next week.",
+          "answer": "starts"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (not take) an umbrella when it’s sunny.",
+          "answer": "don't take"
+        },
+        {
+          "item": "She _______________ (wear) expensive jewellery.",
+          "answer": "wears"
+        },
+        {
+          "item": "The party _______________ (start) at 8 p.m.",
+          "answer": "starts"
+        },
+        {
+          "item": "We _______________ (not live) near the train station.",
+          "answer": "don't live"
+        },
+        {
+          "item": "My boss _______________ (have) three meetings every day.",
+          "answer": "has"
+        },
+        {
+          "item": "They _______________ (read) science magazines.",
+          "answer": "read"
+        },
+        {
+          "item": "He _______________ (not watch) football.",
+          "answer": "doesn't watch"
+        },
+        {
+          "item": "You _______________ (speak) English well.",
+          "answer": "speak"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The library _______________ (not open) on Sundays.",
+          "answer": "doesn't open"
+        },
+        {
+          "item": "I _______________ (do) yoga on Wednesdays.",
+          "answer": "do"
+        },
+        {
+          "item": "She _______________ (like) her job very much.",
+          "answer": "likes"
+        },
+        {
+          "item": "We _______________ (not wear) ties.",
+          "answer": "don't wear"
+        },
+        {
+          "item": "My friends _______________ (go) to the cinema a lot.",
+          "answer": "go"
+        },
+        {
+          "item": "He _______________ (have) lunch in the office.",
+          "answer": "has"
+        },
+        {
+          "item": "They _______________ (not take) photos in the museum.",
+          "answer": "don't take"
+        },
+        {
+          "item": "The baby _______________ (sleep) for many hours.",
+          "answer": "sleeps"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "He _______________ (not read) fiction books.",
+          "answer": "doesn't read"
+        },
+        {
+          "item": "I _______________ (live) on the first floor.",
+          "answer": "live"
+        },
+        {
+          "item": "My mum _______________ (cook) dinner at 7 p.m.",
+          "answer": "cooks"
+        },
+        {
+          "item": "We _______________ (not work) at the weekend.",
+          "answer": "don't work"
+        },
+        {
+          "item": "She _______________ (have) a big family.",
+          "answer": "has"
+        },
+        {
+          "item": "They _______________ (listen) to jazz music.",
+          "answer": "listen"
+        },
+        {
+          "item": "The lesson _______________ (not start) at 8:30 a.m.",
+          "answer": "doesn't start"
+        },
+        {
+          "item": "You _______________ (wear) boots in winter.",
+          "answer": "wear"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (not work) on Fridays.",
+          "answer": "don't work"
+        },
+        {
+          "item": "The weather _______________ (not change) much in summer.",
+          "answer": "doesn't change"
+        },
+        {
+          "item": "She _______________ (take) the train to the city centre.",
+          "answer": "takes"
+        },
+        {
+          "item": "We _______________ (do) the washing up after dinner.",
+          "answer": "do"
+        },
+        {
+          "item": "My brother _______________ (not drink) coffee.",
+          "answer": "doesn't drink"
+        },
+        {
+          "item": "They _______________ (live) in a flat.",
+          "answer": "live"
+        },
+        {
+          "item": "He _______________ (watch) TV before bed.",
+          "answer": "watches"
+        },
+        {
+          "item": "You _______________ (not read) the same book.",
+          "answer": "don't read"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "The dog _______________ (not eat) vegetables.",
+          "answer": "doesn't eat"
+        },
+        {
+          "item": "I _______________ (wear) a uniform at the office.",
+          "answer": "wear"
+        },
+        {
+          "item": "She _______________ (read) the newspaper in the morning.",
+          "answer": "reads"
+        },
+        {
+          "item": "We _______________ (not have) a meeting today.",
+          "answer": "don't have"
+        },
+        {
+          "item": "My boss _______________ (say) goodbye when he leaves.",
+          "answer": "says"
+        },
+        {
+          "item": "They _______________ (listen) to the radio.",
+          "answer": "listen"
+        },
+        {
+          "item": "He _______________ (not go) to the gym often.",
+          "answer": "doesn't go"
+        },
+        {
+          "item": "You _______________ (take) photos on holiday.",
+          "answer": "take"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (live) in the countryside.",
+          "answer": "live"
+        },
+        {
+          "item": "He _______________ (not cook) his own meals.",
+          "answer": "doesn't cook"
+        },
+        {
+          "item": "The shop _______________ (sell) expensive clothes.",
+          "answer": "sells"
+        },
+        {
+          "item": "We _______________ (not drink) alcohol.",
+          "answer": "don't drink"
+        },
+        {
+          "item": "My friend _______________ (take) the train every day.",
+          "answer": "takes"
+        },
+        {
+          "item": "They _______________ (read) books quickly.",
+          "answer": "read"
+        },
+        {
+          "item": "She _______________ (not like) cold weather.",
+          "answer": "doesn't like"
+        },
+        {
+          "item": "The lesson _______________ (finish) at 4 p.m.",
+          "answer": "finishes"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "He _______________ (wear) a suit to important meetings.",
+          "answer": "wears"
+        },
+        {
+          "item": "I _______________ (have) lunch at my desk.",
+          "answer": "have"
+        },
+        {
+          "item": "My children _______________ (not watch) TV late at night.",
+          "answer": "don't watch"
+        },
+        {
+          "item": "We _______________ (not read) science fiction.",
+          "answer": "don't read"
+        },
+        {
+          "item": "She _______________ (go) to the park on Sundays.",
+          "answer": "goes"
+        },
+        {
+          "item": "The bank _______________ (not open) on Saturday.",
+          "answer": "doesn't open"
+        },
+        {
+          "item": "They _______________ (speak) very loud.",
+          "answer": "speak"
+        },
+        {
+          "item": "The clock _______________ (strike) midnight.",
+          "answer": "strikes"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "section": "GRAMMAR",
+      "topic": [
+        "3A"
+      ],
+      "type": "fill_in_the_blanks",
+      "instructions": "Complete the sentences with the correct form of the verb in brackets.",
+      "example": {
+        "item": "It _______________ (not rain) a lot in Egypt.",
+        "answer": "doesn't rain"
+      },
+      "qa_pairs": [
+        {
+          "item": "I _______________ (not go) to bed early.",
+          "answer": "don't go"
+        },
+        {
+          "item": "He _______________ (not take) a long holiday.",
+          "answer": "doesn't take"
+        },
+        {
+          "item": "My family _______________ (do) the shopping together.",
+          "answer": "does"
+        },
+        {
+          "item": "We _______________ (have) a lot of free time on weekends.",
+          "answer": "have"
+        },
+        {
+          "item": "She _______________ (speak) quickly.",
+          "answer": "speaks"
+        },
+        {
+          "item": "The shop _______________ (not sell) imported goods.",
+          "answer": "doesn't sell"
+        },
+        {
+          "item": "They _______________ (wear) casual clothes at home.",
+          "answer": "wear"
+        },
+        {
+          "item": "The phone _______________ (not work) without charging.",
+          "answer": "doesn't work"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1414 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ reads the newspaper.",
+          "options": ["He", "His", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "²________ walk to school every day.",
+          "options": ["We", "Our", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "³________ has a pet rabbit.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        },
+        {
+          "item": "⁴________ play basketball on weekends.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁵________ is from Argentina.",
+          "options": ["He", "His", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "⁶________ favorite color is blue.",
+          "options": ["Her", "She", "Yours"],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷________ eat lunch at noon.",
+          "options": ["We", "Our", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁸________ teacher is very funny.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ write emails every morning.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "²________ shoes are under the bed.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ goes to the park on Sundays.",
+          "options": ["He", "Him", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "⁴________ like reading comic books.",
+          "options": ["They", "Them", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁵________ phone is on the table.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶________ am very tired today.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "⁷________ cook dinner on Fridays.",
+          "options": ["We", "Us", "Our"],
+          "answer": "We"
+        },
+        {
+          "item": "⁸________ cat sleeps a lot.",
+          "options": ["Her", "She", "Hers"],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ play video games at night.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "²________ sister plays tennis every weekend.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "³________ reads a newspaper every morning.",
+          "options": ["He", "Him", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "⁴________ like spicy food.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁵________ write stories in English.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "⁶________ brother plays the piano.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁷________ cousin swims very well.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸________ eats lunch at noon.",
+          "options": ["Her", "She", "Hers"],
+          "answer": "She"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ like music a lot.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "²________ read every day after lunch.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "You"
+        },
+        {
+          "item": "³________ write poems in my notebook.",
+          "options": ["I", "My", "Me"],
+          "answer": "I"
+        },
+        {
+          "item": "⁴________ buy fruit at the supermarket.",
+          "options": ["My", "I", "Me"],
+          "answer": "I"
+        },
+        {
+          "item": "⁵________ runs every morning.",
+          "options": ["It", "Its", "It’s"],
+          "answer": "It"
+        },
+        {
+          "item": "⁶________ brother goes to the library.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁷________ eats cereal for breakfast.",
+          "options": ["His", "He", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "⁸________ runs to catch the bus.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ run in the morning.",
+          "options": ["I", "Me", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "²________ brother walks to school.",
+          "options": ["Me", "I", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ goes to the gym on Fridays.",
+          "options": ["Hers", "Her", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁴________ read stories at night.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁵________ eats breakfast at 7 a.m.",
+          "options": ["Her", "Hers", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁶________ read novels every weekend.",
+          "options": ["I", "My", "Me"],
+          "answer": "I"
+        },
+        {
+          "item": "⁷________ write great songs.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "You"
+        },
+        {
+          "item": "⁸________ go to the cinema on Saturdays.",
+          "options": ["Us", "Our", "We"],
+          "answer": "We"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ brother reads on weekends.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "²________ writes a book every year.",
+          "options": ["His", "He", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "³________ buy snacks on Saturdays.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "⁴________ cook pasta every Friday.",
+          "options": ["Yours", "You", "Your"],
+          "answer": "You"
+        },
+        {
+          "item": "⁵________ sister runs on weekends.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶________ buys the newspaper.",
+          "options": ["It’s", "Its", "It"],
+          "answer": "It"
+        },
+        {
+          "item": "⁷________ brother goes fast.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "⁸________ writes emails in English.",
+          "options": ["It", "Its", "It’s"],
+          "answer": "It"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ brother plays soccer.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "²________ sister goes to the library.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "³________ walk to school every morning.",
+          "options": ["Our", "Us", "We"],
+          "answer": "We"
+        },
+        {
+          "item": "⁴________ runs in the park.",
+          "options": ["It’s", "Its", "It"],
+          "answer": "It"
+        },
+        {
+          "item": "⁵________ walk to the museum after lunch.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁶________ walks to the station.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        },
+        {
+          "item": "⁷________ plays basketball with friends.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "⁸________ eat breakfast at 7 a.m.",
+          "options": ["My", "I", "Me"],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ walks to the bakery every morning.",
+          "options": ["He", "His", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "²________ run around the park together.",
+          "options": ["Their", "They", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "³________ reads mystery books on weekends.",
+          "options": ["Her", "Hers", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁴________ eat sandwiches for lunch.",
+          "options": ["Our", "Us", "We"],
+          "answer": "We"
+        },
+        {
+          "item": "⁵________ runs very fast.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "⁶________ run to catch the bus.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "You"
+        },
+        {
+          "item": "⁷________ like to travel in summer.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁸________ go to the beach in July.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ brother runs to school every day.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "²________ goes to the museum on weekends.",
+          "options": ["It", "Its", "It’s"],
+          "answer": "It"
+        },
+        {
+          "item": "³________ reads a book in the evening.",
+          "options": ["It", "It’s", "Its"],
+          "answer": "It"
+        },
+        {
+          "item": "⁴________ sister plays volleyball after class.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁵________ read many books every month.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁶________ writes in a diary every night.",
+          "options": ["Its", "It", "It’s"],
+          "answer": "It"
+        },
+        {
+          "item": "⁷________ reads novels every Saturday.",
+          "options": ["Hers", "She", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "⁸________ go shopping on Sundays.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "You"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ brother walks to the market every morning.",
+          "options": ["I", "Me", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "²________ sister likes to draw pictures.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "³________ sister watches movies every Friday.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ watch the news every evening.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁵________ sister buys bread at the bakery.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶________ write letters to our grandparents.",
+          "options": ["They", "Them", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁷________ goes to the beach on holidays.",
+          "options": ["It", "It’s", "Its"],
+          "answer": "It"
+        },
+        {
+          "item": "⁸________ brother plays football with friends.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ read emails in the morning.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "²________ sister plays the guitar every afternoon.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "³________ sister watches TV after dinner.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ go to school by bus.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁵________ eat pizza on Fridays.",
+          "options": ["We", "Us", "Our"],
+          "answer": "We"
+        },
+        {
+          "item": "⁶________ likes to run in the park.",
+          "options": ["Him", "His", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "⁷________ brother writes letters every week.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "⁸________ run every day before breakfast.",
+          "options": ["My", "I", "Me"],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ sister plays the piano on weekdays.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "²________ brother watches cartoons every evening.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ read emails after lunch.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁴________ play games before dinner.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁵________ run at the gym on Tuesdays.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁶________ goes to the park every morning.",
+          "options": ["It", "Its", "It’s"],
+          "answer": "It"
+        },
+        {
+          "item": "⁷________ brother eats lunch at noon.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁸________ write emails at work.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ plays the guitar very well.",
+          "options": ["Him", "He", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "²________ go to the park every Saturday.",
+          "options": ["Us", "Our", "We"],
+          "answer": "We"
+        },
+        {
+          "item": "³________ buy snacks before class.",
+          "options": ["They", "Them", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁴________ walks to the library every day.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        },
+        {
+          "item": "⁵________ sister writes poems at night.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶________ like reading before bed.",
+          "options": ["Me", "My", "I"],
+          "answer": "I"
+        },
+        {
+          "item": "⁷________ brother runs in the morning.",
+          "options": ["I", "Me", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "⁸________ read books at the café.",
+          "options": ["Our", "Us", "We"],
+          "answer": "We"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ go to the market every morning.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "You"
+        },
+        {
+          "item": "²________ brother plays the piano very well.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ likes cartoons.",
+          "options": ["Its", "It", "It’s"],
+          "answer": "It"
+        },
+        {
+          "item": "⁴________ walks to the market on Sundays.",
+          "options": ["Hers", "Her", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁵________ writes emails at work.",
+          "options": ["Hers", "Her", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁶________ eat sandwiches for lunch.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "You"
+        },
+        {
+          "item": "⁷________ sister writes short stories.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸________ watches movies every night.",
+          "options": ["Him", "He", "His"],
+          "answer": "He"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ walk to the market every day.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "²________ go to school together.",
+          "options": ["Us", "Our", "We"],
+          "answer": "We"
+        },
+        {
+          "item": "³________ sister watches movies on weekends.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ brother runs around the park.",
+          "options": ["I", "Me", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "⁵________ reads a book before bed.",
+          "options": ["He", "His", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "⁶________ write a story in class.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁷________ brother likes to watch TV.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁸________ sister buys books online.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ sister eats pizza on Fridays.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "²________ writes emails every morning.",
+          "options": ["He", "Him", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "³________ read emails after class.",
+          "options": ["Us", "Our", "We"],
+          "answer": "We"
+        },
+        {
+          "item": "⁴________ watches TV at night.",
+          "options": ["Hers", "She", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "⁵________ brother plays soccer with friends.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁶________ write emails to your teacher.",
+          "options": ["Yours", "You", "Your"],
+          "answer": "You"
+        },
+        {
+          "item": "⁷________ writes stories for school.",
+          "options": ["He", "Him", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "⁸________ watch TV after dinner.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "You"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ likes to read books.",
+          "options": ["She", "Hers", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "²________ brother watches movies at night.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ sister walks to the market every day.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ read a new book every week.",
+          "options": ["Me", "My", "I"],
+          "answer": "I"
+        },
+        {
+          "item": "⁵________ like going to the park.",
+          "options": ["Them", "Their", "They"],
+          "answer": "They"
+        },
+        {
+          "item": "⁶________ brother buys cereal at the store.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁷________ runs very fast in the morning.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        },
+        {
+          "item": "⁸________ walk together after lunch.",
+          "options": ["Their", "Them", "They"],
+          "answer": "They"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ reads emails every morning.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "²________ brother walks to the park after school.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ sister plays the guitar very well.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ brother writes a story for class.",
+          "options": ["My", "I", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁵________ walks to school with her friend.",
+          "options": ["Hers", "She", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "⁶________ sister walks to the café every Saturday.",
+          "options": ["Yours", "You", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁷________ read before going to school.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁸________ buys pizza every Friday.",
+          "options": ["Its", "It’s", "It"],
+          "answer": "It"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ writes a story every weekend.",
+          "options": ["Her", "Hers", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "²________ eat lunch together on Sundays.",
+          "options": ["Their", "They", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "³________ brother reads very fast.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "⁴________ eat breakfast at 8 a.m.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁵________ sister walks to the bakery every morning.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶________ buy a book every month.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "⁷________ read a lot of magazines.",
+          "options": ["Their", "They", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁸________ brother buys a new backpack.",
+          "options": ["I", "Me", "My"],
+          "answer": "My"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ writes in a notebook every day.",
+          "options": ["It", "It’s", "Its"],
+          "answer": "It"
+        },
+        {
+          "item": "²________ sister reads a new story every week.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "³________ go to the library on Fridays.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "You"
+        },
+        {
+          "item": "⁴________ likes to cook on weekends.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        },
+        {
+          "item": "⁵________ run at the park every evening.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁶________ tells great stories in class.",
+          "options": ["Hers", "Her", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁷________ walks to school every morning.",
+          "options": ["It", "Its", "It’s"],
+          "answer": "It"
+        },
+        {
+          "item": "⁸________ likes to play the guitar.",
+          "options": ["His", "He", "Him"],
+          "answer": "He"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ goes to the bookstore on Saturdays.",
+          "options": ["Him", "His", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "²________ walks on weekends with his dog.",
+          "options": ["Him", "He", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "³________ walks fast in the morning.",
+          "options": ["Him", "He", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "⁴________ sister buys fruit at the market.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁵________ go to the concert every year.",
+          "options": ["My", "Me", "I"],
+          "answer": "I"
+        },
+        {
+          "item": "⁶________ sister runs very fast.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁷________ likes spicy food.",
+          "options": ["She", "Her", "Hers"],
+          "answer": "She"
+        },
+        {
+          "item": "⁸________ brother walks to the market every day.",
+          "options": ["Me", "My", "I"],
+          "answer": "My"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ like to travel on weekends.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "²________ like playing the guitar.",
+          "options": ["Yours", "You", "Your"],
+          "answer": "You"
+        },
+        {
+          "item": "³________ read a book every night.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁴________ buys pizza after school.",
+          "options": ["She", "Hers", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "⁵________ writes very fast in class.",
+          "options": ["He", "His", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "⁶________ walk to school together.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁷________ read a lot during vacation.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁸________ writes short stories.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ sister runs to the market every Saturday.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "²________ buy groceries very fast.",
+          "options": ["We", "Our", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "³________ watch movies on weekends.",
+          "options": ["My", "I", "Me"],
+          "answer": "I"
+        },
+        {
+          "item": "⁴________ go to the library on Fridays.",
+          "options": ["Me", "My", "I"],
+          "answer": "I"
+        },
+        {
+          "item": "⁵________ walk to work every day.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁶________ play music in the morning.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁷________ sister reads a new book each week.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸________ buys snacks on weekends.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ get emails every morning.",
+          "options": ["I", "Me", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "²________ plays the guitar after school.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "³________ walk to the market together.",
+          "options": ["They", "Their", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁴________ likes to read short stories.",
+          "options": ["Hers", "Her", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁵________ brother eats pizza on Fridays.",
+          "options": ["Me", "I", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "⁶________ reads a book before bed.",
+          "options": ["Her", "Hers", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁷________ eats pasta on weekends.",
+          "options": ["Hers", "Her", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁸________ runs every morning at 7 a.m.",
+          "options": ["It", "It’s", "Its"],
+          "answer": "It"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ read a book every night.",
+          "options": ["My", "I", "Me"],
+          "answer": "I"
+        },
+        {
+          "item": "²________ brother likes to walk to school.",
+          "options": ["I", "My", "Me"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ brother reads magazines in the morning.",
+          "options": ["Me", "My", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "⁴________ walks to the market every Sunday.",
+          "options": ["He", "His", "Him"],
+          "answer": "He"
+        },
+        {
+          "item": "⁵________ writes stories at school.",
+          "options": ["Hers", "She", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "⁶________ eats pizza for dinner.",
+          "options": ["Him", "He", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "⁷________ watches videos after class.",
+          "options": ["Her", "Hers", "She"],
+          "answer": "She"
+        },
+        {
+          "item": "⁸________ run very fast in the morning.",
+          "options": ["I", "Me", "My"],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ go to the market every Saturday.",
+          "options": ["I", "My", "Me"],
+          "answer": "I"
+        },
+        {
+          "item": "²________ walk to the market together.",
+          "options": ["Their", "Them", "They"],
+          "answer": "They"
+        },
+        {
+          "item": "³________ brother writes emails every day.",
+          "options": ["Me", "I", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "⁴________ read emails after breakfast.",
+          "options": ["You", "Your", "Yours"],
+          "answer": "You"
+        },
+        {
+          "item": "⁵________ read a book in class.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁶________ brother eats lunch at noon.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "⁷________ sister eats very fast.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸________ likes pizza with cheese.",
+          "options": ["Her", "Hers", "She"],
+          "answer": "She"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ writes poems every morning.",
+          "options": ["Its", "It’s", "It"],
+          "answer": "It"
+        },
+        {
+          "item": "²________ go to the market after lunch.",
+          "options": ["Yours", "Your", "You"],
+          "answer": "You"
+        },
+        {
+          "item": "³________ sister watches a movie every weekend.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ walks to the market before breakfast.",
+          "options": ["Its", "It’s", "It"],
+          "answer": "It"
+        },
+        {
+          "item": "⁵________ sister goes to school by bike.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶________ eat lunch at the park.",
+          "options": ["Them", "Their", "They"],
+          "answer": "They"
+        },
+        {
+          "item": "⁷________ reads books every night.",
+          "options": ["Him", "He", "His"],
+          "answer": "He"
+        },
+        {
+          "item": "⁸________ eat vegetables every day.",
+          "options": ["Them", "They", "Their"],
+          "answer": "They"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ goes to school everyday.",
+          "options": ["Him", "His", "He"],
+          "answer": "He"
+        },
+        {
+          "item": "²________ brother buys fruit on Mondays.",
+          "options": ["I", "Me", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "³________ likes to sleep in the afternoon.",
+          "options": ["It", "It’s", "Its"],
+          "answer": "It"
+        },
+        {
+          "item": "⁴________ read emails before class.",
+          "options": ["They", "Them", "Their"],
+          "answer": "They"
+        },
+        {
+          "item": "⁵________ brother buys pizza on Fridays.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "⁶________ sister plays the guitar very well.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁷________ write emails at work.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁸________ write a book about animals.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "You"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ reads a book every evening.",
+          "options": ["Hers", "She", "Her"],
+          "answer": "She"
+        },
+        {
+          "item": "²________ sister walks very fast.",
+          "options": ["Your", "Yours", "You"],
+          "answer": "Your"
+        },
+        {
+          "item": "³________ sister runs before school.",
+          "options": ["You", "Yours", "Your"],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴________ brother writes stories on weekends.",
+          "options": ["My", "Me", "I"],
+          "answer": "My"
+        },
+        {
+          "item": "⁵________ brother watches TV in the living room.",
+          "options": ["Me", "I", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "⁶________ eat sandwiches at lunch.",
+          "options": ["We", "Our", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁷________ read a story before bed.",
+          "options": ["Me", "I", "My"],
+          "answer": "I"
+        },
+        {
+          "item": "⁸________ eat together after class.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Choose the correct word to complete the sentence.",
+      "example": "My name is Jake.",
+      "qa_pairs": [
+        {
+          "item": "¹________ sister buys snacks very fast.",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your"
+        },
+        {
+          "item": "²________ run in the park every evening.",
+          "options": ["Us", "Our", "We"],
+          "answer": "We"
+        },
+        {
+          "item": "³________ brother studies on weekends.",
+          "options": ["Me", "I", "My"],
+          "answer": "My"
+        },
+        {
+          "item": "⁴________ watch TV after dinner.",
+          "options": ["Our", "We", "Us"],
+          "answer": "We"
+        },
+        {
+          "item": "⁵________ reads a book before bedtime.",
+          "options": ["Its", "It’s", "It"],
+          "answer": "It"
+        },
+        {
+          "item": "⁶________ eat together every holiday.",
+          "options": ["Yours", "You", "Your"],
+          "answer": "You"
+        },
+        {
+          "item": "⁷________ play video games at home.",
+          "options": ["Their", "They", "Them"],
+          "answer": "They"
+        },
+        {
+          "item": "⁸________ likes reading emails.",
+          "options": ["His", "Him", "He"],
+          "answer": "He"
+        }
+      ]
+    }
+  ]
+}

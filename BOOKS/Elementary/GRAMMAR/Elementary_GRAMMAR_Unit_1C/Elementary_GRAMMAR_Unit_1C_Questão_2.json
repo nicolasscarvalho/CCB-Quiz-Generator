@@ -1,0 +1,2374 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹We have a dog. __________ dog is friendly.",
+          "options": [
+            "My",
+            "Our",
+            "Their"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "²They have a pen. __________ pen is blue.",
+          "options": [
+            "My",
+            "Our",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³This cat has a bed. __________ bed is soft.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁴Our dog has a toy. __________ toy is small.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵His bird has a ball. __________ ball is red.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁶My best friend Carl has a notebook. __________ notebook is green.",
+          "options": [
+            "Her",
+            "His",
+            "Their"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁷They have a computer. __________ computer is old.",
+          "options": [
+            "Their",
+            "Our",
+            "His"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸Your sister has a friend. __________ friend is nice.",
+          "options": [
+            "Her",
+            "My",
+            "Its"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹I have a teacher. __________ teacher is new at my school.",
+          "options": [
+            "Her",
+            "My",
+            "Our"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "²We have a cat. __________ cat is always sleeping.",
+          "options": [
+            "My",
+            "Our",
+            "Their"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "³The boy has a computer. __________ computer has lots of games.",
+          "options": [
+            "Your",
+            "His",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴It has a friend. __________ friend is cute.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵My brother has a pencil. __________ pencil is orange.",
+          "options": [
+            "His",
+            "Your",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶The teacher has a house. __________ house is big.",
+          "options": [
+            "Its",
+            "Our",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁷You go to a fancy school. __________ school is expensive.",
+          "options": [
+            "Their",
+            "His",
+            "Your"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸She has a dog. __________ dog is big.",
+          "options": [
+            "Our",
+            "Her",
+            "His"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹The girls have a notebook. __________ notebook is red.",
+          "options": [
+            "Her",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "²Our dog has a toy. __________ toy is small.",
+          "options": [
+            "Its",
+            "Your",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "³I have a computer. __________ computer is fast.",
+          "options": [
+            "My",
+            "Their",
+            "His"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁴It has a phone. __________ phone is new.",
+          "options": [
+            "Its",
+            "Your",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵The girls have a house. __________ house is big.",
+          "options": [
+            "Their",
+            "His",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁶We have a bicycle. __________ bicycle is blue.",
+          "options": [
+            "Our",
+            "Its",
+            "Your"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁷She has a family. __________ family is nice.",
+          "options": [
+            "Her",
+            "My",
+            "His"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁸My brother has a book. __________ book is interesting.",
+          "options": [
+            "His",
+            "Our",
+            "Its"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹We have a desk. __________ desk is brown.",
+          "options": [
+            "Our",
+            "Her",
+            "His"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "²He has a house. __________ house has a blue gate.",
+          "options": [
+            "Our",
+            "His",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³The students have a phone. __________ phone is expensive.",
+          "options": [
+            "Her",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴The teacher has a car. __________ car is new.",
+          "options": [
+            "His",
+            "Our",
+            "Their"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁵She has a pen. __________ pen is red.",
+          "options": [
+            "Her",
+            "My",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁶This cat has a toy. __________ toy is soft.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁷He has a dog. __________ dog is friendly.",
+          "options": [
+            "His",
+            "Their",
+            "Your"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁸My brother has a bicycle. __________ bicycle is fast.",
+          "options": [
+            "His",
+            "Their",
+            "Your"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹The boy has a family. __________ family is big.",
+          "options": [
+            "His",
+            "Their",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "²I have a bicycle. __________ bicycle is red.",
+          "options": [
+            "My",
+            "Our",
+            "Their"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "³The teacher has a bicycle. __________ bicycle is black.",
+          "options": [
+            "Her",
+            "Our",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴The teacher has a classroom. __________ classroom is clean.",
+          "options": [
+            "His",
+            "Your",
+            "Our"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁵He has a dog. __________ dog is small.",
+          "options": [
+            "His",
+            "Your",
+            "Their"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶Our dog has a toy. __________ toy is soft.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁷It has a sidewalk. __________ sidewalk is new.",
+          "options": [
+            "Its",
+            "Your",
+            "Her"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁸My best friend has a book. __________ book is interesting.",
+          "options": [
+            "Her",
+            "Your",
+            "Their"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹They have a dog. __________ dog is very friendly.",
+          "options": [
+            "Its",
+            "Our",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "²The boy has a bag. __________ bag is blue.",
+          "options": [
+            "Your",
+            "Their",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³My best friend has a house. __________ house is small but cozy.",
+          "options": [
+            "Our",
+            "His",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴The students have a red car. __________ car is very fast.",
+          "options": [
+            "Her",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵My cousins have a new school. __________ school is near the park.",
+          "options": [
+            "Their",
+            "My",
+            "Your"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁶Our neighbors have a big car. __________ car is parked outside.",
+          "options": [
+            "Its",
+            "Their",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷You own a green car. __________ car is beautiful.",
+          "options": [
+            "Your",
+            "Their",
+            "Our"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸She owns a bicycle. __________ bicycle is green.",
+          "options": [
+            "My",
+            "His",
+            "Her"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹We have a house. __________ house is beautiful.",
+          "options": [
+            "My",
+            "Its",
+            "Our"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "²He has a bag. __________ bag is brown.",
+          "options": [
+            "Her",
+            "Your",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³The students have a bicycle. __________ bicycle is new.",
+          "options": [
+            "Its",
+            "Their",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴They have a family. __________ family is very big.",
+          "options": [
+            "Their",
+            "Our",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵It has a classroom. __________ classroom is clean.",
+          "options": [
+            "Their",
+            "Its",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁶My parents have a dog. __________ dog is very friendly.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷They have a cat. __________ cat is very small.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸Our dog has a toy. __________ toy is red.",
+          "options": [
+            "My",
+            "Their",
+            "Its"
+          ],
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹My brother has a house. __________ house is big.",
+          "options": [
+            "His",
+            "Our",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "²The boy has a dog. __________ dog is very friendly.",
+          "options": [
+            "My",
+            "His",
+            "Its"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³I have a phone. __________ phone is black.",
+          "options": [
+            "His",
+            "My",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁴You have parents. __________ parents are nice.",
+          "options": [
+            "Your",
+            "Her",
+            "My"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁵He has a book. __________ book is very interesting.",
+          "options": [
+            "Its",
+            "Their",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶My best friend has parents. __________ parents live in Canada.",
+          "options": [
+            "Our",
+            "Your",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷They have a classroom. __________ classroom is large.",
+          "options": [
+            "Her",
+            "Their",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸We have a friend. __________ friend is funny.",
+          "options": [
+            "Our",
+            "Their",
+            "My"
+          ],
+          "answer": "Our"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹I have a ticket. __________ ticket is for a concert.",
+          "options": [
+            "Their",
+            "Her",
+            "My"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "²My parents have a garden. __________ garden is beautiful.",
+          "options": [
+            "Their",
+            "Our",
+            "Your"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³The girls have a project. __________ project is about animals.",
+          "options": [
+            "Her",
+            "Its",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴We have a map. __________ map shows the city.",
+          "options": [
+            "Our",
+            "My",
+            "Her"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁵The teacher has a backpack. __________ backpack is heavy.",
+          "options": [
+            "His",
+            "Their",
+            "Our"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶It has a small tail. __________ tail is white.",
+          "options": [
+            "Its",
+            "Your",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁷Their house has a garden. __________ garden is full of flowers.",
+          "options": [
+            "Your",
+            "Our",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸The girls have a soccer ball. __________ ball is new.",
+          "options": [
+            "Its",
+            "Her",
+            "Their"
+          ],
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹Your sister has a cat. __________ cat sleeps all day.",
+          "options": [
+            "Their",
+            "Her",
+            "Our"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "²This cat has a toy. __________ toy is yellow.",
+          "options": [
+            "Its",
+            "Their",
+            "Our"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "³Your sister has a room. __________ room is very quiet.",
+          "options": [
+            "Your",
+            "His",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴She has a desk. __________ desk is full of books.",
+          "options": [
+            "His",
+            "My",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁵My brother has a soccer ball. __________ soccer ball is red and black.",
+          "options": [
+            "His",
+            "Their",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶The house has a fireplace. __________ fireplace is very old.",
+          "options": [
+            "Our",
+            "Their",
+            "Its"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷We have two cats. __________ cats are very cute.",
+          "options": [
+            "Our",
+            "Her",
+            "My"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁸The teacher has a daughter. __________ daughter is four years old.",
+          "options": [
+            "My",
+            "Our",
+            "His"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹He has a new phone. __________ phone is expensive.",
+          "options": [
+            "His",
+            "Our",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "²We have a plan. __________ plan is to travel this weekend.",
+          "options": [
+            "Our",
+            "Your",
+            "Her"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "³My parents have a restaurant. __________ restaurant is popular.",
+          "options": [
+            "Their",
+            "Our",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴He has a suitcase. __________ suitcase is very heavy.",
+          "options": [
+            "Your",
+            "Her",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁵The teacher has a coffee mug. __________ mug is on the table.",
+          "options": [
+            "His",
+            "Our",
+            "Your"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶Our cat has a basket. __________ basket is soft.",
+          "options": [
+            "My",
+            "Our",
+            "Its"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁷My parents have a car. __________ car is blue.",
+          "options": [
+            "Their",
+            "My",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸The teacher has a schedule. __________ schedule is very busy.",
+          "options": [
+            "Your",
+            "His",
+            "Its"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹I have a phone. __________ phone is very tech.",
+          "options": [
+            "Our",
+            "My",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "²We have a family. __________ family is very big.",
+          "options": [
+            "Her",
+            "His",
+            "Our"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "³Your sister has a cat. __________ cat is very playful.",
+          "options": [
+            "Their",
+            "Her",
+            "Its"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴My mother has a fancy pen. __________ pen is blue.",
+          "options": [
+            "My",
+            "Your",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁵My brother has a friend. __________ friend lives next door.",
+          "options": [
+            "His",
+            "Her",
+            "Our"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶You have a teacher. __________ teacher is very friendly.",
+          "options": [
+            "Your",
+            "Its",
+            "His"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁷My best friend has a notebook. __________ notebook is full of ideas.",
+          "options": [
+            "Her",
+            "Our",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁸This cat has a pillow. __________ pillow is very soft.",
+          "options": [
+            "Its",
+            "My",
+            "Your"
+          ],
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹The students have a project. __________ project is interesting.",
+          "options": [
+            "Your",
+            "Our",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "²You have a good idea. __________ idea is very smart.",
+          "options": [
+            "Its",
+            "Your",
+            "My"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "³She has a new friend. __________ friend is very nice.",
+          "options": [
+            "Her",
+            "My",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴They own a house that has a big garden. __________ garden is beautiful.",
+          "options": [
+            "Our",
+            "His",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵My parents have a blue pen. __________ pen is on the desk.",
+          "options": [
+            "My",
+            "Their",
+            "His"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁶Their house has a large kitchen. __________ kitchen is clean.",
+          "options": [
+            "Their",
+            "My",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷The students have a party. __________ party is on Saturday.",
+          "options": [
+            "Their",
+            "Her",
+            "His"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸It has a small room. __________ room is very cozy.",
+          "options": [
+            "My",
+            "Its",
+            "Our"
+          ],
+          "answer": "Its"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹I have a computer. __________ computer is very expensive.",
+          "options": [
+            "Her",
+            "My",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "²She has a family. __________ family is very close.",
+          "options": [
+            "My",
+            "Her",
+            "Its"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "³She has parents. __________ parents work in a hospital.",
+          "options": [
+            "His",
+            "Our",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴The teachers has a school project. __________ project is about history.",
+          "options": [
+            "Its",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵The students have a phone. __________ phone is on the table.",
+          "options": [
+            "Its",
+            "Her",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁶The robot has a robot dog. __________ dog is small and white.",
+          "options": [
+            "Your",
+            "Its",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁷Your sister has a house. __________ house is near the park.",
+          "options": [
+            "Her",
+            "My",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁸We have a bicycle. __________ bicycle is very old.",
+          "options": [
+            "Our",
+            "My",
+            "Her"
+          ],
+          "answer": "Our"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹We have a new game. __________ game is really fun.",
+          "options": [
+            "Its",
+            "Our",
+            "Your"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "²Your sister has a bicycle. __________ bicycle is bright yellow.",
+          "options": [
+            "His",
+            "My",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "³The students have a soccer match. __________ match is today.",
+          "options": [
+            "Their",
+            "Its",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴It has a hat. __________ hat is very small.",
+          "options": [
+            "Your",
+            "Its",
+            "Her"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵It has a tail. __________ tail is long.",
+          "options": [
+            "Our",
+            "Its",
+            "His"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁶She has a skateboard. __________ skateboard is red.",
+          "options": [
+            "Their",
+            "Her",
+            "My"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷My best friend has a camera. __________ camera is expensive.",
+          "options": [
+            "My",
+            "Our",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁸The students have a schedule. __________ schedule is very full.",
+          "options": [
+            "Our",
+            "Their",
+            "Your"
+          ],
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹Our uncle has a boat. __________ boat is very fast.",
+          "options": [
+            "Its",
+            "Your",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "²My brother has a guitar. __________ guitar is electric.",
+          "options": [
+            "Your",
+            "Her",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³They have a postcard. __________ postcard is from Rome.",
+          "options": [
+            "My",
+            "His",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴My best friend has a concert ticket. __________ ticket is for tonight.",
+          "options": [
+            "Our",
+            "Her",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁵We booked a hotel room. __________ room is on the third floor.",
+          "options": [
+            "My",
+            "Our",
+            "His"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁶He has a suitcase. __________ suitcase is heavy.",
+          "options": [
+            "My",
+            "His",
+            "Our"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁷Our neighbor has a garden. __________ garden is full of flowers.",
+          "options": [
+            "Its",
+            "Your",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸Your sister has a painting. __________ painting is beautiful.",
+          "options": [
+            "Our",
+            "Her",
+            "His"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹She has a passport. __________ passport is valid for five years.",
+          "options": [
+            "Your",
+            "Our",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "²Their house has a balcony. __________ balcony is very large.",
+          "options": [
+            "Their",
+            "Our",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³He has a skateboard. __________ skateboard is green.",
+          "options": [
+            "Her",
+            "His",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴They have a hammock. __________ hammock is under the tree.",
+          "options": [
+            "Their",
+            "Her",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵We have a beach umbrella. __________ umbrella is orange.",
+          "options": [
+            "Its",
+            "Our",
+            "His"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁶The girls have a painting. __________ painting is abstract.",
+          "options": [
+            "Their",
+            "Her",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷We have a picnic basket. __________ basket is full of food.",
+          "options": [
+            "Our",
+            "His",
+            "Her"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁸The girls have a volleyball. __________ volleyball is yellow.",
+          "options": [
+            "Her",
+            "My",
+            "Their"
+          ],
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹The students have backpacks. __________ backpacks are full of books.",
+          "options": [
+            "Their",
+            "Our",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "²Their house has a swimming pool. __________ pool is very clean.",
+          "options": [
+            "Their",
+            "Our",
+            "His"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³My brother has a soccer ball. __________ ball is blue and white.",
+          "options": [
+            "His",
+            "Their",
+            "Our"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴Their house has a new fence. __________ fence is painted white.",
+          "options": [
+            "Its",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵You have a museum ticket. __________ ticket is valid for today.",
+          "options": [
+            "Her",
+            "Their",
+            "Your"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁶She has a blue jacket. __________ jacket is very stylish.",
+          "options": [
+            "Her",
+            "My",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷Me and my family own a small bookstore. __________ bookstore is near downtown.",
+          "options": [
+            "His",
+            "Our",
+            "Their"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁸The teacher has a violin. __________ violin is very old.",
+          "options": [
+            "Its",
+            "Our",
+            "Her"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹I have a suitcase. __________ suitcase is very heavy.",
+          "options": [
+            "Our",
+            "My",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "²The students have a playlist. __________ playlist has great songs.",
+          "options": [
+            "Her",
+            "My",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³The teacher has a ticket. __________ ticket is for the theater.",
+          "options": [
+            "His",
+            "Our",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴Our cat has a blanket. __________ blanket is soft.",
+          "options": [
+            "Her",
+            "Its",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵This rabbit has a cage. __________ cage is clean.",
+          "options": [
+            "Its",
+            "Their",
+            "His"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁶You have a magazine. __________ magazine is on the table.",
+          "options": [
+            "Its",
+            "Your",
+            "Their"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁷The boy has a cap. __________ cap is blue.",
+          "options": [
+            "Your",
+            "His",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁸Our neighbor has a telescope. __________ telescope is powerful.",
+          "options": [
+            "His",
+            "Our",
+            "Their"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹The girl has a postcard. __________ postcard is from Italy.",
+          "options": [
+            "Its",
+            "Her",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "²It has a feather. __________ feather is very colorful.",
+          "options": [
+            "Their",
+            "It",
+            "Its"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "³The teacher has a bicycle. __________ bicycle is very old.",
+          "options": [
+            "Their",
+            "Her",
+            "Our"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴Their house has a balcony. __________ balcony is full of plants.",
+          "options": [
+            "Their",
+            "Our",
+            "His"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁵Our cat has a collar. __________ collar is red.",
+          "options": [
+            "Our",
+            "Its",
+            "Your"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁶She has a hat. __________ hat is blue.",
+          "options": [
+            "Her",
+            "Our",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷My best friend has a surfboard. __________ surfboard is white.",
+          "options": [
+            "Her",
+            "My",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁸They have a garden. __________ garden is beautiful.",
+          "options": [
+            "His",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹The girls have a volleyball. __________ volleyball is white.",
+          "options": [
+            "Their",
+            "Our",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "²This cat has a small pillow. __________ pillow is soft.",
+          "options": [
+            "My",
+            "Your",
+            "Its"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "³I have a tent. __________ tent is green.",
+          "options": [
+            "My",
+            "Their",
+            "His"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁴I have a map. __________ map shows the city center.",
+          "options": [
+            "Its",
+            "Their",
+            "My"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁵Your sister has a painting. __________ painting is beautiful.",
+          "options": [
+            "Her",
+            "Our",
+            "His"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁶The students have notebooks. __________ notebooks are blue.",
+          "options": [
+            "Our",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷I have a camera. __________ camera is very expensive.",
+          "options": [
+            "Her",
+            "Their",
+            "My"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁸The boy has a skateboard. __________ skateboard is very fast.",
+          "options": [
+            "His",
+            "Its",
+            "Her"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹Your sister has a necklace. __________ necklace is beautiful.",
+          "options": [
+            "My",
+            "Her",
+            "Our"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "²You have a jacket. __________ jacket is blue.",
+          "options": [
+            "My",
+            "His",
+            "Your"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "³He has a passport. __________ passport is ready to go.",
+          "options": [
+            "My",
+            "Your",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴He has a postcard. __________ postcard is from Brazil.",
+          "options": [
+            "His",
+            "Its",
+            "Their"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁵My best friend has a backpack. __________ backpack is red.",
+          "options": [
+            "My",
+            "Her",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁶Me and my brothers work at a restaurant. __________ restaurant is near the beach.",
+          "options": [
+            "My",
+            "His",
+            "Our"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁷They have tickets. __________ tickets are on the table.",
+          "options": [
+            "Your",
+            "My",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸The students have a bus. __________ bus is late.",
+          "options": [
+            "Your",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹It has a bell. __________ bell is silver.",
+          "options": [
+            "Their",
+            "Your",
+            "Its"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "²My brother has a kite. __________ kite is flying high.",
+          "options": [
+            "Her",
+            "My",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³The teacher has two postcards. __________ postcards are colorful.",
+          "options": [
+            "Its",
+            "Our",
+            "Her"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴The teacher has a suitcase. __________ suitcase is very old.",
+          "options": [
+            "His",
+            "Our",
+            "Your"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁵The students have a tent. __________ tent is green.",
+          "options": [
+            "My",
+            "Their",
+            "His"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁶They have a key. __________ key is on the table.",
+          "options": [
+            "Your",
+            "Its",
+            "Their"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁷I have a flashlight. __________ flashlight is very bright.",
+          "options": [
+            "My",
+            "His",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁸The students have a bus pass. __________ pass is for the month.",
+          "options": [
+            "Your",
+            "Their",
+            "Our"
+          ],
+          "answer": "Their"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹Your sister has a dress. __________ dress is red.",
+          "options": [
+            "Her",
+            "His",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "²We have a hammock. __________ hammock is in the garden.",
+          "options": [
+            "Our",
+            "His",
+            "Their"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "³The teachers have a notebook. __________ notebooks are on the desk.",
+          "options": [
+            "Your",
+            "Their",
+            "My"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴She has a poster. __________ poster is on the wall.",
+          "options": [
+            "Her",
+            "Your",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁵The boy has a ticket. __________ ticket is for a movie.",
+          "options": [
+            "His",
+            "Our",
+            "Her"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶We have a lantern. __________ lantern is very bright.",
+          "options": [
+            "Our",
+            "Their",
+            "Its"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁷My parents have a painting in the living room. __________ painting is beautiful.",
+          "options": [
+            "Their",
+            "Your",
+            "Its"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸The boy has a plant. __________ plant is growing fast.",
+          "options": [
+            "His",
+            "Their",
+            "My"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹This cat has a blanket. __________ blanket is soft.",
+          "options": [
+            "Its",
+            "His",
+            "My"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "²They have a tent. __________ tent is blue and white.",
+          "options": [
+            "Their",
+            "Her",
+            "Its"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³Your sister has a chair. __________ chair is comfortable.",
+          "options": [
+            "Her",
+            "Our",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁴I have a notebook. __________ notebook is full of archives.",
+          "options": [
+            "My",
+            "Your",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "⁵He has a cap. __________ cap is on the floor.",
+          "options": [
+            "His",
+            "Our",
+            "Your"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶Our dog has a toy. __________ toy is under the couch.",
+          "options": [
+            "Its",
+            "My",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁷They have a picnic basket. __________ basket is full of food.",
+          "options": [
+            "Their",
+            "His",
+            "Her"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸She has a suitcase. __________ suitcase is heavy.",
+          "options": [
+            "Her",
+            "My",
+            "Their"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹My brother has a suitcase. __________ suitcase is black.",
+          "options": [
+            "Our",
+            "Its",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "²My classmate has a pencil. __________ pencil is short.",
+          "options": [
+            "Our",
+            "My",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³Our dog has a leash. __________ leash is blue.",
+          "options": [
+            "Its",
+            "My",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁴This cat has a basket. __________ basket is soft.",
+          "options": [
+            "Our",
+            "Their",
+            "Its"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵She has a notebook. __________ notebook is full of drawings.",
+          "options": [
+            "Their",
+            "Her",
+            "My"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁶The woman has a bracelet. __________ bracelet is silver.",
+          "options": [
+            "Her",
+            "Its",
+            "Your"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷You have a ticket. __________ ticket is in your pocket.",
+          "options": [
+            "His",
+            "Their",
+            "Your"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁸My brother has a tablet. __________ tablet is new.",
+          "options": [
+            "His",
+            "Our",
+            "Your"
+          ],
+          "answer": "His"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹Your sister has a magazine. __________ magazine is about animals.",
+          "options": [
+            "Her",
+            "Your",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "²I have a hammock. __________ hammock is on the balcony.",
+          "options": [
+            "My",
+            "His",
+            "Its"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "³You have a backpack. __________ backpack is open.",
+          "options": [
+            "Your",
+            "Our",
+            "Their"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁴We have a scooter. __________ scooter is fast.",
+          "options": [
+            "Our",
+            "My",
+            "Her"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁵The boy has a poster. __________ poster is on the wall.",
+          "options": [
+            "His",
+            "Your",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁶She has a notebook. __________ notebook is red.",
+          "options": [
+            "Her",
+            "Your",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷My brother has a key. __________ key is on the table.",
+          "options": [
+            "His",
+            "Their",
+            "Our"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁸Your sister has a calendar. __________ calendar is full of marks.",
+          "options": [
+            "Her",
+            "Your",
+            "My"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹I have a journal. __________ journal is black.",
+          "options": [
+            "My",
+            "Its",
+            "Her"
+          ],
+          "answer": "My"
+        },
+        {
+          "item": "²They have a picnic spot. __________ spot is near the lake.",
+          "options": [
+            "Their",
+            "Her",
+            "Our"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "³The students have a bus. __________ bus is very old.",
+          "options": [
+            "Their",
+            "Her",
+            "Its"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁴Mark’s house has a mailbox. __________ mailbox is blue.",
+          "options": [
+            "Their",
+            "His",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁵She has a helmet. __________ helmet is pink.",
+          "options": [
+            "Her",
+            "My",
+            "Our"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁶He has a flashlight. __________ flashlight is a gift.",
+          "options": [
+            "His",
+            "Your",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁷My best friend has a ticket. __________ ticket is for a show.",
+          "options": [
+            "Her",
+            "Their",
+            "My"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁸My best friend has a painting. __________ painting is abstract.",
+          "options": [
+            "Her",
+            "Its",
+            "Your"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹Lucas has a skateboard. __________ skateboard is broken.",
+          "options": [
+            "His",
+            "Our",
+            "Your"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "²The student has a map. __________ map shows the hiking trail.",
+          "options": [
+            "His",
+            "Its",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "³My cousin has a keychain. __________ keychain has a blue star.",
+          "options": [
+            "His",
+            "Its",
+            "My"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴We have a recipe. __________ recipe is from grandma.",
+          "options": [
+            "Our",
+            "Their",
+            "His"
+          ],
+          "answer": "Our"
+        },
+        {
+          "item": "⁵My best friend has a journal. __________ journal is private.",
+          "options": [
+            "Her",
+            "My",
+            "Their"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁶She has a necklace. __________ necklace is handmade.",
+          "options": [
+            "Her",
+            "My",
+            "Its"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁷Our neighbor has a fountain. __________ fountain is in the yard.",
+          "options": [
+            "Their",
+            "Our",
+            "Your"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁸The woman next door has a bench. __________ bench faces the garden.",
+          "options": [
+            "Her",
+            "My",
+            "Its"
+          ],
+          "answer": "Her"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "instructions": "Complete the sentences with the correct word.",
+      "example": "Her name is Josefina. She’s a student. (He / His / Her)",
+      "qa_pairs": [
+        {
+          "item": "¹They have a painting. __________ painting is colorful.",
+          "options": [
+            "His",
+            "Their",
+            "Its"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "²You have a ticket. __________ ticket is for a festival.",
+          "options": [
+            "Their",
+            "Your",
+            "His"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "³My brother has a bike. __________ bike is very fast.",
+          "options": [
+            "Its",
+            "Our",
+            "His"
+          ],
+          "answer": "His"
+        },
+        {
+          "item": "⁴It has a small nest. __________ nest is on the tree.",
+          "options": [
+            "Its",
+            "Our",
+            "Their"
+          ],
+          "answer": "Its"
+        },
+        {
+          "item": "⁵The students have a project. __________ project is about music.",
+          "options": [
+            "Their",
+            "His",
+            "Its"
+          ],
+          "answer": "Their"
+        },
+        {
+          "item": "⁶You have a poster. __________ poster is on the wall.",
+          "options": [
+            "Her",
+            "Your",
+            "Its"
+          ],
+          "answer": "Your"
+        },
+        {
+          "item": "⁷Jane’s house has a balcony. __________ balcony faces the sea.",
+          "options": [
+            "My",
+            "Her",
+            "Our"
+          ],
+          "answer": "Her"
+        },
+        {
+          "item": "⁸They have a coach. __________ coach is very friendly.",
+          "options": [
+            "Their",
+            "My",
+            "Its"
+          ],
+          "answer": "Their"
+        }
+      ]
+    }
+  ]
+}
