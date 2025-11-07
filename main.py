@@ -8,66 +8,156 @@ import io
 import time
 import re
 
-# --- Page Setup ---
+# --- I18N (Internationalization) Setup ---
+
+# Dicionário de traduções para Português (Brasil)
+pt_BR = {
+    # Page Config
+    "page_title": "Gerador de Provas de Inglês",
+    "page_icon": "📄",
+    
+    # Setup/Error Messages
+    "warn_books_dir_not_found": f"O diretório `BOOKS` não foi encontrado.",
+    "btn_create_sample_structure": "Clique aqui para criar uma estrutura de pastas e arquivos .json de amostra",
+    "info_creating_env": "Criando ambiente de teste com arquivos .json... Por favor, recarregue a página em alguns segundos.",
+    
+    # Sidebar
+    "sidebar_lang_title": "Idioma",
+    "sidebar_lang_label": "Escolha o idioma:",
+    "sidebar_header": "📖 Configuração da Prova",
+    "sb_select_book": "Escolha o Livro",
+    "err_no_books": "Nenhum livro encontrado no diretório '{}'.",
+    "err_no_units": "Nenhuma unidade encontrada para o livro '{}'. Por favor, verifique a estrutura das pastas.",
+    "sb_select_units_title": "🎯 Selecione as Unidades Desejadas",
+    "sb_select_units_label": "Selecione as Unidades (1, 2, 3, 4, 5, 6)",
+    "sb_q_config_title": "⚙️ Número de Questões por Seção",
+    "sb_q_config_grammar": "Gramática",
+    "sb_q_config_vocab": "Vocabulário",
+    "sb_total_questions": "**Total de questões na prova: {total}**",
+    
+    # Main Page
+    "warn_no_unit_selected": "Por favor, selecione pelo menos uma unidade na barra lateral para continuar.",
+    "main_summary_title": "Resumo da Configuração",
+    "main_summary_book": "**📖 Livro**",
+    "main_summary_units": "**📚 Unidades Selecionadas**",
+    "main_summary_q_config": "**⚙️ Questões por Seção**",
+    "main_q_summary_content": "G: {grammar} | V: {vocabulary}",
+    "btn_generate_std": "🚀 Gerar Prova Padrão",
+    "btn_generate_custom": "🚀 Gerar Prova Personalizada",
+    "spinner_generating": "Lendo arquivos JSON e montando sua prova...",
+    "err_generation": "Ocorreu um erro durante a geração da prova: {error}",
+    "warn_no_questions_selected": "Por favor, selecione pelo menos uma questão para gerar a prova.",
+    "btn_download": "📥 Baixar Prova Gerada (DOCX)",
+    "filename_test": "Prova_{book}_Unidades_{units}.docx",
+    
+    # Docx Generation
+    "docx_title": "Prova de Inglês - Livro: {book} | Unidade(s): {units}",
+    "docx_name_date": "Nome: __________________________________________________ Data: ___/___/______",
+    "docx_no_questions_found": "Nenhuma questão foi encontrada com os critérios selecionados.",
+    "docx_section_header": "Seção: {section}",
+    "docx_answer_key_title": "Gabarito (Uso do Professor)",
+    "docx_answer_key_question": "Questão {number}:",
+
+    # About Section
+    "about_title": "Sobre o Gerador de Provas do CCB",
+    "about_p1": "Professores da Casa de Cultura Britânica passavam horas criando provas manualmente. Criamos um sistema que gera essas mesmas experiências em segundos, liberando-os para focar no que realmente importa: ensinar. Além disso, imagine ter acesso a exercícios de inglês constantemente atualizados com base exatamente no que você está estudando? Esse processo era manual e lento, então o automatizamos para que alunos e professores tenham acesso a materiais de qualidade com o clique de um botão.",
+    "about_p2": "Nosso projeto é uma aplicação web que gera questões de inglês personalizadas sobre conteúdo de gramática e vocabulário com base nos livros da coleção English File. Nossa tecnologia atua como um professor especialista, usando IA para ler materiais de aprendizado de nosso banco de dados e criar milhares de variações de questões baseadas unicamente em nossas fontes confiáveis.",
+    "contribute_title": "Por favor, avalie-nos e contribua",
+    "contribute_link_text": "[Clique aqui]({link}) para que possamos continuar melhorando esta ferramenta e garantir que ela permaneça precisa, rápida e simples. Sua experiência de usuário é essencial. Seu feedback nos permite:",
+    "contribute_li1": "**Validar a Qualidade**: Garantir que o conteúdo gerado esteja alinhado às suas necessidades e à estrutura dos livros;",
+    "contribute_li2": "**Priorizar Melhorias**: Entender onde investir nosso tempo de desenvolvimento, seja na otimização da geração de questões ou na usabilidade da interface;",
+    "contribute_li3": "**Manter o Acesso Gratuito**: Sua participação valida a importância deste projeto para a comunidade da UFC.",
+    "footer_text": "Desenvolvido com ❤️ por alunos da UFC"
+}
+
+# Dicionário de traduções para Inglês Britânico
+en_GB = {
+    # Page Config
+    "page_title": "English Test Generator",
+    "page_icon": "📄",
+
+    # Setup/Error Messages
+    "warn_books_dir_not_found": f"The `BOOKS` directory was not found.",
+    "btn_create_sample_structure": "Click here to create a sample folder structure and .json files",
+    "info_creating_env": "Creating test environment with .json files... Please reload the page in a few seconds.",
+
+    # Sidebar
+    "sidebar_lang_title": "Language",
+    "sidebar_lang_label": "Choose language:",
+    "sidebar_header": "📖 Test Configuration",
+    "sb_select_book": "Choose Book",
+    "err_no_books": "No books found in the '{}' directory.",
+    "err_no_units": "No units found for the book '{}'. Please check the folder structure.",
+    "sb_select_units_title": "🎯 Select Desired Units",
+    "sb_select_units_label": "Select Units (1, 2, 3, 4, 5, 6)",
+    "sb_q_config_title": "⚙️ Number of Questions per Section",
+    "sb_q_config_grammar": "Grammar",
+    "sb_q_config_vocab": "Vocabulary",
+    "sb_total_questions": "**Total questions on the test: {total}**",
+
+    # Main Page
+    "warn_no_unit_selected": "Please select at least one unit from the sidebar to continue.",
+    "main_summary_title": "Configuration Summary",
+    "main_summary_book": "**📖 Book**",
+    "main_summary_units": "**📚 Selected Units**",
+    "main_summary_q_config": "**⚙️ Questions per Section**",
+    "main_q_summary_content": "G: {grammar} | V: {vocabulary}",
+    "btn_generate_std": "🚀 Generate Standard Test",
+    "btn_generate_custom": "🚀 Generate Custom Test",
+    "spinner_generating": "Reading JSON files and assembling your test...",
+    "err_generation": "An error occurred during test generation: {error}",
+    "warn_no_questions_selected": "Please select at least one question to generate the test.",
+    "btn_download": "📥 Download Generated Test (DOCX)",
+    "filename_test": "Test_{book}_Units_{units}.docx",
+
+    # Docx Generation
+    "docx_title": "English Test - Book: {book} | Unit(s): {units}",
+    "docx_name_date": "Name: __________________________________________________ Date: ___/___/______",
+    "docx_no_questions_found": "No questions were found with the selected criteria.",
+    "docx_section_header": "Section: {section}",
+    "docx_answer_key_title": "Answer Key (For Teacher's Use)",
+    "docx_answer_key_question": "Question {number}:",
+
+    # About Section
+    "about_title": "About CCB's Quiz Generator",
+    "about_p1": "Teachers at the Casa de Cultura Britânica spent hours manually creating tests. We created a system that generates these same experiences in seconds, freeing them to focus on what really matters: teaching. Furthermore, imagine having access to constantly updated English exercises based exactly on what you're studying? This process used to be manual and slow, so we've automated it so students and teachers have access to quality materials at the click of a button.",
+    "about_p2": "Our project is a web application that generates customised English questions about grammar and vocabulary content based on books in the English File collection. Our technology acts like an expert teacher, using AI to read learning materials from our database and create thousands of question variations based solely on our trusted sources.",
+    "contribute_title": "Please rate us and contribute",
+    "contribute_link_text": "[Click here]({link}) so we can continue improving this tool and ensure it remains accurate, fast, and simple. Your user experience is essential. Your feedback allows us to:",
+    "contribute_li1": "**Validate Quality**: Ensure that the generated content aligns with your needs and the structure of the books;",
+    "contribute_li2": "**Prioritise Improvements**: Understand where to invest our development time, whether in optimising question generation or interface usability;",
+    "contribute_li3": "**Maintain Free Access**: Your participation validates the importance of this project for the UFC community.",
+    "footer_text": "Developed with ❤️ by UFC students"
+}
+
+LANGUAGES = {"pt_BR": pt_BR, "en_GB": en_GB}
+LANG_OPTIONS_DISPLAY = {"Português (Brasil)": "pt_BR", "English (UK)": "en_GB"}
+
+# Define o idioma padrão se ainda não estiver definido
+if "lang" not in st.session_state:
+    st.session_state.lang = "pt_BR" # Você pode mudar o padrão aqui para 'en_GB'
+
+def get_lang(key: str) -> str:
+    """Busca uma string de tradução com base no idioma atual no session_state."""
+    lang_code = st.session_state.get("lang", "pt_BR")
+    # Usa en_GB como fallback se a chave não for encontrada no idioma selecionado
+    return LANGUAGES.get(lang_code, en_GB).get(key, LANGUAGES["en_GB"].get(key, f"Missing_Key: {key}"))
+
+# --- Fim do Setup I18N ---
+
+
+# --- Page Setup (AGORA USA A FUNÇÃO get_lang) ---
 st.set_page_config(
-    page_title="English Test Generator",
-    page_icon="📄",
+    page_title=get_lang("page_title"),
+    page_icon=get_lang("page_icon"),
     layout="wide"
 )
 
 # --- Logic Constants and Functions ---
 BOOKS_DIR = "BOOKS"
-# PRONUNCIATION removida
 SECTIONS = ["GRAMMAR", "VOCABULARY"]
 DEFAULT_QUESTIONS = {"grammar": 3, "vocabulary": 3}
 EVALUATION_LINK = "https://docs.google.com/forms/d/e/1FAIpQLSdm1n218RAyl_js-lQGvbWd_voBJlu_wZ90T_9p5dBaatD6Ew/viewform?usp=header"
-
-def setup_test_environment():
-    """
-    Creates a test directory and file structure based on the NEW convention:
-    BOOKS/{BOOK}/UNIT-{NUMBER}/UNIT-{NUMBER}-QUESTION-{NUMBER}-{SECTION}.json
-    """
-    if not os.path.exists(BOOKS_DIR):
-        st.info("Creating test environment with .json files... Please reload the page in a few seconds.")
-        # Structure reflecting files found in sources
-        units_data = {
-            "UNIT-1": [
-                {"q_num": 1, "section": "GRAMMAR", "topic": ["1A", "1B"], "type": "fill_in_the_blanks_verb_be", "item_ex": "I _______ a new student here.", "answer_ex": "'m"},
-                {"q_num": 2, "section": "GRAMMAR", "topic": ["1C"], "type": "select_correct_possessive_adjective", "item_ex": "I’m Chinese. _______ family is from Shanghai.", "answer_ex": "My"},
-                {"q_num": 3, "section": "GRAMMAR", "topic": ["1A", "1B", "1C"], "type": "underline_correct_word_subject_possessive", "item_ex": "We / Our are from Japan.", "answer_ex": "We"},
-                {"q_num": 4, "section": "VOCABULARY", "topic": ["1A", "1B"], "type": "complete_the_lists_numbers_days", "item_ex": "twenty-seven, twenty-eight, twenty-nine, _______.", "answer_ex": "thirty"},
-                {"q_num": 6, "section": "VOCABULARY", "topic": ["1C"], "type": "fill_in_the_blanks_one_word", "item_ex": "___________ in groups of three.", "answer_ex": "WORK"}
-            ],
-            "UNIT-2": [
-                {"q_num": 1, "section": "GRAMMAR", "topic": ["2A"], "type": "tick_correct_sentence", "item_ex": "A The teacher has two boxs of pencils. / B The teacher has two boxes of pencils.", "answer_ex": "B"},
-                {"q_num": 3, "section": "GRAMMAR", "topic": ["2B", "2C"], "type": "underline_correct_word", "item_ex": "Is Ian Rankin a Scottish / Scotland writer?", "answer_ex": "Scottish"},
-                {"q_num": 6, "section": "VOCABULARY", "topic": ["2B"], "type": "short_answer", "item_ex": "terrible", "answer_ex": "fantastic"}
-            ],
-            "UNIT-5": [
-                {"q_num": 1, "section": "GRAMMAR", "topic": ["5B"], "type": "create_sentence_from_prompts", "item_ex": "What / you / watch / on TV ?", "answer_ex": "What are you watching on TV?"},
-                {"q_num": 3, "section": "GRAMMAR", "topic": ["5A"], "type": "underline_correct_word_or_phrase", "item_ex": "She can to cook / cook very well.", "answer_ex": "cook"},
-            ]
-        }
-        for unit_folder, questions in units_data.items():
-            path = os.path.join(BOOKS_DIR, "ELEMENTARY", unit_folder)
-            os.makedirs(path, exist_ok=True)
-            for q in questions:
-                file_name = f"{unit_folder}-QUESTION-{q['q_num']}-{q['section']}.json"
-                file_path = os.path.join(path, file_name)
-                sample_question = {
-                    "questions": [{
-                        "id": q['q_num'],
-                        "section": q['section'],
-                        "topic": q['topic'],
-                        "type": q['type'],
-                        "instructions": f"Sample instructions for {q['type']}.",
-                        "example": {"item": f"Example: {q['item_ex']}", "answer": q['answer_ex']},
-                        "qa_pairs": [{"item": f"Item {q['q_num']}", "answer": "A"}]
-                    }]
-                }
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    json.dump(sample_question, f, indent=2, ensure_ascii=False)
-        st.rerun()
 
 @st.cache_data
 def get_available_books(directory: str) -> list:
@@ -120,8 +210,6 @@ def parse_available_units(book_name: str) -> dict:
 def write_question_to_doc(doc, question_data, question_number):
     """
     Formats and writes a single question to the docx document based on its type.
-    CORREÇÃO: Garante que os sub-itens (1., 2., 3.) e o conteúdo da questão
-    estejam no mesmo parágrafo para evitar quebras de linha indesejadas.
     """
     # --- 1. Write Header and Instructions ---
     q_instructions = question_data.get("instructions", "")
@@ -150,13 +238,8 @@ def write_question_to_doc(doc, question_data, question_number):
         for i, pair in enumerate(qa_pairs):
             item_text = pair.get("item", "") 
             options = item_text.split(' / ')
-
-            # Prepara a string do item (e.g., "A Option A. B Option B.")
-            # Para o formato desejado (1. [ ] A Option A. B Option B.)
-            
             options_text_list = []
             
-            # Aplica o placeholder [ ] no início do primeiro item (A)
             for j, option in enumerate(options):
                 if j == 0 and re.match(r"^[A-D]\s", option):
                     options_text_list.append(f"( ) {option}")
@@ -164,30 +247,21 @@ def write_question_to_doc(doc, question_data, question_number):
                     options_text_list.append(option)
             
             consolidated_text = f"{i+1}. {' '.join(options_text_list)}"
-
-            # Insere tudo como um único parágrafo
             doc.add_paragraph(consolidated_text)
             doc.add_paragraph() # Espaçamento entre sub-itens
             
-
-    # Type B: Underline/Select Word (Corrige a numeração para X. Texto)
+    # Type B: Underline/Select Word
     elif q_type.startswith(("underline_correct_word", "select_correct_possessive_adjective", 
                             "underline_correct_word_subject_possessive", "underline_correct_word_or_phrase")):
-        
         for i, pair in enumerate(qa_pairs):
             item_text = pair.get("item", "")
-            # Substitui '/' por ' / ' para exibição clara
             display_text = item_text.replace('/', ' / ')
-            
-            # Insere como um único parágrafo
             doc.add_paragraph(f"{i+1}. {display_text}")
             doc.add_paragraph() 
 
     # Type C: Fill-in, Completion, Ordering, Generic 
     else:
         if qa_pairs:
-            
-            # Display instructions/options before the numbered list begins (if applicable)
             if q_type == "fill_in_from_word_bank":
                 options = question_data.get("options", [])
                 if options:
@@ -198,21 +272,14 @@ def write_question_to_doc(doc, question_data, question_number):
 
             for i, pair in enumerate(qa_pairs):
                 item_text = pair.get("item", "")
-                
-                # Para Matching, mantemos a formatação (1)
                 if q_type == "match_question_answer":
                     doc.add_paragraph(f"({i+1}) {item_text}")
                     doc.add_paragraph("------------------------------------")
-                
-                # Para Ordering/Sentence Creation
                 elif q_type.startswith("order_the_words") or q_type.startswith("create_sentence"):
                     doc.add_paragraph(f"{i+1}. Prompts: {item_text}")
                     doc.add_paragraph("____________________________________________________________________")
-                
-                # Todos os outros (Fill-in, complete the lists, short answer)
                 else:
                     doc.add_paragraph(f"{i+1}. {item_text}")
-                
             doc.add_paragraph() # Espaçamento final
 
 
@@ -232,8 +299,8 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
     except:
         units_str = ", ".join(sorted(units)) 
         
-    final_doc.add_heading(f"English Test - Book: {book} | Unit(s): {units_str}", level=0)
-    final_doc.add_paragraph(f"Name: __________________________________________________ Date: ___/___/______")
+    final_doc.add_heading(get_lang("docx_title").format(book=book, units=units_str), level=0)
+    final_doc.add_paragraph(get_lang("docx_name_date"))
     final_doc.add_paragraph()
 
     final_question_list = []
@@ -309,7 +376,7 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
 
     # 3. Write Document and Answer Key
     if not final_question_list:
-        final_doc.add_paragraph("No questions were found with the selected criteria.")
+        final_doc.add_paragraph(get_lang("docx_no_questions_found"))
     else:
         question_counter = 1
         answer_key = []
@@ -319,7 +386,7 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
         for q_data in final_question_list:
             if q_data['section'] != current_section:
                 current_section = q_data['section']
-                final_doc.add_heading(f"Section: {current_section.capitalize()}", level=1)
+                final_doc.add_heading(get_lang("docx_section_header").format(section=current_section.capitalize()), level=1)
 
             write_question_to_doc(final_doc, q_data, question_counter)
 
@@ -331,10 +398,10 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
 
         # Add the Answer Key
         final_doc.add_page_break()
-        final_doc.add_heading("Answer Key (For Teacher's Use)", level=1)
+        final_doc.add_heading(get_lang("docx_answer_key_title"), level=1)
         for item in answer_key:
             p_answer_header = final_doc.add_paragraph()
-            p_answer_header.add_run(f"Question {item['number']}:").bold = True
+            p_answer_header.add_run(get_lang("docx_answer_key_question").format(number=item['number'])).bold = True
             
             if isinstance(item['answers'], list) and len(item['answers']) > 0:
                 for i, answer in enumerate(item['answers']):
@@ -349,37 +416,56 @@ def generate_exam_docx(book: str, units: list, questions_config: dict) -> io.Byt
 
 # --- Streamlit Interface ---
 
-if not os.path.exists(BOOKS_DIR):
-    st.warning(f"The `{BOOKS_DIR}` directory was not found.")
-    if st.button("Click here to create a sample folder structure and .json files"):
-        setup_test_environment()
+# if not os.path.exists(BOOKS_DIR):
+#     st.warning(get_lang("warn_books_dir_not_found"))
+#     if st.button(get_lang("btn_create_sample_structure")):
+#         setup_test_environment()
         
 # --- Sidebar for Configuration ---
 with st.sidebar:
-    st.header("📖 Test Configuration")
+    st.title(get_lang("sidebar_lang_title"))
+    
+    # --- SELETOR DE IDIOMA ---
+    # Pega o índice do idioma atual para definir o padrão do radio button
+    current_lang_code = st.session_state.lang
+    lang_codes = list(LANG_OPTIONS_DISPLAY.values())
+    default_index = lang_codes.index(current_lang_code) if current_lang_code in lang_codes else 0
+    
+    selected_lang_display = st.radio(
+        label=get_lang("sidebar_lang_label"), 
+        options=LANG_OPTIONS_DISPLAY.keys(), 
+        index=default_index,
+        label_visibility="collapsed" # Esconde o label "Choose language:"
+    )
+    # Atualiza o session_state se o usuário mudar a seleção
+    st.session_state.lang = LANG_OPTIONS_DISPLAY[selected_lang_display]
+    
+    st.markdown("---") # Divisor
+    
+    st.header(get_lang("sidebar_header"))
 
     books = get_available_books(BOOKS_DIR)
     if not books:
-        st.error(f"No books found in the '{BOOKS_DIR}' directory.")
+        st.error(get_lang("err_no_books").format(BOOKS_DIR))
         st.stop()
 
-    selected_book = st.selectbox("Choose Book", options=books, index=0)
+    selected_book = st.selectbox(get_lang("sb_select_book"), options=books, index=0)
     parsed_units = parse_available_units(selected_book)
 
     if not parsed_units:
-        st.error(f"No units found for the book '{selected_book}'. Please check the folder structure.")
+        st.error(get_lang("err_no_units").format(selected_book))
         st.stop()
 
     # --- Unit Selection: Refactored to select numeric units only ---
     st.markdown("---")
-    st.subheader("🎯 Select Desired Units")
+    st.subheader(get_lang("sb_select_units_title"))
 
     final_selected_units = []
     
     sorted_numeric_units = sorted(parsed_units.keys(), key=int)
     
     selected_numeric_units = st.multiselect(
-        label="Select Units (1, 2, 3, 4, 5, 6)",
+        label=get_lang("sb_select_units_label"),
         options=sorted_numeric_units,
         default=sorted_numeric_units,
         key=f"multiselect_{selected_book}_main" 
@@ -395,39 +481,42 @@ with st.sidebar:
 
     # --- End of Unit Selection ---
     st.markdown("---")
-    st.subheader("⚙️ Number of Questions per Section")
+    st.subheader(get_lang("sb_q_config_title"))
 
     questions_config = {
-        "grammar": st.number_input("Grammar", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["grammar"], step=1),
-        "vocabulary": st.number_input("Vocabulary", min_value=0, max_value=50, value=DEFAULT_QUESTIONS["vocabulary"], step=1)
+        "grammar": st.number_input(get_lang("sb_q_config_grammar"), min_value=0, max_value=50, value=DEFAULT_QUESTIONS["grammar"], step=1),
+        "vocabulary": st.number_input(get_lang("sb_q_config_vocab"), min_value=0, max_value=50, value=DEFAULT_QUESTIONS["vocabulary"], step=1)
     }
     
     total_questions = sum(questions_config.values())
 
-    st.info(f"**Total questions on the test: {total_questions}**")
+    st.info(get_lang("sb_total_questions").format(total=total_questions))
 
 # --- Main Page Display ---
 
 if not final_selected_units:
-    st.warning("Please select at least one unit from the sidebar to continue.")
+    st.warning(get_lang("warn_no_unit_selected"))
     st.stop()
 
-st.title("Configuration Summary")
+st.title(get_lang("main_summary_title"))
 col1, col2, col3 = st.columns(3)
 
 units_display = ", ".join(selected_numeric_units)
 
 with col1:
-    st.markdown("**📖 Book**")
+    st.markdown(get_lang("main_summary_book"))
     st.markdown(f"`{selected_book}`")
 
 with col2:
-    st.markdown("**📚 Selected Units**")
+    st.markdown(get_lang("main_summary_units"))
     st.markdown(f"`{units_display}`")
 
 with col3:
-    st.markdown("**⚙️ Questions per Section**")
-    questions_summary = f"G: {questions_config['grammar']} | V: {questions_config['vocabulary']}"
+    st.markdown(get_lang("main_summary_q_config"))
+    questions_summary = get_lang("main_q_summary_content").format(
+        grammar=questions_config['grammar'],
+        vocabulary=questions_config['vocabulary']
+    )
     st.markdown(f"`{questions_summary}`")
 
 # Determine button text based on whether the configuration is default or custom
@@ -435,7 +524,7 @@ is_default_config = (
     questions_config["grammar"] == DEFAULT_QUESTIONS["grammar"] and
     questions_config["vocabulary"] == DEFAULT_QUESTIONS["vocabulary"]
 )
-button_text = "🚀 Generate Standard Test" if is_default_config else "🚀 Generate Custom Test"
+button_text = get_lang("btn_generate_std") if is_default_config else get_lang("btn_generate_custom")
 
 # Initialize session state for storing generated exam data
 if 'exam_data' not in st.session_state:
@@ -445,24 +534,27 @@ if 'exam_filename' not in st.session_state:
 
 if st.button(button_text, type="primary", use_container_width=True, disabled=(total_questions == 0)):
     if total_questions > 0:
-        with st.spinner("Reading JSON files and assembling your test..."):
+        with st.spinner(get_lang("spinner_generating")):
             try:
                 exam_bytes = generate_exam_docx(selected_book, final_selected_units, questions_config) 
                 
                 st.session_state.exam_data = exam_bytes
                 
                 numeric_units_filename = "_".join(selected_numeric_units)
-                st.session_state.exam_filename = f"Test_{selected_book}_Units_{numeric_units_filename}.docx"
+                st.session_state.exam_filename = get_lang("filename_test").format(
+                    book=selected_book, 
+                    units=numeric_units_filename
+                )
             except Exception as e:
-                st.error(f"An error occurred during test generation: {e}")
+                st.error(get_lang("err_generation").format(error=e))
                 st.session_state.exam_data = None
     else:
-        st.warning("Please select at least one question to generate the test.")
+        st.warning(get_lang("warn_no_questions_selected"))
 
 if st.session_state.exam_data:
     st.markdown("---")
     st.download_button(
-        label="📥 Download Generated Test (DOCX)",
+        label=get_lang("btn_download"),
         data=st.session_state.exam_data,
         file_name=st.session_state.get('exam_filename', 'test.docx'),
         mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -470,23 +562,22 @@ if st.session_state.exam_data:
     )
 
 st.markdown("---")
-st.title("About CCB's Quiz Generator")
+st.title(get_lang("about_title"))
 
-st.write("Teachers at the Casa de Cultura Britânica spent hours manually creating tests. We created a system that generates these same experiences in seconds, freeing them to focus on what really matters: teaching. Plus, imagine having access to constantly updated English exercises based exactly on what you're studying? This process used to be manual and slow, so we've automated it so students and teachers have access to quality materials at the click of a button.")
-st.write("Our project is a web application that generates customized English questions about grammar and vocabulary content based on books in the English File collection. Our technology acts like an expert teacher, using AI to read learning materials from our database and create thousands of question variations based solely on our trusted sources.")
+st.write(get_lang("about_p1"))
+st.write(get_lang("about_p2"))
 
 st.markdown("---")
 
-st.title("Please rate us and contribute")
+st.title(get_lang("contribute_title"))
 
-st.write("So that we can continue to improve this tool and ensure it remains accurate, fast, and simple, your user experience is essential. Your feedback allows us to:")
-st.markdown(f"[Click here]({EVALUATION_LINK}) so we can continue improving this tool and ensure it remains accurate, fast, and simple. Your user experience is essential. Your feedback allows us to:")
+st.markdown(get_lang("contribute_link_text").format(link=EVALUATION_LINK))
 
-st.markdown("""
-1. **Validate Quality**: Ensure that the generated content aligns with your needs and the structure of the books;
-2. **Prioritize Improvements**: Understand where to invest our development time, whether in optimizing question generation or interface usability;
-3. **Maintain Free Access**: Your participation validates the importance of this project for the UFC community.
+st.markdown(f"""
+1. {get_lang("contribute_li1")}
+2. {get_lang("contribute_li2")}
+3. {get_lang("contribute_li3")}
 """)
 
 st.markdown("---")
-st.markdown("Developed with ❤️ by UFC students")
+st.markdown(get_lang("footer_text"))
